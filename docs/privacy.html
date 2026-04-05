@@ -1,0 +1,419 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>隐私政策 — 龙虾AI排行榜</title>
+  <meta name="description" content="龙虾AI排行榜隐私政策 — 了解我们如何保护您的隐私和个人数据。">
+  <meta name="theme-color" content="#0a0a0f">
+  <link rel="icon" type="image/x-icon" href="favicon.ico">
+  <link rel="apple-touch-icon" href="apple-touch-icon.png">
+  <link rel="stylesheet" href="styles.css">
+  <style>
+    /* ---- Privacy Page Specific Styles ---- */
+    .privacy-container {
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 40px 20px 80px;
+      position: relative;
+      z-index: 1;
+    }
+
+    .privacy-back {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      color: var(--accent-cyan);
+      text-decoration: none;
+      font-size: 0.9rem;
+      font-weight: 500;
+      margin-bottom: 30px;
+      padding: 8px 18px;
+      border-radius: var(--radius-md);
+      background: var(--bg-glass);
+      border: 1px solid var(--bg-glass-border);
+      transition: var(--transition-smooth);
+    }
+
+    .privacy-back:hover {
+      background: rgba(0, 212, 255, 0.08);
+      border-color: rgba(0, 212, 255, 0.3);
+      transform: translateX(-4px);
+    }
+
+    .privacy-header {
+      text-align: center;
+      margin-bottom: 50px;
+      animation: fadeIn 0.6s ease;
+    }
+
+    .privacy-header .logo-icon {
+      width: 64px;
+      height: 64px;
+      font-size: 34px;
+      margin: 0 auto 18px;
+    }
+
+    .privacy-header h1 {
+      font-size: 2.2rem;
+      font-weight: 800;
+      background: var(--gradient-accent);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+      margin-bottom: 10px;
+    }
+
+    .privacy-header .update-date {
+      color: var(--text-muted);
+      font-size: 0.85rem;
+    }
+
+    .privacy-card {
+      background: var(--bg-card);
+      backdrop-filter: blur(20px);
+      -webkit-backdrop-filter: blur(20px);
+      border: 1px solid var(--bg-glass-border);
+      border-radius: var(--radius-xl);
+      padding: 36px 32px;
+      margin-bottom: 20px;
+      animation: slideUp 0.5s ease both;
+      position: relative;
+      overflow: hidden;
+    }
+
+    .privacy-card::before {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      height: 2px;
+      background: var(--gradient-accent);
+      opacity: 0.5;
+    }
+
+    .privacy-card:nth-child(2) { animation-delay: 0.05s; }
+    .privacy-card:nth-child(3) { animation-delay: 0.10s; }
+    .privacy-card:nth-child(4) { animation-delay: 0.15s; }
+    .privacy-card:nth-child(5) { animation-delay: 0.20s; }
+    .privacy-card:nth-child(6) { animation-delay: 0.25s; }
+    .privacy-card:nth-child(7) { animation-delay: 0.30s; }
+    .privacy-card:nth-child(8) { animation-delay: 0.35s; }
+    .privacy-card:nth-child(9) { animation-delay: 0.40s; }
+
+    .privacy-card h2 {
+      font-size: 1.25rem;
+      font-weight: 700;
+      color: var(--text-primary);
+      margin-bottom: 16px;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+
+    .privacy-card h2 .section-icon {
+      width: 36px;
+      height: 36px;
+      border-radius: var(--radius-sm);
+      background: var(--gradient-accent);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 18px;
+      flex-shrink: 0;
+    }
+
+    .privacy-card p,
+    .privacy-card li {
+      color: var(--text-secondary);
+      font-size: 0.92rem;
+      line-height: 1.8;
+      margin-bottom: 10px;
+    }
+
+    .privacy-card ul {
+      list-style: none;
+      padding: 0;
+    }
+
+    .privacy-card ul li {
+      position: relative;
+      padding-left: 22px;
+    }
+
+    .privacy-card ul li::before {
+      content: '▸';
+      position: absolute;
+      left: 0;
+      color: var(--accent-cyan);
+      font-weight: 600;
+    }
+
+    .privacy-card strong {
+      color: var(--text-primary);
+      font-weight: 600;
+    }
+
+    .highlight-box {
+      background: rgba(0, 212, 255, 0.06);
+      border: 1px solid rgba(0, 212, 255, 0.15);
+      border-radius: var(--radius-md);
+      padding: 16px 20px;
+      margin: 14px 0;
+      font-size: 0.88rem;
+      color: var(--accent-cyan);
+      line-height: 1.7;
+    }
+
+    .contact-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+      gap: 12px;
+      margin-top: 14px;
+    }
+
+    .contact-item {
+      background: var(--bg-glass);
+      border: 1px solid var(--bg-glass-border);
+      border-radius: var(--radius-md);
+      padding: 14px 18px;
+      transition: var(--transition-smooth);
+    }
+
+    .contact-item:hover {
+      border-color: rgba(139, 92, 246, 0.3);
+      background: rgba(139, 92, 246, 0.06);
+    }
+
+    .contact-item .label {
+      font-size: 0.72rem;
+      color: var(--text-muted);
+      text-transform: uppercase;
+      letter-spacing: 0.8px;
+      margin-bottom: 4px;
+    }
+
+    .contact-item .value {
+      font-size: 0.9rem;
+      color: var(--accent-cyan);
+      font-weight: 500;
+    }
+
+    .contact-item a {
+      color: var(--accent-cyan);
+      text-decoration: none;
+      transition: var(--transition-fast);
+    }
+
+    .contact-item a:hover {
+      color: var(--accent-purple);
+    }
+
+    .privacy-footer {
+      text-align: center;
+      padding: 30px 0;
+      color: var(--text-muted);
+      font-size: 0.78rem;
+      border-top: 1px solid var(--bg-glass-border);
+      margin-top: 40px;
+    }
+
+    .privacy-footer a {
+      color: var(--accent-cyan);
+      text-decoration: none;
+    }
+
+    .privacy-footer a:hover {
+      color: var(--accent-purple);
+    }
+
+    @media (max-width: 768px) {
+      .privacy-header h1 { font-size: 1.6rem; }
+      .privacy-card { padding: 24px 20px; }
+      .privacy-card h2 { font-size: 1.1rem; }
+      .contact-grid { grid-template-columns: 1fr; }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Animated Background -->
+  <div class="bg-animated"></div>
+  <div class="particles">
+    <div class="particle"></div><div class="particle"></div><div class="particle"></div>
+    <div class="particle"></div><div class="particle"></div><div class="particle"></div>
+    <div class="particle"></div><div class="particle"></div><div class="particle"></div>
+    <div class="particle"></div>
+  </div>
+
+  <div class="privacy-container">
+
+    <!-- Back Button -->
+    <a href="index.html" class="privacy-back" id="back-link">
+      ← 返回排行榜
+    </a>
+
+    <!-- Header -->
+    <div class="privacy-header">
+      <div class="logo-icon">🦞</div>
+      <h1>隐私政策</h1>
+      <p class="update-date">最后更新：2026年4月5日</p>
+    </div>
+
+    <!-- Section 1: Introduction -->
+    <div class="privacy-card" id="section-intro">
+      <h2>
+        <span class="section-icon">📋</span>
+        引言
+      </h2>
+      <p>
+        欢迎使用<strong>龙虾AI排行榜</strong>（以下简称"本应用"或"我们"）。本应用由 LobsterAI 开发并运营。
+        我们深知个人信息对您的重要性，并会全力保护您的隐私安全。请您在使用我们的产品和服务前，仔细阅读并了解本隐私政策。
+      </p>
+      <div class="highlight-box">
+        🛡️ <strong>核心承诺：</strong>本应用不收集、不存储、不传输任何用户个人信息。我们致力于为您提供安全、透明的使用体验。
+      </div>
+    </div>
+
+    <!-- Section 2: Information Collection -->
+    <div class="privacy-card" id="section-collection">
+      <h2>
+        <span class="section-icon">📦</span>
+        信息收集与使用
+      </h2>
+      <p>本应用是一款 <strong>AI 大模型排行榜展示工具</strong>，主要功能为展示来自公开数据源的 AI 模型评分和排名数据。</p>
+      <p><strong>我们不会收集以下信息：</strong></p>
+      <ul>
+        <li>个人身份信息（姓名、电话、邮箱、身份证号等）</li>
+        <li>设备识别信息（IMEI、IDFA、设备序列号等）</li>
+        <li>位置信息（GPS、IP 地址定位等）</li>
+        <li>通讯录、短信、通话记录等敏感信息</li>
+        <li>照片、视频、文件等媒体内容</li>
+        <li>浏览历史、搜索记录等行为数据</li>
+        <li>用户账号、密码或支付信息</li>
+      </ul>
+    </div>
+
+    <!-- Section 3: Data Sources -->
+    <div class="privacy-card" id="section-data-sources">
+      <h2>
+        <span class="section-icon">🌐</span>
+        数据来源说明
+      </h2>
+      <p>本应用展示的数据均来自以下公开数据源，不涉及任何用户个人数据：</p>
+      <ul>
+        <li><strong>LMSYS Chatbot Arena</strong> — 大模型综合能力 ELO 评分和排名</li>
+        <li><strong>Hugging Face API</strong> — 开源模型的热门度、下载量和趋势数据</li>
+      </ul>
+      <p>以上数据均为公开可查的第三方平台数据，本应用仅负责整合展示。数据的准确性以原始平台为准。</p>
+    </div>
+
+    <!-- Section 4: Network Usage -->
+    <div class="privacy-card" id="section-network">
+      <h2>
+        <span class="section-icon">📡</span>
+        网络访问
+      </h2>
+      <p>本应用需要网络访问权限，用途仅限于：</p>
+      <ul>
+        <li>从 GitHub Pages 获取每日更新的排行榜数据（JSON 格式）</li>
+        <li>从 Hugging Face API 获取热门模型和趋势数据</li>
+      </ul>
+      <p>网络请求中<strong>不包含</strong>任何用户身份识别信息，仅为获取公开的 AI 模型数据。</p>
+    </div>
+
+    <!-- Section 5: Third Party Services -->
+    <div class="privacy-card" id="section-third-party">
+      <h2>
+        <span class="section-icon">🔗</span>
+        第三方服务
+      </h2>
+      <p>本应用<strong>不集成</strong>以下任何第三方服务：</p>
+      <ul>
+        <li>第三方数据分析/统计 SDK（如 Google Analytics、友盟等）</li>
+        <li>第三方广告 SDK</li>
+        <li>第三方社交登录 SDK</li>
+        <li>第三方推送通知 SDK</li>
+        <li>第三方崩溃报告 SDK</li>
+      </ul>
+      <p>应用内可能包含指向第三方网站的链接（如 Hugging Face 模型详情页），但我们不对这些第三方网站的隐私保护措施负责。建议您在访问第三方网站时阅读其隐私政策。</p>
+    </div>
+
+    <!-- Section 6: Data Storage -->
+    <div class="privacy-card" id="section-storage">
+      <h2>
+        <span class="section-icon">💾</span>
+        数据存储与安全
+      </h2>
+      <p>本应用可能在您的设备本地缓存排行榜数据以提升加载速度，这些缓存数据：</p>
+      <ul>
+        <li>仅存储在您的设备本地</li>
+        <li>不包含任何个人信息</li>
+        <li>您可以随时通过删除应用来清除所有缓存</li>
+        <li>不会上传到任何服务器</li>
+      </ul>
+    </div>
+
+    <!-- Section 7: Children -->
+    <div class="privacy-card" id="section-children">
+      <h2>
+        <span class="section-icon">👶</span>
+        儿童隐私保护
+      </h2>
+      <p>
+        本应用面向所有年龄段用户。由于我们不收集任何个人信息，因此也不存在收集未成年人信息的情形。
+        本应用展示的内容均为 AI 技术领域的公开数据，不含任何不适合未成年人的内容。
+      </p>
+    </div>
+
+    <!-- Section 8: Changes -->
+    <div class="privacy-card" id="section-changes">
+      <h2>
+        <span class="section-icon">📝</span>
+        隐私政策的变更
+      </h2>
+      <p>
+        我们可能会不时更新本隐私政策。当我们做出重大变更时，我们将通过应用内通知或在本页面上发布新版本来通知您。
+        建议您定期查看此页面以了解最新的隐私政策。
+      </p>
+      <p>本隐私政策自发布之日起生效。</p>
+    </div>
+
+    <!-- Section 9: Contact -->
+    <div class="privacy-card" id="section-contact">
+      <h2>
+        <span class="section-icon">📬</span>
+        联系我们
+      </h2>
+      <p>如果您对本隐私政策有任何疑问或建议，请通过以下方式联系我们：</p>
+      <div class="contact-grid">
+        <div class="contact-item">
+          <div class="label">开发者</div>
+          <div class="value">LobsterAI</div>
+        </div>
+        <div class="contact-item">
+          <div class="label">项目地址</div>
+          <div class="value">
+            <a href="https://github.com/jok9580955/lobster-ai-leaderboard" target="_blank" rel="noopener">GitHub Repository</a>
+          </div>
+        </div>
+        <div class="contact-item">
+          <div class="label">反馈方式</div>
+          <div class="value">
+            <a href="https://github.com/jok9580955/lobster-ai-leaderboard/issues" target="_blank" rel="noopener">GitHub Issues</a>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Footer -->
+    <div class="privacy-footer">
+      <p>🦞 龙虾AI排行榜 · <a href="index.html">返回首页</a></p>
+      <p style="margin-top:6px;">© 2026 LobsterAI. All rights reserved.</p>
+    </div>
+
+  </div>
+
+</body>
+</html>
