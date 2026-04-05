@@ -1,0 +1,487 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>龙虾AI — 大模型评分与排名</title>
+  <meta name="description" content="龙虾AI大模型排行榜 — 最权威的 AI 模型评分与排名，整合 LMSYS Chatbot Arena ELO 评分、Hugging Face 热门模型与趋势追踪，每日更新。">
+  <meta name="keywords" content="AI模型排行榜, LLM排名, ChatGPT, Claude, Gemini, LMSYS, Hugging Face, 大模型评测">
+  <meta name="theme-color" content="#0a0a0f">
+  <meta property="og:title" content="龙虾AI — 大模型评分与排名">
+  <meta property="og:description" content="最权威的 AI 模型评分与排名，每日更新。">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🦞</text></svg>">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <!-- Animated Background -->
+  <div class="bg-animated"></div>
+  <div class="particles">
+    <div class="particle"></div><div class="particle"></div><div class="particle"></div>
+    <div class="particle"></div><div class="particle"></div><div class="particle"></div>
+    <div class="particle"></div><div class="particle"></div><div class="particle"></div>
+    <div class="particle"></div>
+  </div>
+
+  <div class="app-container">
+
+    <!-- Header -->
+    <header class="header" id="page-header">
+      <div class="header-logo">
+        <div class="logo-icon">🦞</div>
+        <div>
+          <h1>龙虾AI排行榜</h1>
+          <p class="header-subtitle">AI Model Leaderboard · 每日更新</p>
+        </div>
+      </div>
+      <div class="last-updated">
+        <span class="dot"></span>
+        <span id="update-time">数据加载中...</span>
+      </div>
+    </header>
+
+    <!-- Tab Navigation -->
+    <nav class="tab-nav" id="tab-nav">
+      <button class="tab-btn active" data-tab="arena" id="tab-btn-arena">
+        <span class="tab-icon">🏆</span>Arena 排行
+      </button>
+      <button class="tab-btn" data-tab="arena-code" id="tab-btn-arena-code">
+        <span class="tab-icon">💻</span>代码能力
+      </button>
+      <button class="tab-btn" data-tab="hf-popular" id="tab-btn-hf-popular">
+        <span class="tab-icon">🔥</span>HF 热门
+      </button>
+      <button class="tab-btn" data-tab="chinese" id="tab-btn-chinese">
+        <span class="tab-icon">🇨🇳</span>国产模型
+      </button>
+      <button class="tab-btn" data-tab="trending" id="tab-btn-trending">
+        <span class="tab-icon">📈</span>趋势模型
+      </button>
+    </nav>
+
+    <!-- Tab: Arena Overall -->
+    <section class="tab-content active" id="tab-arena">
+      <div class="section-header">
+        <div class="section-title">
+          🏆 LMSYS Chatbot Arena — 综合排名
+          <span class="section-badge">ELO RATING</span>
+        </div>
+      </div>
+      <div class="leaderboard" id="arena-list">
+        <div class="lb-header">
+          <span>排名</span><span>模型</span><span>ELO</span><span>下载↓</span><span class="lb-license">许可证</span>
+        </div>
+        <div class="loading-container" id="arena-loading">
+          <div class="spinner"></div>
+          <span class="loading-text">加载排行数据...</span>
+        </div>
+      </div>
+    </section>
+
+    <!-- Tab: Arena Code -->
+    <section class="tab-content" id="tab-arena-code">
+      <div class="section-header">
+        <div class="section-title">
+          💻 Chatbot Arena — 代码能力排名
+          <span class="section-badge">CODE</span>
+        </div>
+      </div>
+      <div class="leaderboard" id="arena-code-list">
+        <div class="lb-header">
+          <span>排名</span><span>模型</span><span>ELO</span><span>机构</span><span class="lb-license">许可证</span>
+        </div>
+        <div class="loading-container" id="arena-code-loading">
+          <div class="spinner"></div>
+          <span class="loading-text">加载排行数据...</span>
+        </div>
+      </div>
+    </section>
+
+    <!-- Tab: HF Popular -->
+    <section class="tab-content" id="tab-hf-popular">
+      <div class="section-header">
+        <div class="section-title">
+          🔥 Hugging Face — 热门大语言模型
+          <span class="section-badge">LIVE API</span>
+        </div>
+        <div class="filter-chips">
+          <button class="chip active" data-sort="likes" id="chip-likes">按点赞</button>
+          <button class="chip" data-sort="downloads" id="chip-downloads">按下载</button>
+        </div>
+      </div>
+      <div class="model-grid" id="hf-popular-grid">
+        <div class="loading-container" id="hf-loading">
+          <div class="spinner"></div>
+          <span class="loading-text">从 Hugging Face API 获取数据...</span>
+        </div>
+      </div>
+    </section>
+
+    <!-- Tab: Chinese Domestic Models -->
+    <section class="tab-content" id="tab-chinese">
+      <div class="section-header">
+        <div class="section-title">
+          🇨🇳 国产大模型排行榜
+          <span class="section-badge" style="background:rgba(239,68,68,0.15);color:#ef4444;">MADE IN CHINA</span>
+        </div>
+      </div>
+      <div class="leaderboard" id="chinese-list">
+        <div class="lb-header" style="grid-template-columns: 60px 1fr 100px 120px 140px;">
+          <span>排名</span><span>模型</span><span>ELO</span><span>参数量</span><span class="lb-license">亮点</span>
+        </div>
+        <div class="loading-container" id="chinese-loading">
+          <div class="spinner"></div>
+          <span class="loading-text">加载国产模型数据...</span>
+        </div>
+      </div>
+    </section>
+
+    <!-- Tab: Trending -->
+    <section class="tab-content" id="tab-trending">
+      <div class="section-header">
+        <div class="section-title">
+          📈 Hugging Face — 今日趋势模型
+          <span class="section-badge">REALTIME</span>
+        </div>
+      </div>
+      <div class="model-grid" id="trending-grid">
+        <div class="loading-container" id="trending-loading">
+          <div class="spinner"></div>
+          <span class="loading-text">获取趋势数据...</span>
+        </div>
+      </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+      <p>🦞 龙虾AI排行榜 · 数据来源：<a href="https://lmarena.ai/" target="_blank" rel="noopener">LMSYS Chatbot Arena</a> · <a href="https://huggingface.co/" target="_blank" rel="noopener">Hugging Face</a></p>
+      <p style="margin-top:6px;">© 2026 LobsterAI. Built with ❤️</p>
+    </footer>
+
+  </div>
+
+<script>
+// ============================================================
+// 龙虾AI排行榜 — Main Application Script
+// ============================================================
+
+const API = {
+  LEADERBOARD_JSON: 'data/leaderboard.json',
+  HF_MODELS: 'https://huggingface.co/api/models',
+  HF_TRENDING: 'https://huggingface.co/api/trending',
+};
+
+// ---- Tab System ----
+const tabBtns = document.querySelectorAll('.tab-btn');
+const tabContents = document.querySelectorAll('.tab-content');
+
+tabBtns.forEach(btn => {
+  btn.addEventListener('click', () => {
+    const tabId = btn.dataset.tab;
+    tabBtns.forEach(b => b.classList.remove('active'));
+    tabContents.forEach(c => c.classList.remove('active'));
+    btn.classList.add('active');
+
+    const target = document.getElementById('tab-' + tabId);
+    if (target) target.classList.add('active');
+
+    // Lazy load data
+    if (tabId === 'hf-popular' && !hfDataLoaded) loadHFPopular();
+    if (tabId === 'trending' && !trendingDataLoaded) loadTrending();
+  });
+});
+
+// ---- Utility Functions ----
+function formatNumber(n) {
+  if (n >= 1e6) return (n / 1e6).toFixed(1) + 'M';
+  if (n >= 1e3) return (n / 1e3).toFixed(1) + 'K';
+  return n.toString();
+}
+
+function getRankClass(rank) {
+  if (rank === 1) return 'top-1';
+  if (rank === 2) return 'top-2';
+  if (rank === 3) return 'top-3';
+  return '';
+}
+
+function getRankEmoji(rank) {
+  if (rank === 1) return '🥇';
+  if (rank === 2) return '🥈';
+  if (rank === 3) return '🥉';
+  return '#' + rank;
+}
+
+function getLicenseBadge(license) {
+  const open = ['MIT', 'Apache 2.0', 'Llama 3.1', 'Gemma', 'CC-BY-NC'];
+  const isOpen = open.some(l => license.includes(l));
+  return `<span class="license-badge ${isOpen ? 'open' : 'proprietary'}">${license}</span>`;
+}
+
+function extractOrg(modelId) {
+  if (modelId.includes('/')) return modelId.split('/')[0];
+  return '';
+}
+
+function extractLicense(tags) {
+  const licTag = tags.find(t => t.startsWith('license:'));
+  return licTag ? licTag.replace('license:', '').replace(/-/g, ' ') : 'Unknown';
+}
+
+// ---- Load All Data from JSON (updated hourly by GitHub Actions) ----
+let cachedJSON = null;
+
+async function loadArenaData() {
+  try {
+    const res = await fetch(API.LEADERBOARD_JSON);
+    if (!res.ok) throw new Error('Failed to load leaderboard data');
+    const data = await res.json();
+    cachedJSON = data;
+
+    document.getElementById('update-time').textContent = `最后更新: ${data.lastUpdated}`;
+
+    renderArenaList('arena-list', 'arena-loading', data.arena);
+    renderArenaList('arena-code-list', 'arena-code-loading', data.arena_code);
+    if (data.arena_chinese) renderChineseList(data.arena_chinese);
+
+    // If JSON has pre-fetched HF data (from GitHub Actions hourly update), render immediately
+    if (data.huggingface_top_likes) {
+      renderHFGrid(data.huggingface_top_likes);
+      hfDataLoaded = true;
+    }
+    if (data.trending) {
+      renderTrendingGrid(data.trending);
+      trendingDataLoaded = true;
+    }
+  } catch (err) {
+    console.error('Arena load error:', err);
+    document.getElementById('arena-loading').innerHTML =
+      `<div class="error-message">⚠️ 数据加载失败: ${err.message}</div>`;
+    document.getElementById('arena-code-loading').innerHTML =
+      `<div class="error-message">⚠️ 数据加载失败: ${err.message}</div>`;
+    const chLoading = document.getElementById('chinese-loading');
+    if (chLoading) chLoading.innerHTML =
+      `<div class="error-message">⚠️ 数据加载失败: ${err.message}</div>`;
+  }
+}
+
+function renderArenaList(containerId, loadingId, models) {
+  const container = document.getElementById(containerId);
+  const loading = document.getElementById(loadingId);
+  if (loading) loading.remove();
+
+  models.forEach((m, i) => {
+    const row = document.createElement('div');
+    row.className = 'lb-row';
+    row.style.animationDelay = `${i * 0.04}s`;
+    row.innerHTML = `
+      <span class="lb-rank ${getRankClass(m.rank)}">${getRankEmoji(m.rank)}</span>
+      <div class="lb-model">
+        <span class="model-name">${m.model}</span>
+        <span class="model-org">${m.org}</span>
+      </div>
+      <span class="lb-elo">${m.elo}</span>
+      <span class="lb-metric">—</span>
+      <span class="lb-license">${getLicenseBadge(m.license || 'Unknown')}</span>
+    `;
+    container.appendChild(row);
+  });
+}
+
+// ---- Render Chinese Domestic Models ----
+function renderChineseList(models) {
+  const container = document.getElementById('chinese-list');
+  const loading = document.getElementById('chinese-loading');
+  if (loading) loading.remove();
+
+  models.forEach((m, i) => {
+    const row = document.createElement('div');
+    row.className = 'lb-row';
+    row.style.animationDelay = `${i * 0.04}s`;
+    row.style.gridTemplateColumns = '60px 1fr 100px 120px 140px';
+    
+    const isOpen = ['MIT', 'Apache 2.0'].some(l => (m.license || '').includes(l));
+    
+    row.innerHTML = `
+      <span class="lb-rank ${getRankClass(m.rank)}">${getRankEmoji(m.rank)}</span>
+      <div class="lb-model">
+        <span class="model-name">${m.model}</span>
+        <span class="model-org">${m.org}</span>
+      </div>
+      <span class="lb-elo">${m.elo}</span>
+      <span class="lb-metric" style="font-size:0.8rem">${m.params || '—'}</span>
+      <span class="lb-license"><span class="license-badge ${isOpen ? 'open' : 'proprietary'}" style="font-size:0.68rem">${m.highlight || m.license}</span></span>
+    `;
+    container.appendChild(row);
+  });
+}
+
+// ---- Render HF Grid (from pre-fetched or live data) ----
+function renderHFGrid(models) {
+  const grid = document.getElementById('hf-popular-grid');
+  grid.innerHTML = '';
+
+  models.forEach((m, i) => {
+    // Support both live API format (m.id, m.tags) and pre-fetched format (m.name, m.org, m.license, m.tags)
+    const modelId = m.id || `${m.org}/${m.name}`;
+    const org = m.org || extractOrg(modelId);
+    const name = m.name || (modelId.includes('/') ? modelId.split('/')[1] : modelId);
+    const license = m.license || extractLicense(m.tags || []);
+    const tags = (m.tags || []).filter(t =>
+      !t.startsWith('license:') && !t.startsWith('dataset:') && !t.startsWith('arxiv:') &&
+      !t.startsWith('doi:') && !t.startsWith('base_model:') && !t.includes('compatible') &&
+      !t.includes('deploy:') && !t.includes('region:') && t !== 'transformers' &&
+      t !== 'pytorch' && t !== 'safetensors'
+    ).slice(0, 5);
+
+    const card = document.createElement('div');
+    card.className = 'model-card';
+    card.style.animationDelay = `${i * 0.05}s`;
+    card.onclick = () => window.open(`https://huggingface.co/${modelId}`, '_blank');
+    card.innerHTML = `
+      <div class="card-header">
+        <div>
+          <div class="card-title">${name}</div>
+          <div class="card-org">${org}</div>
+        </div>
+        <div class="card-rank">${i + 1}</div>
+      </div>
+      <div class="card-stats">
+        <div class="stat">
+          <span class="stat-label">❤️ 点赞</span>
+          <span class="stat-value">${formatNumber(m.likes || 0)}</span>
+        </div>
+        <div class="stat">
+          <span class="stat-label">⬇ 下载</span>
+          <span class="stat-value">${formatNumber(m.downloads || 0)}</span>
+        </div>
+        <div class="stat">
+          <span class="stat-label">📋 许可</span>
+          <span class="stat-value" style="font-size:0.75rem;color:var(--text-secondary)">${license}</span>
+        </div>
+      </div>
+      ${tags.length ? `<div class="card-tags">${tags.map(t => `<span class="tag">${t}</span>`).join('')}</div>` : ''}
+    `;
+    grid.appendChild(card);
+  });
+}
+
+// ---- Render Trending Grid ----
+function renderTrendingGrid(models) {
+  const grid = document.getElementById('trending-grid');
+  grid.innerHTML = '';
+
+  if (!models || models.length === 0) {
+    grid.innerHTML = `<div class="error-message">暂无趋势数据</div>`;
+    return;
+  }
+
+  models.slice(0, 20).forEach((m, i) => {
+    const modelId = m.repoData?.id || m.id || m.modelId || 'Unknown';
+    const org = extractOrg(modelId);
+    const name = modelId.includes('/') ? modelId.split('/')[1] : modelId;
+    const likes = m.repoData?.likes || m.likes || 0;
+    const downloads = m.repoData?.downloads || m.downloads || 0;
+
+    const card = document.createElement('div');
+    card.className = 'model-card';
+    card.style.animationDelay = `${i * 0.05}s`;
+    card.onclick = () => window.open(`https://huggingface.co/${modelId}`, '_blank');
+    card.innerHTML = `
+      <div class="card-header">
+        <div>
+          <div class="card-title">${name}</div>
+          <div class="card-org">${org}</div>
+        </div>
+        <div class="card-rank" style="background:var(--gradient-warm)">📈</div>
+      </div>
+      <div class="card-stats">
+        <div class="stat">
+          <span class="stat-label">❤️ 点赞</span>
+          <span class="stat-value">${formatNumber(likes)}</span>
+        </div>
+        <div class="stat">
+          <span class="stat-label">⬇ 下载</span>
+          <span class="stat-value">${formatNumber(downloads)}</span>
+        </div>
+      </div>
+    `;
+    grid.appendChild(card);
+  });
+}
+
+// ---- Load HF Popular Models (live API fallback) ----
+let hfDataLoaded = false;
+let currentHFSort = 'likes';
+
+async function loadHFPopular(sort = 'likes') {
+  // Try cached JSON first
+  if (cachedJSON && sort === 'likes' && cachedJSON.huggingface_top_likes) {
+    renderHFGrid(cachedJSON.huggingface_top_likes);
+    hfDataLoaded = true;
+    return;
+  }
+  if (cachedJSON && sort === 'downloads' && cachedJSON.huggingface_top_downloads) {
+    renderHFGrid(cachedJSON.huggingface_top_downloads);
+    hfDataLoaded = true;
+    return;
+  }
+
+  // Fallback: live API
+  const grid = document.getElementById('hf-popular-grid');
+  grid.innerHTML = `<div class="loading-container"><div class="spinner"></div><span class="loading-text">从 Hugging Face API 获取数据...</span></div>`;
+
+  try {
+    const res = await fetch(`${API.HF_MODELS}?sort=${sort}&direction=-1&limit=20&pipeline_tag=text-generation`);
+    if (!res.ok) throw new Error('HF API error');
+    const models = await res.json();
+    renderHFGrid(models);
+    hfDataLoaded = true;
+  } catch (err) {
+    grid.innerHTML = `<div class="error-message">⚠️ Hugging Face API 请求失败: ${err.message}<br>请检查网络连接</div>`;
+  }
+}
+
+// Filter chips
+document.querySelectorAll('.chip').forEach(chip => {
+  chip.addEventListener('click', () => {
+    document.querySelectorAll('.chip').forEach(c => c.classList.remove('active'));
+    chip.classList.add('active');
+    currentHFSort = chip.dataset.sort;
+    loadHFPopular(currentHFSort);
+  });
+});
+
+// ---- Load Trending Models (live API fallback) ----
+let trendingDataLoaded = false;
+
+async function loadTrending() {
+  // Try cached JSON first
+  if (cachedJSON && cachedJSON.trending) {
+    renderTrendingGrid(cachedJSON.trending);
+    trendingDataLoaded = true;
+    return;
+  }
+
+  // Fallback: live API
+  const grid = document.getElementById('trending-grid');
+  grid.innerHTML = `<div class="loading-container"><div class="spinner"></div><span class="loading-text">获取趋势数据...</span></div>`;
+
+  try {
+    const res = await fetch(API.HF_TRENDING);
+    if (!res.ok) throw new Error('Trending API error');
+    const data = await res.json();
+    const models = data.recentlyTrending || data.models || data || [];
+    renderTrendingGrid(Array.isArray(models) ? models : []);
+    trendingDataLoaded = true;
+  } catch (err) {
+    grid.innerHTML = `<div class="error-message">⚠️ 趋势数据获取失败: ${err.message}<br>可能需要翻墙访问 Hugging Face</div>`;
+  }
+}
+
+// ---- Initialize ----
+loadArenaData();
+</script>
+
+</body>
+</html>

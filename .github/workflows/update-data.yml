@@ -1,0 +1,41 @@
+name: 🦞 Update Leaderboard Data
+
+on:
+  schedule:
+    # 每小时运行一次
+    - cron: '0 * * * *'
+  workflow_dispatch: # 允许手动触发
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 📦 Checkout repository
+        uses: actions/checkout@v4
+
+      - name: 🐍 Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: 📥 Run update script
+        run: python scripts/update_leaderboard.py
+
+      - name: 📝 Check for changes
+        id: check_changes
+        run: |
+          git diff --quiet docs/data/leaderboard.json || echo "changed=true" >> $GITHUB_OUTPUT
+
+      - name: 🚀 Commit and push
+        if: steps.check_changes.outputs.changed == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/data/leaderboard.json
+          git commit -m "🤖 Auto-update leaderboard data [$(date -u '+%Y-%m-%d %H:%M UTC')]"
+          git push
