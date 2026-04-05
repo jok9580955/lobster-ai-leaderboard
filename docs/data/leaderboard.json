@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-05 17:41",
+  "lastUpdated": "2026-04-05 18:37",
   "arena": [
     {
       "rank": 1,
@@ -366,7 +366,7 @@
       "id": "deepseek-ai/DeepSeek-R1",
       "name": "DeepSeek-R1",
       "org": "deepseek-ai",
-      "likes": 13139,
+      "likes": 13140,
       "downloads": 2759423,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -536,7 +536,7 @@
       "id": "deepseek-ai/DeepSeek-V3",
       "name": "DeepSeek-V3",
       "org": "deepseek-ai",
-      "likes": 4022,
+      "likes": 4023,
       "downloads": 580919,
       "license": "Unknown",
       "pipeline_tag": "text-generation",
@@ -1275,7 +1275,7 @@
       "id": "deepseek-ai/DeepSeek-R1",
       "name": "DeepSeek-R1",
       "org": "deepseek-ai",
-      "likes": 13139,
+      "likes": 13140,
       "downloads": 2759423,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -1376,20 +1376,14 @@
   "trending": [
     {
       "id": "google/gemma-4-31B-it",
-      "likes": 896,
+      "likes": 902,
       "downloads": 490192,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
-      "likes": 2303,
+      "likes": 2306,
       "downloads": 539356,
-      "pipeline_tag": "image-text-to-text"
-    },
-    {
-      "id": "baidu/Qianfan-OCR",
-      "likes": 960,
-      "downloads": 37707,
       "pipeline_tag": "image-text-to-text"
     },
     {
@@ -1399,6 +1393,12 @@
       "pipeline_tag": "automatic-speech-recognition"
     },
     {
+      "id": "baidu/Qianfan-OCR",
+      "likes": 960,
+      "downloads": 37707,
+      "pipeline_tag": "image-text-to-text"
+    },
+    {
       "id": "prism-ml/Bonsai-8B-gguf",
       "likes": 399,
       "downloads": 38631,
@@ -1406,25 +1406,25 @@
     },
     {
       "id": "google/gemma-4-26B-A4B-it",
-      "likes": 368,
+      "likes": 370,
       "downloads": 271222,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "netflix/void-model",
-      "likes": 333,
+      "likes": 336,
       "downloads": 0,
       "pipeline_tag": "video-to-video"
     },
     {
       "id": "google/gemma-4-E4B-it",
-      "likes": 318,
+      "likes": 320,
       "downloads": 197704,
       "pipeline_tag": "any-to-any"
     },
     {
       "id": "HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
-      "likes": 976,
+      "likes": 977,
       "downloads": 725110,
       "pipeline_tag": ""
     },
@@ -1436,7 +1436,7 @@
     },
     {
       "id": "ianncity/KIMI-K2.5-700000x",
-      "likes": 104,
+      "likes": 105,
       "downloads": 755,
       "pipeline_tag": ""
     },
@@ -1460,7 +1460,7 @@
     },
     {
       "id": "open-index/hacker-news",
-      "likes": 263,
+      "likes": 264,
       "downloads": 19484,
       "pipeline_tag": ""
     },
@@ -1472,8 +1472,14 @@
     },
     {
       "id": "k2-fsa/OmniVoice",
-      "likes": 112,
+      "likes": 114,
       "downloads": 0,
+      "pipeline_tag": ""
+    },
+    {
+      "id": "kai-os/carnice-glm5-hermes-traces",
+      "likes": 39,
+      "downloads": 206,
       "pipeline_tag": ""
     },
     {
@@ -1483,27 +1489,21 @@
       "pipeline_tag": ""
     },
     {
-      "id": "kai-os/carnice-glm5-hermes-traces",
-      "likes": 38,
-      "downloads": 206,
-      "pipeline_tag": ""
-    },
-    {
       "id": "mrfakename/Z-Image-Turbo",
-      "likes": 2781,
+      "likes": 2782,
       "downloads": 0,
-      "pipeline_tag": ""
-    },
-    {
-      "id": "OpenMOSS-Team/OmniAction",
-      "likes": 247,
-      "downloads": 22403,
       "pipeline_tag": ""
     },
     {
       "id": "Roman1111111/claude-opus-4.6-10000x",
       "likes": 102,
       "downloads": 2773,
+      "pipeline_tag": ""
+    },
+    {
+      "id": "OpenMOSS-Team/OmniAction",
+      "likes": 247,
+      "downloads": 22403,
       "pipeline_tag": ""
     },
     {
@@ -1525,14 +1525,14 @@
       "pipeline_tag": ""
     },
     {
-      "id": "mistralai/voxtral-tts-demo",
-      "likes": 168,
+      "id": "r3gm/wan2-2-fp8da-aoti-preview2",
+      "likes": 598,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
-      "id": "r3gm/wan2-2-fp8da-aoti-preview2",
-      "likes": 597,
+      "id": "mistralai/voxtral-tts-demo",
+      "likes": 168,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1555,5 +1555,5 @@
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-04-05T17:41:51.885080+08:00"
+  "lastUpdatedISO": "2026-04-05T18:37:46.058212+08:00"
 }
