@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-05 21:03",
+  "lastUpdated": "2026-04-05 22:37",
   "arena": [
     {
       "rank": 1,
@@ -366,7 +366,7 @@
       "id": "deepseek-ai/DeepSeek-R1",
       "name": "DeepSeek-R1",
       "org": "deepseek-ai",
-      "likes": 13140,
+      "likes": 13139,
       "downloads": 2759423,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -451,7 +451,7 @@
       "id": "openai/gpt-oss-120b",
       "name": "gpt-oss-120b",
       "org": "openai",
-      "likes": 4645,
+      "likes": 4647,
       "downloads": 3847393,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -468,7 +468,7 @@
       "id": "openai/gpt-oss-20b",
       "name": "gpt-oss-20b",
       "org": "openai",
-      "likes": 4507,
+      "likes": 4508,
       "downloads": 5656503,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -536,7 +536,7 @@
       "id": "deepseek-ai/DeepSeek-V3",
       "name": "DeepSeek-V3",
       "org": "deepseek-ai",
-      "likes": 4023,
+      "likes": 4024,
       "downloads": 580919,
       "license": "Unknown",
       "pipeline_tag": "text-generation",
@@ -754,7 +754,7 @@
       "id": "moonshotai/Kimi-K2-Instruct",
       "name": "Kimi-K2-Instruct",
       "org": "moonshotai",
-      "likes": 2332,
+      "likes": 2331,
       "downloads": 95190,
       "license": "Other",
       "pipeline_tag": "text-generation",
@@ -875,7 +875,7 @@
       "id": "Qwen/Qwen3-0.6B",
       "name": "Qwen3-0.6B",
       "org": "Qwen",
-      "likes": 1171,
+      "likes": 1172,
       "downloads": 14235258,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1107,7 +1107,7 @@
       "id": "openai/gpt-oss-20b",
       "name": "gpt-oss-20b",
       "org": "openai",
-      "likes": 4507,
+      "likes": 4508,
       "downloads": 5656503,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1175,7 +1175,7 @@
       "id": "openai/gpt-oss-120b",
       "name": "gpt-oss-120b",
       "org": "openai",
-      "likes": 4645,
+      "likes": 4647,
       "downloads": 3847393,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1275,7 +1275,7 @@
       "id": "deepseek-ai/DeepSeek-R1",
       "name": "DeepSeek-R1",
       "org": "deepseek-ai",
-      "likes": 13140,
+      "likes": 13139,
       "downloads": 2759423,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -1376,21 +1376,15 @@
   "trending": [
     {
       "id": "google/gemma-4-31B-it",
-      "likes": 912,
+      "likes": 920,
       "downloads": 490192,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
-      "likes": 2312,
+      "likes": 2318,
       "downloads": 539356,
       "pipeline_tag": "image-text-to-text"
-    },
-    {
-      "id": "CohereLabs/cohere-transcribe-03-2026",
-      "likes": 796,
-      "downloads": 120998,
-      "pipeline_tag": "automatic-speech-recognition"
     },
     {
       "id": "baidu/Qianfan-OCR",
@@ -1400,43 +1394,49 @@
     },
     {
       "id": "prism-ml/Bonsai-8B-gguf",
-      "likes": 403,
+      "likes": 406,
       "downloads": 38631,
       "pipeline_tag": "text-generation"
     },
     {
+      "id": "CohereLabs/cohere-transcribe-03-2026",
+      "likes": 796,
+      "downloads": 120998,
+      "pipeline_tag": "automatic-speech-recognition"
+    },
+    {
       "id": "google/gemma-4-26B-A4B-it",
-      "likes": 375,
+      "likes": 379,
       "downloads": 271222,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "netflix/void-model",
-      "likes": 343,
+      "likes": 351,
       "downloads": 0,
       "pipeline_tag": "video-to-video"
     },
     {
       "id": "google/gemma-4-E4B-it",
-      "likes": 329,
+      "likes": 335,
       "downloads": 197704,
       "pipeline_tag": "any-to-any"
     },
     {
       "id": "HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
-      "likes": 979,
+      "likes": 980,
       "downloads": 725110,
       "pipeline_tag": ""
     },
     {
       "id": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF",
-      "likes": 502,
+      "likes": 503,
       "downloads": 254428,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "ianncity/KIMI-K2.5-700000x",
-      "likes": 107,
+      "likes": 109,
       "downloads": 755,
       "pipeline_tag": ""
     },
@@ -1448,7 +1448,7 @@
     },
     {
       "id": "prithivMLmods/FireRed-Image-Edit-1.0-Fast",
-      "likes": 665,
+      "likes": 669,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1466,13 +1466,13 @@
     },
     {
       "id": "multimodalart/qwen-image-multiple-angles-3d-camera",
-      "likes": 2129,
+      "likes": 2131,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "k2-fsa/OmniVoice",
-      "likes": 119,
+      "likes": 121,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1490,7 +1490,7 @@
     },
     {
       "id": "mrfakename/Z-Image-Turbo",
-      "likes": 2784,
+      "likes": 2785,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1513,15 +1513,15 @@
       "pipeline_tag": ""
     },
     {
-      "id": "OpenMOSS-Team/OmniAction",
-      "likes": 247,
-      "downloads": 22403,
-      "pipeline_tag": ""
-    },
-    {
       "id": "FrameAI4687/Omni-Video-Factory",
       "likes": 815,
       "downloads": 0,
+      "pipeline_tag": ""
+    },
+    {
+      "id": "OpenMOSS-Team/OmniAction",
+      "likes": 247,
+      "downloads": 22403,
       "pipeline_tag": ""
     },
     {
@@ -1537,8 +1537,8 @@
       "pipeline_tag": ""
     },
     {
-      "id": "victor/dlss-5-anything",
-      "likes": 352,
+      "id": "webml-community/Gemma-4-WebGPU",
+      "likes": 66,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1549,11 +1549,11 @@
       "pipeline_tag": ""
     },
     {
-      "id": "robbyant/mdm_depth",
-      "likes": 21,
-      "downloads": 29283,
+      "id": "lambda/hermes-agent-reasoning-traces",
+      "likes": 22,
+      "downloads": 206,
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-04-05T21:03:53.023946+08:00"
+  "lastUpdatedISO": "2026-04-05T22:37:18.437153+08:00"
 }
