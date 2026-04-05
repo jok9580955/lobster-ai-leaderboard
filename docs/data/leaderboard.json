@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-06 00:39",
+  "lastUpdated": "2026-04-06 01:35",
   "arena": [
     {
       "rank": 1,
@@ -451,7 +451,7 @@
       "id": "openai/gpt-oss-120b",
       "name": "gpt-oss-120b",
       "org": "openai",
-      "likes": 4647,
+      "likes": 4648,
       "downloads": 3847393,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -891,7 +891,7 @@
       "id": "Qwen/Qwen2.5-7B-Instruct",
       "name": "Qwen2.5-7B-Instruct",
       "org": "Qwen",
-      "likes": 1182,
+      "likes": 1183,
       "downloads": 13544700,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1175,7 +1175,7 @@
       "id": "openai/gpt-oss-120b",
       "name": "gpt-oss-120b",
       "org": "openai",
-      "likes": 4647,
+      "likes": 4648,
       "downloads": 3847393,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1376,19 +1376,19 @@
   "trending": [
     {
       "id": "google/gemma-4-31B-it",
-      "likes": 936,
+      "likes": 945,
       "downloads": 490192,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
-      "likes": 2326,
+      "likes": 2328,
       "downloads": 539356,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "prism-ml/Bonsai-8B-gguf",
-      "likes": 413,
+      "likes": 415,
       "downloads": 38631,
       "pipeline_tag": "text-generation"
     },
@@ -1399,38 +1399,38 @@
       "pipeline_tag": "image-text-to-text"
     },
     {
-      "id": "CohereLabs/cohere-transcribe-03-2026",
-      "likes": 797,
-      "downloads": 120998,
-      "pipeline_tag": "automatic-speech-recognition"
-    },
-    {
       "id": "google/gemma-4-26B-A4B-it",
-      "likes": 381,
+      "likes": 382,
       "downloads": 271222,
       "pipeline_tag": "image-text-to-text"
     },
     {
+      "id": "CohereLabs/cohere-transcribe-03-2026",
+      "likes": 798,
+      "downloads": 120998,
+      "pipeline_tag": "automatic-speech-recognition"
+    },
+    {
       "id": "netflix/void-model",
-      "likes": 362,
+      "likes": 368,
       "downloads": 0,
       "pipeline_tag": "video-to-video"
     },
     {
       "id": "google/gemma-4-E4B-it",
-      "likes": 337,
+      "likes": 339,
       "downloads": 197704,
       "pipeline_tag": "any-to-any"
     },
     {
       "id": "HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
-      "likes": 983,
+      "likes": 986,
       "downloads": 725110,
       "pipeline_tag": ""
     },
     {
       "id": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF",
-      "likes": 505,
+      "likes": 506,
       "downloads": 254428,
       "pipeline_tag": "image-text-to-text"
     },
@@ -1448,7 +1448,7 @@
     },
     {
       "id": "prithivMLmods/FireRed-Image-Edit-1.0-Fast",
-      "likes": 671,
+      "likes": 675,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1466,13 +1466,13 @@
     },
     {
       "id": "multimodalart/qwen-image-multiple-angles-3d-camera",
-      "likes": 2137,
+      "likes": 2138,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "k2-fsa/OmniVoice",
-      "likes": 124,
+      "likes": 126,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1490,26 +1490,20 @@
     },
     {
       "id": "mrfakename/Z-Image-Turbo",
-      "likes": 2788,
+      "likes": 2789,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "Roman1111111/claude-opus-4.6-10000x",
-      "likes": 103,
+      "likes": 104,
       "downloads": 2773,
       "pipeline_tag": ""
     },
     {
       "id": "Crownelius/Opus-4.6-Reasoning-3300x",
-      "likes": 223,
+      "likes": 224,
       "downloads": 2906,
-      "pipeline_tag": ""
-    },
-    {
-      "id": "r3gm/wan2-2-fp8da-aoti-preview2",
-      "likes": 602,
-      "downloads": 0,
       "pipeline_tag": ""
     },
     {
@@ -1519,8 +1513,8 @@
       "pipeline_tag": ""
     },
     {
-      "id": "FrameAI4687/Omni-Video-Factory",
-      "likes": 815,
+      "id": "r3gm/wan2-2-fp8da-aoti-preview2",
+      "likes": 603,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1528,6 +1522,12 @@
       "id": "OpenMOSS-Team/OmniAction",
       "likes": 247,
       "downloads": 22403,
+      "pipeline_tag": ""
+    },
+    {
+      "id": "FrameAI4687/Omni-Video-Factory",
+      "likes": 815,
+      "downloads": 0,
       "pipeline_tag": ""
     },
     {
@@ -1550,10 +1550,10 @@
     },
     {
       "id": "lambda/hermes-agent-reasoning-traces",
-      "likes": 22,
+      "likes": 23,
       "downloads": 206,
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-04-06T00:39:39.328354+08:00"
+  "lastUpdatedISO": "2026-04-06T01:35:07.727954+08:00"
 }
