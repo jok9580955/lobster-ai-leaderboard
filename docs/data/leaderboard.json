@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-06 04:36",
+  "lastUpdated": "2026-04-06 05:35",
   "arena": [
     {
       "rank": 1,
@@ -586,7 +586,7 @@
       "id": "openai-community/gpt2",
       "name": "gpt2",
       "org": "openai-community",
-      "likes": 3177,
+      "likes": 3178,
       "downloads": 12712959,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -908,7 +908,7 @@
       "id": "openai-community/gpt2",
       "name": "gpt2",
       "org": "openai-community",
-      "likes": 3177,
+      "likes": 3178,
       "downloads": 12712959,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -958,7 +958,7 @@
       "id": "Qwen/Qwen3-4B",
       "name": "Qwen3-4B",
       "org": "Qwen",
-      "likes": 586,
+      "likes": 587,
       "downloads": 8670312,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1376,19 +1376,19 @@
   "trending": [
     {
       "id": "google/gemma-4-31B-it",
-      "likes": 963,
+      "likes": 970,
       "downloads": 490192,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
-      "likes": 2333,
+      "likes": 2334,
       "downloads": 539356,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "prism-ml/Bonsai-8B-gguf",
-      "likes": 418,
+      "likes": 422,
       "downloads": 38631,
       "pipeline_tag": "text-generation"
     },
@@ -1400,13 +1400,13 @@
     },
     {
       "id": "google/gemma-4-26B-A4B-it",
-      "likes": 388,
+      "likes": 390,
       "downloads": 271222,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "netflix/void-model",
-      "likes": 381,
+      "likes": 383,
       "downloads": 0,
       "pipeline_tag": "video-to-video"
     },
@@ -1418,7 +1418,7 @@
     },
     {
       "id": "google/gemma-4-E4B-it",
-      "likes": 345,
+      "likes": 346,
       "downloads": 197704,
       "pipeline_tag": "any-to-any"
     },
@@ -1436,31 +1436,25 @@
     },
     {
       "id": "ianncity/KIMI-K2.5-700000x",
-      "likes": 112,
+      "likes": 113,
       "downloads": 755,
       "pipeline_tag": ""
     },
     {
       "id": "r3gm/wan2-2-fp8da-aoti-preview",
-      "likes": 1851,
+      "likes": 1852,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "prithivMLmods/FireRed-Image-Edit-1.0-Fast",
-      "likes": 678,
+      "likes": 681,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
-      "id": "nohurry/Opus-4.6-Reasoning-3000x-filtered",
-      "likes": 499,
-      "downloads": 8660,
-      "pipeline_tag": ""
-    },
-    {
       "id": "k2-fsa/OmniVoice",
-      "likes": 133,
+      "likes": 134,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1468,6 +1462,12 @@
       "id": "open-index/hacker-news",
       "likes": 269,
       "downloads": 19484,
+      "pipeline_tag": ""
+    },
+    {
+      "id": "nohurry/Opus-4.6-Reasoning-3000x-filtered",
+      "likes": 499,
+      "downloads": 8660,
       "pipeline_tag": ""
     },
     {
@@ -1495,15 +1495,15 @@
       "pipeline_tag": ""
     },
     {
-      "id": "Roman1111111/claude-opus-4.6-10000x",
-      "likes": 104,
-      "downloads": 2773,
-      "pipeline_tag": ""
-    },
-    {
       "id": "Crownelius/Opus-4.6-Reasoning-3300x",
       "likes": 224,
       "downloads": 2906,
+      "pipeline_tag": ""
+    },
+    {
+      "id": "Roman1111111/claude-opus-4.6-10000x",
+      "likes": 104,
+      "downloads": 2773,
       "pipeline_tag": ""
     },
     {
@@ -1519,14 +1519,8 @@
       "pipeline_tag": ""
     },
     {
-      "id": "TeichAI/Claude-Opus-4.6-Reasoning-887x",
-      "likes": 60,
-      "downloads": 5847,
-      "pipeline_tag": ""
-    },
-    {
       "id": "r3gm/wan2-2-fp8da-aoti-preview2",
-      "likes": 603,
+      "likes": 605,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1537,8 +1531,14 @@
       "pipeline_tag": ""
     },
     {
+      "id": "TeichAI/Claude-Opus-4.6-Reasoning-887x",
+      "likes": 60,
+      "downloads": 5847,
+      "pipeline_tag": ""
+    },
+    {
       "id": "mistralai/voxtral-tts-demo",
-      "likes": 171,
+      "likes": 172,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1555,5 +1555,5 @@
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-04-06T04:36:57.071662+08:00"
+  "lastUpdatedISO": "2026-04-06T05:35:52.745821+08:00"
 }
