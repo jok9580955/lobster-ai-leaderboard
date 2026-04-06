@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-06 07:37",
+  "lastUpdated": "2026-04-06 10:46",
   "arena": [
     {
       "rank": 1,
@@ -366,7 +366,7 @@
       "id": "deepseek-ai/DeepSeek-R1",
       "name": "DeepSeek-R1",
       "org": "deepseek-ai",
-      "likes": 13142,
+      "likes": 13143,
       "downloads": 2759423,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -502,7 +502,7 @@
       "id": "meta-llama/Meta-Llama-3-8B-Instruct",
       "name": "Meta-Llama-3-8B-Instruct",
       "org": "meta-llama",
-      "likes": 4459,
+      "likes": 4460,
       "downloads": 1304956,
       "license": "Llama3",
       "pipeline_tag": "text-generation",
@@ -875,7 +875,7 @@
       "id": "Qwen/Qwen3-0.6B",
       "name": "Qwen3-0.6B",
       "org": "Qwen",
-      "likes": 1172,
+      "likes": 1173,
       "downloads": 14235258,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -942,7 +942,7 @@
       "id": "Qwen/Qwen3-8B",
       "name": "Qwen3-8B",
       "org": "Qwen",
-      "likes": 1025,
+      "likes": 1026,
       "downloads": 9315480,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1141,7 +1141,7 @@
       "id": "dphn/dolphin-2.9.1-yi-1.5-34b",
       "name": "dolphin-2.9.1-yi-1.5-34b",
       "org": "dphn",
-      "likes": 59,
+      "likes": 60,
       "downloads": 4399995,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1275,7 +1275,7 @@
       "id": "deepseek-ai/DeepSeek-R1",
       "name": "DeepSeek-R1",
       "org": "deepseek-ai",
-      "likes": 13142,
+      "likes": 13143,
       "downloads": 2759423,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -1376,61 +1376,61 @@
   "trending": [
     {
       "id": "google/gemma-4-31B-it",
-      "likes": 979,
+      "likes": 998,
       "downloads": 490192,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
-      "likes": 2342,
+      "likes": 2349,
       "downloads": 539356,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "prism-ml/Bonsai-8B-gguf",
-      "likes": 426,
+      "likes": 432,
       "downloads": 38631,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "baidu/Qianfan-OCR",
-      "likes": 962,
+      "likes": 1007,
       "downloads": 37707,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "google/gemma-4-26B-A4B-it",
-      "likes": 393,
+      "likes": 401,
       "downloads": 271222,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "netflix/void-model",
-      "likes": 388,
+      "likes": 396,
       "downloads": 0,
       "pipeline_tag": "video-to-video"
     },
     {
-      "id": "CohereLabs/cohere-transcribe-03-2026",
-      "likes": 803,
-      "downloads": 120998,
-      "pipeline_tag": "automatic-speech-recognition"
-    },
-    {
       "id": "google/gemma-4-E4B-it",
-      "likes": 349,
+      "likes": 356,
       "downloads": 197704,
       "pipeline_tag": "any-to-any"
     },
     {
+      "id": "CohereLabs/cohere-transcribe-03-2026",
+      "likes": 806,
+      "downloads": 120998,
+      "pipeline_tag": "automatic-speech-recognition"
+    },
+    {
       "id": "HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
-      "likes": 992,
+      "likes": 996,
       "downloads": 725110,
       "pipeline_tag": ""
     },
     {
       "id": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF",
-      "likes": 507,
+      "likes": 511,
       "downloads": 254428,
       "pipeline_tag": "image-text-to-text"
     },
@@ -1442,19 +1442,19 @@
     },
     {
       "id": "r3gm/wan2-2-fp8da-aoti-preview",
-      "likes": 1853,
+      "likes": 1855,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "prithivMLmods/FireRed-Image-Edit-1.0-Fast",
-      "likes": 685,
+      "likes": 686,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "k2-fsa/OmniVoice",
-      "likes": 141,
+      "likes": 145,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1472,7 +1472,13 @@
     },
     {
       "id": "multimodalart/qwen-image-multiple-angles-3d-camera",
-      "likes": 2141,
+      "likes": 2145,
+      "downloads": 0,
+      "pipeline_tag": ""
+    },
+    {
+      "id": "Qwen/Qwen3.5-Omni-Offline-Demo",
+      "likes": 101,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1483,20 +1489,14 @@
       "pipeline_tag": ""
     },
     {
-      "id": "Qwen/Qwen3.5-Omni-Offline-Demo",
-      "likes": 100,
-      "downloads": 0,
-      "pipeline_tag": ""
-    },
-    {
       "id": "mrfakename/Z-Image-Turbo",
-      "likes": 2791,
+      "likes": 2795,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "Roman1111111/claude-opus-4.6-10000x",
-      "likes": 105,
+      "likes": 106,
       "downloads": 2773,
       "pipeline_tag": ""
     },
@@ -1508,13 +1508,25 @@
     },
     {
       "id": "r3gm/wan2-2-fp8da-aoti-preview2",
-      "likes": 605,
+      "likes": 606,
       "downloads": 0,
+      "pipeline_tag": ""
+    },
+    {
+      "id": "OpenMOSS-Team/OmniAction",
+      "likes": 248,
+      "downloads": 22403,
       "pipeline_tag": ""
     },
     {
       "id": "FrameAI4687/Omni-Video-Factory",
       "likes": 819,
+      "downloads": 0,
+      "pipeline_tag": ""
+    },
+    {
+      "id": "mistralai/voxtral-tts-demo",
+      "likes": 175,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1525,27 +1537,9 @@
       "pipeline_tag": ""
     },
     {
-      "id": "OpenMOSS-Team/OmniAction",
-      "likes": 247,
-      "downloads": 22403,
-      "pipeline_tag": ""
-    },
-    {
-      "id": "mistralai/voxtral-tts-demo",
-      "likes": 173,
-      "downloads": 0,
-      "pipeline_tag": ""
-    },
-    {
       "id": "TeichAI/Claude-Opus-4.6-Reasoning-887x",
-      "likes": 60,
+      "likes": 61,
       "downloads": 5847,
-      "pipeline_tag": ""
-    },
-    {
-      "id": "FINAL-Bench/World-Model",
-      "likes": 25,
-      "downloads": 1500,
       "pipeline_tag": ""
     },
     {
@@ -1553,7 +1547,13 @@
       "likes": 24,
       "downloads": 206,
       "pipeline_tag": ""
+    },
+    {
+      "id": "robbyant/mdm_depth",
+      "likes": 21,
+      "downloads": 29283,
+      "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-04-06T07:37:03.049340+08:00"
+  "lastUpdatedISO": "2026-04-06T10:46:06.639926+08:00"
 }
