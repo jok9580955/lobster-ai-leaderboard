@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-06 15:48",
+  "lastUpdated": "2026-04-06 17:13",
   "arena": [
     {
       "rank": 1,
@@ -839,7 +839,7 @@
       "id": "meta-llama/Llama-3.2-3B-Instruct",
       "name": "Llama-3.2-3B-Instruct",
       "org": "meta-llama",
-      "likes": 2080,
+      "likes": 2081,
       "downloads": 5917022,
       "license": "Llama3.2",
       "pipeline_tag": "text-generation",
@@ -942,7 +942,7 @@
       "id": "Qwen/Qwen3-8B",
       "name": "Qwen3-8B",
       "org": "Qwen",
-      "likes": 1026,
+      "likes": 1027,
       "downloads": 9286171,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1090,7 +1090,7 @@
       "id": "meta-llama/Llama-3.2-3B-Instruct",
       "name": "Llama-3.2-3B-Instruct",
       "org": "meta-llama",
-      "likes": 2080,
+      "likes": 2081,
       "downloads": 5917022,
       "license": "Llama3.2",
       "pipeline_tag": "text-generation",
@@ -1158,7 +1158,7 @@
       "id": "meta-llama/Llama-3.2-1B-Instruct",
       "name": "Llama-3.2-1B-Instruct",
       "org": "meta-llama",
-      "likes": 1351,
+      "likes": 1352,
       "downloads": 4115620,
       "license": "Llama3.2",
       "pipeline_tag": "text-generation",
@@ -1376,31 +1376,31 @@
   "trending": [
     {
       "id": "google/gemma-4-31B-it",
-      "likes": 1028,
+      "likes": 1038,
       "downloads": 678740,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
-      "likes": 2359,
+      "likes": 2365,
       "downloads": 548344,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "prism-ml/Bonsai-8B-gguf",
-      "likes": 439,
+      "likes": 441,
       "downloads": 45185,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "google/gemma-4-26B-A4B-it",
-      "likes": 416,
+      "likes": 420,
       "downloads": 476612,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "netflix/void-model",
-      "likes": 408,
+      "likes": 410,
       "downloads": 0,
       "pipeline_tag": "video-to-video"
     },
@@ -1412,32 +1412,32 @@
     },
     {
       "id": "google/gemma-4-E4B-it",
-      "likes": 367,
+      "likes": 370,
       "downloads": 321152,
       "pipeline_tag": "any-to-any"
     },
     {
-      "id": "CohereLabs/cohere-transcribe-03-2026",
-      "likes": 807,
-      "downloads": 128326,
-      "pipeline_tag": "automatic-speech-recognition"
-    },
-    {
       "id": "dealignai/Gemma-4-31B-JANG_4M-CRACK",
-      "likes": 299,
+      "likes": 323,
       "downloads": 13727,
       "pipeline_tag": "text-generation"
     },
     {
+      "id": "CohereLabs/cohere-transcribe-03-2026",
+      "likes": 808,
+      "downloads": 128326,
+      "pipeline_tag": "automatic-speech-recognition"
+    },
+    {
       "id": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF",
-      "likes": 514,
+      "likes": 515,
       "downloads": 272020,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "ianncity/KIMI-K2.5-700000x",
       "likes": 116,
-      "downloads": 755,
+      "downloads": 908,
       "pipeline_tag": ""
     },
     {
@@ -1447,14 +1447,14 @@
       "pipeline_tag": ""
     },
     {
-      "id": "prithivMLmods/FireRed-Image-Edit-1.0-Fast",
-      "likes": 690,
+      "id": "k2-fsa/OmniVoice",
+      "likes": 163,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
-      "id": "k2-fsa/OmniVoice",
-      "likes": 159,
+      "id": "prithivMLmods/FireRed-Image-Edit-1.0-Fast",
+      "likes": 690,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1467,12 +1467,12 @@
     {
       "id": "open-index/hacker-news",
       "likes": 269,
-      "downloads": 19484,
+      "downloads": 20435,
       "pipeline_tag": ""
     },
     {
       "id": "multimodalart/qwen-image-multiple-angles-3d-camera",
-      "likes": 2149,
+      "likes": 2150,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1484,7 +1484,7 @@
     },
     {
       "id": "mrfakename/Z-Image-Turbo",
-      "likes": 2801,
+      "likes": 2802,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1496,14 +1496,14 @@
     },
     {
       "id": "Roman1111111/claude-opus-4.6-10000x",
-      "likes": 106,
-      "downloads": 2773,
+      "likes": 107,
+      "downloads": 2918,
       "pipeline_tag": ""
     },
     {
       "id": "kai-os/carnice-glm5-hermes-traces",
       "likes": 41,
-      "downloads": 206,
+      "downloads": 221,
       "pipeline_tag": ""
     },
     {
@@ -1525,35 +1525,35 @@
       "pipeline_tag": ""
     },
     {
-      "id": "OpenMOSS-Team/OmniAction",
-      "likes": 248,
-      "downloads": 22375,
-      "pipeline_tag": ""
-    },
-    {
       "id": "mistralai/voxtral-tts-demo",
       "likes": 177,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
-      "id": "TeichAI/Claude-Opus-4.6-Reasoning-887x",
-      "likes": 61,
-      "downloads": 5847,
+      "id": "OpenMOSS-Team/OmniAction",
+      "likes": 248,
+      "downloads": 22375,
       "pipeline_tag": ""
     },
     {
       "id": "lambda/hermes-agent-reasoning-traces",
       "likes": 26,
-      "downloads": 206,
+      "downloads": 267,
+      "pipeline_tag": ""
+    },
+    {
+      "id": "TeichAI/Claude-Opus-4.6-Reasoning-887x",
+      "likes": 61,
+      "downloads": 6644,
       "pipeline_tag": ""
     },
     {
       "id": "robbyant/mdm_depth",
       "likes": 22,
-      "downloads": 29283,
+      "downloads": 39828,
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-04-06T15:48:14.786822+08:00"
+  "lastUpdatedISO": "2026-04-06T17:13:09.945702+08:00"
 }
