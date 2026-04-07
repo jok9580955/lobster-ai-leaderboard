@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-08 04:51",
+  "lastUpdated": "2026-04-08 05:44",
   "arena": [
     {
       "rank": 1,
@@ -603,7 +603,7 @@
       "id": "mistralai/Mistral-7B-Instruct-v0.2",
       "name": "Mistral-7B-Instruct-v0.2",
       "org": "mistralai",
-      "likes": 3107,
+      "likes": 3108,
       "downloads": 2462322,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -991,7 +991,7 @@
       "id": "Qwen/Qwen2.5-3B-Instruct",
       "name": "Qwen2.5-3B-Instruct",
       "org": "Qwen",
-      "likes": 431,
+      "likes": 432,
       "downloads": 7851745,
       "license": "Other",
       "pipeline_tag": "text-generation",
@@ -1359,7 +1359,7 @@
       "id": "mistralai/Mistral-7B-Instruct-v0.2",
       "name": "Mistral-7B-Instruct-v0.2",
       "org": "mistralai",
-      "likes": 3107,
+      "likes": 3108,
       "downloads": 2462322,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1376,43 +1376,43 @@
   "trending": [
     {
       "id": "google/gemma-4-31B-it",
-      "likes": 1316,
+      "likes": 1319,
       "downloads": 884290,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "dealignai/Gemma-4-31B-JANG_4M-CRACK",
-      "likes": 668,
+      "likes": 671,
       "downloads": 29514,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
-      "likes": 2448,
+      "likes": 2450,
       "downloads": 552015,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "netflix/void-model",
-      "likes": 550,
+      "likes": 552,
       "downloads": 0,
       "pipeline_tag": "video-to-video"
     },
     {
       "id": "google/gemma-4-26B-A4B-it",
-      "likes": 494,
+      "likes": 495,
       "downloads": 659815,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "prism-ml/Bonsai-8B-gguf",
-      "likes": 492,
+      "likes": 494,
       "downloads": 52632,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "google/gemma-4-E4B-it",
-      "likes": 461,
+      "likes": 465,
       "downloads": 473605,
       "pipeline_tag": "any-to-any"
     },
@@ -1424,43 +1424,43 @@
     },
     {
       "id": "k2-fsa/OmniVoice",
-      "likes": 345,
+      "likes": 348,
       "downloads": 104915,
       "pipeline_tag": "text-to-speech"
     },
     {
       "id": "google/gemma-4-E2B-it",
-      "likes": 321,
+      "likes": 323,
       "downloads": 321237,
       "pipeline_tag": "any-to-any"
     },
     {
       "id": "ianncity/KIMI-K2.5-1000000x",
-      "likes": 141,
+      "likes": 142,
       "downloads": 1020,
       "pipeline_tag": ""
     },
     {
       "id": "k2-fsa/OmniVoice",
-      "likes": 246,
+      "likes": 248,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "r3gm/wan2-2-fp8da-aoti-preview",
-      "likes": 1895,
+      "likes": 1896,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "prithivMLmods/FireRed-Image-Edit-1.0-Fast",
-      "likes": 726,
+      "likes": 727,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "nohurry/Opus-4.6-Reasoning-3000x-filtered",
-      "likes": 515,
+      "likes": 516,
       "downloads": 8964,
       "pipeline_tag": ""
     },
@@ -1472,7 +1472,7 @@
     },
     {
       "id": "lambda/hermes-agent-reasoning-traces",
-      "likes": 47,
+      "likes": 49,
       "downloads": 363,
       "pipeline_tag": ""
     },
@@ -1484,7 +1484,7 @@
     },
     {
       "id": "Crownelius/Opus-4.6-Reasoning-3300x",
-      "likes": 243,
+      "likes": 245,
       "downloads": 2863,
       "pipeline_tag": ""
     },
@@ -1502,19 +1502,19 @@
     },
     {
       "id": "Roman1111111/claude-opus-4.6-10000x",
-      "likes": 117,
+      "likes": 119,
       "downloads": 3147,
       "pipeline_tag": ""
     },
     {
       "id": "badlogicgames/pi-mono",
-      "likes": 31,
+      "likes": 32,
       "downloads": 199,
       "pipeline_tag": ""
     },
     {
       "id": "r3gm/wan2-2-fp8da-aoti-preview2",
-      "likes": 627,
+      "likes": 628,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1526,7 +1526,7 @@
     },
     {
       "id": "FrameAI4687/Omni-Video-Factory",
-      "likes": 833,
+      "likes": 834,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1537,8 +1537,8 @@
       "pipeline_tag": ""
     },
     {
-      "id": "selfit-camera/Omni-Image-Editor",
-      "likes": 1369,
+      "id": "mistralai/voxtral-tts-demo",
+      "likes": 187,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1550,10 +1550,10 @@
     },
     {
       "id": "TeichAI/claude-4.5-opus-high-reasoning-250x",
-      "likes": 371,
+      "likes": 372,
       "downloads": 3549,
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-04-08T04:51:52.555821+08:00"
+  "lastUpdatedISO": "2026-04-08T05:44:18.525534+08:00"
 }
