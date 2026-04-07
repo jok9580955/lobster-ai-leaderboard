@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-08 06:40",
+  "lastUpdated": "2026-04-08 07:39",
   "arena": [
     {
       "rank": 1,
@@ -839,7 +839,7 @@
       "id": "meta-llama/Llama-3.2-3B-Instruct",
       "name": "Llama-3.2-3B-Instruct",
       "org": "meta-llama",
-      "likes": 2084,
+      "likes": 2085,
       "downloads": 5910061,
       "license": "Llama3.2",
       "pipeline_tag": "text-generation",
@@ -1090,7 +1090,7 @@
       "id": "meta-llama/Llama-3.2-3B-Instruct",
       "name": "Llama-3.2-3B-Instruct",
       "org": "meta-llama",
-      "likes": 2084,
+      "likes": 2085,
       "downloads": 5910061,
       "license": "Llama3.2",
       "pipeline_tag": "text-generation",
@@ -1376,13 +1376,13 @@
   "trending": [
     {
       "id": "google/gemma-4-31B-it",
-      "likes": 1322,
+      "likes": 1326,
       "downloads": 884290,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "dealignai/Gemma-4-31B-JANG_4M-CRACK",
-      "likes": 673,
+      "likes": 675,
       "downloads": 29514,
       "pipeline_tag": "text-generation"
     },
@@ -1394,27 +1394,27 @@
     },
     {
       "id": "netflix/void-model",
-      "likes": 559,
+      "likes": 562,
       "downloads": 0,
       "pipeline_tag": "video-to-video"
     },
     {
       "id": "google/gemma-4-26B-A4B-it",
-      "likes": 498,
+      "likes": 501,
       "downloads": 659815,
       "pipeline_tag": "image-text-to-text"
     },
     {
-      "id": "prism-ml/Bonsai-8B-gguf",
-      "likes": 496,
-      "downloads": 52632,
-      "pipeline_tag": "text-generation"
-    },
-    {
       "id": "google/gemma-4-E4B-it",
-      "likes": 465,
+      "likes": 470,
       "downloads": 473605,
       "pipeline_tag": "any-to-any"
+    },
+    {
+      "id": "prism-ml/Bonsai-8B-gguf",
+      "likes": 499,
+      "downloads": 52632,
+      "pipeline_tag": "text-generation"
     },
     {
       "id": "baidu/Qianfan-OCR",
@@ -1424,13 +1424,13 @@
     },
     {
       "id": "k2-fsa/OmniVoice",
-      "likes": 349,
+      "likes": 353,
       "downloads": 104915,
       "pipeline_tag": "text-to-speech"
     },
     {
       "id": "google/gemma-4-E2B-it",
-      "likes": 325,
+      "likes": 326,
       "downloads": 321237,
       "pipeline_tag": "any-to-any"
     },
@@ -1442,19 +1442,19 @@
     },
     {
       "id": "k2-fsa/OmniVoice",
-      "likes": 250,
+      "likes": 251,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "r3gm/wan2-2-fp8da-aoti-preview",
-      "likes": 1900,
+      "likes": 1902,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "prithivMLmods/FireRed-Image-Edit-1.0-Fast",
-      "likes": 728,
+      "likes": 730,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1466,7 +1466,7 @@
     },
     {
       "id": "multimodalart/qwen-image-multiple-angles-3d-camera",
-      "likes": 2178,
+      "likes": 2179,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1496,7 +1496,7 @@
     },
     {
       "id": "webml-community/Gemma-4-WebGPU",
-      "likes": 100,
+      "likes": 101,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1508,13 +1508,13 @@
     },
     {
       "id": "badlogicgames/pi-mono",
-      "likes": 33,
+      "likes": 34,
       "downloads": 199,
       "pipeline_tag": ""
     },
     {
       "id": "r3gm/wan2-2-fp8da-aoti-preview2",
-      "likes": 629,
+      "likes": 630,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1525,20 +1525,20 @@
       "pipeline_tag": ""
     },
     {
+      "id": "prithivMLmods/Qwen-Image-Edit-2511-LoRAs-Fast",
+      "likes": 1254,
+      "downloads": 0,
+      "pipeline_tag": ""
+    },
+    {
       "id": "FrameAI4687/Omni-Video-Factory",
       "likes": 835,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
-      "id": "prithivMLmods/Qwen-Image-Edit-2511-LoRAs-Fast",
-      "likes": 1253,
-      "downloads": 0,
-      "pipeline_tag": ""
-    },
-    {
       "id": "selfit-camera/Omni-Image-Editor",
-      "likes": 1371,
+      "likes": 1373,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1555,5 +1555,5 @@
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-04-08T06:40:29.571680+08:00"
+  "lastUpdatedISO": "2026-04-08T07:39:48.652930+08:00"
 }
