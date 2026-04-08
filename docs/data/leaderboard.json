@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-09 03:20",
+  "lastUpdated": "2026-04-09 04:48",
   "arena": [
     {
       "rank": 1,
@@ -417,7 +417,7 @@
       "id": "bigscience/bloom",
       "name": "bloom",
       "org": "bigscience",
-      "likes": 4994,
+      "likes": 4995,
       "downloads": 6033,
       "license": "Bigscience Bloom Rail 1.0",
       "pipeline_tag": "text-generation",
@@ -468,7 +468,7 @@
       "id": "openai/gpt-oss-20b",
       "name": "gpt-oss-20b",
       "org": "openai",
-      "likes": 4514,
+      "likes": 4515,
       "downloads": 5766017,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -586,7 +586,7 @@
       "id": "openai-community/gpt2",
       "name": "gpt2",
       "org": "openai-community",
-      "likes": 3186,
+      "likes": 3187,
       "downloads": 13455084,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -891,7 +891,7 @@
       "id": "openai-community/gpt2",
       "name": "gpt2",
       "org": "openai-community",
-      "likes": 3186,
+      "likes": 3187,
       "downloads": 13455084,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -975,7 +975,7 @@
       "id": "Qwen/Qwen3-4B",
       "name": "Qwen3-4B",
       "org": "Qwen",
-      "likes": 591,
+      "likes": 592,
       "downloads": 8280636,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1024,7 +1024,7 @@
       "id": "Qwen/Qwen3-4B-Instruct-2507",
       "name": "Qwen3-4B-Instruct-2507",
       "org": "Qwen",
-      "likes": 798,
+      "likes": 799,
       "downloads": 7353228,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1090,7 +1090,7 @@
       "id": "openai/gpt-oss-20b",
       "name": "gpt-oss-20b",
       "org": "openai",
-      "likes": 4514,
+      "likes": 4515,
       "downloads": 5766017,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1376,55 +1376,55 @@
   "trending": [
     {
       "id": "google/gemma-4-31B-it",
-      "likes": 1437,
+      "likes": 1445,
       "downloads": 1106883,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "dealignai/Gemma-4-31B-JANG_4M-CRACK",
-      "likes": 774,
+      "likes": 778,
       "downloads": 44246,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "zai-org/GLM-5.1",
-      "likes": 714,
+      "likes": 721,
       "downloads": 1300,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "netflix/void-model",
-      "likes": 631,
+      "likes": 637,
       "downloads": 0,
       "pipeline_tag": "video-to-video"
     },
     {
       "id": "google/gemma-4-26B-A4B-it",
-      "likes": 532,
+      "likes": 535,
       "downloads": 835825,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
-      "likes": 2495,
+      "likes": 2502,
       "downloads": 560798,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "google/gemma-4-E4B-it",
-      "likes": 502,
+      "likes": 504,
       "downloads": 622963,
       "pipeline_tag": "any-to-any"
     },
     {
       "id": "openbmb/VoxCPM2",
-      "likes": 424,
+      "likes": 426,
       "downloads": 605,
       "pipeline_tag": "text-to-speech"
     },
     {
       "id": "k2-fsa/OmniVoice",
-      "likes": 391,
+      "likes": 392,
       "downloads": 144864,
       "pipeline_tag": "text-to-speech"
     },
@@ -1436,7 +1436,7 @@
     },
     {
       "id": "k2-fsa/OmniVoice",
-      "likes": 280,
+      "likes": 281,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1448,7 +1448,7 @@
     },
     {
       "id": "r3gm/wan2-2-fp8da-aoti-preview",
-      "likes": 1923,
+      "likes": 1926,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1460,7 +1460,7 @@
     },
     {
       "id": "prithivMLmods/FireRed-Image-Edit-1.0-Fast",
-      "likes": 742,
+      "likes": 744,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1472,7 +1472,7 @@
     },
     {
       "id": "multimodalart/qwen-image-multiple-angles-3d-camera",
-      "likes": 2190,
+      "likes": 2191,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1490,7 +1490,7 @@
     },
     {
       "id": "mrfakename/Z-Image-Turbo",
-      "likes": 2836,
+      "likes": 2837,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1544,16 +1544,16 @@
     },
     {
       "id": "FrameAI4687/Omni-Video-Factory",
-      "likes": 841,
+      "likes": 842,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "sam-motamed/VOID",
-      "likes": 57,
+      "likes": 58,
       "downloads": 0,
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-04-09T03:20:40.034623+08:00"
+  "lastUpdatedISO": "2026-04-09T04:48:52.556402+08:00"
 }
