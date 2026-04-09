@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-09 17:11",
+  "lastUpdated": "2026-04-09 19:01",
   "arena": [
     {
       "rank": 1,
@@ -671,7 +671,7 @@
       "id": "meta-llama/Llama-3.3-70B-Instruct",
       "name": "Llama-3.3-70B-Instruct",
       "org": "meta-llama",
-      "likes": 2692,
+      "likes": 2693,
       "downloads": 417052,
       "license": "Llama3.3",
       "pipeline_tag": "text-generation",
@@ -1376,55 +1376,55 @@
   "trending": [
     {
       "id": "google/gemma-4-31B-it",
-      "likes": 1504,
+      "likes": 1513,
       "downloads": 1333678,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "dealignai/Gemma-4-31B-JANG_4M-CRACK",
-      "likes": 818,
+      "likes": 824,
       "downloads": 59852,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "zai-org/GLM-5.1",
-      "likes": 788,
+      "likes": 797,
       "downloads": 8465,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "netflix/void-model",
-      "likes": 662,
+      "likes": 664,
       "downloads": 0,
       "pipeline_tag": "video-to-video"
     },
     {
       "id": "google/gemma-4-26B-A4B-it",
-      "likes": 553,
+      "likes": 554,
       "downloads": 1046548,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "google/gemma-4-E4B-it",
-      "likes": 519,
+      "likes": 523,
       "downloads": 784026,
       "pipeline_tag": "any-to-any"
     },
     {
       "id": "openbmb/VoxCPM2",
-      "likes": 486,
+      "likes": 514,
       "downloads": 1815,
       "pipeline_tag": "text-to-speech"
     },
     {
       "id": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
-      "likes": 2523,
+      "likes": 2524,
       "downloads": 564664,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "k2-fsa/OmniVoice",
-      "likes": 410,
+      "likes": 413,
       "downloads": 200591,
       "pipeline_tag": "text-to-speech"
     },
@@ -1436,13 +1436,13 @@
     },
     {
       "id": "k2-fsa/OmniVoice",
-      "likes": 301,
+      "likes": 306,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "ianncity/KIMI-K2.5-1000000x",
-      "likes": 158,
+      "likes": 159,
       "downloads": 1695,
       "pipeline_tag": ""
     },
@@ -1454,13 +1454,13 @@
     },
     {
       "id": "lambda/hermes-agent-reasoning-traces",
-      "likes": 70,
+      "likes": 71,
       "downloads": 642,
       "pipeline_tag": ""
     },
     {
       "id": "prithivMLmods/FireRed-Image-Edit-1.0-Fast",
-      "likes": 746,
+      "likes": 747,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1484,14 +1484,8 @@
     },
     {
       "id": "open-index/hacker-news",
-      "likes": 284,
+      "likes": 285,
       "downloads": 23398,
-      "pipeline_tag": ""
-    },
-    {
-      "id": "Roman1111111/claude-opus-4.6-10000x",
-      "likes": 129,
-      "downloads": 3488,
       "pipeline_tag": ""
     },
     {
@@ -1501,8 +1495,14 @@
       "pipeline_tag": ""
     },
     {
+      "id": "Roman1111111/claude-opus-4.6-10000x",
+      "likes": 129,
+      "downloads": 3488,
+      "pipeline_tag": ""
+    },
+    {
       "id": "mrfakename/Z-Image-Turbo",
-      "likes": 2839,
+      "likes": 2840,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1513,27 +1513,27 @@
       "pipeline_tag": ""
     },
     {
-      "id": "r3gm/wan2-2-fp8da-aoti-preview2",
-      "likes": 645,
-      "downloads": 0,
-      "pipeline_tag": ""
-    },
-    {
       "id": "openbmb/VoxCPM-Demo",
-      "likes": 247,
+      "likes": 248,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
-      "id": "Roman1111111/gpt-5.4-step-by-step-reasoning",
-      "likes": 43,
-      "downloads": 618,
+      "id": "r3gm/wan2-2-fp8da-aoti-preview2",
+      "likes": 646,
+      "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "Crownelius/Opus-4.6-Reasoning-2100x-formatted",
       "likes": 48,
       "downloads": 777,
+      "pipeline_tag": ""
+    },
+    {
+      "id": "Roman1111111/gpt-5.4-step-by-step-reasoning",
+      "likes": 43,
+      "downloads": 618,
       "pipeline_tag": ""
     },
     {
@@ -1555,5 +1555,5 @@
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-04-09T17:11:35.975166+08:00"
+  "lastUpdatedISO": "2026-04-09T19:01:46.630697+08:00"
 }
