@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-10 05:48",
+  "lastUpdated": "2026-04-10 06:43",
   "arena": [
     {
       "rank": 1,
@@ -722,7 +722,7 @@
       "id": "xai-org/grok-1",
       "name": "grok-1",
       "org": "xai-org",
-      "likes": 2401,
+      "likes": 2402,
       "downloads": 171,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1376,55 +1376,55 @@
   "trending": [
     {
       "id": "google/gemma-4-31B-it",
-      "likes": 1555,
+      "likes": 1557,
       "downloads": 1333678,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "dealignai/Gemma-4-31B-JANG_4M-CRACK",
-      "likes": 847,
+      "likes": 848,
       "downloads": 59852,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "zai-org/GLM-5.1",
-      "likes": 840,
+      "likes": 843,
       "downloads": 8465,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "netflix/void-model",
-      "likes": 695,
+      "likes": 696,
       "downloads": 0,
       "pipeline_tag": "video-to-video"
     },
     {
       "id": "openbmb/VoxCPM2",
-      "likes": 588,
+      "likes": 589,
       "downloads": 1815,
       "pipeline_tag": "text-to-speech"
     },
     {
-      "id": "google/gemma-4-26B-A4B-it",
-      "likes": 563,
-      "downloads": 1046548,
-      "pipeline_tag": "image-text-to-text"
-    },
-    {
       "id": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
-      "likes": 2539,
+      "likes": 2542,
       "downloads": 564664,
       "pipeline_tag": "image-text-to-text"
     },
     {
+      "id": "google/gemma-4-26B-A4B-it",
+      "likes": 564,
+      "downloads": 1046548,
+      "pipeline_tag": "image-text-to-text"
+    },
+    {
       "id": "google/gemma-4-E4B-it",
-      "likes": 534,
+      "likes": 537,
       "downloads": 784026,
       "pipeline_tag": "any-to-any"
     },
     {
       "id": "k2-fsa/OmniVoice",
-      "likes": 435,
+      "likes": 438,
       "downloads": 200591,
       "pipeline_tag": "text-to-speech"
     },
@@ -1436,7 +1436,7 @@
     },
     {
       "id": "k2-fsa/OmniVoice",
-      "likes": 322,
+      "likes": 323,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1483,15 +1483,15 @@
       "pipeline_tag": ""
     },
     {
-      "id": "webml-community/Gemma-4-WebGPU",
-      "likes": 125,
-      "downloads": 0,
-      "pipeline_tag": ""
-    },
-    {
       "id": "Roman1111111/claude-opus-4.6-10000x",
       "likes": 133,
       "downloads": 3488,
+      "pipeline_tag": ""
+    },
+    {
+      "id": "webml-community/Gemma-4-WebGPU",
+      "likes": 125,
+      "downloads": 0,
       "pipeline_tag": ""
     },
     {
@@ -1555,5 +1555,5 @@
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-04-10T05:48:34.729404+08:00"
+  "lastUpdatedISO": "2026-04-10T06:43:08.202843+08:00"
 }
