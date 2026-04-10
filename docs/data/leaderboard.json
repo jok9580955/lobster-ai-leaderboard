@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-10 07:39",
+  "lastUpdated": "2026-04-10 10:47",
   "arena": [
     {
       "rank": 1,
@@ -908,7 +908,7 @@
       "id": "Qwen/Qwen2.5-7B-Instruct",
       "name": "Qwen2.5-7B-Instruct",
       "org": "Qwen",
-      "likes": 1194,
+      "likes": 1195,
       "downloads": 12602900,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1107,7 +1107,7 @@
       "id": "Qwen/Qwen2.5-0.5B-Instruct",
       "name": "Qwen2.5-0.5B-Instruct",
       "org": "Qwen",
-      "likes": 494,
+      "likes": 495,
       "downloads": 5394668,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1376,109 +1376,109 @@
   "trending": [
     {
       "id": "google/gemma-4-31B-it",
-      "likes": 1561,
+      "likes": 1572,
       "downloads": 1333678,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "dealignai/Gemma-4-31B-JANG_4M-CRACK",
-      "likes": 850,
+      "likes": 858,
       "downloads": 59852,
-      "pipeline_tag": "text-generation"
+      "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "zai-org/GLM-5.1",
-      "likes": 846,
+      "likes": 854,
       "downloads": 8465,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "netflix/void-model",
-      "likes": 697,
+      "likes": 702,
       "downloads": 0,
       "pipeline_tag": "video-to-video"
     },
     {
       "id": "openbmb/VoxCPM2",
-      "likes": 590,
+      "likes": 597,
       "downloads": 1815,
       "pipeline_tag": "text-to-speech"
     },
     {
       "id": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
-      "likes": 2542,
+      "likes": 2545,
       "downloads": 564664,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "google/gemma-4-26B-A4B-it",
-      "likes": 567,
+      "likes": 570,
       "downloads": 1046548,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "google/gemma-4-E4B-it",
-      "likes": 537,
+      "likes": 540,
       "downloads": 784026,
       "pipeline_tag": "any-to-any"
     },
     {
       "id": "k2-fsa/OmniVoice",
-      "likes": 439,
+      "likes": 442,
       "downloads": 200591,
       "pipeline_tag": "text-to-speech"
     },
     {
       "id": "baidu/Qianfan-OCR",
-      "likes": 1129,
+      "likes": 1130,
       "downloads": 42622,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "k2-fsa/OmniVoice",
-      "likes": 325,
+      "likes": 327,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "ianncity/KIMI-K2.5-1000000x",
-      "likes": 168,
+      "likes": 171,
       "downloads": 1695,
       "pipeline_tag": ""
     },
     {
       "id": "r3gm/wan2-2-fp8da-aoti-preview",
-      "likes": 1946,
+      "likes": 1947,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "lambda/hermes-agent-reasoning-traces",
-      "likes": 74,
+      "likes": 77,
       "downloads": 642,
       "pipeline_tag": ""
     },
     {
       "id": "prithivMLmods/FireRed-Image-Edit-1.0-Fast",
-      "likes": 759,
+      "likes": 760,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "multimodalart/qwen-image-multiple-angles-3d-camera",
-      "likes": 2200,
+      "likes": 2201,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "nohurry/Opus-4.6-Reasoning-3000x-filtered",
-      "likes": 528,
+      "likes": 529,
       "downloads": 9400,
       "pipeline_tag": ""
     },
     {
       "id": "open-index/hacker-news",
-      "likes": 287,
+      "likes": 288,
       "downloads": 23398,
       "pipeline_tag": ""
     },
@@ -1486,6 +1486,12 @@
       "id": "Roman1111111/claude-opus-4.6-10000x",
       "likes": 133,
       "downloads": 3488,
+      "pipeline_tag": ""
+    },
+    {
+      "id": "badlogicgames/pi-mono",
+      "likes": 39,
+      "downloads": 3189,
       "pipeline_tag": ""
     },
     {
@@ -1498,12 +1504,6 @@
       "id": "webml-community/Gemma-4-WebGPU",
       "likes": 125,
       "downloads": 0,
-      "pipeline_tag": ""
-    },
-    {
-      "id": "badlogicgames/pi-mono",
-      "likes": 39,
-      "downloads": 3189,
       "pipeline_tag": ""
     },
     {
@@ -1520,19 +1520,19 @@
     },
     {
       "id": "r3gm/wan2-2-fp8da-aoti-preview2",
-      "likes": 649,
+      "likes": 650,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "Crownelius/Opus-4.6-Reasoning-2100x-formatted",
-      "likes": 49,
+      "likes": 51,
       "downloads": 777,
       "pipeline_tag": ""
     },
     {
       "id": "Roman1111111/gpt-5.4-step-by-step-reasoning",
-      "likes": 45,
+      "likes": 47,
       "downloads": 618,
       "pipeline_tag": ""
     },
@@ -1549,11 +1549,11 @@
       "pipeline_tag": ""
     },
     {
-      "id": "FrameAI4687/Omni-Video-Factory",
-      "likes": 849,
+      "id": "selfit-camera/Omni-Image-Editor",
+      "likes": 1383,
       "downloads": 0,
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-04-10T07:39:10.203582+08:00"
+  "lastUpdatedISO": "2026-04-10T10:47:07.265632+08:00"
 }
