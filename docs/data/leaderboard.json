@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-10 18:58",
+  "lastUpdated": "2026-04-10 19:55",
   "arena": [
     {
       "rank": 1,
@@ -366,7 +366,7 @@
       "id": "deepseek-ai/DeepSeek-R1",
       "name": "DeepSeek-R1",
       "org": "deepseek-ai",
-      "likes": 13158,
+      "likes": 13159,
       "downloads": 3341628,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -603,7 +603,7 @@
       "id": "mistralai/Mistral-7B-Instruct-v0.2",
       "name": "Mistral-7B-Instruct-v0.2",
       "org": "mistralai",
-      "likes": 3110,
+      "likes": 3111,
       "downloads": 2422628,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -908,7 +908,7 @@
       "id": "Qwen/Qwen2.5-7B-Instruct",
       "name": "Qwen2.5-7B-Instruct",
       "org": "Qwen",
-      "likes": 1195,
+      "likes": 1196,
       "downloads": 12111952,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1141,7 +1141,7 @@
       "id": "meta-llama/Llama-3.2-1B-Instruct",
       "name": "Llama-3.2-1B-Instruct",
       "org": "meta-llama",
-      "likes": 1357,
+      "likes": 1358,
       "downloads": 4172246,
       "license": "Llama3.2",
       "pipeline_tag": "text-generation",
@@ -1192,7 +1192,7 @@
       "id": "deepseek-ai/DeepSeek-R1",
       "name": "DeepSeek-R1",
       "org": "deepseek-ai",
-      "likes": 13158,
+      "likes": 13159,
       "downloads": 3341628,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -1342,7 +1342,7 @@
       "id": "mistralai/Mistral-7B-Instruct-v0.2",
       "name": "Mistral-7B-Instruct-v0.2",
       "org": "mistralai",
-      "likes": 3110,
+      "likes": 3111,
       "downloads": 2422628,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1376,63 +1376,63 @@
   "trending": [
     {
       "id": "google/gemma-4-31B-it",
-      "likes": 1612,
+      "likes": 1618,
       "downloads": 1589761,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "zai-org/GLM-5.1",
-      "likes": 884,
+      "likes": 887,
       "downloads": 15930,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "dealignai/Gemma-4-31B-JANG_4M-CRACK",
-      "likes": 877,
+      "likes": 881,
       "downloads": 75426,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "netflix/void-model",
-      "likes": 718,
+      "likes": 722,
       "downloads": 0,
       "pipeline_tag": "video-to-video"
     },
     {
       "id": "openbmb/VoxCPM2",
-      "likes": 640,
+      "likes": 641,
       "downloads": 3765,
       "pipeline_tag": "text-to-speech"
     },
     {
       "id": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
-      "likes": 2554,
+      "likes": 2556,
       "downloads": 567166,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "k2-fsa/OmniVoice",
-      "likes": 453,
+      "likes": 454,
       "downloads": 269789,
       "pipeline_tag": "text-to-speech"
     },
     {
       "id": "google/gemma-4-E4B-it",
-      "likes": 549,
+      "likes": 551,
       "downloads": 961135,
       "pipeline_tag": "any-to-any"
     },
     {
       "id": "google/gemma-4-26B-A4B-it",
-      "likes": 576,
+      "likes": 577,
       "downloads": 1269031,
       "pipeline_tag": "image-text-to-text"
     },
     {
-      "id": "baidu/Qianfan-OCR",
-      "likes": 1130,
-      "downloads": 43619,
-      "pipeline_tag": "image-text-to-text"
+      "id": "nvidia/Gemma-4-31B-IT-NVFP4",
+      "likes": 333,
+      "downloads": 453893,
+      "pipeline_tag": "text-generation"
     },
     {
       "id": "k2-fsa/OmniVoice",
@@ -1442,7 +1442,7 @@
     },
     {
       "id": "ianncity/KIMI-K2.5-1000000x",
-      "likes": 176,
+      "likes": 177,
       "downloads": 2016,
       "pipeline_tag": ""
     },
@@ -1472,7 +1472,7 @@
     },
     {
       "id": "multimodalart/qwen-image-multiple-angles-3d-camera",
-      "likes": 2204,
+      "likes": 2205,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1502,13 +1502,13 @@
     },
     {
       "id": "webml-community/Gemma-4-WebGPU",
-      "likes": 129,
+      "likes": 130,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "openbmb/VoxCPM-Demo",
-      "likes": 254,
+      "likes": 256,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1550,10 +1550,10 @@
     },
     {
       "id": "linoyts/Flux2-Klein-Face-Swap",
-      "likes": 258,
+      "likes": 259,
       "downloads": 0,
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-04-10T18:58:05.907209+08:00"
+  "lastUpdatedISO": "2026-04-10T19:55:28.706149+08:00"
 }
