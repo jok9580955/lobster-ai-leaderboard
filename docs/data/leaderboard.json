@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-11 00:57",
+  "lastUpdated": "2026-04-11 01:53",
   "arena": [
     {
       "rank": 1,
@@ -502,7 +502,7 @@
       "id": "meta-llama/Meta-Llama-3-8B-Instruct",
       "name": "Meta-Llama-3-8B-Instruct",
       "org": "meta-llama",
-      "likes": 4468,
+      "likes": 4469,
       "downloads": 1321249,
       "license": "Llama3",
       "pipeline_tag": "text-generation",
@@ -839,7 +839,7 @@
       "id": "meta-llama/Llama-3.2-3B-Instruct",
       "name": "Llama-3.2-3B-Instruct",
       "org": "meta-llama",
-      "likes": 2088,
+      "likes": 2089,
       "downloads": 5755922,
       "license": "Llama3.2",
       "pipeline_tag": "text-generation",
@@ -1090,7 +1090,7 @@
       "id": "meta-llama/Llama-3.2-3B-Instruct",
       "name": "Llama-3.2-3B-Instruct",
       "org": "meta-llama",
-      "likes": 2088,
+      "likes": 2089,
       "downloads": 5755922,
       "license": "Llama3.2",
       "pipeline_tag": "text-generation",
@@ -1376,43 +1376,43 @@
   "trending": [
     {
       "id": "google/gemma-4-31B-it",
-      "likes": 1641,
+      "likes": 1646,
       "downloads": 1589761,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "zai-org/GLM-5.1",
-      "likes": 901,
+      "likes": 905,
       "downloads": 15930,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "dealignai/Gemma-4-31B-JANG_4M-CRACK",
-      "likes": 890,
+      "likes": 893,
       "downloads": 75426,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "openbmb/VoxCPM2",
-      "likes": 650,
+      "likes": 654,
       "downloads": 3765,
       "pipeline_tag": "text-to-speech"
     },
     {
       "id": "netflix/void-model",
-      "likes": 728,
+      "likes": 730,
       "downloads": 0,
       "pipeline_tag": "video-to-video"
     },
     {
       "id": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
-      "likes": 2558,
+      "likes": 2561,
       "downloads": 567166,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "k2-fsa/OmniVoice",
-      "likes": 460,
+      "likes": 464,
       "downloads": 269789,
       "pipeline_tag": "text-to-speech"
     },
@@ -1424,7 +1424,7 @@
     },
     {
       "id": "google/gemma-4-26B-A4B-it",
-      "likes": 581,
+      "likes": 582,
       "downloads": 1269031,
       "pipeline_tag": "image-text-to-text"
     },
@@ -1447,20 +1447,20 @@
       "pipeline_tag": ""
     },
     {
-      "id": "r3gm/wan2-2-fp8da-aoti-preview",
-      "likes": 1955,
-      "downloads": 0,
-      "pipeline_tag": ""
-    },
-    {
       "id": "lambda/hermes-agent-reasoning-traces",
-      "likes": 83,
+      "likes": 84,
       "downloads": 798,
       "pipeline_tag": ""
     },
     {
+      "id": "r3gm/wan2-2-fp8da-aoti-preview",
+      "likes": 1957,
+      "downloads": 0,
+      "pipeline_tag": ""
+    },
+    {
       "id": "prithivMLmods/FireRed-Image-Edit-1.0-Fast",
-      "likes": 766,
+      "likes": 768,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1472,7 +1472,7 @@
     },
     {
       "id": "Roman1111111/claude-opus-4.6-10000x",
-      "likes": 140,
+      "likes": 141,
       "downloads": 3761,
       "pipeline_tag": ""
     },
@@ -1525,15 +1525,15 @@
       "pipeline_tag": ""
     },
     {
-      "id": "Roman1111111/gpt-5.4-step-by-step-reasoning",
-      "likes": 47,
-      "downloads": 762,
+      "id": "MME-Benchmarks/Video-MME-v2",
+      "likes": 26,
+      "downloads": 3249,
       "pipeline_tag": ""
     },
     {
-      "id": "MME-Benchmarks/Video-MME-v2",
-      "likes": 25,
-      "downloads": 3249,
+      "id": "Roman1111111/gpt-5.4-step-by-step-reasoning",
+      "likes": 47,
+      "downloads": 762,
       "pipeline_tag": ""
     },
     {
@@ -1543,8 +1543,8 @@
       "pipeline_tag": ""
     },
     {
-      "id": "linoyts/Flux2-Klein-Face-Swap",
-      "likes": 259,
+      "id": "FrameAI4687/Omni-Video-Factory",
+      "likes": 852,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1555,5 +1555,5 @@
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-04-11T00:57:37.142803+08:00"
+  "lastUpdatedISO": "2026-04-11T01:53:56.524771+08:00"
 }
