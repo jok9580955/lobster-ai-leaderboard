@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-12 04:37",
+  "lastUpdated": "2026-04-12 05:36",
   "arena": [
     {
       "rank": 1,
@@ -451,7 +451,7 @@
       "id": "openai/gpt-oss-120b",
       "name": "gpt-oss-120b",
       "org": "openai",
-      "likes": 4677,
+      "likes": 4676,
       "downloads": 3481152,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1175,7 +1175,7 @@
       "id": "openai/gpt-oss-120b",
       "name": "gpt-oss-120b",
       "org": "openai",
-      "likes": 4677,
+      "likes": 4676,
       "downloads": 3481152,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1382,7 +1382,7 @@
     },
     {
       "id": "dealignai/Gemma-4-31B-JANG_4M-CRACK",
-      "likes": 928,
+      "likes": 929,
       "downloads": 89753,
       "pipeline_tag": "image-text-to-text"
     },
@@ -1394,7 +1394,7 @@
     },
     {
       "id": "openbmb/VoxCPM2",
-      "likes": 690,
+      "likes": 693,
       "downloads": 5722,
       "pipeline_tag": "text-to-speech"
     },
@@ -1406,13 +1406,13 @@
     },
     {
       "id": "k2-fsa/OmniVoice",
-      "likes": 496,
+      "likes": 497,
       "downloads": 340361,
       "pipeline_tag": "text-to-speech"
     },
     {
       "id": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
-      "likes": 2578,
+      "likes": 2581,
       "downloads": 566643,
       "pipeline_tag": "image-text-to-text"
     },
@@ -1478,8 +1478,14 @@
     },
     {
       "id": "openbmb/VoxCPM-Demo",
-      "likes": 275,
+      "likes": 276,
       "downloads": 0,
+      "pipeline_tag": ""
+    },
+    {
+      "id": "nohurry/Opus-4.6-Reasoning-3000x-filtered",
+      "likes": 533,
+      "downloads": 9993,
       "pipeline_tag": ""
     },
     {
@@ -1489,14 +1495,8 @@
       "pipeline_tag": ""
     },
     {
-      "id": "nohurry/Opus-4.6-Reasoning-3000x-filtered",
-      "likes": 532,
-      "downloads": 9993,
-      "pipeline_tag": ""
-    },
-    {
       "id": "Crownelius/Opus-4.6-Reasoning-3300x",
-      "likes": 256,
+      "likes": 257,
       "downloads": 3077,
       "pipeline_tag": ""
     },
@@ -1508,7 +1508,7 @@
     },
     {
       "id": "webml-community/Gemma-4-WebGPU",
-      "likes": 142,
+      "likes": 143,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1550,10 +1550,10 @@
     },
     {
       "id": "linoyts/Flux2-Klein-Face-Swap",
-      "likes": 263,
+      "likes": 264,
       "downloads": 0,
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-04-12T04:37:31.646591+08:00"
+  "lastUpdatedISO": "2026-04-12T05:36:31.160938+08:00"
 }
