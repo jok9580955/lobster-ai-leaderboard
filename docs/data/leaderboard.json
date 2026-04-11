@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-12 05:36",
+  "lastUpdated": "2026-04-12 06:35",
   "arena": [
     {
       "rank": 1,
@@ -839,7 +839,7 @@
       "id": "meta-llama/Llama-3.2-3B-Instruct",
       "name": "Llama-3.2-3B-Instruct",
       "org": "meta-llama",
-      "likes": 2089,
+      "likes": 2090,
       "downloads": 5708713,
       "license": "Llama3.2",
       "pipeline_tag": "text-generation",
@@ -1090,7 +1090,7 @@
       "id": "meta-llama/Llama-3.2-3B-Instruct",
       "name": "Llama-3.2-3B-Instruct",
       "org": "meta-llama",
-      "likes": 2089,
+      "likes": 2090,
       "downloads": 5708713,
       "license": "Llama3.2",
       "pipeline_tag": "text-generation",
@@ -1388,13 +1388,13 @@
     },
     {
       "id": "google/gemma-4-31B-it",
-      "likes": 1726,
+      "likes": 1728,
       "downloads": 2026015,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "openbmb/VoxCPM2",
-      "likes": 693,
+      "likes": 695,
       "downloads": 5722,
       "pipeline_tag": "text-to-speech"
     },
@@ -1406,19 +1406,19 @@
     },
     {
       "id": "k2-fsa/OmniVoice",
-      "likes": 497,
+      "likes": 498,
       "downloads": 340361,
       "pipeline_tag": "text-to-speech"
     },
     {
       "id": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
-      "likes": 2581,
+      "likes": 2582,
       "downloads": 566643,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "google/gemma-4-E4B-it",
-      "likes": 582,
+      "likes": 583,
       "downloads": 1136791,
       "pipeline_tag": "any-to-any"
     },
@@ -1454,7 +1454,7 @@
     },
     {
       "id": "r3gm/wan2-2-fp8da-aoti-preview",
-      "likes": 1984,
+      "likes": 1985,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1490,7 +1490,7 @@
     },
     {
       "id": "multimodalart/qwen-image-multiple-angles-3d-camera",
-      "likes": 2217,
+      "likes": 2218,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1501,14 +1501,14 @@
       "pipeline_tag": ""
     },
     {
-      "id": "mrfakename/Z-Image-Turbo",
-      "likes": 2855,
+      "id": "webml-community/Gemma-4-WebGPU",
+      "likes": 143,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
-      "id": "webml-community/Gemma-4-WebGPU",
-      "likes": 143,
+      "id": "mrfakename/Z-Image-Turbo",
+      "likes": 2855,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1555,5 +1555,5 @@
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-04-12T05:36:31.160938+08:00"
+  "lastUpdatedISO": "2026-04-12T06:35:37.972387+08:00"
 }
