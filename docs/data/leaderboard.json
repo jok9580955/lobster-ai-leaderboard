@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-12 03:36",
+  "lastUpdated": "2026-04-12 04:37",
   "arena": [
     {
       "rank": 1,
@@ -366,7 +366,7 @@
       "id": "deepseek-ai/DeepSeek-R1",
       "name": "DeepSeek-R1",
       "org": "deepseek-ai",
-      "likes": 13164,
+      "likes": 13165,
       "downloads": 3461943,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -400,7 +400,7 @@
       "id": "meta-llama/Llama-3.1-8B-Instruct",
       "name": "Llama-3.1-8B-Instruct",
       "org": "meta-llama",
-      "likes": 5678,
+      "likes": 5679,
       "downloads": 9287740,
       "license": "Llama3.1",
       "pipeline_tag": "text-generation",
@@ -451,7 +451,7 @@
       "id": "openai/gpt-oss-120b",
       "name": "gpt-oss-120b",
       "org": "openai",
-      "likes": 4676,
+      "likes": 4677,
       "downloads": 3481152,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -553,7 +553,7 @@
       "id": "microsoft/phi-2",
       "name": "phi-2",
       "org": "microsoft",
-      "likes": 3444,
+      "likes": 3445,
       "downloads": 1304331,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -722,7 +722,7 @@
       "id": "xai-org/grok-1",
       "name": "grok-1",
       "org": "xai-org",
-      "likes": 2403,
+      "likes": 2405,
       "downloads": 185,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -822,7 +822,7 @@
       "id": "meta-llama/Llama-3.1-8B",
       "name": "Llama-3.1-8B",
       "org": "meta-llama",
-      "likes": 2145,
+      "likes": 2146,
       "downloads": 1417637,
       "license": "Llama3.1",
       "pipeline_tag": "text-generation",
@@ -942,7 +942,7 @@
       "id": "meta-llama/Llama-3.1-8B-Instruct",
       "name": "Llama-3.1-8B-Instruct",
       "org": "meta-llama",
-      "likes": 5678,
+      "likes": 5679,
       "downloads": 9287740,
       "license": "Llama3.1",
       "pipeline_tag": "text-generation",
@@ -1175,7 +1175,7 @@
       "id": "openai/gpt-oss-120b",
       "name": "gpt-oss-120b",
       "org": "openai",
-      "likes": 4676,
+      "likes": 4677,
       "downloads": 3481152,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1192,7 +1192,7 @@
       "id": "deepseek-ai/DeepSeek-R1",
       "name": "DeepSeek-R1",
       "org": "deepseek-ai",
-      "likes": 13164,
+      "likes": 13165,
       "downloads": 3461943,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -1376,19 +1376,19 @@
   "trending": [
     {
       "id": "zai-org/GLM-5.1",
-      "likes": 981,
+      "likes": 982,
       "downloads": 23998,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "dealignai/Gemma-4-31B-JANG_4M-CRACK",
-      "likes": 925,
+      "likes": 928,
       "downloads": 89753,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "google/gemma-4-31B-it",
-      "likes": 1722,
+      "likes": 1726,
       "downloads": 2026015,
       "pipeline_tag": "image-text-to-text"
     },
@@ -1400,7 +1400,7 @@
     },
     {
       "id": "netflix/void-model",
-      "likes": 755,
+      "likes": 756,
       "downloads": 0,
       "pipeline_tag": "video-to-video"
     },
@@ -1424,7 +1424,7 @@
     },
     {
       "id": "google/gemma-4-26B-A4B-it",
-      "likes": 605,
+      "likes": 606,
       "downloads": 1523413,
       "pipeline_tag": "image-text-to-text"
     },
@@ -1436,7 +1436,7 @@
     },
     {
       "id": "k2-fsa/OmniVoice",
-      "likes": 360,
+      "likes": 361,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1454,7 +1454,7 @@
     },
     {
       "id": "r3gm/wan2-2-fp8da-aoti-preview",
-      "likes": 1983,
+      "likes": 1984,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1466,7 +1466,7 @@
     },
     {
       "id": "Roman1111111/claude-opus-4.6-10000x",
-      "likes": 148,
+      "likes": 149,
       "downloads": 3957,
       "pipeline_tag": ""
     },
@@ -1531,15 +1531,15 @@
       "pipeline_tag": ""
     },
     {
-      "id": "Roman1111111/gpt-5.4-step-by-step-reasoning",
-      "likes": 48,
-      "downloads": 906,
+      "id": "nvidia/PhysicalAI-Autonomous-Vehicles",
+      "likes": 830,
+      "downloads": 1011353,
       "pipeline_tag": ""
     },
     {
-      "id": "hysong/MentalBench",
-      "likes": 24,
-      "downloads": 67,
+      "id": "Roman1111111/gpt-5.4-step-by-step-reasoning",
+      "likes": 48,
+      "downloads": 906,
       "pipeline_tag": ""
     },
     {
@@ -1555,5 +1555,5 @@
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-04-12T03:36:42.047087+08:00"
+  "lastUpdatedISO": "2026-04-12T04:37:31.646591+08:00"
 }
