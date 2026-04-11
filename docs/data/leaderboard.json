@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-11 16:49",
+  "lastUpdated": "2026-04-11 17:43",
   "arena": [
     {
       "rank": 1,
@@ -671,7 +671,7 @@
       "id": "meta-llama/Llama-3.3-70B-Instruct",
       "name": "Llama-3.3-70B-Instruct",
       "org": "meta-llama",
-      "likes": 2694,
+      "likes": 2695,
       "downloads": 436441,
       "license": "Llama3.3",
       "pipeline_tag": "text-generation",
@@ -1376,7 +1376,7 @@
   "trending": [
     {
       "id": "google/gemma-4-31B-it",
-      "likes": 1695,
+      "likes": 1699,
       "downloads": 2026015,
       "pipeline_tag": "image-text-to-text"
     },
@@ -1388,7 +1388,7 @@
     },
     {
       "id": "dealignai/Gemma-4-31B-JANG_4M-CRACK",
-      "likes": 912,
+      "likes": 913,
       "downloads": 89753,
       "pipeline_tag": "image-text-to-text"
     },
@@ -1412,7 +1412,7 @@
     },
     {
       "id": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
-      "likes": 2570,
+      "likes": 2571,
       "downloads": 566643,
       "pipeline_tag": "image-text-to-text"
     },
@@ -1424,7 +1424,7 @@
     },
     {
       "id": "google/gemma-4-26B-A4B-it",
-      "likes": 592,
+      "likes": 593,
       "downloads": 1523413,
       "pipeline_tag": "image-text-to-text"
     },
@@ -1436,7 +1436,7 @@
     },
     {
       "id": "k2-fsa/OmniVoice",
-      "likes": 350,
+      "likes": 352,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1447,15 +1447,15 @@
       "pipeline_tag": ""
     },
     {
-      "id": "r3gm/wan2-2-fp8da-aoti-preview",
-      "likes": 1973,
-      "downloads": 0,
+      "id": "lambda/hermes-agent-reasoning-traces",
+      "likes": 85,
+      "downloads": 938,
       "pipeline_tag": ""
     },
     {
-      "id": "lambda/hermes-agent-reasoning-traces",
-      "likes": 84,
-      "downloads": 938,
+      "id": "r3gm/wan2-2-fp8da-aoti-preview",
+      "likes": 1974,
+      "downloads": 0,
       "pipeline_tag": ""
     },
     {
@@ -1484,7 +1484,7 @@
     },
     {
       "id": "multimodalart/qwen-image-multiple-angles-3d-camera",
-      "likes": 2211,
+      "likes": 2212,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1555,5 +1555,5 @@
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-04-11T16:49:49.423502+08:00"
+  "lastUpdatedISO": "2026-04-11T17:43:40.641168+08:00"
 }
