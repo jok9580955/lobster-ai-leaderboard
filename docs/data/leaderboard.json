@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-11 18:37",
+  "lastUpdated": "2026-04-11 19:33",
   "arena": [
     {
       "rank": 1,
@@ -451,7 +451,7 @@
       "id": "openai/gpt-oss-120b",
       "name": "gpt-oss-120b",
       "org": "openai",
-      "likes": 4675,
+      "likes": 4676,
       "downloads": 3481152,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -468,7 +468,7 @@
       "id": "openai/gpt-oss-20b",
       "name": "gpt-oss-20b",
       "org": "openai",
-      "likes": 4525,
+      "likes": 4526,
       "downloads": 5924012,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -822,7 +822,7 @@
       "id": "meta-llama/Llama-3.1-8B",
       "name": "Llama-3.1-8B",
       "org": "meta-llama",
-      "likes": 2142,
+      "likes": 2143,
       "downloads": 1417637,
       "license": "Llama3.1",
       "pipeline_tag": "text-generation",
@@ -1073,7 +1073,7 @@
       "id": "openai/gpt-oss-20b",
       "name": "gpt-oss-20b",
       "org": "openai",
-      "likes": 4525,
+      "likes": 4526,
       "downloads": 5924012,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1175,7 +1175,7 @@
       "id": "openai/gpt-oss-120b",
       "name": "gpt-oss-120b",
       "org": "openai",
-      "likes": 4675,
+      "likes": 4676,
       "downloads": 3481152,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1375,20 +1375,20 @@
   ],
   "trending": [
     {
-      "id": "google/gemma-4-31B-it",
-      "likes": 1699,
-      "downloads": 2026015,
-      "pipeline_tag": "image-text-to-text"
-    },
-    {
       "id": "zai-org/GLM-5.1",
-      "likes": 948,
+      "likes": 950,
       "downloads": 23998,
       "pipeline_tag": "text-generation"
     },
     {
+      "id": "google/gemma-4-31B-it",
+      "likes": 1702,
+      "downloads": 2026015,
+      "pipeline_tag": "image-text-to-text"
+    },
+    {
       "id": "dealignai/Gemma-4-31B-JANG_4M-CRACK",
-      "likes": 913,
+      "likes": 915,
       "downloads": 89753,
       "pipeline_tag": "image-text-to-text"
     },
@@ -1400,7 +1400,7 @@
     },
     {
       "id": "netflix/void-model",
-      "likes": 744,
+      "likes": 745,
       "downloads": 0,
       "pipeline_tag": "video-to-video"
     },
@@ -1418,13 +1418,13 @@
     },
     {
       "id": "google/gemma-4-E4B-it",
-      "likes": 572,
+      "likes": 573,
       "downloads": 1136791,
       "pipeline_tag": "any-to-any"
     },
     {
       "id": "google/gemma-4-26B-A4B-it",
-      "likes": 593,
+      "likes": 594,
       "downloads": 1523413,
       "pipeline_tag": "image-text-to-text"
     },
@@ -1454,7 +1454,7 @@
     },
     {
       "id": "r3gm/wan2-2-fp8da-aoti-preview",
-      "likes": 1975,
+      "likes": 1976,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1490,7 +1490,7 @@
     },
     {
       "id": "openbmb/VoxCPM-Demo",
-      "likes": 267,
+      "likes": 269,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1502,7 +1502,7 @@
     },
     {
       "id": "mrfakename/Z-Image-Turbo",
-      "likes": 2852,
+      "likes": 2853,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1555,5 +1555,5 @@
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-04-11T18:37:07.324058+08:00"
+  "lastUpdatedISO": "2026-04-11T19:33:23.458560+08:00"
 }
