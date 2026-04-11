@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-11 15:51",
+  "lastUpdated": "2026-04-11 16:49",
   "arena": [
     {
       "rank": 1,
@@ -925,7 +925,7 @@
       "id": "Qwen/Qwen2.5-1.5B-Instruct",
       "name": "Qwen2.5-1.5B-Instruct",
       "org": "Qwen",
-      "likes": 662,
+      "likes": 663,
       "downloads": 9951322,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1376,19 +1376,19 @@
   "trending": [
     {
       "id": "google/gemma-4-31B-it",
-      "likes": 1689,
+      "likes": 1695,
       "downloads": 2026015,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "zai-org/GLM-5.1",
-      "likes": 945,
+      "likes": 946,
       "downloads": 23998,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "dealignai/Gemma-4-31B-JANG_4M-CRACK",
-      "likes": 911,
+      "likes": 912,
       "downloads": 89753,
       "pipeline_tag": "image-text-to-text"
     },
@@ -1400,13 +1400,13 @@
     },
     {
       "id": "netflix/void-model",
-      "likes": 743,
+      "likes": 744,
       "downloads": 0,
       "pipeline_tag": "video-to-video"
     },
     {
       "id": "k2-fsa/OmniVoice",
-      "likes": 481,
+      "likes": 482,
       "downloads": 340361,
       "pipeline_tag": "text-to-speech"
     },
@@ -1436,7 +1436,7 @@
     },
     {
       "id": "k2-fsa/OmniVoice",
-      "likes": 349,
+      "likes": 350,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1455,7 +1455,7 @@
     {
       "id": "lambda/hermes-agent-reasoning-traces",
       "likes": 84,
-      "downloads": 798,
+      "downloads": 938,
       "pipeline_tag": ""
     },
     {
@@ -1479,7 +1479,7 @@
     {
       "id": "badlogicgames/pi-mono",
       "likes": 43,
-      "downloads": 4538,
+      "downloads": 5427,
       "pipeline_tag": ""
     },
     {
@@ -1508,26 +1508,26 @@
     },
     {
       "id": "mrfakename/Z-Image-Turbo",
-      "likes": 2851,
+      "likes": 2852,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "webml-community/Gemma-4-WebGPU",
-      "likes": 136,
+      "likes": 137,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "r3gm/wan2-2-fp8da-aoti-preview2",
-      "likes": 657,
+      "likes": 658,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "MME-Benchmarks/Video-MME-v2",
       "likes": 27,
-      "downloads": 3249,
+      "downloads": 3724,
       "pipeline_tag": ""
     },
     {
@@ -1555,5 +1555,5 @@
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-04-11T15:51:37.346914+08:00"
+  "lastUpdatedISO": "2026-04-11T16:49:49.423502+08:00"
 }
