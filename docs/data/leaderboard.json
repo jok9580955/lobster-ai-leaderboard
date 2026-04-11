@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-11 12:57",
+  "lastUpdated": "2026-04-11 14:05",
   "arena": [
     {
       "rank": 1,
@@ -1359,7 +1359,7 @@
       "id": "Qwen/Qwen2.5-Coder-7B-Instruct",
       "name": "Qwen2.5-Coder-7B-Instruct",
       "org": "Qwen",
-      "likes": 682,
+      "likes": 683,
       "downloads": 2386643,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1376,31 +1376,31 @@
   "trending": [
     {
       "id": "google/gemma-4-31B-it",
-      "likes": 1681,
+      "likes": 1683,
       "downloads": 1589761,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "zai-org/GLM-5.1",
-      "likes": 938,
+      "likes": 942,
       "downloads": 15930,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "dealignai/Gemma-4-31B-JANG_4M-CRACK",
-      "likes": 904,
+      "likes": 905,
       "downloads": 75426,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "openbmb/VoxCPM2",
-      "likes": 674,
+      "likes": 676,
       "downloads": 3765,
       "pipeline_tag": "text-to-speech"
     },
     {
       "id": "netflix/void-model",
-      "likes": 741,
+      "likes": 742,
       "downloads": 0,
       "pipeline_tag": "video-to-video"
     },
@@ -1412,13 +1412,13 @@
     },
     {
       "id": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
-      "likes": 2568,
+      "likes": 2570,
       "downloads": 567166,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "google/gemma-4-E4B-it",
-      "likes": 565,
+      "likes": 567,
       "downloads": 961135,
       "pipeline_tag": "any-to-any"
     },
@@ -1448,7 +1448,7 @@
     },
     {
       "id": "r3gm/wan2-2-fp8da-aoti-preview",
-      "likes": 1970,
+      "likes": 1972,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1466,7 +1466,7 @@
     },
     {
       "id": "Roman1111111/claude-opus-4.6-10000x",
-      "likes": 143,
+      "likes": 144,
       "downloads": 3761,
       "pipeline_tag": ""
     },
@@ -1478,7 +1478,7 @@
     },
     {
       "id": "badlogicgames/pi-mono",
-      "likes": 42,
+      "likes": 43,
       "downloads": 4538,
       "pipeline_tag": ""
     },
@@ -1544,7 +1544,7 @@
     },
     {
       "id": "lerobot/robot-folding",
-      "likes": 53,
+      "likes": 54,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1555,5 +1555,5 @@
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-04-11T12:57:43.833502+08:00"
+  "lastUpdatedISO": "2026-04-11T14:05:56.006062+08:00"
 }
