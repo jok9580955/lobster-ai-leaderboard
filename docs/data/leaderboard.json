@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-13 05:37",
+  "lastUpdated": "2026-04-13 06:37",
   "arena": [
     {
       "rank": 1,
@@ -637,7 +637,7 @@
       "id": "bigcode/starcoder",
       "name": "starcoder",
       "org": "bigcode",
-      "likes": 2939,
+      "likes": 2940,
       "downloads": 10887,
       "license": "Bigcode Openrail M",
       "pipeline_tag": "text-generation",
@@ -654,7 +654,7 @@
       "id": "Qwen/QwQ-32B",
       "name": "QwQ-32B",
       "org": "Qwen",
-      "likes": 2891,
+      "likes": 2892,
       "downloads": 71148,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1374,13 +1374,13 @@
   "trending": [
     {
       "id": "zai-org/GLM-5.1",
-      "likes": 1057,
+      "likes": 1059,
       "downloads": 28826,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "google/gemma-4-31B-it",
-      "likes": 1769,
+      "likes": 1772,
       "downloads": 2242541,
       "pipeline_tag": "image-text-to-text"
     },
@@ -1392,13 +1392,13 @@
     },
     {
       "id": "openbmb/VoxCPM2",
-      "likes": 740,
+      "likes": 741,
       "downloads": 7452,
       "pipeline_tag": "text-to-speech"
     },
     {
       "id": "MiniMaxAI/MiniMax-M2.7",
-      "likes": 439,
+      "likes": 446,
       "downloads": 873,
       "pipeline_tag": "text-generation"
     },
@@ -1410,44 +1410,44 @@
     },
     {
       "id": "k2-fsa/OmniVoice",
-      "likes": 520,
+      "likes": 521,
       "downloads": 393991,
       "pipeline_tag": "text-to-speech"
     },
     {
       "id": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
-      "likes": 2596,
+      "likes": 2597,
       "downloads": 578295,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "google/gemma-4-E4B-it",
-      "likes": 603,
+      "likes": 606,
       "downloads": 1269309,
       "pipeline_tag": "any-to-any"
     },
     {
       "id": "google/gemma-4-26B-A4B-it",
-      "likes": 618,
+      "likes": 620,
       "downloads": 1734340,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "k2-fsa/OmniVoice",
-      "likes": 389,
+      "likes": 391,
       "downloads": 0,
+      "pipeline_tag": ""
+    },
+    {
+      "id": "lambda/hermes-agent-reasoning-traces",
+      "likes": 99,
+      "downloads": 1038,
       "pipeline_tag": ""
     },
     {
       "id": "ianncity/KIMI-K2.5-1000000x",
       "likes": 189,
       "downloads": 2448,
-      "pipeline_tag": ""
-    },
-    {
-      "id": "lambda/hermes-agent-reasoning-traces",
-      "likes": 98,
-      "downloads": 1038,
       "pipeline_tag": ""
     },
     {
@@ -1458,7 +1458,7 @@
     },
     {
       "id": "badlogicgames/pi-mono",
-      "likes": 51,
+      "likes": 52,
       "downloads": 5960,
       "pipeline_tag": ""
     },
@@ -1476,7 +1476,7 @@
     },
     {
       "id": "prithivMLmods/FireRed-Image-Edit-1.0-Fast",
-      "likes": 796,
+      "likes": 797,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1553,5 +1553,5 @@
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-04-13T05:37:50.770562+08:00"
+  "lastUpdatedISO": "2026-04-13T06:37:31.433981+08:00"
 }
