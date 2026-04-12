@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-13 00:42",
+  "lastUpdated": "2026-04-13 01:37",
   "arena": [
     {
       "rank": 1,
@@ -417,7 +417,7 @@
       "id": "bigscience/bloom",
       "name": "bloom",
       "org": "bigscience",
-      "likes": 4997,
+      "likes": 4998,
       "downloads": 6191,
       "license": "Bigscience Bloom Rail 1.0",
       "pipeline_tag": "text-generation",
@@ -536,7 +536,7 @@
       "id": "deepseek-ai/DeepSeek-V3",
       "name": "DeepSeek-V3",
       "org": "deepseek-ai",
-      "likes": 4030,
+      "likes": 4031,
       "downloads": 729088,
       "license": "Unknown",
       "pipeline_tag": "text-generation",
@@ -875,7 +875,7 @@
       "id": "Qwen/Qwen3-0.6B",
       "name": "Qwen3-0.6B",
       "org": "Qwen",
-      "likes": 1187,
+      "likes": 1188,
       "downloads": 15133638,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1374,13 +1374,13 @@
   "trending": [
     {
       "id": "zai-org/GLM-5.1",
-      "likes": 1036,
+      "likes": 1041,
       "downloads": 28826,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "google/gemma-4-31B-it",
-      "likes": 1756,
+      "likes": 1759,
       "downloads": 2242541,
       "pipeline_tag": "image-text-to-text"
     },
@@ -1392,19 +1392,19 @@
     },
     {
       "id": "openbmb/VoxCPM2",
-      "likes": 729,
+      "likes": 732,
       "downloads": 7452,
       "pipeline_tag": "text-to-speech"
     },
     {
       "id": "netflix/void-model",
-      "likes": 770,
+      "likes": 771,
       "downloads": 0,
       "pipeline_tag": "video-to-video"
     },
     {
       "id": "MiniMaxAI/MiniMax-M2.7",
-      "likes": 386,
+      "likes": 400,
       "downloads": 873,
       "pipeline_tag": "text-generation"
     },
@@ -1416,13 +1416,13 @@
     },
     {
       "id": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
-      "likes": 2591,
+      "likes": 2592,
       "downloads": 578295,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "google/gemma-4-E4B-it",
-      "likes": 596,
+      "likes": 597,
       "downloads": 1269309,
       "pipeline_tag": "any-to-any"
     },
@@ -1434,7 +1434,7 @@
     },
     {
       "id": "k2-fsa/OmniVoice",
-      "likes": 383,
+      "likes": 385,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1446,7 +1446,7 @@
     },
     {
       "id": "lambda/hermes-agent-reasoning-traces",
-      "likes": 96,
+      "likes": 97,
       "downloads": 1038,
       "pipeline_tag": ""
     },
@@ -1458,14 +1458,8 @@
     },
     {
       "id": "prithivMLmods/FireRed-Image-Edit-1.0-Fast",
-      "likes": 795,
+      "likes": 796,
       "downloads": 0,
-      "pipeline_tag": ""
-    },
-    {
-      "id": "Roman1111111/claude-opus-4.6-10000x",
-      "likes": 152,
-      "downloads": 4016,
       "pipeline_tag": ""
     },
     {
@@ -1475,8 +1469,14 @@
       "pipeline_tag": ""
     },
     {
+      "id": "Roman1111111/claude-opus-4.6-10000x",
+      "likes": 152,
+      "downloads": 4016,
+      "pipeline_tag": ""
+    },
+    {
       "id": "openbmb/VoxCPM-Demo",
-      "likes": 284,
+      "likes": 288,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1487,20 +1487,20 @@
       "pipeline_tag": ""
     },
     {
-      "id": "Crownelius/Opus-4.6-Reasoning-3300x",
-      "likes": 258,
-      "downloads": 3084,
-      "pipeline_tag": ""
-    },
-    {
       "id": "multimodalart/qwen-image-multiple-angles-3d-camera",
       "likes": 2227,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
+      "id": "Crownelius/Opus-4.6-Reasoning-3300x",
+      "likes": 258,
+      "downloads": 3084,
+      "pipeline_tag": ""
+    },
+    {
       "id": "webml-community/Gemma-4-WebGPU",
-      "likes": 147,
+      "likes": 148,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1517,27 +1517,27 @@
       "pipeline_tag": ""
     },
     {
+      "id": "nvidia/PhysicalAI-Autonomous-Vehicles",
+      "likes": 832,
+      "downloads": 1011842,
+      "pipeline_tag": ""
+    },
+    {
       "id": "hysong/MentalBench",
       "likes": 26,
       "downloads": 81,
       "pipeline_tag": ""
     },
     {
-      "id": "r3gm/wan2-2-fp8da-aoti-preview2",
-      "likes": 664,
-      "downloads": 0,
-      "pipeline_tag": ""
-    },
-    {
-      "id": "nvidia/PhysicalAI-Autonomous-Vehicles",
-      "likes": 831,
-      "downloads": 1011842,
-      "pipeline_tag": ""
-    },
-    {
       "id": "open-index/hacker-news",
       "likes": 293,
       "downloads": 26025,
+      "pipeline_tag": ""
+    },
+    {
+      "id": "r3gm/wan2-2-fp8da-aoti-preview2",
+      "likes": 664,
+      "downloads": 0,
       "pipeline_tag": ""
     },
     {
@@ -1548,10 +1548,10 @@
     },
     {
       "id": "selfit-camera/Omni-Image-Editor",
-      "likes": 1399,
+      "likes": 1400,
       "downloads": 0,
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-04-13T00:42:46.610403+08:00"
+  "lastUpdatedISO": "2026-04-13T01:37:34.467123+08:00"
 }
