@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-12 16:53",
+  "lastUpdated": "2026-04-12 17:49",
   "arena": [
     {
       "rank": 1,
@@ -417,7 +417,7 @@
       "id": "bigscience/bloom",
       "name": "bloom",
       "org": "bigscience",
-      "likes": 4996,
+      "likes": 4997,
       "downloads": 6191,
       "license": "Bigscience Bloom Rail 1.0",
       "pipeline_tag": "text-generation",
@@ -1374,7 +1374,7 @@
   "trending": [
     {
       "id": "zai-org/GLM-5.1",
-      "likes": 1009,
+      "likes": 1011,
       "downloads": 28826,
       "pipeline_tag": "text-generation"
     },
@@ -1386,13 +1386,13 @@
     },
     {
       "id": "google/gemma-4-31B-it",
-      "likes": 1742,
+      "likes": 1744,
       "downloads": 2242541,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "openbmb/VoxCPM2",
-      "likes": 709,
+      "likes": 710,
       "downloads": 7452,
       "pipeline_tag": "text-to-speech"
     },
@@ -1404,27 +1404,27 @@
     },
     {
       "id": "k2-fsa/OmniVoice",
-      "likes": 507,
+      "likes": 508,
       "downloads": 393991,
       "pipeline_tag": "text-to-speech"
     },
     {
       "id": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
-      "likes": 2585,
+      "likes": 2586,
       "downloads": 578295,
       "pipeline_tag": "image-text-to-text"
     },
     {
-      "id": "google/gemma-4-E4B-it",
-      "likes": 594,
-      "downloads": 1269309,
-      "pipeline_tag": "any-to-any"
-    },
-    {
       "id": "MiniMaxAI/MiniMax-M2.7",
-      "likes": 265,
+      "likes": 289,
       "downloads": 873,
       "pipeline_tag": "text-generation"
+    },
+    {
+      "id": "google/gemma-4-E4B-it",
+      "likes": 595,
+      "downloads": 1269309,
+      "pipeline_tag": "any-to-any"
     },
     {
       "id": "google/gemma-4-26B-A4B-it",
@@ -1434,7 +1434,7 @@
     },
     {
       "id": "k2-fsa/OmniVoice",
-      "likes": 373,
+      "likes": 374,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1458,7 +1458,7 @@
     },
     {
       "id": "prithivMLmods/FireRed-Image-Edit-1.0-Fast",
-      "likes": 785,
+      "likes": 786,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1548,10 +1548,10 @@
     },
     {
       "id": "selfit-camera/Omni-Image-Editor",
-      "likes": 1396,
+      "likes": 1397,
       "downloads": 0,
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-04-12T16:53:46.586615+08:00"
+  "lastUpdatedISO": "2026-04-12T17:49:24.714173+08:00"
 }
