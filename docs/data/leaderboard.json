@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-12 22:41",
+  "lastUpdated": "2026-04-12 23:38",
   "arena": [
     {
       "rank": 1,
@@ -603,7 +603,7 @@
       "id": "mistralai/Mistral-7B-Instruct-v0.2",
       "name": "Mistral-7B-Instruct-v0.2",
       "org": "mistralai",
-      "likes": 3112,
+      "likes": 3113,
       "downloads": 2345403,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -839,7 +839,7 @@
       "id": "meta-llama/Llama-3.2-3B-Instruct",
       "name": "Llama-3.2-3B-Instruct",
       "org": "meta-llama",
-      "likes": 2090,
+      "likes": 2091,
       "downloads": 5336740,
       "license": "Llama3.2",
       "pipeline_tag": "text-generation",
@@ -1107,7 +1107,7 @@
       "id": "meta-llama/Llama-3.2-3B-Instruct",
       "name": "Llama-3.2-3B-Instruct",
       "org": "meta-llama",
-      "likes": 2090,
+      "likes": 2091,
       "downloads": 5336740,
       "license": "Llama3.2",
       "pipeline_tag": "text-generation",
@@ -1357,7 +1357,7 @@
       "id": "mistralai/Mistral-7B-Instruct-v0.2",
       "name": "Mistral-7B-Instruct-v0.2",
       "org": "mistralai",
-      "likes": 3112,
+      "likes": 3113,
       "downloads": 2345403,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1374,49 +1374,49 @@
   "trending": [
     {
       "id": "zai-org/GLM-5.1",
-      "likes": 1028,
+      "likes": 1035,
       "downloads": 28826,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "google/gemma-4-31B-it",
-      "likes": 1753,
+      "likes": 1754,
       "downloads": 2242541,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "dealignai/Gemma-4-31B-JANG_4M-CRACK",
-      "likes": 947,
+      "likes": 950,
       "downloads": 99134,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "openbmb/VoxCPM2",
-      "likes": 723,
+      "likes": 727,
       "downloads": 7452,
       "pipeline_tag": "text-to-speech"
     },
     {
       "id": "netflix/void-model",
-      "likes": 769,
+      "likes": 770,
       "downloads": 0,
       "pipeline_tag": "video-to-video"
     },
     {
       "id": "MiniMaxAI/MiniMax-M2.7",
-      "likes": 365,
+      "likes": 376,
       "downloads": 873,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "k2-fsa/OmniVoice",
-      "likes": 510,
+      "likes": 513,
       "downloads": 393991,
       "pipeline_tag": "text-to-speech"
     },
     {
       "id": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
-      "likes": 2589,
+      "likes": 2591,
       "downloads": 578295,
       "pipeline_tag": "image-text-to-text"
     },
@@ -1434,7 +1434,7 @@
     },
     {
       "id": "k2-fsa/OmniVoice",
-      "likes": 378,
+      "likes": 383,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1446,7 +1446,7 @@
     },
     {
       "id": "lambda/hermes-agent-reasoning-traces",
-      "likes": 95,
+      "likes": 96,
       "downloads": 1038,
       "pipeline_tag": ""
     },
@@ -1458,7 +1458,7 @@
     },
     {
       "id": "prithivMLmods/FireRed-Image-Edit-1.0-Fast",
-      "likes": 792,
+      "likes": 794,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1481,15 +1481,15 @@
       "pipeline_tag": ""
     },
     {
-      "id": "multimodalart/qwen-image-multiple-angles-3d-camera",
-      "likes": 2227,
-      "downloads": 0,
-      "pipeline_tag": ""
-    },
-    {
       "id": "nohurry/Opus-4.6-Reasoning-3000x-filtered",
       "likes": 534,
       "downloads": 9816,
+      "pipeline_tag": ""
+    },
+    {
+      "id": "multimodalart/qwen-image-multiple-angles-3d-camera",
+      "likes": 2227,
+      "downloads": 0,
       "pipeline_tag": ""
     },
     {
@@ -1506,14 +1506,8 @@
     },
     {
       "id": "mrfakename/Z-Image-Turbo",
-      "likes": 2858,
+      "likes": 2859,
       "downloads": 0,
-      "pipeline_tag": ""
-    },
-    {
-      "id": "open-index/hacker-news",
-      "likes": 293,
-      "downloads": 26025,
       "pipeline_tag": ""
     },
     {
@@ -1530,8 +1524,14 @@
     },
     {
       "id": "r3gm/wan2-2-fp8da-aoti-preview2",
-      "likes": 662,
+      "likes": 664,
       "downloads": 0,
+      "pipeline_tag": ""
+    },
+    {
+      "id": "open-index/hacker-news",
+      "likes": 293,
+      "downloads": 26025,
       "pipeline_tag": ""
     },
     {
@@ -1553,5 +1553,5 @@
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-04-12T22:41:36.499391+08:00"
+  "lastUpdatedISO": "2026-04-12T23:38:35.849013+08:00"
 }
