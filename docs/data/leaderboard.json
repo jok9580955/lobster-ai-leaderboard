@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-12 17:49",
+  "lastUpdated": "2026-04-12 18:41",
   "arena": [
     {
       "rank": 1,
@@ -754,7 +754,7 @@
       "id": "moonshotai/Kimi-K2-Instruct",
       "name": "Kimi-K2-Instruct",
       "org": "moonshotai",
-      "likes": 2335,
+      "likes": 2336,
       "downloads": 158941,
       "license": "Other",
       "pipeline_tag": "text-generation",
@@ -908,7 +908,7 @@
       "id": "Qwen/Qwen2.5-7B-Instruct",
       "name": "Qwen2.5-7B-Instruct",
       "org": "Qwen",
-      "likes": 1198,
+      "likes": 1199,
       "downloads": 12936213,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1374,7 +1374,7 @@
   "trending": [
     {
       "id": "zai-org/GLM-5.1",
-      "likes": 1011,
+      "likes": 1012,
       "downloads": 28826,
       "pipeline_tag": "text-generation"
     },
@@ -1386,39 +1386,39 @@
     },
     {
       "id": "google/gemma-4-31B-it",
-      "likes": 1744,
+      "likes": 1746,
       "downloads": 2242541,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "openbmb/VoxCPM2",
-      "likes": 710,
+      "likes": 712,
       "downloads": 7452,
       "pipeline_tag": "text-to-speech"
     },
     {
       "id": "netflix/void-model",
-      "likes": 767,
+      "likes": 768,
       "downloads": 0,
       "pipeline_tag": "video-to-video"
     },
     {
       "id": "k2-fsa/OmniVoice",
-      "likes": 508,
+      "likes": 510,
       "downloads": 393991,
       "pipeline_tag": "text-to-speech"
+    },
+    {
+      "id": "MiniMaxAI/MiniMax-M2.7",
+      "likes": 298,
+      "downloads": 873,
+      "pipeline_tag": "text-generation"
     },
     {
       "id": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
       "likes": 2586,
       "downloads": 578295,
       "pipeline_tag": "image-text-to-text"
-    },
-    {
-      "id": "MiniMaxAI/MiniMax-M2.7",
-      "likes": 289,
-      "downloads": 873,
-      "pipeline_tag": "text-generation"
     },
     {
       "id": "google/gemma-4-E4B-it",
@@ -1428,19 +1428,19 @@
     },
     {
       "id": "google/gemma-4-26B-A4B-it",
-      "likes": 610,
+      "likes": 611,
       "downloads": 1734340,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "k2-fsa/OmniVoice",
-      "likes": 374,
+      "likes": 376,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "ianncity/KIMI-K2.5-1000000x",
-      "likes": 187,
+      "likes": 188,
       "downloads": 2448,
       "pipeline_tag": ""
     },
@@ -1452,19 +1452,19 @@
     },
     {
       "id": "r3gm/wan2-2-fp8da-aoti-preview",
-      "likes": 1990,
+      "likes": 1994,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "prithivMLmods/FireRed-Image-Edit-1.0-Fast",
-      "likes": 786,
+      "likes": 787,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "Roman1111111/claude-opus-4.6-10000x",
-      "likes": 151,
+      "likes": 152,
       "downloads": 4016,
       "pipeline_tag": ""
     },
@@ -1548,10 +1548,10 @@
     },
     {
       "id": "selfit-camera/Omni-Image-Editor",
-      "likes": 1397,
+      "likes": 1398,
       "downloads": 0,
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-04-12T17:49:24.714173+08:00"
+  "lastUpdatedISO": "2026-04-12T18:41:03.009043+08:00"
 }
