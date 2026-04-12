@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-12 18:41",
+  "lastUpdated": "2026-04-12 19:35",
   "arena": [
     {
       "rank": 1,
@@ -1374,7 +1374,7 @@
   "trending": [
     {
       "id": "zai-org/GLM-5.1",
-      "likes": 1012,
+      "likes": 1014,
       "downloads": 28826,
       "pipeline_tag": "text-generation"
     },
@@ -1403,16 +1403,16 @@
       "pipeline_tag": "video-to-video"
     },
     {
+      "id": "MiniMaxAI/MiniMax-M2.7",
+      "likes": 319,
+      "downloads": 873,
+      "pipeline_tag": "text-generation"
+    },
+    {
       "id": "k2-fsa/OmniVoice",
       "likes": 510,
       "downloads": 393991,
       "pipeline_tag": "text-to-speech"
-    },
-    {
-      "id": "MiniMaxAI/MiniMax-M2.7",
-      "likes": 298,
-      "downloads": 873,
-      "pipeline_tag": "text-generation"
     },
     {
       "id": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
@@ -1452,13 +1452,13 @@
     },
     {
       "id": "r3gm/wan2-2-fp8da-aoti-preview",
-      "likes": 1994,
+      "likes": 1996,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "prithivMLmods/FireRed-Image-Edit-1.0-Fast",
-      "likes": 787,
+      "likes": 788,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1482,7 +1482,7 @@
     },
     {
       "id": "multimodalart/qwen-image-multiple-angles-3d-camera",
-      "likes": 2224,
+      "likes": 2225,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1553,5 +1553,5 @@
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-04-12T18:41:03.009043+08:00"
+  "lastUpdatedISO": "2026-04-12T19:35:58.890253+08:00"
 }
