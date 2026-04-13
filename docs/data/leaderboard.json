@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-14 05:53",
+  "lastUpdated": "2026-04-14 06:47",
   "arena": [
     {
       "rank": 1,
@@ -468,7 +468,7 @@
       "id": "openai/gpt-oss-20b",
       "name": "gpt-oss-20b",
       "org": "openai",
-      "likes": 4530,
+      "likes": 4531,
       "downloads": 6010268,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -754,7 +754,7 @@
       "id": "moonshotai/Kimi-K2-Instruct",
       "name": "Kimi-K2-Instruct",
       "org": "moonshotai",
-      "likes": 2335,
+      "likes": 2336,
       "downloads": 174560,
       "license": "Other",
       "pipeline_tag": "text-generation",
@@ -1088,7 +1088,7 @@
       "id": "openai/gpt-oss-20b",
       "name": "gpt-oss-20b",
       "org": "openai",
-      "likes": 4530,
+      "likes": 4531,
       "downloads": 6010268,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1380,7 +1380,7 @@
     },
     {
       "id": "openbmb/VoxCPM2",
-      "likes": 812,
+      "likes": 813,
       "downloads": 9301,
       "pipeline_tag": "text-to-speech"
     },
@@ -1392,19 +1392,19 @@
     },
     {
       "id": "MiniMaxAI/MiniMax-M2.7",
-      "likes": 629,
+      "likes": 630,
       "downloads": 18279,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "dealignai/Gemma-4-31B-JANG_4M-CRACK",
-      "likes": 1008,
+      "likes": 1010,
       "downloads": 107378,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "netflix/void-model",
-      "likes": 791,
+      "likes": 792,
       "downloads": 0,
       "pipeline_tag": "video-to-video"
     },
@@ -1434,7 +1434,7 @@
     },
     {
       "id": "k2-fsa/OmniVoice",
-      "likes": 419,
+      "likes": 420,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1523,6 +1523,12 @@
       "pipeline_tag": ""
     },
     {
+      "id": "lerobot/robot-folding",
+      "likes": 60,
+      "downloads": 0,
+      "pipeline_tag": ""
+    },
+    {
       "id": "r3gm/wan2-2-fp8da-aoti-preview2",
       "likes": 671,
       "downloads": 0,
@@ -1532,12 +1538,6 @@
       "id": "nvidia/PhysicalAI-Autonomous-Vehicles",
       "likes": 832,
       "downloads": 1012019,
-      "pipeline_tag": ""
-    },
-    {
-      "id": "lerobot/robot-folding",
-      "likes": 60,
-      "downloads": 0,
       "pipeline_tag": ""
     },
     {
@@ -1553,5 +1553,5 @@
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-04-14T05:53:19.708812+08:00"
+  "lastUpdatedISO": "2026-04-14T06:47:13.714405+08:00"
 }
