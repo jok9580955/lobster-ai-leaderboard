@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-13 10:55",
+  "lastUpdated": "2026-04-13 13:45",
   "arena": [
     {
       "rank": 1,
@@ -400,7 +400,7 @@
       "id": "meta-llama/Llama-3.1-8B-Instruct",
       "name": "Llama-3.1-8B-Instruct",
       "org": "meta-llama",
-      "likes": 5682,
+      "likes": 5683,
       "downloads": 9266275,
       "license": "Llama3.1",
       "pipeline_tag": "text-generation",
@@ -586,7 +586,7 @@
       "id": "openai-community/gpt2",
       "name": "gpt2",
       "org": "openai-community",
-      "likes": 3192,
+      "likes": 3193,
       "downloads": 13621649,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -875,7 +875,7 @@
       "id": "Qwen/Qwen3-0.6B",
       "name": "Qwen3-0.6B",
       "org": "Qwen",
-      "likes": 1188,
+      "likes": 1189,
       "downloads": 15133638,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -891,7 +891,7 @@
       "id": "openai-community/gpt2",
       "name": "gpt2",
       "org": "openai-community",
-      "likes": 3192,
+      "likes": 3193,
       "downloads": 13621649,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -942,7 +942,7 @@
       "id": "meta-llama/Llama-3.1-8B-Instruct",
       "name": "Llama-3.1-8B-Instruct",
       "org": "meta-llama",
-      "likes": 5682,
+      "likes": 5683,
       "downloads": 9266275,
       "license": "Llama3.1",
       "pipeline_tag": "text-generation",
@@ -976,7 +976,7 @@
       "id": "Qwen/Qwen3-8B",
       "name": "Qwen3-8B",
       "org": "Qwen",
-      "likes": 1037,
+      "likes": 1038,
       "downloads": 8161941,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1276,7 +1276,7 @@
       "id": "deepseek-ai/DeepSeek-V3.2",
       "name": "DeepSeek-V3.2",
       "org": "deepseek-ai",
-      "likes": 1385,
+      "likes": 1386,
       "downloads": 2756798,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -1323,7 +1323,7 @@
       "id": "distilbert/distilgpt2",
       "name": "distilgpt2",
       "org": "distilbert",
-      "likes": 624,
+      "likes": 625,
       "downloads": 2532077,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1374,31 +1374,31 @@
   "trending": [
     {
       "id": "zai-org/GLM-5.1",
-      "likes": 1073,
+      "likes": 1084,
       "downloads": 28826,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "google/gemma-4-31B-it",
-      "likes": 1778,
+      "likes": 1784,
       "downloads": 2242541,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "openbmb/VoxCPM2",
-      "likes": 751,
+      "likes": 760,
       "downloads": 7452,
       "pipeline_tag": "text-to-speech"
     },
     {
       "id": "dealignai/Gemma-4-31B-JANG_4M-CRACK",
-      "likes": 961,
+      "likes": 963,
       "downloads": 99134,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "MiniMaxAI/MiniMax-M2.7",
-      "likes": 505,
+      "likes": 533,
       "downloads": 873,
       "pipeline_tag": "text-generation"
     },
@@ -1410,32 +1410,38 @@
     },
     {
       "id": "k2-fsa/OmniVoice",
-      "likes": 523,
+      "likes": 527,
       "downloads": 393991,
       "pipeline_tag": "text-to-speech"
     },
     {
       "id": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
-      "likes": 2599,
+      "likes": 2601,
       "downloads": 578295,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "google/gemma-4-E4B-it",
-      "likes": 608,
+      "likes": 610,
       "downloads": 1269309,
       "pipeline_tag": "any-to-any"
     },
     {
       "id": "google/gemma-4-26B-A4B-it",
-      "likes": 624,
+      "likes": 625,
       "downloads": 1734340,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "k2-fsa/OmniVoice",
-      "likes": 395,
+      "likes": 400,
       "downloads": 0,
+      "pipeline_tag": ""
+    },
+    {
+      "id": "lambda/hermes-agent-reasoning-traces",
+      "likes": 102,
+      "downloads": 1038,
       "pipeline_tag": ""
     },
     {
@@ -1445,14 +1451,8 @@
       "pipeline_tag": ""
     },
     {
-      "id": "lambda/hermes-agent-reasoning-traces",
-      "likes": 101,
-      "downloads": 1038,
-      "pipeline_tag": ""
-    },
-    {
       "id": "r3gm/wan2-2-fp8da-aoti-preview",
-      "likes": 2006,
+      "likes": 2007,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1464,19 +1464,19 @@
     },
     {
       "id": "openbmb/VoxCPM-Demo",
-      "likes": 293,
+      "likes": 294,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "Roman1111111/claude-opus-4.6-10000x",
-      "likes": 153,
+      "likes": 154,
       "downloads": 4016,
       "pipeline_tag": ""
     },
     {
       "id": "prithivMLmods/FireRed-Image-Edit-1.0-Fast",
-      "likes": 797,
+      "likes": 800,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1493,14 +1493,14 @@
       "pipeline_tag": ""
     },
     {
-      "id": "webml-community/Gemma-4-WebGPU",
-      "likes": 152,
+      "id": "multimodalart/qwen-image-multiple-angles-3d-camera",
+      "likes": 2230,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
-      "id": "multimodalart/qwen-image-multiple-angles-3d-camera",
-      "likes": 2228,
+      "id": "webml-community/Gemma-4-WebGPU",
+      "likes": 153,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1512,26 +1512,26 @@
     },
     {
       "id": "mrfakename/Z-Image-Turbo",
-      "likes": 2865,
+      "likes": 2866,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "hysong/MentalBench",
-      "likes": 27,
+      "likes": 28,
       "downloads": 81,
+      "pipeline_tag": ""
+    },
+    {
+      "id": "open-index/hacker-news",
+      "likes": 295,
+      "downloads": 26025,
       "pipeline_tag": ""
     },
     {
       "id": "nvidia/PhysicalAI-Autonomous-Vehicles",
       "likes": 832,
       "downloads": 1011842,
-      "pipeline_tag": ""
-    },
-    {
-      "id": "open-index/hacker-news",
-      "likes": 294,
-      "downloads": 26025,
       "pipeline_tag": ""
     },
     {
@@ -1542,7 +1542,7 @@
     },
     {
       "id": "lerobot/robot-folding",
-      "likes": 58,
+      "likes": 59,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1553,5 +1553,5 @@
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-04-13T10:55:21.594240+08:00"
+  "lastUpdatedISO": "2026-04-13T13:45:28.774761+08:00"
 }
