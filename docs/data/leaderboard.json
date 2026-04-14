@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-15 05:59",
+  "lastUpdated": "2026-04-15 06:56",
   "arena": [
     {
       "rank": 1,
@@ -366,7 +366,7 @@
       "id": "deepseek-ai/DeepSeek-R1",
       "name": "DeepSeek-R1",
       "org": "deepseek-ai",
-      "likes": 13172,
+      "likes": 13173,
       "downloads": 3556946,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -1190,7 +1190,7 @@
       "id": "deepseek-ai/DeepSeek-R1",
       "name": "DeepSeek-R1",
       "org": "deepseek-ai",
-      "likes": 13172,
+      "likes": 13173,
       "downloads": 3556946,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -1374,31 +1374,31 @@
   "trending": [
     {
       "id": "zai-org/GLM-5.1",
-      "likes": 1191,
+      "likes": 1194,
       "downloads": 84784,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "MiniMaxAI/MiniMax-M2.7",
-      "likes": 700,
+      "likes": 705,
       "downloads": 43645,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "openbmb/VoxCPM2",
-      "likes": 867,
+      "likes": 869,
       "downloads": 10899,
       "pipeline_tag": "text-to-speech"
     },
     {
       "id": "google/gemma-4-31B-it",
-      "likes": 1889,
+      "likes": 1892,
       "downloads": 2640636,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "tencent/HY-Embodied-0.5",
-      "likes": 434,
+      "likes": 452,
       "downloads": 723,
       "pipeline_tag": "image-text-to-text"
     },
@@ -1410,55 +1410,55 @@
     },
     {
       "id": "netflix/void-model",
-      "likes": 810,
+      "likes": 811,
       "downloads": 0,
       "pipeline_tag": "video-to-video"
     },
     {
-      "id": "k2-fsa/OmniVoice",
-      "likes": 565,
-      "downloads": 530898,
-      "pipeline_tag": "text-to-speech"
-    },
-    {
       "id": "Jiunsong/supergemma4-26b-uncensored-gguf-v2",
-      "likes": 217,
+      "likes": 220,
       "downloads": 12687,
       "pipeline_tag": "text-generation"
     },
     {
+      "id": "k2-fsa/OmniVoice",
+      "likes": 567,
+      "downloads": 530898,
+      "pipeline_tag": "text-to-speech"
+    },
+    {
       "id": "LilaRest/gemma-4-31B-it-NVFP4-turbo",
-      "likes": 212,
+      "likes": 213,
       "downloads": 41945,
       "pipeline_tag": "text-generation"
     },
     {
-      "id": "k2-fsa/OmniVoice",
-      "likes": 444,
-      "downloads": 0,
-      "pipeline_tag": ""
-    },
-    {
       "id": "lambda/hermes-agent-reasoning-traces",
-      "likes": 127,
+      "likes": 128,
       "downloads": 1390,
       "pipeline_tag": ""
     },
     {
+      "id": "k2-fsa/OmniVoice",
+      "likes": 445,
+      "downloads": 0,
+      "pipeline_tag": ""
+    },
+    {
       "id": "ianncity/KIMI-K2.5-1000000x",
-      "likes": 202,
+      "likes": 203,
       "downloads": 2977,
       "pipeline_tag": ""
     },
     {
       "id": "Roman1111111/claude-opus-4.6-10000x",
-      "likes": 178,
+      "likes": 179,
       "downloads": 4392,
       "pipeline_tag": ""
     },
     {
       "id": "r3gm/wan2-2-fp8da-aoti-preview",
-      "likes": 2037,
+      "likes": 2038,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1487,21 +1487,21 @@
       "pipeline_tag": ""
     },
     {
-      "id": "badlogicgames/pi-mono",
-      "likes": 57,
-      "downloads": 7349,
-      "pipeline_tag": ""
-    },
-    {
       "id": "microsoft/OpenMementos",
       "likes": 25,
       "downloads": 343,
       "pipeline_tag": ""
     },
     {
-      "id": "webml-community/Gemma-4-WebGPU",
-      "likes": 161,
-      "downloads": 0,
+      "id": "badlogicgames/pi-mono",
+      "likes": 57,
+      "downloads": 7349,
+      "pipeline_tag": ""
+    },
+    {
+      "id": "llamaindex/ParseBench",
+      "likes": 24,
+      "downloads": 2110,
       "pipeline_tag": ""
     },
     {
@@ -1511,9 +1511,9 @@
       "pipeline_tag": ""
     },
     {
-      "id": "llamaindex/ParseBench",
-      "likes": 24,
-      "downloads": 2110,
+      "id": "webml-community/Gemma-4-WebGPU",
+      "likes": 161,
+      "downloads": 0,
       "pipeline_tag": ""
     },
     {
@@ -1535,14 +1535,14 @@
       "pipeline_tag": ""
     },
     {
-      "id": "lerobot/robot-folding",
-      "likes": 62,
+      "id": "r3gm/wan2-2-fp8da-aoti-preview2",
+      "likes": 673,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
-      "id": "r3gm/wan2-2-fp8da-aoti-preview2",
-      "likes": 672,
+      "id": "lerobot/robot-folding",
+      "likes": 62,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1553,5 +1553,5 @@
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-04-15T05:59:04.887042+08:00"
+  "lastUpdatedISO": "2026-04-15T06:56:20.009446+08:00"
 }
