@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-15 04:57",
+  "lastUpdated": "2026-04-15 05:59",
   "arena": [
     {
       "rank": 1,
@@ -1374,26 +1374,32 @@
   "trending": [
     {
       "id": "zai-org/GLM-5.1",
-      "likes": 1189,
+      "likes": 1191,
       "downloads": 84784,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "MiniMaxAI/MiniMax-M2.7",
-      "likes": 698,
+      "likes": 700,
       "downloads": 43645,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "openbmb/VoxCPM2",
-      "likes": 866,
+      "likes": 867,
       "downloads": 10899,
       "pipeline_tag": "text-to-speech"
     },
     {
       "id": "google/gemma-4-31B-it",
-      "likes": 1888,
+      "likes": 1889,
       "downloads": 2640636,
+      "pipeline_tag": "image-text-to-text"
+    },
+    {
+      "id": "tencent/HY-Embodied-0.5",
+      "likes": 434,
+      "downloads": 723,
       "pipeline_tag": "image-text-to-text"
     },
     {
@@ -1403,14 +1409,8 @@
       "pipeline_tag": "image-text-to-text"
     },
     {
-      "id": "tencent/HY-Embodied-0.5",
-      "likes": 412,
-      "downloads": 723,
-      "pipeline_tag": "image-text-to-text"
-    },
-    {
       "id": "netflix/void-model",
-      "likes": 809,
+      "likes": 810,
       "downloads": 0,
       "pipeline_tag": "video-to-video"
     },
@@ -1422,13 +1422,13 @@
     },
     {
       "id": "Jiunsong/supergemma4-26b-uncensored-gguf-v2",
-      "likes": 215,
+      "likes": 217,
       "downloads": 12687,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "LilaRest/gemma-4-31B-it-NVFP4-turbo",
-      "likes": 211,
+      "likes": 212,
       "downloads": 41945,
       "pipeline_tag": "text-generation"
     },
@@ -1440,7 +1440,7 @@
     },
     {
       "id": "lambda/hermes-agent-reasoning-traces",
-      "likes": 124,
+      "likes": 127,
       "downloads": 1390,
       "pipeline_tag": ""
     },
@@ -1451,15 +1451,15 @@
       "pipeline_tag": ""
     },
     {
-      "id": "r3gm/wan2-2-fp8da-aoti-preview",
-      "likes": 2037,
-      "downloads": 0,
+      "id": "Roman1111111/claude-opus-4.6-10000x",
+      "likes": 178,
+      "downloads": 4392,
       "pipeline_tag": ""
     },
     {
-      "id": "Roman1111111/claude-opus-4.6-10000x",
-      "likes": 174,
-      "downloads": 4392,
+      "id": "r3gm/wan2-2-fp8da-aoti-preview",
+      "likes": 2037,
+      "downloads": 0,
       "pipeline_tag": ""
     },
     {
@@ -1481,15 +1481,21 @@
       "pipeline_tag": ""
     },
     {
+      "id": "nohurry/Opus-4.6-Reasoning-3000x-filtered",
+      "likes": 541,
+      "downloads": 9923,
+      "pipeline_tag": ""
+    },
+    {
       "id": "badlogicgames/pi-mono",
       "likes": 57,
       "downloads": 7349,
       "pipeline_tag": ""
     },
     {
-      "id": "nohurry/Opus-4.6-Reasoning-3000x-filtered",
-      "likes": 539,
-      "downloads": 9923,
+      "id": "microsoft/OpenMementos",
+      "likes": 25,
+      "downloads": 343,
       "pipeline_tag": ""
     },
     {
@@ -1500,20 +1506,14 @@
     },
     {
       "id": "multimodalart/qwen-image-multiple-angles-3d-camera",
-      "likes": 2237,
+      "likes": 2238,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "llamaindex/ParseBench",
-      "likes": 23,
+      "likes": 24,
       "downloads": 2110,
-      "pipeline_tag": ""
-    },
-    {
-      "id": "microsoft/OpenMementos",
-      "likes": 23,
-      "downloads": 343,
       "pipeline_tag": ""
     },
     {
@@ -1530,7 +1530,7 @@
     },
     {
       "id": "mrfakename/Z-Image-Turbo",
-      "likes": 2878,
+      "likes": 2879,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1542,7 +1542,7 @@
     },
     {
       "id": "r3gm/wan2-2-fp8da-aoti-preview2",
-      "likes": 671,
+      "likes": 672,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1553,5 +1553,5 @@
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-04-15T04:57:59.946610+08:00"
+  "lastUpdatedISO": "2026-04-15T05:59:04.887042+08:00"
 }
