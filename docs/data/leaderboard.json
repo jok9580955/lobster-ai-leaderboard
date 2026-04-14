@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-14 19:06",
+  "lastUpdated": "2026-04-14 21:48",
   "arena": [
     {
       "rank": 1,
@@ -1374,45 +1374,45 @@
   "trending": [
     {
       "id": "zai-org/GLM-5.1",
-      "likes": 1173,
+      "likes": 1176,
       "downloads": 84784,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "openbmb/VoxCPM2",
-      "likes": 847,
+      "likes": 850,
       "downloads": 10899,
       "pipeline_tag": "text-to-speech"
     },
     {
       "id": "MiniMaxAI/MiniMax-M2.7",
-      "likes": 674,
+      "likes": 681,
       "downloads": 43645,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "google/gemma-4-31B-it",
-      "likes": 1872,
+      "likes": 1875,
       "downloads": 2640636,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "dealignai/Gemma-4-31B-JANG_4M-CRACK",
-      "likes": 1060,
+      "likes": 1070,
       "downloads": 117491,
       "pipeline_tag": "image-text-to-text"
     },
     {
-      "id": "netflix/void-model",
-      "likes": 802,
-      "downloads": 0,
-      "pipeline_tag": "video-to-video"
-    },
-    {
       "id": "tencent/HY-Embodied-0.5",
-      "likes": 242,
+      "likes": 303,
       "downloads": 723,
       "pipeline_tag": "image-text-to-text"
+    },
+    {
+      "id": "netflix/void-model",
+      "likes": 804,
+      "downloads": 0,
+      "pipeline_tag": "video-to-video"
     },
     {
       "id": "k2-fsa/OmniVoice",
@@ -1422,25 +1422,25 @@
     },
     {
       "id": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
-      "likes": 2632,
+      "likes": 2635,
       "downloads": 588751,
       "pipeline_tag": "image-text-to-text"
     },
     {
-      "id": "google/gemma-4-E4B-it",
-      "likes": 640,
-      "downloads": 1503266,
-      "pipeline_tag": "any-to-any"
+      "id": "LilaRest/gemma-4-31B-it-NVFP4-turbo",
+      "likes": 204,
+      "downloads": 41945,
+      "pipeline_tag": "text-generation"
     },
     {
       "id": "k2-fsa/OmniVoice",
-      "likes": 436,
+      "likes": 437,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "lambda/hermes-agent-reasoning-traces",
-      "likes": 115,
+      "likes": 118,
       "downloads": 1390,
       "pipeline_tag": ""
     },
@@ -1452,13 +1452,7 @@
     },
     {
       "id": "r3gm/wan2-2-fp8da-aoti-preview",
-      "likes": 2030,
-      "downloads": 0,
-      "pipeline_tag": ""
-    },
-    {
-      "id": "openbmb/VoxCPM-Demo",
-      "likes": 316,
+      "likes": 2033,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1466,6 +1460,12 @@
       "id": "Roman1111111/claude-opus-4.6-10000x",
       "likes": 168,
       "downloads": 4392,
+      "pipeline_tag": ""
+    },
+    {
+      "id": "openbmb/VoxCPM-Demo",
+      "likes": 317,
+      "downloads": 0,
       "pipeline_tag": ""
     },
     {
@@ -1487,20 +1487,26 @@
       "pipeline_tag": ""
     },
     {
+      "id": "hysong/MentalBench",
+      "likes": 32,
+      "downloads": 212,
+      "pipeline_tag": ""
+    },
+    {
       "id": "webml-community/Gemma-4-WebGPU",
       "likes": 160,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
-      "id": "hysong/MentalBench",
-      "likes": 31,
-      "downloads": 212,
+      "id": "multimodalart/qwen-image-multiple-angles-3d-camera",
+      "likes": 2235,
+      "downloads": 0,
       "pipeline_tag": ""
     },
     {
-      "id": "multimodalart/qwen-image-multiple-angles-3d-camera",
-      "likes": 2234,
+      "id": "lerobot/robot-folding",
+      "likes": 62,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1511,8 +1517,8 @@
       "pipeline_tag": ""
     },
     {
-      "id": "lerobot/robot-folding",
-      "likes": 61,
+      "id": "mrfakename/Z-Image-Turbo",
+      "likes": 2876,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1529,15 +1535,9 @@
       "pipeline_tag": ""
     },
     {
-      "id": "mrfakename/Z-Image-Turbo",
-      "likes": 2874,
-      "downloads": 0,
-      "pipeline_tag": ""
-    },
-    {
-      "id": "nvidia/PhysicalAI-Autonomous-Vehicles",
-      "likes": 833,
-      "downloads": 1013733,
+      "id": "llamaindex/ParseBench",
+      "likes": 22,
+      "downloads": 2110,
       "pipeline_tag": ""
     },
     {
@@ -1553,5 +1553,5 @@
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-04-14T19:06:09.653468+08:00"
+  "lastUpdatedISO": "2026-04-14T21:48:43.573584+08:00"
 }
