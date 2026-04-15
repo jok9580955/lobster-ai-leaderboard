@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-16 04:54",
+  "lastUpdated": "2026-04-16 05:55",
   "arena": [
     {
       "rank": 1,
@@ -1374,19 +1374,19 @@
   "trending": [
     {
       "id": "MiniMaxAI/MiniMax-M2.7",
-      "likes": 780,
+      "likes": 784,
       "downloads": 85549,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "tencent/HY-Embodied-0.5",
-      "likes": 635,
+      "likes": 641,
       "downloads": 818,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "zai-org/GLM-5.1",
-      "likes": 1237,
+      "likes": 1240,
       "downloads": 91474,
       "pipeline_tag": "text-generation"
     },
@@ -1398,25 +1398,25 @@
     },
     {
       "id": "google/gemma-4-31B-it",
-      "likes": 1929,
+      "likes": 1930,
       "downloads": 2894077,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "dealignai/Gemma-4-31B-JANG_4M-CRACK",
-      "likes": 1128,
+      "likes": 1129,
       "downloads": 134547,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "Jiunsong/supergemma4-26b-uncensored-gguf-v2",
-      "likes": 286,
+      "likes": 287,
       "downloads": 26673,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "baidu/ERNIE-Image",
-      "likes": 281,
+      "likes": 284,
       "downloads": 445,
       "pipeline_tag": "text-to-image"
     },
@@ -1428,13 +1428,13 @@
     },
     {
       "id": "baidu/ERNIE-Image-Turbo",
-      "likes": 212,
+      "likes": 213,
       "downloads": 419,
       "pipeline_tag": "text-to-image"
     },
     {
       "id": "k2-fsa/OmniVoice",
-      "likes": 471,
+      "likes": 473,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1458,7 +1458,7 @@
     },
     {
       "id": "r3gm/wan2-2-fp8da-aoti-preview",
-      "likes": 2051,
+      "likes": 2052,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1470,7 +1470,7 @@
     },
     {
       "id": "llamaindex/ParseBench",
-      "likes": 32,
+      "likes": 33,
       "downloads": 3052,
       "pipeline_tag": ""
     },
@@ -1506,20 +1506,20 @@
     },
     {
       "id": "badlogicgames/pi-mono",
-      "likes": 58,
+      "likes": 59,
       "downloads": 8306,
+      "pipeline_tag": ""
+    },
+    {
+      "id": "multimodalart/qwen-image-multiple-angles-3d-camera",
+      "likes": 2246,
+      "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "Crownelius/Opus-4.6-Reasoning-3300x",
       "likes": 271,
       "downloads": 3211,
-      "pipeline_tag": ""
-    },
-    {
-      "id": "multimodalart/qwen-image-multiple-angles-3d-camera",
-      "likes": 2245,
-      "downloads": 0,
       "pipeline_tag": ""
     },
     {
@@ -1553,5 +1553,5 @@
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-04-16T04:54:14.851664+08:00"
+  "lastUpdatedISO": "2026-04-16T05:55:12.094791+08:00"
 }
