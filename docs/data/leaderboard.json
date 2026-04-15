@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-16 05:55",
+  "lastUpdated": "2026-04-16 06:44",
   "arena": [
     {
       "rank": 1,
@@ -451,7 +451,7 @@
       "id": "openai/gpt-oss-120b",
       "name": "gpt-oss-120b",
       "org": "openai",
-      "likes": 4684,
+      "likes": 4686,
       "downloads": 3497759,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1207,7 +1207,7 @@
       "id": "openai/gpt-oss-120b",
       "name": "gpt-oss-120b",
       "org": "openai",
-      "likes": 4684,
+      "likes": 4686,
       "downloads": 3497759,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1374,25 +1374,25 @@
   "trending": [
     {
       "id": "MiniMaxAI/MiniMax-M2.7",
-      "likes": 784,
+      "likes": 786,
       "downloads": 85549,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "tencent/HY-Embodied-0.5",
-      "likes": 641,
+      "likes": 648,
       "downloads": 818,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "zai-org/GLM-5.1",
-      "likes": 1240,
+      "likes": 1242,
       "downloads": 91474,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "openbmb/VoxCPM2",
-      "likes": 914,
+      "likes": 915,
       "downloads": 12827,
       "pipeline_tag": "text-to-speech"
     },
@@ -1404,19 +1404,19 @@
     },
     {
       "id": "dealignai/Gemma-4-31B-JANG_4M-CRACK",
-      "likes": 1129,
+      "likes": 1130,
       "downloads": 134547,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "Jiunsong/supergemma4-26b-uncensored-gguf-v2",
-      "likes": 287,
+      "likes": 290,
       "downloads": 26673,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "baidu/ERNIE-Image",
-      "likes": 284,
+      "likes": 285,
       "downloads": 445,
       "pipeline_tag": "text-to-image"
     },
@@ -1524,13 +1524,13 @@
     },
     {
       "id": "webml-community/Gemma-4-WebGPU",
-      "likes": 166,
+      "likes": 167,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "HuggingFaceTB/trl-distillation-trainer",
-      "likes": 52,
+      "likes": 53,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1541,17 +1541,17 @@
       "pipeline_tag": ""
     },
     {
-      "id": "selfit-camera/Omni-Image-Editor",
-      "likes": 1415,
+      "id": "r3gm/wan2-2-fp8da-aoti-preview2",
+      "likes": 679,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
-      "id": "r3gm/wan2-2-fp8da-aoti-preview2",
-      "likes": 677,
+      "id": "selfit-camera/Omni-Image-Editor",
+      "likes": 1415,
       "downloads": 0,
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-04-16T05:55:12.094791+08:00"
+  "lastUpdatedISO": "2026-04-16T06:44:44.613051+08:00"
 }
