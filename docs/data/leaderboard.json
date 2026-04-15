@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-15 15:51",
+  "lastUpdated": "2026-04-15 17:23",
   "arena": [
     {
       "rank": 1,
@@ -620,7 +620,7 @@
       "id": "deepseek-ai/DeepSeek-V3-0324",
       "name": "DeepSeek-V3-0324",
       "org": "deepseek-ai",
-      "likes": 3102,
+      "likes": 3101,
       "downloads": 569063,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -788,7 +788,7 @@
       "id": "microsoft/phi-4",
       "name": "phi-4",
       "org": "microsoft",
-      "likes": 2224,
+      "likes": 2225,
       "downloads": 589053,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -959,7 +959,7 @@
       "id": "deepseek-ai/DeepSeek-V3.2",
       "name": "DeepSeek-V3.2",
       "org": "deepseek-ai",
-      "likes": 1388,
+      "likes": 1389,
       "downloads": 9952544,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -1156,7 +1156,7 @@
       "id": "meta-llama/Llama-3.2-1B-Instruct",
       "name": "Llama-3.2-1B-Instruct",
       "org": "meta-llama",
-      "likes": 1361,
+      "likes": 1362,
       "downloads": 4297346,
       "license": "Llama3.2",
       "pipeline_tag": "text-generation",
@@ -1374,92 +1374,92 @@
   "trending": [
     {
       "id": "MiniMaxAI/MiniMax-M2.7",
-      "likes": 735,
+      "likes": 740,
       "downloads": 85549,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "zai-org/GLM-5.1",
-      "likes": 1209,
+      "likes": 1211,
       "downloads": 91474,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "openbmb/VoxCPM2",
-      "likes": 895,
+      "likes": 899,
       "downloads": 12827,
       "pipeline_tag": "text-to-speech"
     },
     {
       "id": "tencent/HY-Embodied-0.5",
-      "likes": 544,
+      "likes": 549,
       "downloads": 818,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "google/gemma-4-31B-it",
-      "likes": 1904,
+      "likes": 1911,
       "downloads": 2894077,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "dealignai/Gemma-4-31B-JANG_4M-CRACK",
-      "likes": 1109,
+      "likes": 1115,
       "downloads": 134547,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "Jiunsong/supergemma4-26b-uncensored-gguf-v2",
-      "likes": 254,
+      "likes": 257,
       "downloads": 26673,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "baidu/ERNIE-Image",
-      "likes": 229,
+      "likes": 237,
       "downloads": 445,
       "pipeline_tag": "text-to-image"
     },
     {
       "id": "netflix/void-model",
-      "likes": 816,
+      "likes": 819,
       "downloads": 0,
       "pipeline_tag": "video-to-video"
     },
     {
       "id": "LilaRest/gemma-4-31B-it-NVFP4-turbo",
-      "likes": 217,
+      "likes": 218,
       "downloads": 51148,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "lambda/hermes-agent-reasoning-traces",
-      "likes": 132,
-      "downloads": 1390,
+      "likes": 133,
+      "downloads": 1872,
       "pipeline_tag": ""
     },
     {
       "id": "k2-fsa/OmniVoice",
-      "likes": 451,
+      "likes": 452,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "Roman1111111/claude-opus-4.6-10000x",
-      "likes": 179,
-      "downloads": 4392,
+      "likes": 181,
+      "downloads": 4754,
+      "pipeline_tag": ""
+    },
+    {
+      "id": "r3gm/wan2-2-fp8da-aoti-preview",
+      "likes": 2046,
+      "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "ianncity/KIMI-K2.5-1000000x",
       "likes": 205,
-      "downloads": 2977,
-      "pipeline_tag": ""
-    },
-    {
-      "id": "r3gm/wan2-2-fp8da-aoti-preview",
-      "likes": 2044,
-      "downloads": 0,
+      "downloads": 3160,
       "pipeline_tag": ""
     },
     {
@@ -1470,26 +1470,26 @@
     },
     {
       "id": "prithivMLmods/FireRed-Image-Edit-1.0-Fast",
-      "likes": 817,
+      "likes": 818,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "llamaindex/ParseBench",
       "likes": 29,
-      "downloads": 2110,
+      "downloads": 3052,
+      "pipeline_tag": ""
+    },
+    {
+      "id": "microsoft/OpenMementos",
+      "likes": 29,
+      "downloads": 457,
       "pipeline_tag": ""
     },
     {
       "id": "hysong/MentalBench",
       "likes": 33,
-      "downloads": 212,
-      "pipeline_tag": ""
-    },
-    {
-      "id": "microsoft/OpenMementos",
-      "likes": 27,
-      "downloads": 343,
+      "downloads": 262,
       "pipeline_tag": ""
     },
     {
@@ -1506,31 +1506,37 @@
     },
     {
       "id": "nohurry/Opus-4.6-Reasoning-3000x-filtered",
-      "likes": 541,
-      "downloads": 9923,
+      "likes": 542,
+      "downloads": 9964,
       "pipeline_tag": ""
     },
     {
       "id": "badlogicgames/pi-mono",
       "likes": 58,
-      "downloads": 7349,
+      "downloads": 8306,
       "pipeline_tag": ""
     },
     {
       "id": "Crownelius/Opus-4.6-Reasoning-3300x",
       "likes": 266,
-      "downloads": 3190,
+      "downloads": 3211,
       "pipeline_tag": ""
     },
     {
       "id": "YennNing/MC-Search",
       "likes": 24,
-      "downloads": 214,
+      "downloads": 216,
       "pipeline_tag": ""
     },
     {
       "id": "mrfakename/Z-Image-Turbo",
       "likes": 2882,
+      "downloads": 0,
+      "pipeline_tag": ""
+    },
+    {
+      "id": "HuggingFaceTB/trl-distillation-trainer",
+      "likes": 46,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1541,17 +1547,11 @@
       "pipeline_tag": ""
     },
     {
-      "id": "HuggingFaceTB/trl-distillation-trainer",
-      "likes": 45,
-      "downloads": 0,
-      "pipeline_tag": ""
-    },
-    {
       "id": "selfit-camera/Omni-Image-Editor",
       "likes": 1413,
       "downloads": 0,
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-04-15T15:51:53.641115+08:00"
+  "lastUpdatedISO": "2026-04-15T17:23:11.695466+08:00"
 }
