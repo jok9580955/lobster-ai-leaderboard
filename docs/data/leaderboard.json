@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-16 10:53",
+  "lastUpdated": "2026-04-16 13:33",
   "arena": [
     {
       "rank": 1,
@@ -822,7 +822,7 @@
       "id": "meta-llama/Llama-3.1-8B",
       "name": "Llama-3.1-8B",
       "org": "meta-llama",
-      "likes": 2152,
+      "likes": 2153,
       "downloads": 1418878,
       "license": "Llama3.1",
       "pipeline_tag": "text-generation",
@@ -1374,103 +1374,103 @@
   "trending": [
     {
       "id": "MiniMaxAI/MiniMax-M2.7",
-      "likes": 797,
+      "likes": 800,
       "downloads": 85549,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "tencent/HY-Embodied-0.5",
-      "likes": 682,
+      "likes": 709,
       "downloads": 818,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "zai-org/GLM-5.1",
-      "likes": 1245,
+      "likes": 1248,
       "downloads": 91474,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "google/gemma-4-31B-it",
-      "likes": 1936,
+      "likes": 1937,
       "downloads": 2894077,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "openbmb/VoxCPM2",
-      "likes": 919,
+      "likes": 921,
       "downloads": 12827,
       "pipeline_tag": "text-to-speech"
     },
     {
       "id": "dealignai/Gemma-4-31B-JANG_4M-CRACK",
-      "likes": 1134,
+      "likes": 1135,
       "downloads": 134547,
       "pipeline_tag": "image-text-to-text"
     },
     {
-      "id": "Jiunsong/supergemma4-26b-uncensored-gguf-v2",
-      "likes": 300,
-      "downloads": 26673,
-      "pipeline_tag": "text-generation"
-    },
-    {
       "id": "baidu/ERNIE-Image",
-      "likes": 298,
+      "likes": 307,
       "downloads": 445,
       "pipeline_tag": "text-to-image"
     },
     {
-      "id": "LilaRest/gemma-4-31B-it-NVFP4-turbo",
-      "likes": 223,
-      "downloads": 51148,
+      "id": "Jiunsong/supergemma4-26b-uncensored-gguf-v2",
+      "likes": 305,
+      "downloads": 26673,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "baidu/ERNIE-Image-Turbo",
-      "likes": 221,
+      "likes": 225,
       "downloads": 419,
       "pipeline_tag": "text-to-image"
     },
     {
+      "id": "LilaRest/gemma-4-31B-it-NVFP4-turbo",
+      "likes": 225,
+      "downloads": 51148,
+      "pipeline_tag": "text-generation"
+    },
+    {
       "id": "lambda/hermes-agent-reasoning-traces",
-      "likes": 143,
+      "likes": 146,
       "downloads": 1872,
       "pipeline_tag": ""
     },
     {
       "id": "k2-fsa/OmniVoice",
-      "likes": 477,
+      "likes": 478,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "Roman1111111/claude-opus-4.6-10000x",
-      "likes": 187,
+      "likes": 189,
       "downloads": 4754,
       "pipeline_tag": ""
     },
     {
       "id": "r3gm/wan2-2-fp8da-aoti-preview",
-      "likes": 2056,
+      "likes": 2057,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "ianncity/KIMI-K2.5-1000000x",
-      "likes": 207,
+      "likes": 209,
       "downloads": 3160,
       "pipeline_tag": ""
     },
     {
       "id": "llamaindex/ParseBench",
-      "likes": 36,
+      "likes": 37,
       "downloads": 3052,
       "pipeline_tag": ""
     },
     {
       "id": "openbmb/VoxCPM-Demo",
-      "likes": 330,
+      "likes": 331,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1494,13 +1494,13 @@
     },
     {
       "id": "YennNing/MC-Search",
-      "likes": 26,
+      "likes": 27,
       "downloads": 216,
       "pipeline_tag": ""
     },
     {
-      "id": "multimodalart/qwen-image-multiple-angles-3d-camera",
-      "likes": 2247,
+      "id": "HuggingFaceTB/trl-distillation-trainer",
+      "likes": 56,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1511,8 +1511,8 @@
       "pipeline_tag": ""
     },
     {
-      "id": "HuggingFaceTB/trl-distillation-trainer",
-      "likes": 54,
+      "id": "multimodalart/qwen-image-multiple-angles-3d-camera",
+      "likes": 2247,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1524,8 +1524,14 @@
     },
     {
       "id": "nohurry/Opus-4.6-Reasoning-3000x-filtered",
-      "likes": 544,
+      "likes": 545,
       "downloads": 9964,
+      "pipeline_tag": ""
+    },
+    {
+      "id": "mrfakename/Z-Image-Turbo",
+      "likes": 2884,
+      "downloads": 0,
       "pipeline_tag": ""
     },
     {
@@ -1535,8 +1541,8 @@
       "pipeline_tag": ""
     },
     {
-      "id": "mrfakename/Z-Image-Turbo",
-      "likes": 2882,
+      "id": "webml-community/bonsai-webgpu",
+      "likes": 42,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1545,13 +1551,7 @@
       "likes": 679,
       "downloads": 0,
       "pipeline_tag": ""
-    },
-    {
-      "id": "selfit-camera/Omni-Image-Editor",
-      "likes": 1416,
-      "downloads": 0,
-      "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-04-16T10:53:10.706951+08:00"
+  "lastUpdatedISO": "2026-04-16T13:33:26.922221+08:00"
 }
