@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-17 04:52",
+  "lastUpdated": "2026-04-17 05:46",
   "arena": [
     {
       "rank": 1,
@@ -991,7 +991,7 @@
       "id": "Qwen/Qwen3-8B",
       "name": "Qwen3-8B",
       "org": "Qwen",
-      "likes": 1043,
+      "likes": 1044,
       "downloads": 8582115,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1374,7 +1374,7 @@
   "trending": [
     {
       "id": "MiniMaxAI/MiniMax-M2.7",
-      "likes": 843,
+      "likes": 845,
       "downloads": 142955,
       "pipeline_tag": "text-generation"
     },
@@ -1386,31 +1386,31 @@
     },
     {
       "id": "zai-org/GLM-5.1",
-      "likes": 1278,
+      "likes": 1282,
       "downloads": 94376,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "google/gemma-4-31B-it",
-      "likes": 1972,
+      "likes": 1975,
       "downloads": 3195626,
       "pipeline_tag": "image-text-to-text"
     },
     {
-      "id": "baidu/ERNIE-Image",
-      "likes": 371,
-      "downloads": 1351,
-      "pipeline_tag": "text-to-image"
-    },
-    {
       "id": "Qwen/Qwen3.6-35B-A3B",
-      "likes": 368,
+      "likes": 386,
       "downloads": 0,
       "pipeline_tag": "image-text-to-text"
     },
     {
+      "id": "baidu/ERNIE-Image",
+      "likes": 373,
+      "downloads": 1351,
+      "pipeline_tag": "text-to-image"
+    },
+    {
       "id": "openbmb/VoxCPM2",
-      "likes": 938,
+      "likes": 939,
       "downloads": 15249,
       "pipeline_tag": "text-to-speech"
     },
@@ -1428,7 +1428,7 @@
     },
     {
       "id": "baidu/ERNIE-Image-Turbo",
-      "likes": 258,
+      "likes": 259,
       "downloads": 1369,
       "pipeline_tag": "text-to-image"
     },
@@ -1440,7 +1440,7 @@
     },
     {
       "id": "k2-fsa/OmniVoice",
-      "likes": 489,
+      "likes": 491,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1452,7 +1452,7 @@
     },
     {
       "id": "r3gm/wan2-2-fp8da-aoti-preview",
-      "likes": 2065,
+      "likes": 2067,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1488,7 +1488,7 @@
     },
     {
       "id": "prithivMLmods/FireRed-Image-Edit-1.0-Fast",
-      "likes": 832,
+      "likes": 833,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1517,15 +1517,15 @@
       "pipeline_tag": ""
     },
     {
-      "id": "markov-ai/computer-use-large",
-      "likes": 164,
-      "downloads": 85720,
+      "id": "microsoft/OpenMementos",
+      "likes": 35,
+      "downloads": 713,
       "pipeline_tag": ""
     },
     {
-      "id": "microsoft/OpenMementos",
-      "likes": 34,
-      "downloads": 713,
+      "id": "markov-ai/computer-use-large",
+      "likes": 164,
+      "downloads": 85720,
       "pipeline_tag": ""
     },
     {
@@ -1553,5 +1553,5 @@
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-04-17T04:52:57.820931+08:00"
+  "lastUpdatedISO": "2026-04-17T05:46:57.694349+08:00"
 }
