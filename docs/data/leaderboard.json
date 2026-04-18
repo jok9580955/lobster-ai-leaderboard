@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-18 16:54",
+  "lastUpdated": "2026-04-18 17:51",
   "arena": [
     {
       "rank": 1,
@@ -400,7 +400,7 @@
       "id": "meta-llama/Llama-3.1-8B-Instruct",
       "name": "Llama-3.1-8B-Instruct",
       "org": "meta-llama",
-      "likes": 5708,
+      "likes": 5724,
       "downloads": 9365524,
       "license": "Llama3.1",
       "pipeline_tag": "text-generation",
@@ -485,7 +485,7 @@
       "id": "meta-llama/Meta-Llama-3-8B-Instruct",
       "name": "Meta-Llama-3-8B-Instruct",
       "org": "meta-llama",
-      "likes": 4475,
+      "likes": 4484,
       "downloads": 1317942,
       "license": "Llama3",
       "pipeline_tag": "text-generation",
@@ -875,7 +875,7 @@
       "id": "Qwen/Qwen3-0.6B",
       "name": "Qwen3-0.6B",
       "org": "Qwen",
-      "likes": 1196,
+      "likes": 1197,
       "downloads": 15580616,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -990,7 +990,7 @@
       "id": "meta-llama/Llama-3.1-8B-Instruct",
       "name": "Llama-3.1-8B-Instruct",
       "org": "meta-llama",
-      "likes": 5708,
+      "likes": 5724,
       "downloads": 9365524,
       "license": "Llama3.1",
       "pipeline_tag": "text-generation",
@@ -1372,25 +1372,25 @@
   "trending": [
     {
       "id": "MiniMaxAI/MiniMax-M2.7",
-      "likes": 933,
+      "likes": 934,
       "downloads": 258064,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "Qwen/Qwen3.6-35B-A3B",
-      "likes": 773,
+      "likes": 777,
       "downloads": 82000,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "tencent/HY-Embodied-0.5",
-      "likes": 854,
+      "likes": 855,
       "downloads": 1454,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "baidu/ERNIE-Image",
-      "likes": 431,
+      "likes": 432,
       "downloads": 3116,
       "pipeline_tag": "text-to-image"
     },
@@ -1402,19 +1402,19 @@
     },
     {
       "id": "unsloth/Qwen3.6-35B-A3B-GGUF",
-      "likes": 392,
+      "likes": 395,
       "downloads": 442900,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "Jiunsong/supergemma4-26b-uncensored-gguf-v2",
-      "likes": 385,
+      "likes": 386,
       "downloads": 66552,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "google/gemma-4-31B-it",
-      "likes": 2132,
+      "likes": 2136,
       "downloads": 3778070,
       "pipeline_tag": "image-text-to-text"
     },
@@ -1426,19 +1426,19 @@
     },
     {
       "id": "baidu/ERNIE-Image-Turbo",
-      "likes": 294,
+      "likes": 295,
       "downloads": 4119,
       "pipeline_tag": "text-to-image"
     },
     {
       "id": "lambda/hermes-agent-reasoning-traces",
-      "likes": 172,
+      "likes": 173,
       "downloads": 2717,
       "pipeline_tag": ""
     },
     {
       "id": "k2-fsa/OmniVoice",
-      "likes": 572,
+      "likes": 573,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1450,7 +1450,7 @@
     },
     {
       "id": "r3gm/wan2-2-fp8da-aoti-preview",
-      "likes": 2172,
+      "likes": 2179,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1462,7 +1462,7 @@
     },
     {
       "id": "webml-community/bonsai-webgpu",
-      "likes": 113,
+      "likes": 114,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1474,7 +1474,7 @@
     },
     {
       "id": "prithivMLmods/FireRed-Image-Edit-1.0-Fast",
-      "likes": 896,
+      "likes": 897,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1509,26 +1509,26 @@
       "pipeline_tag": ""
     },
     {
+      "id": "Kassadin88/GLM-5.1-1000000x",
+      "likes": 22,
+      "downloads": 244,
+      "pipeline_tag": ""
+    },
+    {
       "id": "Crownelius/Opus-4.6-Reasoning-3300x",
       "likes": 277,
       "downloads": 3199,
       "pipeline_tag": ""
     },
     {
-      "id": "Kassadin88/GLM-5.1-1000000x",
-      "likes": 21,
-      "downloads": 244,
+      "id": "prism-ml/Bonsai-demo",
+      "likes": 68,
+      "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "mrfakename/Z-Image-Turbo",
       "likes": 2936,
-      "downloads": 0,
-      "pipeline_tag": ""
-    },
-    {
-      "id": "prism-ml/Bonsai-demo",
-      "likes": 67,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1551,5 +1551,5 @@
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-04-18T16:54:54.373799+08:00"
+  "lastUpdatedISO": "2026-04-18T17:51:43.195034+08:00"
 }
