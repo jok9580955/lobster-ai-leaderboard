@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-20 01:38",
+  "lastUpdated": "2026-04-20 02:55",
   "arena": [
     {
       "rank": 1,
@@ -451,7 +451,7 @@
       "id": "openai/gpt-oss-120b",
       "name": "gpt-oss-120b",
       "org": "openai",
-      "likes": 4712,
+      "likes": 4713,
       "downloads": 3492717,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -908,7 +908,7 @@
       "id": "Qwen/Qwen2.5-7B-Instruct",
       "name": "Qwen2.5-7B-Instruct",
       "org": "Qwen",
-      "likes": 1216,
+      "likes": 1217,
       "downloads": 12478456,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1190,7 +1190,7 @@
       "id": "openai/gpt-oss-120b",
       "name": "gpt-oss-120b",
       "org": "openai",
-      "likes": 4712,
+      "likes": 4713,
       "downloads": 3492717,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1372,7 +1372,7 @@
   "trending": [
     {
       "id": "Qwen/Qwen3.6-35B-A3B",
-      "likes": 904,
+      "likes": 908,
       "downloads": 209112,
       "pipeline_tag": "image-text-to-text"
     },
@@ -1390,13 +1390,13 @@
     },
     {
       "id": "unsloth/Qwen3.6-35B-A3B-GGUF",
-      "likes": 491,
+      "likes": 494,
       "downloads": 662293,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "baidu/ERNIE-Image",
-      "likes": 463,
+      "likes": 464,
       "downloads": 3761,
       "pipeline_tag": "text-to-image"
     },
@@ -1408,7 +1408,7 @@
     },
     {
       "id": "Jiunsong/supergemma4-26b-uncensored-gguf-v2",
-      "likes": 417,
+      "likes": 419,
       "downloads": 72519,
       "pipeline_tag": "text-generation"
     },
@@ -1419,9 +1419,9 @@
       "pipeline_tag": "text-to-speech"
     },
     {
-      "id": "zai-org/GLM-5.1",
-      "likes": 1415,
-      "downloads": 112939,
+      "id": "OBLITERATUS/gemma-4-E4B-it-OBLITERATED",
+      "likes": 336,
+      "downloads": 37130,
       "pipeline_tag": "text-generation"
     },
     {
@@ -1444,7 +1444,7 @@
     },
     {
       "id": "k2-fsa/OmniVoice",
-      "likes": 603,
+      "likes": 604,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1462,7 +1462,7 @@
     },
     {
       "id": "webml-community/bonsai-webgpu",
-      "likes": 128,
+      "likes": 130,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1485,32 +1485,32 @@
       "pipeline_tag": ""
     },
     {
+      "id": "microsoft/OpenMementos",
+      "likes": 44,
+      "downloads": 862,
+      "pipeline_tag": ""
+    },
+    {
       "id": "Jackrong/GLM-5.1-Reasoning-1M-Cleaned",
       "likes": 26,
       "downloads": 251,
       "pipeline_tag": ""
     },
     {
-      "id": "microsoft/OpenMementos",
-      "likes": 43,
-      "downloads": 862,
-      "pipeline_tag": ""
-    },
-    {
       "id": "prism-ml/Bonsai-demo",
-      "likes": 78,
-      "downloads": 0,
-      "pipeline_tag": ""
-    },
-    {
-      "id": "openbmb/VoxCPM-Demo",
-      "likes": 365,
+      "likes": 80,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "HuggingFaceTB/trl-distillation-trainer",
       "likes": 64,
+      "downloads": 0,
+      "pipeline_tag": ""
+    },
+    {
+      "id": "openbmb/VoxCPM-Demo",
+      "likes": 365,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1528,7 +1528,13 @@
     },
     {
       "id": "mrfakename/Z-Image-Turbo",
-      "likes": 2947,
+      "likes": 2949,
+      "downloads": 0,
+      "pipeline_tag": ""
+    },
+    {
+      "id": "r3gm/wan2-2-fp8da-aoti-preview2",
+      "likes": 733,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1539,17 +1545,11 @@
       "pipeline_tag": ""
     },
     {
-      "id": "victor/ace-step-jam",
-      "likes": 49,
-      "downloads": 0,
-      "pipeline_tag": ""
-    },
-    {
       "id": "Crownelius/Opus-4.6-Reasoning-3300x",
-      "likes": 278,
+      "likes": 279,
       "downloads": 3263,
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-04-20T01:38:13.423981+08:00"
+  "lastUpdatedISO": "2026-04-20T02:55:48.280927+08:00"
 }
