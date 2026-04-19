@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-20 05:39",
+  "lastUpdated": "2026-04-20 06:39",
   "arena": [
     {
       "rank": 1,
@@ -451,7 +451,7 @@
       "id": "openai/gpt-oss-120b",
       "name": "gpt-oss-120b",
       "org": "openai",
-      "likes": 4713,
+      "likes": 4712,
       "downloads": 3492717,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1190,7 +1190,7 @@
       "id": "openai/gpt-oss-120b",
       "name": "gpt-oss-120b",
       "org": "openai",
-      "likes": 4713,
+      "likes": 4712,
       "downloads": 3492717,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1372,7 +1372,7 @@
   "trending": [
     {
       "id": "Qwen/Qwen3.6-35B-A3B",
-      "likes": 919,
+      "likes": 925,
       "downloads": 209112,
       "pipeline_tag": "image-text-to-text"
     },
@@ -1384,27 +1384,33 @@
     },
     {
       "id": "MiniMaxAI/MiniMax-M2.7",
-      "likes": 978,
+      "likes": 979,
       "downloads": 288848,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "unsloth/Qwen3.6-35B-A3B-GGUF",
-      "likes": 500,
+      "likes": 502,
       "downloads": 662293,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "baidu/ERNIE-Image",
-      "likes": 466,
+      "likes": 468,
       "downloads": 3761,
       "pipeline_tag": "text-to-image"
     },
     {
       "id": "tencent/HY-World-2.0",
-      "likes": 458,
+      "likes": 459,
       "downloads": 0,
       "pipeline_tag": "image-to-3d"
+    },
+    {
+      "id": "openbmb/VoxCPM2",
+      "likes": 1162,
+      "downloads": 51554,
+      "pipeline_tag": "text-to-speech"
     },
     {
       "id": "Jiunsong/supergemma4-26b-uncensored-gguf-v2",
@@ -1413,20 +1419,14 @@
       "pipeline_tag": "text-generation"
     },
     {
-      "id": "openbmb/VoxCPM2",
-      "likes": 1159,
-      "downloads": 51554,
-      "pipeline_tag": "text-to-speech"
-    },
-    {
       "id": "OBLITERATUS/gemma-4-E4B-it-OBLITERATED",
-      "likes": 341,
+      "likes": 343,
       "downloads": 37130,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "baidu/ERNIE-Image-Turbo",
-      "likes": 317,
+      "likes": 318,
       "downloads": 4757,
       "pipeline_tag": "text-to-image"
     },
@@ -1438,25 +1438,25 @@
     },
     {
       "id": "Roman1111111/claude-opus-4.6-10000x",
-      "likes": 226,
+      "likes": 227,
       "downloads": 5658,
       "pipeline_tag": ""
     },
     {
       "id": "k2-fsa/OmniVoice",
-      "likes": 606,
+      "likes": 607,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "r3gm/wan2-2-fp8da-aoti-preview",
-      "likes": 2230,
+      "likes": 2229,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "webml-community/bonsai-webgpu",
-      "likes": 131,
+      "likes": 132,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1522,7 +1522,7 @@
     },
     {
       "id": "r3gm/wan2-2-fp8da-aoti-preview2",
-      "likes": 736,
+      "likes": 739,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1530,12 +1530,6 @@
       "id": "mrfakename/Z-Image-Turbo",
       "likes": 2950,
       "downloads": 0,
-      "pipeline_tag": ""
-    },
-    {
-      "id": "badlogicgames/pi-mono",
-      "likes": 73,
-      "downloads": 10649,
       "pipeline_tag": ""
     },
     {
@@ -1549,7 +1543,13 @@
       "likes": 20,
       "downloads": 2849,
       "pipeline_tag": ""
+    },
+    {
+      "id": "badlogicgames/pi-mono",
+      "likes": 73,
+      "downloads": 10649,
+      "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-04-20T05:39:07.776867+08:00"
+  "lastUpdatedISO": "2026-04-20T06:39:43.251137+08:00"
 }
