@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-20 18:51",
+  "lastUpdated": "2026-04-20 20:06",
   "arena": [
     {
       "rank": 1,
@@ -451,7 +451,7 @@
       "id": "openai/gpt-oss-120b",
       "name": "gpt-oss-120b",
       "org": "openai",
-      "likes": 4717,
+      "likes": 4719,
       "downloads": 3524674,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1190,7 +1190,7 @@
       "id": "openai/gpt-oss-120b",
       "name": "gpt-oss-120b",
       "org": "openai",
-      "likes": 4717,
+      "likes": 4719,
       "downloads": 3524674,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1372,61 +1372,61 @@
   "trending": [
     {
       "id": "Qwen/Qwen3.6-35B-A3B",
-      "likes": 987,
+      "likes": 994,
       "downloads": 334628,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "tencent/HY-Embodied-0.5",
-      "likes": 880,
+      "likes": 881,
       "downloads": 1662,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "unsloth/Qwen3.6-35B-A3B-GGUF",
-      "likes": 529,
+      "likes": 533,
       "downloads": 816485,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "baidu/ERNIE-Image",
-      "likes": 484,
+      "likes": 485,
       "downloads": 4144,
       "pipeline_tag": "text-to-image"
     },
     {
       "id": "tencent/HY-World-2.0",
-      "likes": 476,
+      "likes": 480,
       "downloads": 0,
       "pipeline_tag": "image-to-3d"
     },
     {
       "id": "MiniMaxAI/MiniMax-M2.7",
-      "likes": 989,
+      "likes": 991,
       "downloads": 314205,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "OBLITERATUS/gemma-4-E4B-it-OBLITERATED",
-      "likes": 363,
+      "likes": 364,
       "downloads": 50701,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "baidu/ERNIE-Image-Turbo",
-      "likes": 327,
+      "likes": 330,
       "downloads": 5297,
       "pipeline_tag": "text-to-image"
     },
     {
       "id": "Jiunsong/supergemma4-26b-uncensored-gguf-v2",
-      "likes": 429,
+      "likes": 430,
       "downloads": 77195,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "openbmb/VoxCPM2",
-      "likes": 1172,
+      "likes": 1173,
       "downloads": 66555,
       "pipeline_tag": "text-to-speech"
     },
@@ -1444,13 +1444,13 @@
     },
     {
       "id": "k2-fsa/OmniVoice",
-      "likes": 621,
+      "likes": 622,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "r3gm/wan2-2-fp8da-aoti-preview",
-      "likes": 2241,
+      "likes": 2242,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1479,15 +1479,15 @@
       "pipeline_tag": ""
     },
     {
-      "id": "prithivMLmods/FireRed-Image-Edit-1.0-Fast",
-      "likes": 927,
-      "downloads": 0,
-      "pipeline_tag": ""
-    },
-    {
       "id": "Kassadin88/GLM-5.1-1000000x",
       "likes": 31,
       "downloads": 446,
+      "pipeline_tag": ""
+    },
+    {
+      "id": "prithivMLmods/FireRed-Image-Edit-1.0-Fast",
+      "likes": 928,
+      "downloads": 0,
       "pipeline_tag": ""
     },
     {
@@ -1503,20 +1503,20 @@
       "pipeline_tag": ""
     },
     {
-      "id": "openbmb/VoxCPM-Demo",
-      "likes": 371,
-      "downloads": 0,
-      "pipeline_tag": ""
-    },
-    {
       "id": "r3gm/wan2-2-fp8da-aoti-preview2",
-      "likes": 743,
+      "likes": 745,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "victor/ace-step-jam",
-      "likes": 58,
+      "likes": 59,
+      "downloads": 0,
+      "pipeline_tag": ""
+    },
+    {
+      "id": "openbmb/VoxCPM-Demo",
+      "likes": 371,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1534,22 +1534,22 @@
     },
     {
       "id": "mrfakename/Z-Image-Turbo",
-      "likes": 2959,
+      "likes": 2960,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "baidu/ERNIE-Image-Turbo",
-      "likes": 53,
+      "likes": 54,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "badlogicgames/pi-mono",
-      "likes": 74,
+      "likes": 75,
       "downloads": 11579,
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-04-20T18:51:30.953117+08:00"
+  "lastUpdatedISO": "2026-04-20T20:06:31.121289+08:00"
 }
