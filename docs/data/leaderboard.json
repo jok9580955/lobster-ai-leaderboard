@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-21 04:51",
+  "lastUpdated": "2026-04-21 05:50",
   "arena": [
     {
       "rank": 1,
@@ -366,7 +366,7 @@
       "id": "deepseek-ai/DeepSeek-R1",
       "name": "DeepSeek-R1",
       "org": "deepseek-ai",
-      "likes": 13285,
+      "likes": 13286,
       "downloads": 3945733,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -654,7 +654,7 @@
       "id": "Qwen/QwQ-32B",
       "name": "QwQ-32B",
       "org": "Qwen",
-      "likes": 2906,
+      "likes": 2907,
       "downloads": 73024,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -671,7 +671,7 @@
       "id": "meta-llama/Llama-3.3-70B-Instruct",
       "name": "Llama-3.3-70B-Instruct",
       "org": "meta-llama",
-      "likes": 2732,
+      "likes": 2733,
       "downloads": 496024,
       "license": "Llama3.3",
       "pipeline_tag": "text-generation",
@@ -1173,7 +1173,7 @@
       "id": "deepseek-ai/DeepSeek-R1",
       "name": "DeepSeek-R1",
       "org": "deepseek-ai",
-      "likes": 13285,
+      "likes": 13286,
       "downloads": 3945733,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -1207,7 +1207,7 @@
       "id": "Qwen/Qwen2.5-32B-Instruct",
       "name": "Qwen2.5-32B-Instruct",
       "org": "Qwen",
-      "likes": 345,
+      "likes": 346,
       "downloads": 3352663,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1341,7 +1341,7 @@
       "id": "Qwen/Qwen3-Coder-30B-A3B-Instruct",
       "name": "Qwen3-Coder-30B-A3B-Instruct",
       "org": "Qwen",
-      "likes": 1018,
+      "likes": 1019,
       "downloads": 2406663,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1372,7 +1372,7 @@
   "trending": [
     {
       "id": "Qwen/Qwen3.6-35B-A3B",
-      "likes": 1035,
+      "likes": 1037,
       "downloads": 334628,
       "pipeline_tag": "image-text-to-text"
     },
@@ -1384,7 +1384,7 @@
     },
     {
       "id": "unsloth/Qwen3.6-35B-A3B-GGUF",
-      "likes": 556,
+      "likes": 557,
       "downloads": 816485,
       "pipeline_tag": "image-text-to-text"
     },
@@ -1402,15 +1402,15 @@
     },
     {
       "id": "OBLITERATUS/gemma-4-E4B-it-OBLITERATED",
-      "likes": 372,
+      "likes": 376,
       "downloads": 50701,
       "pipeline_tag": "text-generation"
     },
     {
-      "id": "MiniMaxAI/MiniMax-M2.7",
-      "likes": 999,
-      "downloads": 314205,
-      "pipeline_tag": "text-generation"
+      "id": "moonshotai/Kimi-K2.6",
+      "likes": 338,
+      "downloads": 423,
+      "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "baidu/ERNIE-Image-Turbo",
@@ -1419,14 +1419,14 @@
       "pipeline_tag": "text-to-image"
     },
     {
-      "id": "moonshotai/Kimi-K2.6",
-      "likes": 322,
-      "downloads": 423,
-      "pipeline_tag": "image-text-to-text"
+      "id": "MiniMaxAI/MiniMax-M2.7",
+      "likes": 1001,
+      "downloads": 314205,
+      "pipeline_tag": "text-generation"
     },
     {
       "id": "Jiunsong/supergemma4-26b-uncensored-gguf-v2",
-      "likes": 436,
+      "likes": 437,
       "downloads": 77195,
       "pipeline_tag": "text-generation"
     },
@@ -1450,7 +1450,7 @@
     },
     {
       "id": "r3gm/wan2-2-fp8da-aoti-preview",
-      "likes": 2255,
+      "likes": 2256,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1485,15 +1485,15 @@
       "pipeline_tag": ""
     },
     {
-      "id": "prithivMLmods/FireRed-Image-Edit-1.0-Fast",
-      "likes": 936,
-      "downloads": 0,
-      "pipeline_tag": ""
-    },
-    {
       "id": "microsoft/OpenMementos",
       "likes": 49,
       "downloads": 903,
+      "pipeline_tag": ""
+    },
+    {
+      "id": "prithivMLmods/FireRed-Image-Edit-1.0-Fast",
+      "likes": 936,
+      "downloads": 0,
       "pipeline_tag": ""
     },
     {
@@ -1551,5 +1551,5 @@
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-04-21T04:51:59.506582+08:00"
+  "lastUpdatedISO": "2026-04-21T05:50:36.823455+08:00"
 }
