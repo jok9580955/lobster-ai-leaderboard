@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-21 06:48",
+  "lastUpdated": "2026-04-21 07:44",
   "arena": [
     {
       "rank": 1,
@@ -400,7 +400,7 @@
       "id": "meta-llama/Llama-3.1-8B-Instruct",
       "name": "Llama-3.1-8B-Instruct",
       "org": "meta-llama",
-      "likes": 5734,
+      "likes": 5735,
       "downloads": 9306502,
       "license": "Llama3.1",
       "pipeline_tag": "text-generation",
@@ -788,7 +788,7 @@
       "id": "microsoft/phi-4",
       "name": "phi-4",
       "org": "microsoft",
-      "likes": 2236,
+      "likes": 2237,
       "downloads": 517911,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -990,7 +990,7 @@
       "id": "meta-llama/Llama-3.1-8B-Instruct",
       "name": "Llama-3.1-8B-Instruct",
       "org": "meta-llama",
-      "likes": 5734,
+      "likes": 5735,
       "downloads": 9306502,
       "license": "Llama3.1",
       "pipeline_tag": "text-generation",
@@ -1007,7 +1007,7 @@
       "id": "Qwen/Qwen3-8B",
       "name": "Qwen3-8B",
       "org": "Qwen",
-      "likes": 1052,
+      "likes": 1053,
       "downloads": 8692944,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1384,7 +1384,7 @@
     },
     {
       "id": "unsloth/Qwen3.6-35B-A3B-GGUF",
-      "likes": 558,
+      "likes": 561,
       "downloads": 816485,
       "pipeline_tag": "image-text-to-text"
     },
@@ -1396,21 +1396,21 @@
     },
     {
       "id": "tencent/HY-World-2.0",
-      "likes": 492,
+      "likes": 495,
       "downloads": 0,
       "pipeline_tag": "image-to-3d"
     },
     {
-      "id": "OBLITERATUS/gemma-4-E4B-it-OBLITERATED",
-      "likes": 377,
-      "downloads": 50701,
-      "pipeline_tag": "text-generation"
-    },
-    {
       "id": "moonshotai/Kimi-K2.6",
-      "likes": 349,
+      "likes": 365,
       "downloads": 423,
       "pipeline_tag": "image-text-to-text"
+    },
+    {
+      "id": "OBLITERATUS/gemma-4-E4B-it-OBLITERATED",
+      "likes": 379,
+      "downloads": 50701,
+      "pipeline_tag": "text-generation"
     },
     {
       "id": "baidu/ERNIE-Image-Turbo",
@@ -1425,10 +1425,10 @@
       "pipeline_tag": "text-generation"
     },
     {
-      "id": "Jiunsong/supergemma4-26b-uncensored-gguf-v2",
-      "likes": 437,
-      "downloads": 77195,
-      "pipeline_tag": "text-generation"
+      "id": "openbmb/VoxCPM2",
+      "likes": 1196,
+      "downloads": 66555,
+      "pipeline_tag": "text-to-speech"
     },
     {
       "id": "lambda/hermes-agent-reasoning-traces",
@@ -1444,7 +1444,7 @@
     },
     {
       "id": "k2-fsa/OmniVoice",
-      "likes": 630,
+      "likes": 631,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1456,7 +1456,7 @@
     },
     {
       "id": "webml-community/bonsai-webgpu",
-      "likes": 141,
+      "likes": 142,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1545,11 +1545,11 @@
       "pipeline_tag": ""
     },
     {
-      "id": "markov-ai/computer-use-large",
-      "likes": 170,
-      "downloads": 32461,
+      "id": "Crownelius/Opus-4.6-Reasoning-3300x",
+      "likes": 283,
+      "downloads": 3357,
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-04-21T06:48:42.280688+08:00"
+  "lastUpdatedISO": "2026-04-21T07:44:56.854242+08:00"
 }
