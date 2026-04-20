@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-20 22:53",
+  "lastUpdated": "2026-04-21 00:13",
   "arena": [
     {
       "rank": 1,
@@ -1023,7 +1023,7 @@
       "id": "Qwen/Qwen3-4B",
       "name": "Qwen3-4B",
       "org": "Qwen",
-      "likes": 600,
+      "likes": 601,
       "downloads": 7361218,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1341,7 +1341,7 @@
       "id": "Qwen/Qwen3-Coder-30B-A3B-Instruct",
       "name": "Qwen3-Coder-30B-A3B-Instruct",
       "org": "Qwen",
-      "likes": 1017,
+      "likes": 1018,
       "downloads": 2406663,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1372,43 +1372,43 @@
   "trending": [
     {
       "id": "Qwen/Qwen3.6-35B-A3B",
-      "likes": 1009,
+      "likes": 1015,
       "downloads": 334628,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "tencent/HY-Embodied-0.5",
-      "likes": 881,
+      "likes": 883,
       "downloads": 1662,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "unsloth/Qwen3.6-35B-A3B-GGUF",
-      "likes": 537,
+      "likes": 540,
       "downloads": 816485,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "baidu/ERNIE-Image",
-      "likes": 487,
+      "likes": 488,
       "downloads": 4144,
       "pipeline_tag": "text-to-image"
     },
     {
       "id": "tencent/HY-World-2.0",
-      "likes": 486,
+      "likes": 489,
       "downloads": 0,
       "pipeline_tag": "image-to-3d"
     },
     {
       "id": "MiniMaxAI/MiniMax-M2.7",
-      "likes": 994,
+      "likes": 995,
       "downloads": 314205,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "OBLITERATUS/gemma-4-E4B-it-OBLITERATED",
-      "likes": 368,
+      "likes": 369,
       "downloads": 50701,
       "pipeline_tag": "text-generation"
     },
@@ -1426,31 +1426,31 @@
     },
     {
       "id": "openbmb/VoxCPM2",
-      "likes": 1185,
+      "likes": 1194,
       "downloads": 66555,
       "pipeline_tag": "text-to-speech"
     },
     {
       "id": "lambda/hermes-agent-reasoning-traces",
-      "likes": 193,
+      "likes": 194,
       "downloads": 3515,
       "pipeline_tag": ""
     },
     {
       "id": "Roman1111111/claude-opus-4.6-10000x",
-      "likes": 231,
+      "likes": 232,
       "downloads": 5912,
       "pipeline_tag": ""
     },
     {
       "id": "k2-fsa/OmniVoice",
-      "likes": 623,
+      "likes": 624,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "r3gm/wan2-2-fp8da-aoti-preview",
-      "likes": 2244,
+      "likes": 2248,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1467,6 +1467,12 @@
       "pipeline_tag": ""
     },
     {
+      "id": "prithivMLmods/FireRed-Image-Edit-1.0-Fast",
+      "likes": 933,
+      "downloads": 0,
+      "pipeline_tag": ""
+    },
+    {
       "id": "ianncity/KIMI-K2.5-1000000x",
       "likes": 232,
       "downloads": 4099,
@@ -1476,12 +1482,6 @@
       "id": "Jackrong/GLM-5.1-Reasoning-1M-Cleaned",
       "likes": 31,
       "downloads": 576,
-      "pipeline_tag": ""
-    },
-    {
-      "id": "prithivMLmods/FireRed-Image-Edit-1.0-Fast",
-      "likes": 931,
-      "downloads": 0,
       "pipeline_tag": ""
     },
     {
@@ -1510,7 +1510,7 @@
     },
     {
       "id": "r3gm/wan2-2-fp8da-aoti-preview2",
-      "likes": 746,
+      "likes": 747,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1527,14 +1527,14 @@
       "pipeline_tag": ""
     },
     {
-      "id": "openbmb/VoxCPM-Demo",
-      "likes": 371,
+      "id": "mrfakename/Z-Image-Turbo",
+      "likes": 2962,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
-      "id": "mrfakename/Z-Image-Turbo",
-      "likes": 2962,
+      "id": "openbmb/VoxCPM-Demo",
+      "likes": 371,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1551,5 +1551,5 @@
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-04-20T22:53:26.944934+08:00"
+  "lastUpdatedISO": "2026-04-21T00:13:15.559292+08:00"
 }
