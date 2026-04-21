@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-22 06:40",
+  "lastUpdated": "2026-04-22 07:37",
   "arena": [
     {
       "rank": 1,
@@ -586,7 +586,7 @@
       "id": "openai-community/gpt2",
       "name": "gpt2",
       "org": "openai-community",
-      "likes": 3215,
+      "likes": 3216,
       "downloads": 14192930,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -822,7 +822,7 @@
       "id": "meta-llama/Llama-3.1-8B",
       "name": "Llama-3.1-8B",
       "org": "meta-llama",
-      "likes": 2163,
+      "likes": 2164,
       "downloads": 1467537,
       "license": "Llama3.1",
       "pipeline_tag": "text-generation",
@@ -891,7 +891,7 @@
       "id": "openai-community/gpt2",
       "name": "gpt2",
       "org": "openai-community",
-      "likes": 3215,
+      "likes": 3216,
       "downloads": 14192930,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -1356,7 +1356,7 @@
       "id": "Qwen/Qwen3-32B",
       "name": "Qwen3-32B",
       "org": "Qwen",
-      "likes": 685,
+      "likes": 686,
       "downloads": 2373549,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1372,25 +1372,25 @@
   "trending": [
     {
       "id": "Qwen/Qwen3.6-35B-A3B",
-      "likes": 1128,
+      "likes": 1135,
       "downloads": 458436,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "moonshotai/Kimi-K2.6",
-      "likes": 694,
+      "likes": 700,
       "downloads": 8241,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "unsloth/Qwen3.6-35B-A3B-GGUF",
-      "likes": 609,
+      "likes": 613,
       "downloads": 967317,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "tencent/HY-World-2.0",
-      "likes": 520,
+      "likes": 521,
       "downloads": 0,
       "pipeline_tag": "image-to-3d"
     },
@@ -1432,13 +1432,13 @@
     },
     {
       "id": "lambda/hermes-agent-reasoning-traces",
-      "likes": 208,
+      "likes": 209,
       "downloads": 6861,
       "pipeline_tag": ""
     },
     {
       "id": "Roman1111111/claude-opus-4.6-10000x",
-      "likes": 253,
+      "likes": 254,
       "downloads": 6309,
       "pipeline_tag": ""
     },
@@ -1479,15 +1479,15 @@
       "pipeline_tag": ""
     },
     {
-      "id": "TeraflopAI/SEC-EDGAR",
-      "likes": 34,
-      "downloads": 4238,
-      "pipeline_tag": ""
-    },
-    {
       "id": "prithivMLmods/FireRed-Image-Edit-1.0-Fast",
       "likes": 946,
       "downloads": 0,
+      "pipeline_tag": ""
+    },
+    {
+      "id": "TeraflopAI/SEC-EDGAR",
+      "likes": 34,
+      "downloads": 4238,
       "pipeline_tag": ""
     },
     {
@@ -1516,7 +1516,7 @@
     },
     {
       "id": "baidu/ERNIE-Image-Turbo",
-      "likes": 70,
+      "likes": 71,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1551,5 +1551,5 @@
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-04-22T06:40:13.188732+08:00"
+  "lastUpdatedISO": "2026-04-22T07:37:45.759372+08:00"
 }
