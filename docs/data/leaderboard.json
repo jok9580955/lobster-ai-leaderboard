@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-21 23:15",
+  "lastUpdated": "2026-04-22 01:06",
   "arena": [
     {
       "rank": 1,
@@ -400,7 +400,7 @@
       "id": "meta-llama/Llama-3.1-8B-Instruct",
       "name": "Llama-3.1-8B-Instruct",
       "org": "meta-llama",
-      "likes": 5738,
+      "likes": 5740,
       "downloads": 9460271,
       "license": "Llama3.1",
       "pipeline_tag": "text-generation",
@@ -536,7 +536,7 @@
       "id": "deepseek-ai/DeepSeek-V3",
       "name": "DeepSeek-V3",
       "org": "deepseek-ai",
-      "likes": 4056,
+      "likes": 4057,
       "downloads": 893429,
       "license": "Unknown",
       "pipeline_tag": "text-generation",
@@ -737,7 +737,7 @@
       "id": "meta-llama/Llama-3.2-1B",
       "name": "Llama-3.2-1B",
       "org": "meta-llama",
-      "likes": 2369,
+      "likes": 2370,
       "downloads": 1280373,
       "license": "Llama3.2",
       "pipeline_tag": "text-generation",
@@ -856,7 +856,7 @@
       "id": "zai-org/GLM-5",
       "name": "GLM-5",
       "org": "zai-org",
-      "likes": 2072,
+      "likes": 2073,
       "downloads": 467925,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -875,7 +875,7 @@
       "id": "Qwen/Qwen3-0.6B",
       "name": "Qwen3-0.6B",
       "org": "Qwen",
-      "likes": 1201,
+      "likes": 1203,
       "downloads": 16401303,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -990,7 +990,7 @@
       "id": "meta-llama/Llama-3.1-8B-Instruct",
       "name": "Llama-3.1-8B-Instruct",
       "org": "meta-llama",
-      "likes": 5738,
+      "likes": 5740,
       "downloads": 9460271,
       "license": "Llama3.1",
       "pipeline_tag": "text-generation",
@@ -1007,7 +1007,7 @@
       "id": "Qwen/Qwen3-8B",
       "name": "Qwen3-8B",
       "org": "Qwen",
-      "likes": 1057,
+      "likes": 1058,
       "downloads": 8793263,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1372,45 +1372,51 @@
   "trending": [
     {
       "id": "Qwen/Qwen3.6-35B-A3B",
-      "likes": 1104,
+      "likes": 1114,
       "downloads": 458436,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "moonshotai/Kimi-K2.6",
-      "likes": 620,
+      "likes": 646,
       "downloads": 8241,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "unsloth/Qwen3.6-35B-A3B-GGUF",
-      "likes": 594,
+      "likes": 599,
       "downloads": 967317,
       "pipeline_tag": "image-text-to-text"
     },
     {
-      "id": "tencent/HY-Embodied-0.5",
-      "likes": 893,
-      "downloads": 2035,
-      "pipeline_tag": "image-text-to-text"
-    },
-    {
       "id": "tencent/HY-World-2.0",
-      "likes": 510,
+      "likes": 515,
       "downloads": 0,
       "pipeline_tag": "image-to-3d"
     },
     {
+      "id": "tencent/HY-Embodied-0.5",
+      "likes": 895,
+      "downloads": 2035,
+      "pipeline_tag": "image-text-to-text"
+    },
+    {
       "id": "baidu/ERNIE-Image",
-      "likes": 509,
+      "likes": 510,
       "downloads": 4523,
       "pipeline_tag": "text-to-image"
     },
     {
       "id": "OBLITERATUS/gemma-4-E4B-it-OBLITERATED",
-      "likes": 418,
+      "likes": 422,
       "downloads": 63995,
       "pipeline_tag": "text-generation"
+    },
+    {
+      "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "likes": 325,
+      "downloads": 261086,
+      "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "baidu/ERNIE-Image-Turbo",
@@ -1419,14 +1425,8 @@
       "pipeline_tag": "text-to-image"
     },
     {
-      "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-      "likes": 323,
-      "downloads": 261086,
-      "pipeline_tag": "image-text-to-text"
-    },
-    {
       "id": "MiniMaxAI/MiniMax-M2.7",
-      "likes": 1016,
+      "likes": 1018,
       "downloads": 358255,
       "pipeline_tag": "text-generation"
     },
@@ -1438,31 +1438,31 @@
     },
     {
       "id": "Roman1111111/claude-opus-4.6-10000x",
-      "likes": 251,
+      "likes": 252,
       "downloads": 6309,
       "pipeline_tag": ""
     },
     {
-      "id": "r3gm/wan2-2-fp8da-aoti-preview",
-      "likes": 2276,
+      "id": "k2-fsa/OmniVoice",
+      "likes": 644,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
-      "id": "k2-fsa/OmniVoice",
-      "likes": 643,
+      "id": "r3gm/wan2-2-fp8da-aoti-preview",
+      "likes": 2280,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "webml-community/bonsai-webgpu",
-      "likes": 146,
+      "likes": 147,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "Jackrong/GLM-5.1-Reasoning-1M-Cleaned",
-      "likes": 44,
+      "likes": 45,
       "downloads": 1120,
       "pipeline_tag": ""
     },
@@ -1479,15 +1479,15 @@
       "pipeline_tag": ""
     },
     {
-      "id": "prithivMLmods/FireRed-Image-Edit-1.0-Fast",
-      "likes": 943,
-      "downloads": 0,
+      "id": "TeraflopAI/SEC-EDGAR",
+      "likes": 34,
+      "downloads": 4238,
       "pipeline_tag": ""
     },
     {
-      "id": "TeraflopAI/SEC-EDGAR",
-      "likes": 33,
-      "downloads": 4238,
+      "id": "prithivMLmods/FireRed-Image-Edit-1.0-Fast",
+      "likes": 942,
+      "downloads": 0,
       "pipeline_tag": ""
     },
     {
@@ -1503,20 +1503,20 @@
       "pipeline_tag": ""
     },
     {
-      "id": "baidu/ERNIE-Image-Turbo",
-      "likes": 68,
-      "downloads": 0,
-      "pipeline_tag": ""
-    },
-    {
       "id": "r3gm/wan2-2-fp8da-aoti-preview2",
-      "likes": 752,
+      "likes": 755,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "victor/ace-step-jam",
       "likes": 64,
+      "downloads": 0,
+      "pipeline_tag": ""
+    },
+    {
+      "id": "baidu/ERNIE-Image-Turbo",
+      "likes": 68,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1533,23 +1533,23 @@
       "pipeline_tag": ""
     },
     {
-      "id": "selfit-camera/Omni-Image-Editor",
-      "likes": 1484,
-      "downloads": 0,
-      "pipeline_tag": ""
-    },
-    {
       "id": "Roman1111111/claude-sonnet-4.6-120000x",
-      "likes": 20,
+      "likes": 21,
       "downloads": 465,
       "pipeline_tag": ""
     },
     {
       "id": "mrfakename/Z-Image-Turbo",
-      "likes": 2970,
+      "likes": 2971,
+      "downloads": 0,
+      "pipeline_tag": ""
+    },
+    {
+      "id": "webml-community/bonsai-ternary-webgpu",
+      "likes": 50,
       "downloads": 0,
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-04-21T23:15:51.232036+08:00"
+  "lastUpdatedISO": "2026-04-22T01:06:15.597898+08:00"
 }
