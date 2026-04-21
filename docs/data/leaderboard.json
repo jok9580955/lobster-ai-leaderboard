@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-21 07:44",
+  "lastUpdated": "2026-04-21 10:49",
   "arena": [
     {
       "rank": 1,
@@ -383,7 +383,7 @@
       "id": "meta-llama/Meta-Llama-3-8B",
       "name": "Meta-Llama-3-8B",
       "org": "meta-llama",
-      "likes": 6521,
+      "likes": 6522,
       "downloads": 3270670,
       "license": "Llama3",
       "pipeline_tag": "text-generation",
@@ -485,7 +485,7 @@
       "id": "meta-llama/Meta-Llama-3-8B-Instruct",
       "name": "Meta-Llama-3-8B-Instruct",
       "org": "meta-llama",
-      "likes": 4486,
+      "likes": 4487,
       "downloads": 1342402,
       "license": "Llama3",
       "pipeline_tag": "text-generation",
@@ -586,7 +586,7 @@
       "id": "openai-community/gpt2",
       "name": "gpt2",
       "org": "openai-community",
-      "likes": 3213,
+      "likes": 3214,
       "downloads": 13992539,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -839,7 +839,7 @@
       "id": "meta-llama/Llama-3.2-3B-Instruct",
       "name": "Llama-3.2-3B-Instruct",
       "org": "meta-llama",
-      "likes": 2098,
+      "likes": 2100,
       "downloads": 4203116,
       "license": "Llama3.2",
       "pipeline_tag": "text-generation",
@@ -891,7 +891,7 @@
       "id": "openai-community/gpt2",
       "name": "gpt2",
       "org": "openai-community",
-      "likes": 3213,
+      "likes": 3214,
       "downloads": 13992539,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -942,7 +942,7 @@
       "id": "deepseek-ai/DeepSeek-V3.2",
       "name": "DeepSeek-V3.2",
       "org": "deepseek-ai",
-      "likes": 1413,
+      "likes": 1415,
       "downloads": 10366446,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -1156,7 +1156,7 @@
       "id": "meta-llama/Llama-3.2-3B-Instruct",
       "name": "Llama-3.2-3B-Instruct",
       "org": "meta-llama",
-      "likes": 2098,
+      "likes": 2100,
       "downloads": 4203116,
       "license": "Llama3.2",
       "pipeline_tag": "text-generation",
@@ -1224,7 +1224,7 @@
       "id": "meta-llama/Meta-Llama-3-8B",
       "name": "Meta-Llama-3-8B",
       "org": "meta-llama",
-      "likes": 6521,
+      "likes": 6522,
       "downloads": 3270670,
       "license": "Llama3",
       "pipeline_tag": "text-generation",
@@ -1372,67 +1372,67 @@
   "trending": [
     {
       "id": "Qwen/Qwen3.6-35B-A3B",
-      "likes": 1041,
+      "likes": 1051,
       "downloads": 334628,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "tencent/HY-Embodied-0.5",
-      "likes": 886,
+      "likes": 887,
       "downloads": 1662,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "unsloth/Qwen3.6-35B-A3B-GGUF",
-      "likes": 561,
+      "likes": 566,
       "downloads": 816485,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "baidu/ERNIE-Image",
-      "likes": 496,
+      "likes": 501,
       "downloads": 4144,
       "pipeline_tag": "text-to-image"
     },
     {
       "id": "tencent/HY-World-2.0",
-      "likes": 495,
+      "likes": 498,
       "downloads": 0,
       "pipeline_tag": "image-to-3d"
     },
     {
       "id": "moonshotai/Kimi-K2.6",
-      "likes": 365,
+      "likes": 430,
       "downloads": 423,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "OBLITERATUS/gemma-4-E4B-it-OBLITERATED",
-      "likes": 379,
+      "likes": 384,
       "downloads": 50701,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "baidu/ERNIE-Image-Turbo",
-      "likes": 334,
+      "likes": 336,
       "downloads": 5297,
       "pipeline_tag": "text-to-image"
     },
     {
       "id": "MiniMaxAI/MiniMax-M2.7",
-      "likes": 1001,
+      "likes": 1006,
       "downloads": 314205,
       "pipeline_tag": "text-generation"
     },
     {
-      "id": "openbmb/VoxCPM2",
-      "likes": 1196,
-      "downloads": 66555,
-      "pipeline_tag": "text-to-speech"
+      "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "likes": 288,
+      "downloads": 216308,
+      "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "lambda/hermes-agent-reasoning-traces",
-      "likes": 198,
+      "likes": 199,
       "downloads": 3515,
       "pipeline_tag": ""
     },
@@ -1444,19 +1444,19 @@
     },
     {
       "id": "k2-fsa/OmniVoice",
-      "likes": 631,
+      "likes": 633,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "r3gm/wan2-2-fp8da-aoti-preview",
-      "likes": 2257,
+      "likes": 2261,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "webml-community/bonsai-webgpu",
-      "likes": 142,
+      "likes": 144,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1468,7 +1468,7 @@
     },
     {
       "id": "Jackrong/GLM-5.1-Reasoning-1M-Cleaned",
-      "likes": 35,
+      "likes": 36,
       "downloads": 576,
       "pipeline_tag": ""
     },
@@ -1480,7 +1480,7 @@
     },
     {
       "id": "ianncity/KIMI-K2.5-1000000x",
-      "likes": 232,
+      "likes": 233,
       "downloads": 4099,
       "pipeline_tag": ""
     },
@@ -1498,13 +1498,19 @@
     },
     {
       "id": "TeraflopAI/SEC-EDGAR",
-      "likes": 29,
+      "likes": 31,
       "downloads": 3543,
       "pipeline_tag": ""
     },
     {
       "id": "prism-ml/Bonsai-demo",
-      "likes": 88,
+      "likes": 89,
+      "downloads": 0,
+      "pipeline_tag": ""
+    },
+    {
+      "id": "r3gm/wan2-2-fp8da-aoti-preview2",
+      "likes": 751,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1515,14 +1521,14 @@
       "pipeline_tag": ""
     },
     {
-      "id": "r3gm/wan2-2-fp8da-aoti-preview2",
-      "likes": 749,
+      "id": "baidu/ERNIE-Image-Turbo",
+      "likes": 62,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
-      "id": "baidu/ERNIE-Image-Turbo",
-      "likes": 61,
+      "id": "mrfakename/Z-Image-Turbo",
+      "likes": 2968,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1533,23 +1539,17 @@
       "pipeline_tag": ""
     },
     {
-      "id": "mrfakename/Z-Image-Turbo",
-      "likes": 2966,
-      "downloads": 0,
-      "pipeline_tag": ""
-    },
-    {
       "id": "selfit-camera/Omni-Image-Editor",
-      "likes": 1481,
+      "likes": 1482,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
-      "id": "Crownelius/Opus-4.6-Reasoning-3300x",
-      "likes": 283,
-      "downloads": 3357,
+      "id": "nvidia/OCR-Synthetic-Multilingual-v1",
+      "likes": 19,
+      "downloads": 156,
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-04-21T07:44:56.854242+08:00"
+  "lastUpdatedISO": "2026-04-21T10:49:40.512663+08:00"
 }
