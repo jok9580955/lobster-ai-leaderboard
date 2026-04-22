@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-22 23:16",
+  "lastUpdated": "2026-04-23 01:05",
   "arena": [
     {
       "rank": 1,
@@ -1372,38 +1372,44 @@
   "trending": [
     {
       "id": "Qwen/Qwen3.6-35B-A3B",
-      "likes": 1198,
+      "likes": 1207,
       "downloads": 582961,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "moonshotai/Kimi-K2.6",
-      "likes": 778,
+      "likes": 788,
       "downloads": 54456,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "unsloth/Qwen3.6-35B-A3B-GGUF",
-      "likes": 651,
+      "likes": 655,
       "downloads": 1112454,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "tencent/HY-World-2.0",
-      "likes": 538,
+      "likes": 540,
       "downloads": 0,
       "pipeline_tag": "image-to-3d"
     },
     {
       "id": "OBLITERATUS/gemma-4-E4B-it-OBLITERATED",
-      "likes": 441,
+      "likes": 445,
       "downloads": 79024,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-      "likes": 366,
+      "likes": 365,
       "downloads": 312962,
+      "pipeline_tag": "image-text-to-text"
+    },
+    {
+      "id": "Qwen/Qwen3.6-27B",
+      "likes": 267,
+      "downloads": 0,
       "pipeline_tag": "image-text-to-text"
     },
     {
@@ -1414,55 +1420,49 @@
     },
     {
       "id": "baidu/ERNIE-Image",
-      "likes": 522,
+      "likes": 523,
       "downloads": 5253,
       "pipeline_tag": "text-to-image"
     },
     {
       "id": "nvidia/Lyra-2.0",
-      "likes": 254,
+      "likes": 255,
       "downloads": 252,
       "pipeline_tag": ""
     },
     {
-      "id": "MiniMaxAI/MiniMax-M2.7",
-      "likes": 1032,
-      "downloads": 416155,
-      "pipeline_tag": "text-generation"
-    },
-    {
       "id": "lambda/hermes-agent-reasoning-traces",
-      "likes": 215,
+      "likes": 217,
       "downloads": 7289,
       "pipeline_tag": ""
     },
     {
       "id": "Roman1111111/claude-opus-4.6-10000x",
-      "likes": 258,
+      "likes": 260,
       "downloads": 6646,
       "pipeline_tag": ""
     },
     {
       "id": "webml-community/bonsai-webgpu",
-      "likes": 151,
+      "likes": 152,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "r3gm/wan2-2-fp8da-aoti-preview",
-      "likes": 2295,
+      "likes": 2298,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "Jackrong/GLM-5.1-Reasoning-1M-Cleaned",
-      "likes": 52,
+      "likes": 54,
       "downloads": 1301,
       "pipeline_tag": ""
     },
     {
       "id": "k2-fsa/OmniVoice",
-      "likes": 657,
+      "likes": 658,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1474,7 +1474,7 @@
     },
     {
       "id": "llamaindex/ParseBench",
-      "likes": 67,
+      "likes": 68,
       "downloads": 12577,
       "pipeline_tag": ""
     },
@@ -1492,7 +1492,7 @@
     },
     {
       "id": "ShadenA/MathNet",
-      "likes": 28,
+      "likes": 29,
       "downloads": 1724,
       "pipeline_tag": ""
     },
@@ -1503,38 +1503,32 @@
       "pipeline_tag": ""
     },
     {
-      "id": "ianncity/KIMI-K2.5-1000000x",
-      "likes": 237,
-      "downloads": 4844,
-      "pipeline_tag": ""
-    },
-    {
       "id": "smolagents/ml-intern",
-      "likes": 75,
+      "likes": 79,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
+      "id": "ianncity/KIMI-K2.5-1000000x",
+      "likes": 238,
+      "downloads": 4844,
+      "pipeline_tag": ""
+    },
+    {
       "id": "Roman1111111/claude-sonnet-4.6-120000x",
-      "likes": 25,
+      "likes": 26,
       "downloads": 721,
       "pipeline_tag": ""
     },
     {
       "id": "r3gm/wan2-2-fp8da-aoti-preview2",
-      "likes": 762,
+      "likes": 764,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "webml-community/bonsai-ternary-webgpu",
-      "likes": 63,
-      "downloads": 0,
-      "pipeline_tag": ""
-    },
-    {
-      "id": "victor/ace-step-jam",
-      "likes": 69,
+      "likes": 65,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1545,11 +1539,17 @@
       "pipeline_tag": ""
     },
     {
-      "id": "baidu/ERNIE-Image-Turbo",
-      "likes": 76,
+      "id": "victor/ace-step-jam",
+      "likes": 71,
+      "downloads": 0,
+      "pipeline_tag": ""
+    },
+    {
+      "id": "prism-ml/Bonsai-demo",
+      "likes": 92,
       "downloads": 0,
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-04-22T23:16:28.389081+08:00"
+  "lastUpdatedISO": "2026-04-23T01:05:11.623595+08:00"
 }
