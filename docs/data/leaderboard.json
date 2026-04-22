@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-23 04:58",
+  "lastUpdated": "2026-04-23 05:58",
   "arena": [
     {
       "rank": 1,
@@ -553,7 +553,7 @@
       "id": "microsoft/phi-2",
       "name": "phi-2",
       "org": "microsoft",
-      "likes": 3447,
+      "likes": 3448,
       "downloads": 818560,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -1372,57 +1372,57 @@
   "trending": [
     {
       "id": "Qwen/Qwen3.6-35B-A3B",
-      "likes": 1228,
+      "likes": 1232,
       "downloads": 582961,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "moonshotai/Kimi-K2.6",
-      "likes": 803,
+      "likes": 805,
       "downloads": 54456,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "unsloth/Qwen3.6-35B-A3B-GGUF",
-      "likes": 662,
+      "likes": 665,
       "downloads": 1112454,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "tencent/HY-World-2.0",
-      "likes": 544,
+      "likes": 548,
       "downloads": 0,
       "pipeline_tag": "image-to-3d"
     },
     {
       "id": "Qwen/Qwen3.6-27B",
-      "likes": 367,
+      "likes": 379,
       "downloads": 0,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-      "likes": 370,
+      "likes": 371,
       "downloads": 312962,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "OBLITERATUS/gemma-4-E4B-it-OBLITERATED",
-      "likes": 451,
+      "likes": 453,
       "downloads": 79024,
       "pipeline_tag": "text-generation"
     },
     {
-      "id": "baidu/ERNIE-Image",
-      "likes": 526,
-      "downloads": 5253,
-      "pipeline_tag": "text-to-image"
+      "id": "openai/privacy-filter",
+      "likes": 247,
+      "downloads": 3,
+      "pipeline_tag": "token-classification"
     },
     {
-      "id": "nvidia/Lyra-2.0",
-      "likes": 256,
-      "downloads": 252,
-      "pipeline_tag": ""
+      "id": "baidu/ERNIE-Image",
+      "likes": 528,
+      "downloads": 5253,
+      "pipeline_tag": "text-to-image"
     },
     {
       "id": "google/gemma-4-31B-it",
@@ -1438,7 +1438,7 @@
     },
     {
       "id": "Roman1111111/claude-opus-4.6-10000x",
-      "likes": 261,
+      "likes": 262,
       "downloads": 6646,
       "pipeline_tag": ""
     },
@@ -1450,13 +1450,13 @@
     },
     {
       "id": "r3gm/wan2-2-fp8da-aoti-preview",
-      "likes": 2300,
+      "likes": 2301,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "k2-fsa/OmniVoice",
-      "likes": 659,
+      "likes": 660,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1473,6 +1473,12 @@
       "pipeline_tag": ""
     },
     {
+      "id": "ShadenA/MathNet",
+      "likes": 35,
+      "downloads": 1724,
+      "pipeline_tag": ""
+    },
+    {
       "id": "llamaindex/ParseBench",
       "likes": 68,
       "downloads": 12577,
@@ -1485,14 +1491,14 @@
       "pipeline_tag": ""
     },
     {
-      "id": "ShadenA/MathNet",
-      "likes": 33,
-      "downloads": 1724,
+      "id": "prithivMLmods/FireRed-Image-Edit-1.0-Fast",
+      "likes": 958,
+      "downloads": 0,
       "pipeline_tag": ""
     },
     {
-      "id": "prithivMLmods/FireRed-Image-Edit-1.0-Fast",
-      "likes": 958,
+      "id": "smolagents/ml-intern",
+      "likes": 88,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1503,12 +1509,6 @@
       "pipeline_tag": ""
     },
     {
-      "id": "smolagents/ml-intern",
-      "likes": 85,
-      "downloads": 0,
-      "pipeline_tag": ""
-    },
-    {
       "id": "Roman1111111/claude-sonnet-4.6-120000x",
       "likes": 26,
       "downloads": 721,
@@ -1516,13 +1516,13 @@
     },
     {
       "id": "r3gm/wan2-2-fp8da-aoti-preview2",
-      "likes": 764,
+      "likes": 765,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "webml-community/bonsai-ternary-webgpu",
-      "likes": 65,
+      "likes": 66,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1534,13 +1534,7 @@
     },
     {
       "id": "selfit-camera/Omni-Image-Editor",
-      "likes": 1495,
-      "downloads": 0,
-      "pipeline_tag": ""
-    },
-    {
-      "id": "victor/ace-step-jam",
-      "likes": 73,
+      "likes": 1496,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1549,7 +1543,13 @@
       "likes": 2984,
       "downloads": 0,
       "pipeline_tag": ""
+    },
+    {
+      "id": "victor/ace-step-jam",
+      "likes": 73,
+      "downloads": 0,
+      "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-04-23T04:58:29.081497+08:00"
+  "lastUpdatedISO": "2026-04-23T05:58:43.925637+08:00"
 }
