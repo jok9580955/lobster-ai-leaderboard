@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-25 03:54",
+  "lastUpdated": "2026-04-25 04:53",
   "arena": [
     {
       "rank": 1,
@@ -751,6 +751,22 @@
       "created_at": "2024-09-18T15:03:14.000Z"
     },
     {
+      "id": "deepseek-ai/DeepSeek-V4-Pro",
+      "name": "DeepSeek-V4-Pro",
+      "org": "deepseek-ai",
+      "likes": 2366,
+      "downloads": 30,
+      "license": "Mit",
+      "pipeline_tag": "text-generation",
+      "tags": [
+        "deepseek_v4",
+        "text-generation",
+        "8-bit",
+        "fp8"
+      ],
+      "created_at": "2026-04-22T06:04:45.000Z"
+    },
+    {
       "id": "moonshotai/Kimi-K2-Instruct",
       "name": "Kimi-K2-Instruct",
       "org": "moonshotai",
@@ -766,22 +782,6 @@
         "fp8"
       ],
       "created_at": "2025-07-11T00:55:12.000Z"
-    },
-    {
-      "id": "deepseek-ai/DeepSeek-V4-Pro",
-      "name": "DeepSeek-V4-Pro",
-      "org": "deepseek-ai",
-      "likes": 2344,
-      "downloads": 30,
-      "license": "Mit",
-      "pipeline_tag": "text-generation",
-      "tags": [
-        "deepseek_v4",
-        "text-generation",
-        "8-bit",
-        "fp8"
-      ],
-      "created_at": "2026-04-22T06:04:45.000Z"
     },
     {
       "id": "meta-llama/Llama-2-7b-hf",
@@ -907,7 +907,7 @@
       "id": "Qwen/Qwen2.5-7B-Instruct",
       "name": "Qwen2.5-7B-Instruct",
       "org": "Qwen",
-      "likes": 1235,
+      "likes": 1236,
       "downloads": 11962459,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1371,37 +1371,37 @@
   "trending": [
     {
       "id": "deepseek-ai/DeepSeek-V4-Pro",
-      "likes": 2344,
+      "likes": 2366,
       "downloads": 30,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "moonshotai/Kimi-K2.6",
-      "likes": 967,
+      "likes": 970,
       "downloads": 208251,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "Qwen/Qwen3.6-27B",
-      "likes": 745,
+      "likes": 746,
       "downloads": 162349,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "openai/privacy-filter",
-      "likes": 671,
+      "likes": 675,
       "downloads": 12664,
       "pipeline_tag": "token-classification"
     },
     {
       "id": "Qwen/Qwen3.6-35B-A3B",
-      "likes": 1378,
+      "likes": 1379,
       "downloads": 861178,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "deepseek-ai/DeepSeek-V4-Flash",
-      "likes": 591,
+      "likes": 595,
       "downloads": 23,
       "pipeline_tag": "text-generation"
     },
@@ -1413,13 +1413,13 @@
     },
     {
       "id": "unsloth/Qwen3.6-35B-A3B-GGUF",
-      "likes": 737,
+      "likes": 738,
       "downloads": 1397244,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "unsloth/Qwen3.6-27B-GGUF",
-      "likes": 368,
+      "likes": 369,
       "downloads": 340032,
       "pipeline_tag": "image-text-to-text"
     },
@@ -1431,7 +1431,7 @@
     },
     {
       "id": "nvidia/Nemotron-Personas-Korea",
-      "likes": 81,
+      "likes": 82,
       "downloads": 3542,
       "pipeline_tag": ""
     },
@@ -1455,13 +1455,13 @@
     },
     {
       "id": "r3gm/wan2-2-fp8da-aoti-preview",
-      "likes": 2339,
+      "likes": 2340,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "smolagents/ml-intern",
-      "likes": 140,
+      "likes": 141,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1509,7 +1509,7 @@
     },
     {
       "id": "r3gm/wan2-2-fp8da-aoti-preview2",
-      "likes": 789,
+      "likes": 790,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1550,5 +1550,5 @@
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-04-25T03:54:58.062188+08:00"
+  "lastUpdatedISO": "2026-04-25T04:53:19.618147+08:00"
 }
