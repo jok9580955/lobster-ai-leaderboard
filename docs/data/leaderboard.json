@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-26 00:47",
+  "lastUpdated": "2026-04-26 01:39",
   "arena": [
     {
       "rank": 1,
@@ -688,7 +688,7 @@
       "id": "deepseek-ai/DeepSeek-V4-Pro",
       "name": "DeepSeek-V4-Pro",
       "org": "deepseek-ai",
-      "likes": 2648,
+      "likes": 2655,
       "downloads": 78864,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -1372,55 +1372,55 @@
   "trending": [
     {
       "id": "deepseek-ai/DeepSeek-V4-Pro",
-      "likes": 2648,
+      "likes": 2655,
       "downloads": 78864,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "moonshotai/Kimi-K2.6",
-      "likes": 1013,
+      "likes": 1014,
       "downloads": 291840,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "Qwen/Qwen3.6-27B",
-      "likes": 792,
+      "likes": 796,
       "downloads": 257685,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "openai/privacy-filter",
-      "likes": 736,
+      "likes": 738,
       "downloads": 21097,
       "pipeline_tag": "token-classification"
     },
     {
       "id": "deepseek-ai/DeepSeek-V4-Flash",
-      "likes": 677,
+      "likes": 678,
       "downloads": 25391,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "Qwen/Qwen3.6-35B-A3B",
-      "likes": 1395,
+      "likes": 1397,
       "downloads": 1027741,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "unsloth/Qwen3.6-27B-GGUF",
-      "likes": 396,
+      "likes": 397,
       "downloads": 458273,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "tencent/HY-World-2.0",
-      "likes": 597,
+      "likes": 598,
       "downloads": 2851,
       "pipeline_tag": "image-to-3d"
     },
     {
       "id": "unsloth/Qwen3.6-35B-A3B-GGUF",
-      "likes": 755,
+      "likes": 758,
       "downloads": 1488984,
       "pipeline_tag": "image-text-to-text"
     },
@@ -1449,15 +1449,15 @@
       "pipeline_tag": ""
     },
     {
-      "id": "lambda/hermes-agent-reasoning-traces",
-      "likes": 237,
-      "downloads": 7813,
+      "id": "smolagents/ml-intern",
+      "likes": 165,
+      "downloads": 0,
       "pipeline_tag": ""
     },
     {
-      "id": "smolagents/ml-intern",
-      "likes": 162,
-      "downloads": 0,
+      "id": "lambda/hermes-agent-reasoning-traces",
+      "likes": 237,
+      "downloads": 7813,
       "pipeline_tag": ""
     },
     {
@@ -1492,13 +1492,13 @@
     },
     {
       "id": "webml-community/bonsai-ternary-webgpu",
-      "likes": 99,
+      "likes": 101,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "TeraflopAI/SEC-EDGAR",
-      "likes": 39,
+      "likes": 40,
       "downloads": 5663,
       "pipeline_tag": ""
     },
@@ -1516,20 +1516,14 @@
     },
     {
       "id": "selfit-camera/Omni-Image-Editor",
-      "likes": 1525,
+      "likes": 1526,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "baidu/ERNIE-Image-Turbo",
-      "likes": 107,
+      "likes": 108,
       "downloads": 0,
-      "pipeline_tag": ""
-    },
-    {
-      "id": "google/RSRCC",
-      "likes": 26,
-      "downloads": 5625,
       "pipeline_tag": ""
     },
     {
@@ -1539,17 +1533,23 @@
       "pipeline_tag": ""
     },
     {
-      "id": "mrfakename/Z-Image-Turbo",
-      "likes": 3002,
-      "downloads": 0,
+      "id": "google/RSRCC",
+      "likes": 26,
+      "downloads": 5625,
       "pipeline_tag": ""
     },
     {
       "id": "victor/ace-step-jam",
-      "likes": 90,
+      "likes": 93,
+      "downloads": 0,
+      "pipeline_tag": ""
+    },
+    {
+      "id": "mrfakename/Z-Image-Turbo",
+      "likes": 3003,
       "downloads": 0,
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-04-26T00:47:10.823201+08:00"
+  "lastUpdatedISO": "2026-04-26T01:39:58.902870+08:00"
 }
