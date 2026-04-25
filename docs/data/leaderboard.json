@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-26 03:49",
+  "lastUpdated": "2026-04-26 04:42",
   "arena": [
     {
       "rank": 1,
@@ -688,7 +688,7 @@
       "id": "deepseek-ai/DeepSeek-V4-Pro",
       "name": "DeepSeek-V4-Pro",
       "org": "deepseek-ai",
-      "likes": 2668,
+      "likes": 2672,
       "downloads": 78864,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -1372,49 +1372,49 @@
   "trending": [
     {
       "id": "deepseek-ai/DeepSeek-V4-Pro",
-      "likes": 2668,
+      "likes": 2672,
       "downloads": 78864,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "moonshotai/Kimi-K2.6",
-      "likes": 1018,
+      "likes": 1021,
       "downloads": 291840,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "Qwen/Qwen3.6-27B",
-      "likes": 803,
+      "likes": 805,
       "downloads": 257685,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "openai/privacy-filter",
-      "likes": 744,
+      "likes": 745,
       "downloads": 21097,
       "pipeline_tag": "token-classification"
     },
     {
       "id": "deepseek-ai/DeepSeek-V4-Flash",
-      "likes": 681,
+      "likes": 683,
       "downloads": 25391,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "Qwen/Qwen3.6-35B-A3B",
-      "likes": 1400,
+      "likes": 1401,
       "downloads": 1027741,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "unsloth/Qwen3.6-27B-GGUF",
-      "likes": 399,
+      "likes": 400,
       "downloads": 458273,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "tencent/HY-World-2.0",
-      "likes": 599,
+      "likes": 600,
       "downloads": 2851,
       "pipeline_tag": "image-to-3d"
     },
@@ -1426,7 +1426,7 @@
     },
     {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-      "likes": 428,
+      "likes": 429,
       "downloads": 418743,
       "pipeline_tag": "image-text-to-text"
     },
@@ -1450,7 +1450,7 @@
     },
     {
       "id": "smolagents/ml-intern",
-      "likes": 167,
+      "likes": 168,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1462,7 +1462,7 @@
     },
     {
       "id": "r3gm/wan2-2-fp8da-aoti-preview",
-      "likes": 2353,
+      "likes": 2355,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1492,20 +1492,20 @@
     },
     {
       "id": "webml-community/bonsai-ternary-webgpu",
-      "likes": 102,
+      "likes": 103,
       "downloads": 0,
-      "pipeline_tag": ""
-    },
-    {
-      "id": "TeraflopAI/SEC-EDGAR",
-      "likes": 40,
-      "downloads": 5663,
       "pipeline_tag": ""
     },
     {
       "id": "tencent/MegaStyle-1.4M",
       "likes": 25,
       "downloads": 621,
+      "pipeline_tag": ""
+    },
+    {
+      "id": "TeraflopAI/SEC-EDGAR",
+      "likes": 40,
+      "downloads": 5663,
       "pipeline_tag": ""
     },
     {
@@ -1522,7 +1522,7 @@
     },
     {
       "id": "selfit-camera/Omni-Image-Editor",
-      "likes": 1527,
+      "likes": 1528,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1551,5 +1551,5 @@
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-04-26T03:49:08.919434+08:00"
+  "lastUpdatedISO": "2026-04-26T04:42:07.484228+08:00"
 }
