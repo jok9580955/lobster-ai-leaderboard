@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-26 06:39",
+  "lastUpdated": "2026-04-26 07:41",
   "arena": [
     {
       "rank": 1,
@@ -468,7 +468,7 @@
       "id": "openai/gpt-oss-20b",
       "name": "gpt-oss-20b",
       "org": "openai",
-      "likes": 4564,
+      "likes": 4565,
       "downloads": 6592913,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -688,7 +688,7 @@
       "id": "deepseek-ai/DeepSeek-V4-Pro",
       "name": "DeepSeek-V4-Pro",
       "org": "deepseek-ai",
-      "likes": 2676,
+      "likes": 2682,
       "downloads": 78864,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -1072,7 +1072,7 @@
       "id": "openai/gpt-oss-20b",
       "name": "gpt-oss-20b",
       "org": "openai",
-      "likes": 4564,
+      "likes": 4565,
       "downloads": 6592913,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1308,7 +1308,7 @@
       "id": "Qwen/Qwen3-Coder-30B-A3B-Instruct",
       "name": "Qwen3-Coder-30B-A3B-Instruct",
       "org": "Qwen",
-      "likes": 1025,
+      "likes": 1026,
       "downloads": 2608555,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1372,25 +1372,25 @@
   "trending": [
     {
       "id": "deepseek-ai/DeepSeek-V4-Pro",
-      "likes": 2676,
+      "likes": 2682,
       "downloads": 78864,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "moonshotai/Kimi-K2.6",
-      "likes": 1024,
+      "likes": 1025,
       "downloads": 291840,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "Qwen/Qwen3.6-27B",
-      "likes": 809,
+      "likes": 812,
       "downloads": 257685,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "openai/privacy-filter",
-      "likes": 748,
+      "likes": 749,
       "downloads": 21097,
       "pipeline_tag": "token-classification"
     },
@@ -1408,25 +1408,25 @@
     },
     {
       "id": "unsloth/Qwen3.6-27B-GGUF",
-      "likes": 402,
+      "likes": 403,
       "downloads": 458273,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "unsloth/Qwen3.6-35B-A3B-GGUF",
-      "likes": 762,
+      "likes": 763,
       "downloads": 1488984,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "tencent/HY-World-2.0",
-      "likes": 601,
+      "likes": 602,
       "downloads": 2851,
       "pipeline_tag": "image-to-3d"
     },
     {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-      "likes": 429,
+      "likes": 430,
       "downloads": 418743,
       "pipeline_tag": "image-text-to-text"
     },
@@ -1438,7 +1438,7 @@
     },
     {
       "id": "Jackrong/GLM-5.1-Reasoning-1M-Cleaned",
-      "likes": 85,
+      "likes": 86,
       "downloads": 2450,
       "pipeline_tag": ""
     },
@@ -1485,14 +1485,14 @@
       "pipeline_tag": ""
     },
     {
-      "id": "prithivMLmods/FireRed-Image-Edit-1.0-Fast",
-      "likes": 1003,
+      "id": "webml-community/bonsai-ternary-webgpu",
+      "likes": 105,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
-      "id": "webml-community/bonsai-ternary-webgpu",
-      "likes": 104,
+      "id": "prithivMLmods/FireRed-Image-Edit-1.0-Fast",
+      "likes": 1003,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1521,15 +1521,15 @@
       "pipeline_tag": ""
     },
     {
-      "id": "selfit-camera/Omni-Image-Editor",
-      "likes": 1528,
-      "downloads": 0,
-      "pipeline_tag": ""
-    },
-    {
       "id": "AlicanKiraz0/Cybersecurity-Dataset-Fenrir-v2.1",
       "likes": 41,
       "downloads": 2361,
+      "pipeline_tag": ""
+    },
+    {
+      "id": "selfit-camera/Omni-Image-Editor",
+      "likes": 1528,
+      "downloads": 0,
       "pipeline_tag": ""
     },
     {
@@ -1546,10 +1546,10 @@
     },
     {
       "id": "mrfakename/Z-Image-Turbo",
-      "likes": 3004,
+      "likes": 3005,
       "downloads": 0,
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-04-26T06:39:56.302307+08:00"
+  "lastUpdatedISO": "2026-04-26T07:41:01.053699+08:00"
 }
