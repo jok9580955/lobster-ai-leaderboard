@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-27 22:00",
+  "lastUpdated": "2026-04-28 00:27",
   "arena": [
     {
       "rank": 1,
@@ -366,7 +366,7 @@
       "id": "deepseek-ai/DeepSeek-R1",
       "name": "DeepSeek-R1",
       "org": "deepseek-ai",
-      "likes": 13312,
+      "likes": 13313,
       "downloads": 3869822,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -451,7 +451,7 @@
       "id": "openai/gpt-oss-120b",
       "name": "gpt-oss-120b",
       "org": "openai",
-      "likes": 4740,
+      "likes": 4741,
       "downloads": 3669036,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -553,7 +553,7 @@
       "id": "microsoft/phi-2",
       "name": "phi-2",
       "org": "microsoft",
-      "likes": 3448,
+      "likes": 3449,
       "downloads": 652685,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -637,7 +637,7 @@
       "id": "deepseek-ai/DeepSeek-V4-Pro",
       "name": "DeepSeek-V4-Pro",
       "org": "deepseek-ai",
-      "likes": 2984,
+      "likes": 2994,
       "downloads": 137784,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -908,7 +908,7 @@
       "id": "Qwen/Qwen2.5-7B-Instruct",
       "name": "Qwen2.5-7B-Instruct",
       "org": "Qwen",
-      "likes": 1240,
+      "likes": 1241,
       "downloads": 12417989,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1156,7 +1156,7 @@
       "id": "deepseek-ai/DeepSeek-R1",
       "name": "DeepSeek-R1",
       "org": "deepseek-ai",
-      "likes": 13312,
+      "likes": 13313,
       "downloads": 3869822,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -1173,7 +1173,7 @@
       "id": "openai/gpt-oss-120b",
       "name": "gpt-oss-120b",
       "org": "openai",
-      "likes": 4740,
+      "likes": 4741,
       "downloads": 3669036,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1224,7 +1224,7 @@
       "id": "TinyLlama/TinyLlama-1.1B-Chat-v1.0",
       "name": "TinyLlama-1.1B-Chat-v1.0",
       "org": "TinyLlama",
-      "likes": 1573,
+      "likes": 1574,
       "downloads": 3154580,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1372,73 +1372,73 @@
   "trending": [
     {
       "id": "deepseek-ai/DeepSeek-V4-Pro",
-      "likes": 2984,
+      "likes": 2994,
       "downloads": 137784,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "moonshotai/Kimi-K2.6",
-      "likes": 1089,
+      "likes": 1093,
       "downloads": 443440,
       "pipeline_tag": "image-text-to-text"
     },
     {
-      "id": "openai/privacy-filter",
-      "likes": 890,
-      "downloads": 47488,
-      "pipeline_tag": "token-classification"
-    },
-    {
       "id": "Qwen/Qwen3.6-27B",
-      "likes": 892,
+      "likes": 899,
       "downloads": 399489,
       "pipeline_tag": "image-text-to-text"
     },
     {
+      "id": "openai/privacy-filter",
+      "likes": 896,
+      "downloads": 47488,
+      "pipeline_tag": "token-classification"
+    },
+    {
       "id": "deepseek-ai/DeepSeek-V4-Flash",
-      "likes": 768,
+      "likes": 771,
       "downloads": 65743,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "unsloth/Qwen3.6-27B-GGUF",
-      "likes": 441,
+      "likes": 443,
       "downloads": 636345,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "Qwen/Qwen3.6-35B-A3B",
-      "likes": 1446,
+      "likes": 1448,
       "downloads": 1354032,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "nvidia/Nemotron-Personas-Korea",
-      "likes": 282,
+      "likes": 285,
       "downloads": 25901,
       "pipeline_tag": ""
     },
     {
       "id": "unsloth/Qwen3.6-35B-A3B-GGUF",
-      "likes": 811,
+      "likes": 812,
       "downloads": 1646295,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "deepseek-ai/DeepSeek-V4-Pro-Base",
-      "likes": 226,
+      "likes": 228,
       "downloads": 1265,
       "pipeline_tag": ""
     },
     {
-      "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-      "likes": 470,
-      "downloads": 525932,
-      "pipeline_tag": "image-text-to-text"
+      "id": "inclusionAI/LLaDA2.0-Uni",
+      "likes": 194,
+      "downloads": 448,
+      "pipeline_tag": "any-to-any"
     },
     {
       "id": "smolagents/ml-intern",
-      "likes": 204,
+      "likes": 206,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1450,32 +1450,38 @@
     },
     {
       "id": "Roman1111111/claude-opus-4.6-10000x",
-      "likes": 294,
+      "likes": 295,
       "downloads": 7340,
       "pipeline_tag": ""
     },
     {
       "id": "lambda/hermes-agent-reasoning-traces",
-      "likes": 243,
+      "likes": 244,
       "downloads": 8065,
       "pipeline_tag": ""
     },
     {
       "id": "r3gm/wan2-2-fp8da-aoti-preview",
-      "likes": 2402,
+      "likes": 2407,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "ZhihaoNan/AtomBlock-WebUI",
-      "likes": 40,
+      "likes": 41,
       "downloads": 1543,
       "pipeline_tag": ""
     },
     {
       "id": "openai/healthbench-professional",
-      "likes": 34,
+      "likes": 35,
       "downloads": 659,
+      "pipeline_tag": ""
+    },
+    {
+      "id": "tencent/MegaStyle-1.4M",
+      "likes": 31,
+      "downloads": 811,
       "pipeline_tag": ""
     },
     {
@@ -1485,21 +1491,15 @@
       "pipeline_tag": ""
     },
     {
-      "id": "tencent/MegaStyle-1.4M",
-      "likes": 30,
-      "downloads": 811,
+      "id": "Roman1111111/claude-sonnet-4.6-120000x",
+      "likes": 48,
+      "downloads": 2683,
       "pipeline_tag": ""
     },
     {
       "id": "prithivMLmods/FireRed-Image-Edit-1.0-Fast",
-      "likes": 1031,
+      "likes": 1030,
       "downloads": 0,
-      "pipeline_tag": ""
-    },
-    {
-      "id": "Roman1111111/claude-sonnet-4.6-120000x",
-      "likes": 48,
-      "downloads": 2683,
       "pipeline_tag": ""
     },
     {
@@ -1534,22 +1534,22 @@
     },
     {
       "id": "microsoft/TRELLIS.2",
-      "likes": 1478,
-      "downloads": 0,
-      "pipeline_tag": ""
-    },
-    {
-      "id": "mrfakename/Z-Image-Turbo",
-      "likes": 3025,
+      "likes": 1481,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "r3gm/wan2-2-fp8da-aoti-preview2",
-      "likes": 809,
+      "likes": 813,
+      "downloads": 0,
+      "pipeline_tag": ""
+    },
+    {
+      "id": "mrfakename/Z-Image-Turbo",
+      "likes": 3026,
       "downloads": 0,
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-04-27T22:00:34.931031+08:00"
+  "lastUpdatedISO": "2026-04-28T00:27:36.618393+08:00"
 }
