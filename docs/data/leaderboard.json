@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-27 11:22",
+  "lastUpdated": "2026-04-27 14:29",
   "arena": [
     {
       "rank": 1,
@@ -383,7 +383,7 @@
       "id": "meta-llama/Meta-Llama-3-8B",
       "name": "Meta-Llama-3-8B",
       "org": "meta-llama",
-      "likes": 6522,
+      "likes": 6523,
       "downloads": 3243548,
       "license": "Llama3",
       "pipeline_tag": "text-generation",
@@ -400,7 +400,7 @@
       "id": "meta-llama/Llama-3.1-8B-Instruct",
       "name": "Llama-3.1-8B-Instruct",
       "org": "meta-llama",
-      "likes": 5759,
+      "likes": 5760,
       "downloads": 9217205,
       "license": "Llama3.1",
       "pipeline_tag": "text-generation",
@@ -451,7 +451,7 @@
       "id": "openai/gpt-oss-120b",
       "name": "gpt-oss-120b",
       "org": "openai",
-      "likes": 4738,
+      "likes": 4739,
       "downloads": 3661043,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -651,6 +651,23 @@
       "created_at": "2023-04-24T12:36:52.000Z"
     },
     {
+      "id": "deepseek-ai/DeepSeek-V4-Pro",
+      "name": "DeepSeek-V4-Pro",
+      "org": "deepseek-ai",
+      "likes": 2916,
+      "downloads": 123431,
+      "license": "Mit",
+      "pipeline_tag": "text-generation",
+      "tags": [
+        "deepseek_v4",
+        "text-generation",
+        "conversational",
+        "8-bit",
+        "fp8"
+      ],
+      "created_at": "2026-04-22T06:04:45.000Z"
+    },
+    {
       "id": "Qwen/QwQ-32B",
       "name": "QwQ-32B",
       "org": "Qwen",
@@ -666,23 +683,6 @@
         "en"
       ],
       "created_at": "2025-03-05T14:16:59.000Z"
-    },
-    {
-      "id": "deepseek-ai/DeepSeek-V4-Pro",
-      "name": "DeepSeek-V4-Pro",
-      "org": "deepseek-ai",
-      "likes": 2885,
-      "downloads": 123431,
-      "license": "Mit",
-      "pipeline_tag": "text-generation",
-      "tags": [
-        "deepseek_v4",
-        "text-generation",
-        "conversational",
-        "8-bit",
-        "fp8"
-      ],
-      "created_at": "2026-04-22T06:04:45.000Z"
     },
     {
       "id": "meta-llama/Llama-3.3-70B-Instruct",
@@ -805,7 +805,7 @@
       "id": "microsoft/phi-4",
       "name": "phi-4",
       "org": "microsoft",
-      "likes": 2237,
+      "likes": 2238,
       "downloads": 485703,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -908,7 +908,7 @@
       "id": "Qwen/Qwen2.5-7B-Instruct",
       "name": "Qwen2.5-7B-Instruct",
       "org": "Qwen",
-      "likes": 1237,
+      "likes": 1238,
       "downloads": 12261701,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -973,7 +973,7 @@
       "id": "meta-llama/Llama-3.1-8B-Instruct",
       "name": "Llama-3.1-8B-Instruct",
       "org": "meta-llama",
-      "likes": 5759,
+      "likes": 5760,
       "downloads": 9217205,
       "license": "Llama3.1",
       "pipeline_tag": "text-generation",
@@ -1122,7 +1122,7 @@
       "id": "meta-llama/Llama-3.2-1B-Instruct",
       "name": "Llama-3.2-1B-Instruct",
       "org": "meta-llama",
-      "likes": 1381,
+      "likes": 1382,
       "downloads": 5188116,
       "license": "Llama3.2",
       "pipeline_tag": "text-generation",
@@ -1173,7 +1173,7 @@
       "id": "openai/gpt-oss-120b",
       "name": "gpt-oss-120b",
       "org": "openai",
-      "likes": 4738,
+      "likes": 4739,
       "downloads": 3661043,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1207,7 +1207,7 @@
       "id": "meta-llama/Meta-Llama-3-8B",
       "name": "Meta-Llama-3-8B",
       "org": "meta-llama",
-      "likes": 6522,
+      "likes": 6523,
       "downloads": 3243548,
       "license": "Llama3",
       "pipeline_tag": "text-generation",
@@ -1372,73 +1372,73 @@
   "trending": [
     {
       "id": "deepseek-ai/DeepSeek-V4-Pro",
-      "likes": 2885,
+      "likes": 2916,
       "downloads": 123431,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "moonshotai/Kimi-K2.6",
-      "likes": 1066,
+      "likes": 1069,
       "downloads": 376485,
       "pipeline_tag": "image-text-to-text"
     },
     {
-      "id": "Qwen/Qwen3.6-27B",
-      "likes": 865,
-      "downloads": 329571,
-      "pipeline_tag": "image-text-to-text"
-    },
-    {
       "id": "openai/privacy-filter",
-      "likes": 858,
+      "likes": 873,
       "downloads": 35807,
       "pipeline_tag": "token-classification"
     },
     {
+      "id": "Qwen/Qwen3.6-27B",
+      "likes": 870,
+      "downloads": 329571,
+      "pipeline_tag": "image-text-to-text"
+    },
+    {
       "id": "deepseek-ai/DeepSeek-V4-Flash",
-      "likes": 742,
+      "likes": 751,
       "downloads": 45986,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "Qwen/Qwen3.6-35B-A3B",
-      "likes": 1435,
+      "likes": 1437,
       "downloads": 1181968,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "unsloth/Qwen3.6-27B-GGUF",
-      "likes": 432,
+      "likes": 433,
       "downloads": 553179,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "nvidia/Nemotron-Personas-Korea",
-      "likes": 222,
+      "likes": 247,
       "downloads": 14336,
       "pipeline_tag": ""
     },
     {
       "id": "unsloth/Qwen3.6-35B-A3B-GGUF",
-      "likes": 800,
+      "likes": 804,
       "downloads": 1574581,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "deepseek-ai/DeepSeek-V4-Pro-Base",
-      "likes": 220,
+      "likes": 223,
       "downloads": 1182,
       "pipeline_tag": ""
     },
     {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-      "likes": 461,
+      "likes": 464,
       "downloads": 460832,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "smolagents/ml-intern",
-      "likes": 189,
+      "likes": 191,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1450,7 +1450,7 @@
     },
     {
       "id": "Roman1111111/claude-opus-4.6-10000x",
-      "likes": 291,
+      "likes": 292,
       "downloads": 7170,
       "pipeline_tag": ""
     },
@@ -1462,7 +1462,7 @@
     },
     {
       "id": "r3gm/wan2-2-fp8da-aoti-preview",
-      "likes": 2388,
+      "likes": 2391,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1473,12 +1473,6 @@
       "pipeline_tag": ""
     },
     {
-      "id": "k2-fsa/OmniVoice",
-      "likes": 700,
-      "downloads": 0,
-      "pipeline_tag": ""
-    },
-    {
       "id": "ZhihaoNan/AtomBlock-WebUI",
       "likes": 35,
       "downloads": 1328,
@@ -1486,7 +1480,13 @@
     },
     {
       "id": "prithivMLmods/FireRed-Image-Edit-1.0-Fast",
-      "likes": 1026,
+      "likes": 1027,
+      "downloads": 0,
+      "pipeline_tag": ""
+    },
+    {
+      "id": "k2-fsa/OmniVoice",
+      "likes": 700,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1510,31 +1510,31 @@
     },
     {
       "id": "openai/healthbench-professional",
-      "likes": 26,
+      "likes": 27,
       "downloads": 323,
       "pipeline_tag": ""
     },
     {
-      "id": "selfit-camera/Omni-Image-Editor",
-      "likes": 1535,
-      "downloads": 0,
-      "pipeline_tag": ""
-    },
-    {
       "id": "baidu/ERNIE-Image-Turbo",
-      "likes": 113,
+      "likes": 115,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
-      "id": "badlogicgames/pi-mono",
-      "likes": 93,
-      "downloads": 18596,
+      "id": "lordx64/reasoning-distill-claude-opus-4-7-max",
+      "likes": 21,
+      "downloads": 376,
+      "pipeline_tag": ""
+    },
+    {
+      "id": "selfit-camera/Omni-Image-Editor",
+      "likes": 1536,
+      "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "r3gm/wan2-2-fp8da-aoti-preview2",
-      "likes": 804,
+      "likes": 807,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1545,11 +1545,11 @@
       "pipeline_tag": ""
     },
     {
-      "id": "victor/ace-step-jam",
-      "likes": 99,
+      "id": "microsoft/TRELLIS.2",
+      "likes": 1473,
       "downloads": 0,
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-04-27T11:22:35.686560+08:00"
+  "lastUpdatedISO": "2026-04-27T14:29:20.275000+08:00"
 }
