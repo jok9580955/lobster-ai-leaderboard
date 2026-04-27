@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-27 07:41",
+  "lastUpdated": "2026-04-27 11:22",
   "arena": [
     {
       "rank": 1,
@@ -366,7 +366,7 @@
       "id": "deepseek-ai/DeepSeek-R1",
       "name": "DeepSeek-R1",
       "org": "deepseek-ai",
-      "likes": 13309,
+      "likes": 13312,
       "downloads": 3896687,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -400,7 +400,7 @@
       "id": "meta-llama/Llama-3.1-8B-Instruct",
       "name": "Llama-3.1-8B-Instruct",
       "org": "meta-llama",
-      "likes": 5758,
+      "likes": 5759,
       "downloads": 9217205,
       "license": "Llama3.1",
       "pipeline_tag": "text-generation",
@@ -671,7 +671,7 @@
       "id": "deepseek-ai/DeepSeek-V4-Pro",
       "name": "DeepSeek-V4-Pro",
       "org": "deepseek-ai",
-      "likes": 2841,
+      "likes": 2885,
       "downloads": 123431,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -973,7 +973,7 @@
       "id": "meta-llama/Llama-3.1-8B-Instruct",
       "name": "Llama-3.1-8B-Instruct",
       "org": "meta-llama",
-      "likes": 5758,
+      "likes": 5759,
       "downloads": 9217205,
       "license": "Llama3.1",
       "pipeline_tag": "text-generation",
@@ -1156,7 +1156,7 @@
       "id": "deepseek-ai/DeepSeek-R1",
       "name": "DeepSeek-R1",
       "org": "deepseek-ai",
-      "likes": 13309,
+      "likes": 13312,
       "downloads": 3896687,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -1308,7 +1308,7 @@
       "id": "Qwen/Qwen3-Coder-30B-A3B-Instruct",
       "name": "Qwen3-Coder-30B-A3B-Instruct",
       "org": "Qwen",
-      "likes": 1029,
+      "likes": 1030,
       "downloads": 2599229,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1372,67 +1372,67 @@
   "trending": [
     {
       "id": "deepseek-ai/DeepSeek-V4-Pro",
-      "likes": 2841,
+      "likes": 2885,
       "downloads": 123431,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "moonshotai/Kimi-K2.6",
-      "likes": 1056,
+      "likes": 1066,
       "downloads": 376485,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "Qwen/Qwen3.6-27B",
-      "likes": 855,
+      "likes": 865,
       "downloads": 329571,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "openai/privacy-filter",
-      "likes": 845,
+      "likes": 858,
       "downloads": 35807,
       "pipeline_tag": "token-classification"
     },
     {
       "id": "deepseek-ai/DeepSeek-V4-Flash",
-      "likes": 735,
+      "likes": 742,
       "downloads": 45986,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "Qwen/Qwen3.6-35B-A3B",
-      "likes": 1429,
+      "likes": 1435,
       "downloads": 1181968,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "unsloth/Qwen3.6-27B-GGUF",
-      "likes": 429,
+      "likes": 432,
       "downloads": 553179,
       "pipeline_tag": "image-text-to-text"
     },
     {
-      "id": "unsloth/Qwen3.6-35B-A3B-GGUF",
-      "likes": 796,
-      "downloads": 1574581,
-      "pipeline_tag": "image-text-to-text"
-    },
-    {
       "id": "nvidia/Nemotron-Personas-Korea",
-      "likes": 189,
+      "likes": 222,
       "downloads": 14336,
       "pipeline_tag": ""
     },
     {
+      "id": "unsloth/Qwen3.6-35B-A3B-GGUF",
+      "likes": 800,
+      "downloads": 1574581,
+      "pipeline_tag": "image-text-to-text"
+    },
+    {
       "id": "deepseek-ai/DeepSeek-V4-Pro-Base",
-      "likes": 219,
+      "likes": 220,
       "downloads": 1182,
       "pipeline_tag": ""
     },
     {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-      "likes": 455,
+      "likes": 461,
       "downloads": 460832,
       "pipeline_tag": "image-text-to-text"
     },
@@ -1450,19 +1450,19 @@
     },
     {
       "id": "Roman1111111/claude-opus-4.6-10000x",
-      "likes": 288,
+      "likes": 291,
       "downloads": 7170,
       "pipeline_tag": ""
     },
     {
       "id": "lambda/hermes-agent-reasoning-traces",
-      "likes": 240,
+      "likes": 242,
       "downloads": 7972,
       "pipeline_tag": ""
     },
     {
       "id": "r3gm/wan2-2-fp8da-aoti-preview",
-      "likes": 2387,
+      "likes": 2388,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1473,6 +1473,12 @@
       "pipeline_tag": ""
     },
     {
+      "id": "k2-fsa/OmniVoice",
+      "likes": 700,
+      "downloads": 0,
+      "pipeline_tag": ""
+    },
+    {
       "id": "ZhihaoNan/AtomBlock-WebUI",
       "likes": 35,
       "downloads": 1328,
@@ -1480,20 +1486,20 @@
     },
     {
       "id": "prithivMLmods/FireRed-Image-Edit-1.0-Fast",
-      "likes": 1022,
-      "downloads": 0,
-      "pipeline_tag": ""
-    },
-    {
-      "id": "k2-fsa/OmniVoice",
-      "likes": 697,
+      "likes": 1026,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "AlicanKiraz0/Cybersecurity-Dataset-Fenrir-v2.1",
-      "likes": 48,
+      "likes": 49,
       "downloads": 2572,
+      "pipeline_tag": ""
+    },
+    {
+      "id": "tencent/MegaStyle-1.4M",
+      "likes": 28,
+      "downloads": 722,
       "pipeline_tag": ""
     },
     {
@@ -1503,26 +1509,20 @@
       "pipeline_tag": ""
     },
     {
-      "id": "tencent/MegaStyle-1.4M",
-      "likes": 27,
-      "downloads": 722,
+      "id": "openai/healthbench-professional",
+      "likes": 26,
+      "downloads": 323,
       "pipeline_tag": ""
     },
     {
-      "id": "openai/healthbench-professional",
-      "likes": 24,
-      "downloads": 323,
+      "id": "selfit-camera/Omni-Image-Editor",
+      "likes": 1535,
+      "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "baidu/ERNIE-Image-Turbo",
       "likes": 113,
-      "downloads": 0,
-      "pipeline_tag": ""
-    },
-    {
-      "id": "selfit-camera/Omni-Image-Editor",
-      "likes": 1534,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1551,5 +1551,5 @@
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-04-27T07:41:31.065002+08:00"
+  "lastUpdatedISO": "2026-04-27T11:22:35.686560+08:00"
 }
