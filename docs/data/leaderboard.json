@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-29 22:04",
+  "lastUpdated": "2026-04-30 00:42",
   "arena": [
     {
       "rank": 1,
@@ -603,7 +603,7 @@
       "id": "deepseek-ai/DeepSeek-V4-Pro",
       "name": "DeepSeek-V4-Pro",
       "org": "deepseek-ai",
-      "likes": 3208,
+      "likes": 3218,
       "downloads": 174402,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -907,7 +907,7 @@
       "id": "Qwen/Qwen2.5-7B-Instruct",
       "name": "Qwen2.5-7B-Instruct",
       "org": "Qwen",
-      "likes": 1246,
+      "likes": 1247,
       "downloads": 12847932,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1305,7 +1305,7 @@
       "id": "Qwen/Qwen3-32B",
       "name": "Qwen3-32B",
       "org": "Qwen",
-      "likes": 690,
+      "likes": 691,
       "downloads": 2594844,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1371,116 +1371,116 @@
   "trending": [
     {
       "id": "deepseek-ai/DeepSeek-V4-Pro",
-      "likes": 3208,
+      "likes": 3218,
       "downloads": 174402,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "openai/privacy-filter",
-      "likes": 1071,
+      "likes": 1078,
       "downloads": 57743,
       "pipeline_tag": "token-classification"
     },
     {
-      "id": "Qwen/Qwen3.6-27B",
-      "likes": 988,
-      "downloads": 508728,
-      "pipeline_tag": "image-text-to-text"
-    },
-    {
       "id": "deepseek-ai/DeepSeek-V4-Flash",
-      "likes": 843,
+      "likes": 846,
       "downloads": 96948,
       "pipeline_tag": "text-generation"
     },
     {
-      "id": "unsloth/Qwen3.6-27B-GGUF",
-      "likes": 487,
-      "downloads": 702161,
+      "id": "Qwen/Qwen3.6-27B",
+      "likes": 993,
+      "downloads": 508728,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "nvidia/Nemotron-Personas-Korea",
-      "likes": 344,
+      "likes": 345,
       "downloads": 36722,
       "pipeline_tag": ""
     },
     {
+      "id": "unsloth/Qwen3.6-27B-GGUF",
+      "likes": 492,
+      "downloads": 702161,
+      "pipeline_tag": "image-text-to-text"
+    },
+    {
       "id": "moonshotai/Kimi-K2.6",
-      "likes": 1143,
+      "likes": 1145,
       "downloads": 489001,
       "pipeline_tag": "image-text-to-text"
     },
     {
-      "id": "Qwen/Qwen3.6-35B-A3B",
-      "likes": 1504,
-      "downloads": 1510129,
-      "pipeline_tag": "image-text-to-text"
-    },
-    {
       "id": "XiaomiMiMo/MiMo-V2.5-Pro",
-      "likes": 282,
+      "likes": 288,
       "downloads": 396,
       "pipeline_tag": "text-generation"
     },
     {
+      "id": "Qwen/Qwen3.6-35B-A3B",
+      "likes": 1508,
+      "downloads": 1510129,
+      "pipeline_tag": "image-text-to-text"
+    },
+    {
       "id": "deepseek-ai/DeepSeek-V4-Pro-Base",
-      "likes": 238,
+      "likes": 240,
       "downloads": 1532,
       "pipeline_tag": ""
     },
     {
       "id": "inclusionAI/LLaDA2.0-Uni",
-      "likes": 231,
+      "likes": 232,
       "downloads": 506,
       "pipeline_tag": "any-to-any"
     },
     {
       "id": "Jackrong/GLM-5.1-Reasoning-1M-Cleaned",
-      "likes": 129,
+      "likes": 130,
       "downloads": 3220,
       "pipeline_tag": ""
     },
     {
       "id": "smolagents/ml-intern",
-      "likes": 250,
+      "likes": 252,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "Roman1111111/claude-opus-4.6-10000x",
-      "likes": 309,
+      "likes": 310,
       "downloads": 7498,
       "pipeline_tag": ""
     },
     {
       "id": "lambda/hermes-agent-reasoning-traces",
-      "likes": 261,
+      "likes": 262,
       "downloads": 8217,
       "pipeline_tag": ""
     },
     {
       "id": "r3gm/wan2-2-fp8da-aoti-preview",
-      "likes": 2441,
+      "likes": 2444,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "openai/healthbench-professional",
-      "likes": 40,
+      "likes": 41,
       "downloads": 2984,
       "pipeline_tag": ""
     },
     {
       "id": "AlicanKiraz0/Cybersecurity-Dataset-Fenrir-v2.1",
-      "likes": 59,
+      "likes": 60,
       "downloads": 3704,
       "pipeline_tag": ""
     },
     {
-      "id": "Roman1111111/claude-sonnet-4.6-120000x",
-      "likes": 56,
-      "downloads": 3096,
+      "id": "ShadenA/MathNet",
+      "likes": 32,
+      "downloads": 9286,
       "pipeline_tag": ""
     },
     {
@@ -1491,31 +1491,31 @@
     },
     {
       "id": "prithivMLmods/FireRed-Image-Edit-1.0-Fast",
-      "likes": 1050,
+      "likes": 1051,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
-      "id": "ShadenA/MathNet",
-      "likes": 31,
-      "downloads": 9286,
+      "id": "Roman1111111/claude-sonnet-4.6-120000x",
+      "likes": 56,
+      "downloads": 3096,
       "pipeline_tag": ""
     },
     {
       "id": "microsoft/TRELLIS.2",
-      "likes": 1506,
+      "likes": 1507,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
-      "id": "badlogicgames/pi-mono",
-      "likes": 101,
-      "downloads": 19627,
+      "id": "nvidia/Nemotron-Image-Training-v3",
+      "likes": 22,
+      "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "selfit-camera/Omni-Image-Editor",
-      "likes": 1562,
+      "likes": 1564,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1527,19 +1527,19 @@
     },
     {
       "id": "k2-fsa/OmniVoice",
-      "likes": 719,
-      "downloads": 0,
-      "pipeline_tag": ""
-    },
-    {
-      "id": "r3gm/wan2-2-fp8da-aoti-preview2",
-      "likes": 830,
+      "likes": 720,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "mrfakename/Z-Image-Turbo",
-      "likes": 3043,
+      "likes": 3046,
+      "downloads": 0,
+      "pipeline_tag": ""
+    },
+    {
+      "id": "r3gm/wan2-2-fp8da-aoti-preview2",
+      "likes": 832,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1550,5 +1550,5 @@
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-04-29T22:04:14.047117+08:00"
+  "lastUpdatedISO": "2026-04-30T00:42:53.658993+08:00"
 }
