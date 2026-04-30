@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-30 19:39",
+  "lastUpdated": "2026-04-30 22:02",
   "arena": [
     {
       "rank": 1,
@@ -586,7 +586,7 @@
       "id": "deepseek-ai/DeepSeek-V4-Pro",
       "name": "DeepSeek-V4-Pro",
       "org": "deepseek-ai",
-      "likes": 3273,
+      "likes": 3282,
       "downloads": 271652,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -875,7 +875,7 @@
       "id": "Qwen/Qwen3-0.6B",
       "name": "Qwen3-0.6B",
       "org": "Qwen",
-      "likes": 1215,
+      "likes": 1216,
       "downloads": 19788680,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1156,7 +1156,7 @@
       "id": "Qwen/Qwen3-32B",
       "name": "Qwen3-32B",
       "org": "Qwen",
-      "likes": 691,
+      "likes": 692,
       "downloads": 4109415,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1274,7 +1274,7 @@
       "id": "Qwen/Qwen3-14B",
       "name": "Qwen3-14B",
       "org": "Qwen",
-      "likes": 389,
+      "likes": 390,
       "downloads": 3014306,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1371,61 +1371,61 @@
   "trending": [
     {
       "id": "deepseek-ai/DeepSeek-V4-Pro",
-      "likes": 3273,
+      "likes": 3282,
       "downloads": 271652,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "deepseek-ai/DeepSeek-V4-Flash",
-      "likes": 869,
+      "likes": 871,
       "downloads": 198830,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "openai/privacy-filter",
-      "likes": 1113,
+      "likes": 1116,
       "downloads": 82887,
       "pipeline_tag": "token-classification"
     },
     {
       "id": "Qwen/Qwen3.6-27B",
-      "likes": 1018,
+      "likes": 1020,
       "downloads": 766593,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "nvidia/Nemotron-Personas-Korea",
-      "likes": 360,
+      "likes": 361,
       "downloads": 48225,
       "pipeline_tag": ""
     },
     {
       "id": "XiaomiMiMo/MiMo-V2.5-Pro",
-      "likes": 300,
+      "likes": 303,
       "downloads": 4468,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "moonshotai/Kimi-K2.6",
-      "likes": 1161,
+      "likes": 1163,
       "downloads": 591214,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "deepseek-ai/DeepSeek-V4-Pro-Base",
-      "likes": 244,
+      "likes": 245,
       "downloads": 1883,
       "pipeline_tag": ""
     },
     {
       "id": "unsloth/Qwen3.6-27B-GGUF",
-      "likes": 505,
+      "likes": 508,
       "downloads": 855842,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "Qwen/Qwen3.6-35B-A3B",
-      "likes": 1524,
+      "likes": 1527,
       "downloads": 1977187,
       "pipeline_tag": "image-text-to-text"
     },
@@ -1443,7 +1443,7 @@
     },
     {
       "id": "smolagents/ml-intern",
-      "likes": 261,
+      "likes": 262,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1455,13 +1455,13 @@
     },
     {
       "id": "r3gm/wan2-2-fp8da-aoti-preview",
-      "likes": 2464,
+      "likes": 2467,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "lambda/hermes-agent-reasoning-traces",
-      "likes": 264,
+      "likes": 265,
       "downloads": 8537,
       "pipeline_tag": ""
     },
@@ -1485,7 +1485,7 @@
     },
     {
       "id": "prithivMLmods/FireRed-Image-Edit-1.0-Fast",
-      "likes": 1058,
+      "likes": 1059,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1527,13 +1527,13 @@
     },
     {
       "id": "mrfakename/Z-Image-Turbo",
-      "likes": 3054,
+      "likes": 3055,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "k2-fsa/OmniVoice",
-      "likes": 729,
+      "likes": 730,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1545,10 +1545,10 @@
     },
     {
       "id": "FrameAI4687/Omni-Video-Factory",
-      "likes": 972,
+      "likes": 973,
       "downloads": 0,
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-04-30T19:39:04.900012+08:00"
+  "lastUpdatedISO": "2026-04-30T22:02:42.341772+08:00"
 }
