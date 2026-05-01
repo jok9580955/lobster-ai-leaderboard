@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-01 17:02",
+  "lastUpdated": "2026-05-01 19:08",
   "arena": [
     {
       "rank": 1,
@@ -434,7 +434,7 @@
       "id": "openai/gpt-oss-120b",
       "name": "gpt-oss-120b",
       "org": "openai",
-      "likes": 4748,
+      "likes": 4749,
       "downloads": 4083858,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -519,7 +519,7 @@
       "id": "mistralai/Mistral-7B-v0.1",
       "name": "Mistral-7B-v0.1",
       "org": "mistralai",
-      "likes": 4080,
+      "likes": 4081,
       "downloads": 1090685,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -570,7 +570,7 @@
       "id": "deepseek-ai/DeepSeek-V4-Pro",
       "name": "DeepSeek-V4-Pro",
       "org": "deepseek-ai",
-      "likes": 3320,
+      "likes": 3330,
       "downloads": 321492,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -637,7 +637,7 @@
       "id": "deepseek-ai/DeepSeek-V3-0324",
       "name": "DeepSeek-V3-0324",
       "org": "deepseek-ai",
-      "likes": 3108,
+      "likes": 3109,
       "downloads": 671962,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -654,7 +654,7 @@
       "id": "bigcode/starcoder",
       "name": "starcoder",
       "org": "bigcode",
-      "likes": 2943,
+      "likes": 2944,
       "downloads": 13838,
       "license": "Bigcode Openrail M",
       "pipeline_tag": "text-generation",
@@ -688,7 +688,7 @@
       "id": "meta-llama/Llama-3.3-70B-Instruct",
       "name": "Llama-3.3-70B-Instruct",
       "org": "meta-llama",
-      "likes": 2746,
+      "likes": 2747,
       "downloads": 690870,
       "license": "Llama3.3",
       "pipeline_tag": "text-generation",
@@ -925,7 +925,7 @@
       "id": "deepseek-ai/DeepSeek-V3.2",
       "name": "DeepSeek-V3.2",
       "org": "deepseek-ai",
-      "likes": 1425,
+      "likes": 1426,
       "downloads": 11195486,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -1024,7 +1024,7 @@
       "id": "facebook/opt-125m",
       "name": "opt-125m",
       "org": "facebook",
-      "likes": 248,
+      "likes": 249,
       "downloads": 7960338,
       "license": "Other",
       "pipeline_tag": "text-generation",
@@ -1040,7 +1040,7 @@
       "id": "trl-internal-testing/tiny-Qwen2ForCausalLM-2.5",
       "name": "tiny-Qwen2ForCausalLM-2.5",
       "org": "trl-internal-testing",
-      "likes": 5,
+      "likes": 6,
       "downloads": 7728331,
       "license": "Unknown",
       "pipeline_tag": "text-generation",
@@ -1173,7 +1173,7 @@
       "id": "openai/gpt-oss-120b",
       "name": "gpt-oss-120b",
       "org": "openai",
-      "likes": 4748,
+      "likes": 4749,
       "downloads": 4083858,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1372,25 +1372,25 @@
   "trending": [
     {
       "id": "deepseek-ai/DeepSeek-V4-Pro",
-      "likes": 3320,
+      "likes": 3330,
       "downloads": 321492,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "openai/privacy-filter",
-      "likes": 1148,
+      "likes": 1153,
       "downloads": 92567,
       "pipeline_tag": "token-classification"
     },
     {
       "id": "deepseek-ai/DeepSeek-V4-Flash",
-      "likes": 895,
+      "likes": 897,
       "downloads": 281356,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "nvidia/Nemotron-Personas-Korea",
-      "likes": 368,
+      "likes": 369,
       "downloads": 51701,
       "pipeline_tag": ""
     },
@@ -1402,7 +1402,7 @@
     },
     {
       "id": "Qwen/Qwen3.6-27B",
-      "likes": 1042,
+      "likes": 1043,
       "downloads": 906859,
       "pipeline_tag": "image-text-to-text"
     },
@@ -1414,25 +1414,25 @@
     },
     {
       "id": "mistralai/Mistral-Medium-3.5-128B",
-      "likes": 179,
+      "likes": 184,
       "downloads": 6809,
       "pipeline_tag": ""
     },
     {
       "id": "talkie-lm/talkie-1930-13b-it",
-      "likes": 176,
+      "likes": 177,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "nvidia/Nemotron-3-Nano-Omni-30B-A3B-Reasoning-BF16",
-      "likes": 173,
+      "likes": 175,
       "downloads": 35000,
       "pipeline_tag": "any-to-any"
     },
     {
       "id": "z-lab/Qwen3.6-27B-DFlash",
-      "likes": 187,
+      "likes": 190,
       "downloads": 14793,
       "pipeline_tag": "text-generation"
     },
@@ -1450,7 +1450,7 @@
     },
     {
       "id": "r3gm/wan2-2-fp8da-aoti-preview",
-      "likes": 2483,
+      "likes": 2486,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1485,20 +1485,20 @@
       "pipeline_tag": ""
     },
     {
+      "id": "open-thoughts/AgentTrove",
+      "likes": 30,
+      "downloads": 200,
+      "pipeline_tag": ""
+    },
+    {
       "id": "prithivMLmods/FireRed-Image-Edit-1.0-Fast",
       "likes": 1076,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
-      "id": "open-thoughts/AgentTrove",
-      "likes": 29,
-      "downloads": 200,
-      "pipeline_tag": ""
-    },
-    {
       "id": "microsoft/TRELLIS.2",
-      "likes": 1524,
+      "likes": 1525,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1515,14 +1515,14 @@
       "pipeline_tag": ""
     },
     {
-      "id": "r3gm/wan2-2-fp8da-aoti-preview2",
-      "likes": 853,
+      "id": "selfit-camera/Omni-Image-Editor",
+      "likes": 1580,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
-      "id": "selfit-camera/Omni-Image-Editor",
-      "likes": 1578,
+      "id": "r3gm/wan2-2-fp8da-aoti-preview2",
+      "likes": 853,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1551,5 +1551,5 @@
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-05-01T17:02:20.003926+08:00"
+  "lastUpdatedISO": "2026-05-01T19:08:46.700788+08:00"
 }
