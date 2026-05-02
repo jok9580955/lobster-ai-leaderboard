@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-02 17:59",
+  "lastUpdated": "2026-05-02 19:00",
   "arena": [
     {
       "rank": 1,
@@ -570,7 +570,7 @@
       "id": "deepseek-ai/DeepSeek-V4-Pro",
       "name": "DeepSeek-V4-Pro",
       "org": "deepseek-ai",
-      "likes": 3379,
+      "likes": 3383,
       "downloads": 381587,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -603,7 +603,7 @@
       "id": "openai-community/gpt2",
       "name": "gpt2",
       "org": "openai-community",
-      "likes": 3225,
+      "likes": 3226,
       "downloads": 16125428,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -875,7 +875,7 @@
       "id": "Qwen/Qwen3-0.6B",
       "name": "Qwen3-0.6B",
       "org": "Qwen",
-      "likes": 1218,
+      "likes": 1219,
       "downloads": 19873705,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -891,7 +891,7 @@
       "id": "openai-community/gpt2",
       "name": "gpt2",
       "org": "openai-community",
-      "likes": 3225,
+      "likes": 3226,
       "downloads": 16125428,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -957,7 +957,7 @@
       "id": "Qwen/Qwen3-8B",
       "name": "Qwen3-8B",
       "org": "Qwen",
-      "likes": 1070,
+      "likes": 1071,
       "downloads": 9923391,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1372,19 +1372,19 @@
   "trending": [
     {
       "id": "deepseek-ai/DeepSeek-V4-Pro",
-      "likes": 3379,
+      "likes": 3383,
       "downloads": 381587,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "openai/privacy-filter",
-      "likes": 1185,
+      "likes": 1190,
       "downloads": 99399,
       "pipeline_tag": "token-classification"
     },
     {
       "id": "XiaomiMiMo/MiMo-V2.5-Pro",
-      "likes": 357,
+      "likes": 358,
       "downloads": 9914,
       "pipeline_tag": "text-generation"
     },
@@ -1396,43 +1396,43 @@
     },
     {
       "id": "Qwen/Qwen3.6-27B",
-      "likes": 1060,
+      "likes": 1061,
       "downloads": 1070778,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "deepseek-ai/DeepSeek-V4-Flash",
-      "likes": 912,
+      "likes": 913,
       "downloads": 345885,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "mistralai/Mistral-Medium-3.5-128B",
-      "likes": 209,
+      "likes": 210,
       "downloads": 8492,
       "pipeline_tag": ""
     },
     {
-      "id": "nvidia/Nemotron-3-Nano-Omni-30B-A3B-Reasoning-BF16",
-      "likes": 189,
-      "downloads": 37418,
-      "pipeline_tag": "any-to-any"
-    },
-    {
       "id": "talkie-lm/talkie-1930-13b-it",
-      "likes": 189,
+      "likes": 191,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
+      "id": "nvidia/Nemotron-3-Nano-Omni-30B-A3B-Reasoning-BF16",
+      "likes": 190,
+      "downloads": 37418,
+      "pipeline_tag": "any-to-any"
+    },
+    {
       "id": "XiaomiMiMo/MiMo-V2.5",
-      "likes": 184,
+      "likes": 185,
       "downloads": 28323,
       "pipeline_tag": ""
     },
     {
       "id": "poolside/Laguna-XS.2",
-      "likes": 181,
+      "likes": 183,
       "downloads": 7573,
       "pipeline_tag": "text-generation"
     },
@@ -1444,7 +1444,7 @@
     },
     {
       "id": "r3gm/wan2-2-fp8da-aoti-preview",
-      "likes": 2502,
+      "likes": 2503,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1456,7 +1456,7 @@
     },
     {
       "id": "Roman1111111/claude-opus-4.6-10000x",
-      "likes": 326,
+      "likes": 327,
       "downloads": 7748,
       "pipeline_tag": ""
     },
@@ -1480,7 +1480,7 @@
     },
     {
       "id": "nvidia/Nemotron-Image-Training-v3",
-      "likes": 33,
+      "likes": 34,
       "downloads": 1868,
       "pipeline_tag": ""
     },
@@ -1504,7 +1504,13 @@
     },
     {
       "id": "prithivMLmods/FireRed-Image-Edit-1.0-Fast",
-      "likes": 1089,
+      "likes": 1090,
+      "downloads": 0,
+      "pipeline_tag": ""
+    },
+    {
+      "id": "r3gm/wan2-2-fp8da-aoti-preview2",
+      "likes": 873,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1512,12 +1518,6 @@
       "id": "ShadenA/MathNet",
       "likes": 37,
       "downloads": 11922,
-      "pipeline_tag": ""
-    },
-    {
-      "id": "r3gm/wan2-2-fp8da-aoti-preview2",
-      "likes": 871,
-      "downloads": 0,
       "pipeline_tag": ""
     },
     {
@@ -1546,10 +1546,10 @@
     },
     {
       "id": "Onise/Qwen-Image-Edit-2509-LoRAs-Fast",
-      "likes": 121,
+      "likes": 123,
       "downloads": 0,
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-05-02T17:59:37.229888+08:00"
+  "lastUpdatedISO": "2026-05-02T19:00:30.607735+08:00"
 }
