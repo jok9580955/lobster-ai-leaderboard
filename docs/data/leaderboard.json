@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-04 00:54",
+  "lastUpdated": "2026-05-04 01:49",
   "arena": [
     {
       "rank": 1,
@@ -550,6 +550,23 @@
       "created_at": "2024-12-25T12:52:23.000Z"
     },
     {
+      "id": "deepseek-ai/DeepSeek-V4-Pro",
+      "name": "DeepSeek-V4-Pro",
+      "org": "deepseek-ai",
+      "likes": 3455,
+      "downloads": 457348,
+      "license": "Mit",
+      "pipeline_tag": "text-generation",
+      "tags": [
+        "deepseek_v4",
+        "text-generation",
+        "conversational",
+        "8-bit",
+        "fp8"
+      ],
+      "created_at": "2026-04-22T06:04:45.000Z"
+    },
+    {
       "id": "microsoft/phi-2",
       "name": "phi-2",
       "org": "microsoft",
@@ -565,23 +582,6 @@
         "en"
       ],
       "created_at": "2023-12-13T21:19:59.000Z"
-    },
-    {
-      "id": "deepseek-ai/DeepSeek-V4-Pro",
-      "name": "DeepSeek-V4-Pro",
-      "org": "deepseek-ai",
-      "likes": 3448,
-      "downloads": 457348,
-      "license": "Mit",
-      "pipeline_tag": "text-generation",
-      "tags": [
-        "deepseek_v4",
-        "text-generation",
-        "conversational",
-        "8-bit",
-        "fp8"
-      ],
-      "created_at": "2026-04-22T06:04:45.000Z"
     },
     {
       "id": "google/gemma-7b",
@@ -1373,8 +1373,14 @@
   "trending": [
     {
       "id": "deepseek-ai/DeepSeek-V4-Pro",
-      "likes": 3448,
+      "likes": 3455,
       "downloads": 457348,
+      "pipeline_tag": "text-generation"
+    },
+    {
+      "id": "XiaomiMiMo/MiMo-V2.5-Pro",
+      "likes": 403,
+      "downloads": 11055,
       "pipeline_tag": "text-generation"
     },
     {
@@ -1384,12 +1390,6 @@
       "pipeline_tag": "token-classification"
     },
     {
-      "id": "XiaomiMiMo/MiMo-V2.5-Pro",
-      "likes": 401,
-      "downloads": 11055,
-      "pipeline_tag": "text-generation"
-    },
-    {
       "id": "nvidia/Nemotron-Personas-Korea",
       "likes": 388,
       "downloads": 56996,
@@ -1397,19 +1397,19 @@
     },
     {
       "id": "mistralai/Mistral-Medium-3.5-128B",
-      "likes": 233,
+      "likes": 235,
       "downloads": 9489,
       "pipeline_tag": ""
     },
     {
       "id": "Qwen/Qwen3.6-27B",
-      "likes": 1093,
+      "likes": 1096,
       "downloads": 1199862,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "talkie-lm/talkie-1930-13b-it",
-      "likes": 209,
+      "likes": 210,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1451,13 +1451,13 @@
     },
     {
       "id": "nvidia/Nemotron-Image-Training-v3",
-      "likes": 42,
+      "likes": 43,
       "downloads": 1898,
       "pipeline_tag": ""
     },
     {
       "id": "r3gm/wan2-2-fp8da-aoti-preview",
-      "likes": 2516,
+      "likes": 2515,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1504,15 +1504,15 @@
       "pipeline_tag": ""
     },
     {
-      "id": "prithivMLmods/FireRed-Image-Edit-1.0-Fast",
-      "likes": 1107,
-      "downloads": 0,
-      "pipeline_tag": ""
-    },
-    {
       "id": "openai/healthbench-professional",
       "likes": 46,
       "downloads": 7248,
+      "pipeline_tag": ""
+    },
+    {
+      "id": "prithivMLmods/FireRed-Image-Edit-1.0-Fast",
+      "likes": 1107,
+      "downloads": 0,
       "pipeline_tag": ""
     },
     {
@@ -1552,5 +1552,5 @@
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-05-04T00:54:38.354440+08:00"
+  "lastUpdatedISO": "2026-05-04T01:49:54.016398+08:00"
 }
