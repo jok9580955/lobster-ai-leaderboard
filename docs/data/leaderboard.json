@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-04 03:03",
+  "lastUpdated": "2026-05-04 04:48",
   "arena": [
     {
       "rank": 1,
@@ -553,7 +553,7 @@
       "id": "deepseek-ai/DeepSeek-V4-Pro",
       "name": "DeepSeek-V4-Pro",
       "org": "deepseek-ai",
-      "likes": 3460,
+      "likes": 3464,
       "downloads": 457348,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -620,7 +620,7 @@
       "id": "mistralai/Mistral-7B-Instruct-v0.2",
       "name": "Mistral-7B-Instruct-v0.2",
       "org": "mistralai",
-      "likes": 3129,
+      "likes": 3130,
       "downloads": 2321227,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1356,7 +1356,7 @@
       "id": "mistralai/Mistral-7B-Instruct-v0.2",
       "name": "Mistral-7B-Instruct-v0.2",
       "org": "mistralai",
-      "likes": 3129,
+      "likes": 3130,
       "downloads": 2321227,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1373,21 +1373,27 @@
   "trending": [
     {
       "id": "deepseek-ai/DeepSeek-V4-Pro",
-      "likes": 3460,
+      "likes": 3464,
       "downloads": 457348,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "XiaomiMiMo/MiMo-V2.5-Pro",
-      "likes": 403,
+      "likes": 405,
       "downloads": 11055,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "openai/privacy-filter",
-      "likes": 1226,
+      "likes": 1230,
       "downloads": 104695,
       "pipeline_tag": "token-classification"
+    },
+    {
+      "id": "mistralai/Mistral-Medium-3.5-128B",
+      "likes": 240,
+      "downloads": 9489,
+      "pipeline_tag": ""
     },
     {
       "id": "nvidia/Nemotron-Personas-Korea",
@@ -1396,14 +1402,8 @@
       "pipeline_tag": ""
     },
     {
-      "id": "mistralai/Mistral-Medium-3.5-128B",
-      "likes": 237,
-      "downloads": 9489,
-      "pipeline_tag": ""
-    },
-    {
       "id": "Qwen/Qwen3.6-27B",
-      "likes": 1098,
+      "likes": 1099,
       "downloads": 1199862,
       "pipeline_tag": "image-text-to-text"
     },
@@ -1415,7 +1415,7 @@
     },
     {
       "id": "nvidia/Nemotron-3-Nano-Omni-30B-A3B-Reasoning-BF16",
-      "likes": 202,
+      "likes": 205,
       "downloads": 38865,
       "pipeline_tag": "any-to-any"
     },
@@ -1427,13 +1427,13 @@
     },
     {
       "id": "poolside/Laguna-XS.2",
-      "likes": 195,
+      "likes": 196,
       "downloads": 9204,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "deepseek-ai/DeepSeek-V4-Flash",
-      "likes": 924,
+      "likes": 927,
       "downloads": 413995,
       "pipeline_tag": "text-generation"
     },
@@ -1451,14 +1451,8 @@
     },
     {
       "id": "nvidia/Nemotron-Image-Training-v3",
-      "likes": 43,
+      "likes": 44,
       "downloads": 1898,
-      "pipeline_tag": ""
-    },
-    {
-      "id": "r3gm/wan2-2-fp8da-aoti-preview",
-      "likes": 2517,
-      "downloads": 0,
       "pipeline_tag": ""
     },
     {
@@ -1468,8 +1462,14 @@
       "pipeline_tag": ""
     },
     {
+      "id": "r3gm/wan2-2-fp8da-aoti-preview",
+      "likes": 2517,
+      "downloads": 0,
+      "pipeline_tag": ""
+    },
+    {
       "id": "smolagents/ml-intern",
-      "likes": 285,
+      "likes": 286,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1492,50 +1492,50 @@
       "pipeline_tag": ""
     },
     {
+      "id": "r3gm/wan2-2-fp8da-aoti-preview2",
+      "likes": 899,
+      "downloads": 0,
+      "pipeline_tag": ""
+    },
+    {
       "id": "Jackrong/DeepSeek-V4-Distill-8000x",
       "likes": 44,
       "downloads": 3856,
       "pipeline_tag": ""
     },
     {
-      "id": "r3gm/wan2-2-fp8da-aoti-preview2",
-      "likes": 897,
-      "downloads": 0,
-      "pipeline_tag": ""
-    },
-    {
       "id": "prithivMLmods/FireRed-Image-Edit-1.0-Fast",
-      "likes": 1107,
+      "likes": 1111,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "openai/healthbench-professional",
-      "likes": 46,
+      "likes": 47,
       "downloads": 7248,
       "pipeline_tag": ""
     },
     {
-      "id": "selfit-camera/Omni-Image-Editor",
-      "likes": 1610,
-      "downloads": 0,
-      "pipeline_tag": ""
-    },
-    {
       "id": "ShadenA/MathNet",
-      "likes": 39,
+      "likes": 40,
       "downloads": 14246,
       "pipeline_tag": ""
     },
     {
+      "id": "selfit-camera/Omni-Image-Editor",
+      "likes": 1611,
+      "downloads": 0,
+      "pipeline_tag": ""
+    },
+    {
       "id": "suraj291/Survival_Island_Game",
-      "likes": 57,
+      "likes": 58,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "mrfakename/Z-Image-Turbo",
-      "likes": 3087,
+      "likes": 3088,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1546,11 +1546,11 @@
       "pipeline_tag": ""
     },
     {
-      "id": "k2-fsa/OmniVoice",
-      "likes": 751,
+      "id": "FrameAI4687/Omni-Video-Factory",
+      "likes": 999,
       "downloads": 0,
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-05-04T03:03:48.209254+08:00"
+  "lastUpdatedISO": "2026-05-04T04:48:11.118983+08:00"
 }
