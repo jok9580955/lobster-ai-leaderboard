@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-04 05:45",
+  "lastUpdated": "2026-05-04 06:45",
   "arena": [
     {
       "rank": 1,
@@ -417,7 +417,7 @@
       "id": "bigscience/bloom",
       "name": "bloom",
       "org": "bigscience",
-      "likes": 5000,
+      "likes": 5001,
       "downloads": 6535,
       "license": "Bigscience Bloom Rail 1.0",
       "pipeline_tag": "text-generation",
@@ -553,7 +553,7 @@
       "id": "deepseek-ai/DeepSeek-V4-Pro",
       "name": "DeepSeek-V4-Pro",
       "org": "deepseek-ai",
-      "likes": 3465,
+      "likes": 3467,
       "downloads": 457348,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -1373,7 +1373,7 @@
   "trending": [
     {
       "id": "deepseek-ai/DeepSeek-V4-Pro",
-      "likes": 3465,
+      "likes": 3467,
       "downloads": 457348,
       "pipeline_tag": "text-generation"
     },
@@ -1391,7 +1391,7 @@
     },
     {
       "id": "mistralai/Mistral-Medium-3.5-128B",
-      "likes": 243,
+      "likes": 244,
       "downloads": 9489,
       "pipeline_tag": ""
     },
@@ -1409,7 +1409,7 @@
     },
     {
       "id": "talkie-lm/talkie-1930-13b-it",
-      "likes": 210,
+      "likes": 211,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1433,7 +1433,7 @@
     },
     {
       "id": "deepseek-ai/DeepSeek-V4-Flash",
-      "likes": 927,
+      "likes": 928,
       "downloads": 413995,
       "pipeline_tag": "text-generation"
     },
@@ -1451,7 +1451,7 @@
     },
     {
       "id": "nvidia/Nemotron-Image-Training-v3",
-      "likes": 44,
+      "likes": 45,
       "downloads": 1898,
       "pipeline_tag": ""
     },
@@ -1475,7 +1475,7 @@
     },
     {
       "id": "lambda/hermes-agent-reasoning-traces",
-      "likes": 275,
+      "likes": 276,
       "downloads": 8814,
       "pipeline_tag": ""
     },
@@ -1487,7 +1487,7 @@
     },
     {
       "id": "r3gm/wan2-2-fp8da-aoti-preview2",
-      "likes": 904,
+      "likes": 905,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1505,7 +1505,7 @@
     },
     {
       "id": "prithivMLmods/FireRed-Image-Edit-1.0-Fast",
-      "likes": 1113,
+      "likes": 1115,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1552,5 +1552,5 @@
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-05-04T05:45:19.061713+08:00"
+  "lastUpdatedISO": "2026-05-04T06:45:47.800615+08:00"
 }
