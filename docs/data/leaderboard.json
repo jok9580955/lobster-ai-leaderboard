@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-05 04:17",
+  "lastUpdated": "2026-05-05 06:03",
   "arena": [
     {
       "rank": 1,
@@ -553,7 +553,7 @@
       "id": "deepseek-ai/DeepSeek-V4-Pro",
       "name": "DeepSeek-V4-Pro",
       "org": "deepseek-ai",
-      "likes": 3522,
+      "likes": 3523,
       "downloads": 534942,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -1373,7 +1373,7 @@
   "trending": [
     {
       "id": "deepseek-ai/DeepSeek-V4-Pro",
-      "likes": 3522,
+      "likes": 3523,
       "downloads": 534942,
       "pipeline_tag": "text-generation"
     },
@@ -1385,13 +1385,13 @@
     },
     {
       "id": "openai/privacy-filter",
-      "likes": 1254,
+      "likes": 1257,
       "downloads": 132595,
       "pipeline_tag": "token-classification"
     },
     {
       "id": "mistralai/Mistral-Medium-3.5-128B",
-      "likes": 253,
+      "likes": 254,
       "downloads": 11950,
       "pipeline_tag": ""
     },
@@ -1409,7 +1409,7 @@
     },
     {
       "id": "poolside/Laguna-XS.2",
-      "likes": 209,
+      "likes": 210,
       "downloads": 10357,
       "pipeline_tag": "text-generation"
     },
@@ -1420,16 +1420,16 @@
       "pipeline_tag": "image-text-to-text"
     },
     {
-      "id": "XiaomiMiMo/MiMo-V2.5",
-      "likes": 205,
-      "downloads": 51554,
-      "pipeline_tag": ""
-    },
-    {
       "id": "SulphurAI/Sulphur-2-base",
-      "likes": 165,
+      "likes": 168,
       "downloads": 20187,
       "pipeline_tag": "text-to-video"
+    },
+    {
+      "id": "XiaomiMiMo/MiMo-V2.5",
+      "likes": 206,
+      "downloads": 51554,
+      "pipeline_tag": ""
     },
     {
       "id": "nvidia/Nemotron-Personas-Korea",
@@ -1463,7 +1463,7 @@
     },
     {
       "id": "r3gm/wan2-2-fp8da-aoti-preview",
-      "likes": 2531,
+      "likes": 2532,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1475,7 +1475,7 @@
     },
     {
       "id": "r3gm/wan2-2-fp8da-aoti-preview2",
-      "likes": 921,
+      "likes": 922,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1499,7 +1499,7 @@
     },
     {
       "id": "prithivMLmods/FireRed-Image-Edit-1.0-Fast",
-      "likes": 1125,
+      "likes": 1127,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1523,7 +1523,7 @@
     },
     {
       "id": "selfit-camera/Omni-Image-Editor",
-      "likes": 1618,
+      "likes": 1619,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1534,14 +1534,14 @@
       "pipeline_tag": ""
     },
     {
-      "id": "suraj291/Survival_Island_Game",
-      "likes": 64,
+      "id": "mrfakename/Z-Image-Turbo",
+      "likes": 3100,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
-      "id": "mrfakename/Z-Image-Turbo",
-      "likes": 3098,
+      "id": "suraj291/Survival_Island_Game",
+      "likes": 64,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1552,5 +1552,5 @@
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-05-05T04:17:30.520733+08:00"
+  "lastUpdatedISO": "2026-05-05T06:03:42.601779+08:00"
 }
