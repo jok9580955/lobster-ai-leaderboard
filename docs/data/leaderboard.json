@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-05 02:16",
+  "lastUpdated": "2026-05-05 04:17",
   "arena": [
     {
       "rank": 1,
@@ -485,7 +485,7 @@
       "id": "meta-llama/Meta-Llama-3-8B-Instruct",
       "name": "Meta-Llama-3-8B-Instruct",
       "org": "meta-llama",
-      "likes": 4502,
+      "likes": 4504,
       "downloads": 1632735,
       "license": "Llama3",
       "pipeline_tag": "text-generation",
@@ -553,7 +553,7 @@
       "id": "deepseek-ai/DeepSeek-V4-Pro",
       "name": "DeepSeek-V4-Pro",
       "org": "deepseek-ai",
-      "likes": 3519,
+      "likes": 3522,
       "downloads": 534942,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -1291,7 +1291,7 @@
       "id": "Qwen/Qwen3-Coder-30B-A3B-Instruct",
       "name": "Qwen3-Coder-30B-A3B-Instruct",
       "org": "Qwen",
-      "likes": 1040,
+      "likes": 1041,
       "downloads": 2741555,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1373,19 +1373,19 @@
   "trending": [
     {
       "id": "deepseek-ai/DeepSeek-V4-Pro",
-      "likes": 3519,
+      "likes": 3522,
       "downloads": 534942,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "XiaomiMiMo/MiMo-V2.5-Pro",
-      "likes": 422,
+      "likes": 424,
       "downloads": 11812,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "openai/privacy-filter",
-      "likes": 1253,
+      "likes": 1254,
       "downloads": 132595,
       "pipeline_tag": "token-classification"
     },
@@ -1397,27 +1397,21 @@
     },
     {
       "id": "talkie-lm/talkie-1930-13b-it",
-      "likes": 222,
+      "likes": 223,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "nvidia/Nemotron-3-Nano-Omni-30B-A3B-Reasoning-BF16",
-      "likes": 217,
+      "likes": 220,
       "downloads": 40403,
       "pipeline_tag": "any-to-any"
     },
     {
       "id": "poolside/Laguna-XS.2",
-      "likes": 207,
+      "likes": 209,
       "downloads": 10357,
       "pipeline_tag": "text-generation"
-    },
-    {
-      "id": "XiaomiMiMo/MiMo-V2.5",
-      "likes": 205,
-      "downloads": 51554,
-      "pipeline_tag": ""
     },
     {
       "id": "Qwen/Qwen3.6-27B",
@@ -1426,8 +1420,14 @@
       "pipeline_tag": "image-text-to-text"
     },
     {
+      "id": "XiaomiMiMo/MiMo-V2.5",
+      "likes": 205,
+      "downloads": 51554,
+      "pipeline_tag": ""
+    },
+    {
       "id": "SulphurAI/Sulphur-2-base",
-      "likes": 163,
+      "likes": 165,
       "downloads": 20187,
       "pipeline_tag": "text-to-video"
     },
@@ -1451,7 +1451,7 @@
     },
     {
       "id": "open-thoughts/AgentTrove",
-      "likes": 44,
+      "likes": 45,
       "downloads": 833,
       "pipeline_tag": ""
     },
@@ -1463,7 +1463,7 @@
     },
     {
       "id": "r3gm/wan2-2-fp8da-aoti-preview",
-      "likes": 2529,
+      "likes": 2531,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1475,7 +1475,7 @@
     },
     {
       "id": "r3gm/wan2-2-fp8da-aoti-preview2",
-      "likes": 916,
+      "likes": 921,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1486,20 +1486,20 @@
       "pipeline_tag": ""
     },
     {
+      "id": "Jackrong/DeepSeek-V4-Distill-8000x",
+      "likes": 47,
+      "downloads": 4591,
+      "pipeline_tag": ""
+    },
+    {
       "id": "SALT-NLP/SWE-chat",
       "likes": 36,
       "downloads": 1653,
       "pipeline_tag": ""
     },
     {
-      "id": "Jackrong/DeepSeek-V4-Distill-8000x",
-      "likes": 46,
-      "downloads": 4591,
-      "pipeline_tag": ""
-    },
-    {
       "id": "prithivMLmods/FireRed-Image-Edit-1.0-Fast",
-      "likes": 1124,
+      "likes": 1125,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1516,20 +1516,20 @@
       "pipeline_tag": ""
     },
     {
-      "id": "selfit-camera/Omni-Image-Editor",
-      "likes": 1618,
-      "downloads": 0,
-      "pipeline_tag": ""
-    },
-    {
       "id": "ADSKAILab/Zero-To-CAD-1m",
       "likes": 22,
       "downloads": 1260,
       "pipeline_tag": ""
     },
     {
+      "id": "selfit-camera/Omni-Image-Editor",
+      "likes": 1618,
+      "downloads": 0,
+      "pipeline_tag": ""
+    },
+    {
       "id": "Onise/Qwen-Image-Edit-2509-LoRAs-Fast",
-      "likes": 152,
+      "likes": 153,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1541,7 +1541,7 @@
     },
     {
       "id": "mrfakename/Z-Image-Turbo",
-      "likes": 3097,
+      "likes": 3098,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1552,5 +1552,5 @@
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-05-05T02:16:49.560812+08:00"
+  "lastUpdatedISO": "2026-05-05T04:17:30.520733+08:00"
 }
