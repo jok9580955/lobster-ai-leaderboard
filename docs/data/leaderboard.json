@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-06 06:01",
+  "lastUpdated": "2026-05-06 07:50",
   "arena": [
     {
       "rank": 1,
@@ -434,7 +434,7 @@
       "id": "openai/gpt-oss-120b",
       "name": "gpt-oss-120b",
       "org": "openai",
-      "likes": 4754,
+      "likes": 4755,
       "downloads": 4292306,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -553,7 +553,7 @@
       "id": "deepseek-ai/DeepSeek-V4-Pro",
       "name": "DeepSeek-V4-Pro",
       "org": "deepseek-ai",
-      "likes": 3574,
+      "likes": 3576,
       "downloads": 631499,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -1157,7 +1157,7 @@
       "id": "openai/gpt-oss-120b",
       "name": "gpt-oss-120b",
       "org": "openai",
-      "likes": 4754,
+      "likes": 4755,
       "downloads": 4292306,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1373,37 +1373,37 @@
   "trending": [
     {
       "id": "deepseek-ai/DeepSeek-V4-Pro",
-      "likes": 3574,
+      "likes": 3576,
       "downloads": 631499,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "openai/privacy-filter",
-      "likes": 1294,
+      "likes": 1298,
       "downloads": 141317,
       "pipeline_tag": "token-classification"
     },
     {
       "id": "mistralai/Mistral-Medium-3.5-128B",
-      "likes": 268,
+      "likes": 269,
       "downloads": 15024,
       "pipeline_tag": ""
     },
     {
       "id": "SulphurAI/Sulphur-2-base",
-      "likes": 227,
+      "likes": 229,
       "downloads": 37897,
       "pipeline_tag": "text-to-video"
     },
     {
       "id": "XiaomiMiMo/MiMo-V2.5-Pro",
-      "likes": 437,
+      "likes": 438,
       "downloads": 13317,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "nvidia/Nemotron-3-Nano-Omni-30B-A3B-Reasoning-BF16",
-      "likes": 241,
+      "likes": 242,
       "downloads": 44631,
       "pipeline_tag": "any-to-any"
     },
@@ -1421,31 +1421,31 @@
     },
     {
       "id": "SeeSee21/Z-Anime",
-      "likes": 153,
+      "likes": 154,
       "downloads": 3262,
       "pipeline_tag": "text-to-image"
     },
     {
       "id": "talkie-lm/talkie-1930-13b-it",
-      "likes": 233,
+      "likes": 235,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "nvidia/Nemotron-Personas-Korea",
-      "likes": 397,
+      "likes": 398,
       "downloads": 62000,
       "pipeline_tag": ""
     },
     {
       "id": "open-thoughts/AgentTrove",
-      "likes": 52,
+      "likes": 53,
       "downloads": 1122,
       "pipeline_tag": ""
     },
     {
       "id": "Jackrong/GLM-5.1-Reasoning-1M-Cleaned",
-      "likes": 166,
+      "likes": 168,
       "downloads": 5466,
       "pipeline_tag": ""
     },
@@ -1475,7 +1475,7 @@
     },
     {
       "id": "prithivMLmods/FireRed-Image-Edit-1.0-Fast",
-      "likes": 1140,
+      "likes": 1141,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1486,21 +1486,21 @@
       "pipeline_tag": ""
     },
     {
+      "id": "Jackrong/DeepSeek-V4-Distill-8000x",
+      "likes": 52,
+      "downloads": 5094,
+      "pipeline_tag": ""
+    },
+    {
       "id": "smolagents/ml-intern",
-      "likes": 303,
+      "likes": 304,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "Onise/Qwen-Image-Edit-2509-LoRAs-Fast",
-      "likes": 174,
+      "likes": 176,
       "downloads": 0,
-      "pipeline_tag": ""
-    },
-    {
-      "id": "Jackrong/DeepSeek-V4-Distill-8000x",
-      "likes": 51,
-      "downloads": 5094,
       "pipeline_tag": ""
     },
     {
@@ -1535,7 +1535,7 @@
     },
     {
       "id": "selfit-camera/Omni-Image-Editor",
-      "likes": 1627,
+      "likes": 1629,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1547,10 +1547,10 @@
     },
     {
       "id": "mikeee/qwen-7b-chat",
-      "likes": 87,
+      "likes": 89,
       "downloads": 0,
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-05-06T06:01:56.449024+08:00"
+  "lastUpdatedISO": "2026-05-06T07:50:55.802290+08:00"
 }
