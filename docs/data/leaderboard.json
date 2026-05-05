@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-05 07:56",
+  "lastUpdated": "2026-05-05 11:28",
   "arena": [
     {
       "rank": 1,
@@ -400,7 +400,7 @@
       "id": "meta-llama/Llama-3.1-8B-Instruct",
       "name": "Llama-3.1-8B-Instruct",
       "org": "meta-llama",
-      "likes": 5788,
+      "likes": 5789,
       "downloads": 9537607,
       "license": "Llama3.1",
       "pipeline_tag": "text-generation",
@@ -502,7 +502,7 @@
       "id": "meta-llama/Llama-2-7b",
       "name": "Llama-2-7b",
       "org": "meta-llama",
-      "likes": 4482,
+      "likes": 4483,
       "downloads": 327,
       "license": "Llama2",
       "pipeline_tag": "text-generation",
@@ -553,7 +553,7 @@
       "id": "deepseek-ai/DeepSeek-V4-Pro",
       "name": "DeepSeek-V4-Pro",
       "org": "deepseek-ai",
-      "likes": 3526,
+      "likes": 3531,
       "downloads": 534942,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -973,7 +973,7 @@
       "id": "meta-llama/Llama-3.1-8B-Instruct",
       "name": "Llama-3.1-8B-Instruct",
       "org": "meta-llama",
-      "likes": 5788,
+      "likes": 5789,
       "downloads": 9537607,
       "license": "Llama3.1",
       "pipeline_tag": "text-generation",
@@ -1373,13 +1373,13 @@
   "trending": [
     {
       "id": "deepseek-ai/DeepSeek-V4-Pro",
-      "likes": 3526,
+      "likes": 3531,
       "downloads": 534942,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "openai/privacy-filter",
-      "likes": 1258,
+      "likes": 1264,
       "downloads": 132595,
       "pipeline_tag": "token-classification"
     },
@@ -1391,43 +1391,43 @@
     },
     {
       "id": "mistralai/Mistral-Medium-3.5-128B",
-      "likes": 255,
+      "likes": 256,
       "downloads": 11950,
       "pipeline_tag": ""
     },
     {
-      "id": "talkie-lm/talkie-1930-13b-it",
-      "likes": 224,
-      "downloads": 0,
-      "pipeline_tag": ""
-    },
-    {
       "id": "nvidia/Nemotron-3-Nano-Omni-30B-A3B-Reasoning-BF16",
-      "likes": 220,
+      "likes": 225,
       "downloads": 40403,
       "pipeline_tag": "any-to-any"
     },
     {
+      "id": "talkie-lm/talkie-1930-13b-it",
+      "likes": 226,
+      "downloads": 0,
+      "pipeline_tag": ""
+    },
+    {
       "id": "poolside/Laguna-XS.2",
-      "likes": 211,
+      "likes": 212,
       "downloads": 10357,
       "pipeline_tag": "text-generation"
     },
     {
-      "id": "Qwen/Qwen3.6-27B",
-      "likes": 1107,
-      "downloads": 1334241,
-      "pipeline_tag": "image-text-to-text"
-    },
-    {
       "id": "SulphurAI/Sulphur-2-base",
-      "likes": 173,
+      "likes": 178,
       "downloads": 20187,
       "pipeline_tag": "text-to-video"
     },
     {
+      "id": "Qwen/Qwen3.6-27B",
+      "likes": 1108,
+      "downloads": 1334241,
+      "pipeline_tag": "image-text-to-text"
+    },
+    {
       "id": "deepseek-ai/DeepSeek-V4-Flash",
-      "likes": 940,
+      "likes": 941,
       "downloads": 489465,
       "pipeline_tag": "text-generation"
     },
@@ -1439,7 +1439,7 @@
     },
     {
       "id": "Jackrong/GLM-5.1-Reasoning-1M-Cleaned",
-      "likes": 164,
+      "likes": 165,
       "downloads": 5163,
       "pipeline_tag": ""
     },
@@ -1451,13 +1451,13 @@
     },
     {
       "id": "open-thoughts/AgentTrove",
-      "likes": 45,
+      "likes": 46,
       "downloads": 833,
       "pipeline_tag": ""
     },
     {
       "id": "r3gm/wan2-2-fp8da-aoti-preview",
-      "likes": 2533,
+      "likes": 2534,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1468,26 +1468,32 @@
       "pipeline_tag": ""
     },
     {
+      "id": "r3gm/wan2-2-fp8da-aoti-preview2",
+      "likes": 923,
+      "downloads": 0,
+      "pipeline_tag": ""
+    },
+    {
       "id": "lambda/hermes-agent-reasoning-traces",
       "likes": 281,
       "downloads": 8889,
       "pipeline_tag": ""
     },
     {
-      "id": "r3gm/wan2-2-fp8da-aoti-preview2",
-      "likes": 922,
+      "id": "smolagents/ml-intern",
+      "likes": 295,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
-      "id": "smolagents/ml-intern",
-      "likes": 292,
+      "id": "prithivMLmods/FireRed-Image-Edit-1.0-Fast",
+      "likes": 1129,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "Jackrong/DeepSeek-V4-Distill-8000x",
-      "likes": 47,
+      "likes": 48,
       "downloads": 4591,
       "pipeline_tag": ""
     },
@@ -1498,26 +1504,14 @@
       "pipeline_tag": ""
     },
     {
-      "id": "prithivMLmods/FireRed-Image-Edit-1.0-Fast",
-      "likes": 1127,
-      "downloads": 0,
+      "id": "ShadenA/MathNet",
+      "likes": 47,
+      "downloads": 14572,
       "pipeline_tag": ""
     },
     {
       "id": "microsoft/TRELLIS.2",
       "likes": 1553,
-      "downloads": 0,
-      "pipeline_tag": ""
-    },
-    {
-      "id": "ShadenA/MathNet",
-      "likes": 45,
-      "downloads": 14572,
-      "pipeline_tag": ""
-    },
-    {
-      "id": "selfit-camera/Omni-Image-Editor",
-      "likes": 1620,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1528,14 +1522,20 @@
       "pipeline_tag": ""
     },
     {
+      "id": "selfit-camera/Omni-Image-Editor",
+      "likes": 1621,
+      "downloads": 0,
+      "pipeline_tag": ""
+    },
+    {
       "id": "Onise/Qwen-Image-Edit-2509-LoRAs-Fast",
-      "likes": 155,
+      "likes": 156,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "mrfakename/Z-Image-Turbo",
-      "likes": 3100,
+      "likes": 3101,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1547,10 +1547,10 @@
     },
     {
       "id": "FrameAI4687/Omni-Video-Factory",
-      "likes": 1005,
+      "likes": 1007,
       "downloads": 0,
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-05-05T07:56:06.587860+08:00"
+  "lastUpdatedISO": "2026-05-05T11:28:43.864442+08:00"
 }
