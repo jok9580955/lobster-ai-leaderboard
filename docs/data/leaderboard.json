@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-06 19:49",
+  "lastUpdated": "2026-05-06 22:20",
   "arena": [
     {
       "rank": 1,
@@ -434,7 +434,7 @@
       "id": "openai/gpt-oss-120b",
       "name": "gpt-oss-120b",
       "org": "openai",
-      "likes": 4756,
+      "likes": 4757,
       "downloads": 4369404,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -553,7 +553,7 @@
       "id": "deepseek-ai/DeepSeek-V4-Pro",
       "name": "DeepSeek-V4-Pro",
       "org": "deepseek-ai",
-      "likes": 3616,
+      "likes": 3629,
       "downloads": 786631,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -1141,7 +1141,7 @@
       "id": "openai/gpt-oss-120b",
       "name": "gpt-oss-120b",
       "org": "openai",
-      "likes": 4756,
+      "likes": 4757,
       "downloads": 4369404,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1373,67 +1373,67 @@
   "trending": [
     {
       "id": "deepseek-ai/DeepSeek-V4-Pro",
-      "likes": 3616,
+      "likes": 3629,
       "downloads": 786631,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "mistralai/Mistral-Medium-3.5-128B",
-      "likes": 279,
+      "likes": 280,
       "downloads": 16576,
       "pipeline_tag": ""
     },
     {
       "id": "SulphurAI/Sulphur-2-base",
-      "likes": 270,
+      "likes": 274,
       "downloads": 55461,
       "pipeline_tag": "text-to-video"
     },
     {
       "id": "openai/privacy-filter",
-      "likes": 1310,
+      "likes": 1315,
       "downloads": 155476,
       "pipeline_tag": "token-classification"
     },
     {
-      "id": "XiaomiMiMo/MiMo-V2.5-Pro",
-      "likes": 448,
-      "downloads": 16030,
-      "pipeline_tag": "text-generation"
-    },
-    {
       "id": "SeeSee21/Z-Anime",
-      "likes": 175,
+      "likes": 178,
       "downloads": 3819,
       "pipeline_tag": "text-to-image"
     },
     {
+      "id": "XiaomiMiMo/MiMo-V2.5-Pro",
+      "likes": 449,
+      "downloads": 16030,
+      "pipeline_tag": "text-generation"
+    },
+    {
       "id": "Qwen/Qwen3.6-27B",
-      "likes": 1141,
+      "likes": 1142,
       "downloads": 1613364,
       "pipeline_tag": "image-text-to-text"
     },
     {
-      "id": "nvidia/Nemotron-3-Nano-Omni-30B-A3B-Reasoning-BF16",
-      "likes": 248,
-      "downloads": 53121,
-      "pipeline_tag": "any-to-any"
-    },
-    {
       "id": "Qwen/Qwen3.6-35B-A3B",
-      "likes": 1636,
+      "likes": 1638,
       "downloads": 3030186,
       "pipeline_tag": "image-text-to-text"
     },
     {
-      "id": "poolside/Laguna-XS.2",
-      "likes": 225,
-      "downloads": 14457,
-      "pipeline_tag": "text-generation"
+      "id": "TenStrip/LTX2.3-10Eros",
+      "likes": 121,
+      "downloads": 0,
+      "pipeline_tag": ""
+    },
+    {
+      "id": "nvidia/Nemotron-3-Nano-Omni-30B-A3B-Reasoning-BF16",
+      "likes": 249,
+      "downloads": 53121,
+      "pipeline_tag": "any-to-any"
     },
     {
       "id": "open-thoughts/AgentTrove",
-      "likes": 56,
+      "likes": 57,
       "downloads": 1257,
       "pipeline_tag": ""
     },
@@ -1444,27 +1444,33 @@
       "pipeline_tag": ""
     },
     {
+      "id": "r3gm/wan2-2-fp8da-aoti-preview2",
+      "likes": 957,
+      "downloads": 0,
+      "pipeline_tag": ""
+    },
+    {
       "id": "Jackrong/GLM-5.1-Reasoning-1M-Cleaned",
       "likes": 172,
       "downloads": 5875,
       "pipeline_tag": ""
     },
     {
-      "id": "r3gm/wan2-2-fp8da-aoti-preview2",
-      "likes": 951,
+      "id": "Onise/Qwen-Image-Edit-2509-LoRAs-Fast",
+      "likes": 200,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "r3gm/wan2-2-fp8da-aoti-preview",
-      "likes": 2539,
+      "likes": 2538,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
-      "id": "nvidia/Nemotron-Image-Training-v3",
-      "likes": 49,
-      "downloads": 3240,
+      "id": "prithivMLmods/FireRed-Image-Edit-1.0-Fast",
+      "likes": 1152,
+      "downloads": 0,
       "pipeline_tag": ""
     },
     {
@@ -1474,14 +1480,20 @@
       "pipeline_tag": ""
     },
     {
-      "id": "Onise/Qwen-Image-Edit-2509-LoRAs-Fast",
-      "likes": 194,
-      "downloads": 0,
+      "id": "nvidia/Nemotron-Image-Training-v3",
+      "likes": 49,
+      "downloads": 3240,
       "pipeline_tag": ""
     },
     {
-      "id": "prithivMLmods/FireRed-Image-Edit-1.0-Fast",
-      "likes": 1148,
+      "id": "Jackrong/DeepSeek-V4-Distill-8000x",
+      "likes": 56,
+      "downloads": 5598,
+      "pipeline_tag": ""
+    },
+    {
+      "id": "AdithyaSK/rl-environments-guide",
+      "likes": 56,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1492,15 +1504,9 @@
       "pipeline_tag": ""
     },
     {
-      "id": "Jackrong/DeepSeek-V4-Distill-8000x",
-      "likes": 55,
-      "downloads": 5598,
-      "pipeline_tag": ""
-    },
-    {
-      "id": "ADSKAILab/Zero-To-CAD-1m",
-      "likes": 29,
-      "downloads": 2488,
+      "id": "smolagents/ml-intern",
+      "likes": 310,
+      "downloads": 0,
       "pipeline_tag": ""
     },
     {
@@ -1510,26 +1516,26 @@
       "pipeline_tag": ""
     },
     {
-      "id": "smolagents/ml-intern",
-      "likes": 309,
-      "downloads": 0,
+      "id": "ADSKAILab/Zero-To-CAD-1m",
+      "likes": 29,
+      "downloads": 2488,
       "pipeline_tag": ""
     },
     {
-      "id": "AdithyaSK/rl-environments-guide",
-      "likes": 51,
-      "downloads": 0,
-      "pipeline_tag": ""
-    },
-    {
-      "id": "ShadenA/MathNet",
-      "likes": 50,
-      "downloads": 15532,
+      "id": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+      "likes": 21,
+      "downloads": 427,
       "pipeline_tag": ""
     },
     {
       "id": "selfit-camera/Omni-Image-Editor",
-      "likes": 1634,
+      "likes": 1637,
+      "downloads": 0,
+      "pipeline_tag": ""
+    },
+    {
+      "id": "microsoft/TRELLIS.2",
+      "likes": 1556,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1540,17 +1546,11 @@
       "pipeline_tag": ""
     },
     {
-      "id": "microsoft/TRELLIS.2",
-      "likes": 1555,
-      "downloads": 0,
-      "pipeline_tag": ""
-    },
-    {
       "id": "suraj291/Survival_Island_Game",
-      "likes": 67,
+      "likes": 68,
       "downloads": 0,
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-05-06T19:49:48.192232+08:00"
+  "lastUpdatedISO": "2026-05-06T22:20:40.501721+08:00"
 }
