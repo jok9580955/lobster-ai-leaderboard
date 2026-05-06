@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-07 04:24",
+  "lastUpdated": "2026-05-07 05:59",
   "arena": [
     {
       "rank": 1,
@@ -553,7 +553,7 @@
       "id": "deepseek-ai/DeepSeek-V4-Pro",
       "name": "DeepSeek-V4-Pro",
       "org": "deepseek-ai",
-      "likes": 3648,
+      "likes": 3649,
       "downloads": 786631,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -1373,13 +1373,13 @@
   "trending": [
     {
       "id": "deepseek-ai/DeepSeek-V4-Pro",
-      "likes": 3648,
+      "likes": 3649,
       "downloads": 786631,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "SulphurAI/Sulphur-2-base",
-      "likes": 287,
+      "likes": 290,
       "downloads": 55461,
       "pipeline_tag": "text-to-video"
     },
@@ -1397,7 +1397,7 @@
     },
     {
       "id": "SeeSee21/Z-Anime",
-      "likes": 186,
+      "likes": 188,
       "downloads": 3819,
       "pipeline_tag": "text-to-image"
     },
@@ -1409,25 +1409,25 @@
     },
     {
       "id": "Qwen/Qwen3.6-27B",
-      "likes": 1153,
+      "likes": 1154,
       "downloads": 1613364,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "TenStrip/LTX2.3-10Eros",
-      "likes": 123,
+      "likes": 124,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "Qwen/Qwen3.6-35B-A3B",
-      "likes": 1644,
+      "likes": 1645,
       "downloads": 3030186,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "google/gemma-4-31B-it-assistant",
-      "likes": 117,
+      "likes": 118,
       "downloads": 4241,
       "pipeline_tag": "any-to-any"
     },
@@ -1445,7 +1445,7 @@
     },
     {
       "id": "r3gm/wan2-2-fp8da-aoti-preview2",
-      "likes": 960,
+      "likes": 961,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1457,7 +1457,7 @@
     },
     {
       "id": "Onise/Qwen-Image-Edit-2509-LoRAs-Fast",
-      "likes": 211,
+      "likes": 215,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1480,15 +1480,15 @@
       "pipeline_tag": ""
     },
     {
-      "id": "nvidia/Nemotron-Image-Training-v3",
-      "likes": 50,
-      "downloads": 3240,
+      "id": "AdithyaSK/rl-environments-guide",
+      "likes": 66,
+      "downloads": 0,
       "pipeline_tag": ""
     },
     {
-      "id": "AdithyaSK/rl-environments-guide",
-      "likes": 63,
-      "downloads": 0,
+      "id": "nvidia/Nemotron-Image-Training-v3",
+      "likes": 50,
+      "downloads": 3240,
       "pipeline_tag": ""
     },
     {
@@ -1540,17 +1540,17 @@
       "pipeline_tag": ""
     },
     {
-      "id": "mrfakename/Z-Image-Turbo",
-      "likes": 3107,
-      "downloads": 0,
-      "pipeline_tag": ""
-    },
-    {
       "id": "kulkas2pintu/wan222",
       "likes": 73,
       "downloads": 0,
       "pipeline_tag": ""
+    },
+    {
+      "id": "k2-fsa/OmniVoice",
+      "likes": 774,
+      "downloads": 0,
+      "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-05-07T04:24:53.139593+08:00"
+  "lastUpdatedISO": "2026-05-07T05:59:03.752520+08:00"
 }
