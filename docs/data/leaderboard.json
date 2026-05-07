@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-08 04:16",
+  "lastUpdated": "2026-05-08 06:01",
   "arena": [
     {
       "rank": 1,
@@ -383,7 +383,7 @@
       "id": "meta-llama/Meta-Llama-3-8B",
       "name": "Meta-Llama-3-8B",
       "org": "meta-llama",
-      "likes": 6530,
+      "likes": 6531,
       "downloads": 3387039,
       "license": "Llama3",
       "pipeline_tag": "text-generation",
@@ -553,7 +553,7 @@
       "id": "deepseek-ai/DeepSeek-V4-Pro",
       "name": "DeepSeek-V4-Pro",
       "org": "deepseek-ai",
-      "likes": 3716,
+      "likes": 3719,
       "downloads": 946264,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -1224,7 +1224,7 @@
       "id": "meta-llama/Meta-Llama-3-8B",
       "name": "Meta-Llama-3-8B",
       "org": "meta-llama",
-      "likes": 6530,
+      "likes": 6531,
       "downloads": 3387039,
       "license": "Llama3",
       "pipeline_tag": "text-generation",
@@ -1373,37 +1373,37 @@
   "trending": [
     {
       "id": "deepseek-ai/DeepSeek-V4-Pro",
-      "likes": 3716,
+      "likes": 3719,
       "downloads": 946264,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "SulphurAI/Sulphur-2-base",
-      "likes": 362,
+      "likes": 366,
       "downloads": 71149,
       "pipeline_tag": "text-to-video"
     },
     {
       "id": "openai/privacy-filter",
-      "likes": 1339,
+      "likes": 1342,
       "downloads": 165240,
       "pipeline_tag": "token-classification"
     },
     {
       "id": "Zyphra/ZAYA1-8B",
-      "likes": 181,
+      "likes": 189,
       "downloads": 539,
       "pipeline_tag": ""
     },
     {
       "id": "SeeSee21/Z-Anime",
-      "likes": 214,
+      "likes": 215,
       "downloads": 4460,
       "pipeline_tag": "text-to-image"
     },
     {
       "id": "TenStrip/LTX2.3-10Eros",
-      "likes": 149,
+      "likes": 150,
       "downloads": 28215,
       "pipeline_tag": "image-to-video"
     },
@@ -1415,20 +1415,26 @@
     },
     {
       "id": "google/gemma-4-31B-it-assistant",
-      "likes": 137,
+      "likes": 136,
       "downloads": 19908,
       "pipeline_tag": "any-to-any"
     },
     {
       "id": "Qwen/Qwen3.6-27B",
-      "likes": 1171,
+      "likes": 1172,
       "downloads": 1771851,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "mistralai/Mistral-Medium-3.5-128B",
-      "likes": 293,
+      "likes": 295,
       "downloads": 18272,
+      "pipeline_tag": ""
+    },
+    {
+      "id": "r3gm/wan2-2-fp8da-aoti-preview2",
+      "likes": 991,
+      "downloads": 0,
       "pipeline_tag": ""
     },
     {
@@ -1438,14 +1444,8 @@
       "pipeline_tag": ""
     },
     {
-      "id": "r3gm/wan2-2-fp8da-aoti-preview2",
-      "likes": 990,
-      "downloads": 0,
-      "pipeline_tag": ""
-    },
-    {
       "id": "Onise/Qwen-Image-Edit-2509-LoRAs-Fast",
-      "likes": 255,
+      "likes": 261,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1462,12 +1462,6 @@
       "pipeline_tag": ""
     },
     {
-      "id": "prithivMLmods/FireRed-Image-Edit-1.0-Fast",
-      "likes": 1172,
-      "downloads": 0,
-      "pipeline_tag": ""
-    },
-    {
       "id": "AdithyaSK/rl-environments-guide",
       "likes": 78,
       "downloads": 0,
@@ -1475,8 +1469,14 @@
     },
     {
       "id": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
-      "likes": 30,
+      "likes": 31,
       "downloads": 587,
+      "pipeline_tag": ""
+    },
+    {
+      "id": "prithivMLmods/FireRed-Image-Edit-1.0-Fast",
+      "likes": 1172,
+      "downloads": 0,
       "pipeline_tag": ""
     },
     {
@@ -1487,7 +1487,7 @@
     },
     {
       "id": "Roman1111111/claude-opus-4.6-10000x",
-      "likes": 346,
+      "likes": 347,
       "downloads": 7777,
       "pipeline_tag": ""
     },
@@ -1516,15 +1516,15 @@
       "pipeline_tag": ""
     },
     {
-      "id": "apptek-com/apptek_callcenter_dialogues",
-      "likes": 22,
-      "downloads": 2447,
+      "id": "kulkas2pintu/wan222",
+      "likes": 89,
+      "downloads": 0,
       "pipeline_tag": ""
     },
     {
-      "id": "kulkas2pintu/wan222",
-      "likes": 87,
-      "downloads": 0,
+      "id": "apptek-com/apptek_callcenter_dialogues",
+      "likes": 22,
+      "downloads": 2447,
       "pipeline_tag": ""
     },
     {
@@ -1535,13 +1535,13 @@
     },
     {
       "id": "k2-fsa/OmniVoice",
-      "likes": 784,
+      "likes": 785,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "selfit-camera/Omni-Image-Editor",
-      "likes": 1640,
+      "likes": 1641,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1552,5 +1552,5 @@
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-05-08T04:16:11.642271+08:00"
+  "lastUpdatedISO": "2026-05-08T06:01:30.125392+08:00"
 }
