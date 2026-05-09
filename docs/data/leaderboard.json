@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-09 22:53",
+  "lastUpdated": "2026-05-09 23:55",
   "arena": [
     {
       "rank": 1,
@@ -553,7 +553,7 @@
       "id": "deepseek-ai/DeepSeek-V4-Pro",
       "name": "DeepSeek-V4-Pro",
       "org": "deepseek-ai",
-      "likes": 3776,
+      "likes": 3778,
       "downloads": 1167697,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -1358,7 +1358,7 @@
       "id": "Qwen/Qwen3-Coder-30B-A3B-Instruct",
       "name": "Qwen3-Coder-30B-A3B-Instruct",
       "org": "Qwen",
-      "likes": 1050,
+      "likes": 1051,
       "downloads": 2705086,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1373,25 +1373,25 @@
   "trending": [
     {
       "id": "SulphurAI/Sulphur-2-base",
-      "likes": 476,
+      "likes": 477,
       "downloads": 115477,
       "pipeline_tag": "text-to-video"
     },
     {
       "id": "deepseek-ai/DeepSeek-V4-Pro",
-      "likes": 3776,
+      "likes": 3778,
       "downloads": 1167697,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "Zyphra/ZAYA1-8B",
-      "likes": 312,
+      "likes": 316,
       "downloads": 23620,
       "pipeline_tag": ""
     },
     {
       "id": "SeeSee21/Z-Anime",
-      "likes": 252,
+      "likes": 254,
       "downloads": 8433,
       "pipeline_tag": "text-to-image"
     },
@@ -1415,13 +1415,13 @@
     },
     {
       "id": "Qwen/Qwen3.6-27B",
-      "likes": 1203,
+      "likes": 1205,
       "downloads": 2127689,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "XiaomiMiMo/MiMo-V2.5-Pro",
-      "likes": 495,
+      "likes": 496,
       "downloads": 31447,
       "pipeline_tag": "text-generation"
     },
@@ -1433,7 +1433,13 @@
     },
     {
       "id": "Onise/Qwen-Image-Edit-2509-LoRAs-Fast",
-      "likes": 351,
+      "likes": 355,
+      "downloads": 0,
+      "pipeline_tag": ""
+    },
+    {
+      "id": "r3gm/wan2-2-fp8da-aoti-preview2",
+      "likes": 1041,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1444,12 +1450,6 @@
       "pipeline_tag": ""
     },
     {
-      "id": "r3gm/wan2-2-fp8da-aoti-preview2",
-      "likes": 1038,
-      "downloads": 0,
-      "pipeline_tag": ""
-    },
-    {
       "id": "ADSKAILab/Zero-To-CAD-1m",
       "likes": 55,
       "downloads": 10333,
@@ -1457,7 +1457,7 @@
     },
     {
       "id": "AdithyaSK/rl-environments-guide",
-      "likes": 99,
+      "likes": 100,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1480,15 +1480,15 @@
       "pipeline_tag": ""
     },
     {
-      "id": "prithivMLmods/FireRed-Image-Edit-1.0-Fast",
-      "likes": 1188,
-      "downloads": 0,
-      "pipeline_tag": ""
-    },
-    {
       "id": "jamiequint/sf_criminal_court",
       "likes": 27,
       "downloads": 517,
+      "pipeline_tag": ""
+    },
+    {
+      "id": "prithivMLmods/FireRed-Image-Edit-1.0-Fast",
+      "likes": 1187,
+      "downloads": 0,
       "pipeline_tag": ""
     },
     {
@@ -1499,7 +1499,7 @@
     },
     {
       "id": "kulkas2pintu/wan222",
-      "likes": 101,
+      "likes": 102,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1534,14 +1534,14 @@
       "pipeline_tag": ""
     },
     {
-      "id": "zerogpu-aoti/wan2-2-fp8da-aoti-faster",
-      "likes": 3015,
+      "id": "smolagents/ml-intern",
+      "likes": 331,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
-      "id": "smolagents/ml-intern",
-      "likes": 330,
+      "id": "zerogpu-aoti/wan2-2-fp8da-aoti-faster",
+      "likes": 3015,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1552,5 +1552,5 @@
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-05-09T22:53:29.577655+08:00"
+  "lastUpdatedISO": "2026-05-09T23:55:32.272602+08:00"
 }
