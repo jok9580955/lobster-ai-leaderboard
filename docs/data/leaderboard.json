@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-10 03:15",
+  "lastUpdated": "2026-05-10 04:49",
   "arena": [
     {
       "rank": 1,
@@ -400,7 +400,7 @@
       "id": "meta-llama/Llama-3.1-8B-Instruct",
       "name": "Llama-3.1-8B-Instruct",
       "org": "meta-llama",
-      "likes": 5804,
+      "likes": 5805,
       "downloads": 9393633,
       "license": "Llama3.1",
       "pipeline_tag": "text-generation",
@@ -553,7 +553,7 @@
       "id": "deepseek-ai/DeepSeek-V4-Pro",
       "name": "DeepSeek-V4-Pro",
       "org": "deepseek-ai",
-      "likes": 3780,
+      "likes": 3781,
       "downloads": 1167697,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -688,7 +688,7 @@
       "id": "meta-llama/Llama-3.3-70B-Instruct",
       "name": "Llama-3.3-70B-Instruct",
       "org": "meta-llama",
-      "likes": 2756,
+      "likes": 2757,
       "downloads": 822741,
       "license": "Llama3.3",
       "pipeline_tag": "text-generation",
@@ -990,7 +990,7 @@
       "id": "meta-llama/Llama-3.1-8B-Instruct",
       "name": "Llama-3.1-8B-Instruct",
       "org": "meta-llama",
-      "likes": 5804,
+      "likes": 5805,
       "downloads": 9393633,
       "license": "Llama3.1",
       "pipeline_tag": "text-generation",
@@ -1124,7 +1124,7 @@
       "id": "dphn/dolphin-2.9.1-yi-1.5-34b",
       "name": "dolphin-2.9.1-yi-1.5-34b",
       "org": "dphn",
-      "likes": 62,
+      "likes": 63,
       "downloads": 4721430,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1373,43 +1373,43 @@
   "trending": [
     {
       "id": "SulphurAI/Sulphur-2-base",
-      "likes": 483,
+      "likes": 484,
       "downloads": 115477,
       "pipeline_tag": "text-to-video"
     },
     {
-      "id": "deepseek-ai/DeepSeek-V4-Pro",
-      "likes": 3780,
-      "downloads": 1167697,
-      "pipeline_tag": "text-generation"
-    },
-    {
       "id": "Zyphra/ZAYA1-8B",
-      "likes": 319,
+      "likes": 323,
       "downloads": 23620,
       "pipeline_tag": ""
     },
     {
+      "id": "deepseek-ai/DeepSeek-V4-Pro",
+      "likes": 3781,
+      "downloads": 1167697,
+      "pipeline_tag": "text-generation"
+    },
+    {
       "id": "SeeSee21/Z-Anime",
-      "likes": 261,
+      "likes": 263,
       "downloads": 8433,
       "pipeline_tag": "text-to-image"
     },
     {
       "id": "TenStrip/LTX2.3-10Eros",
-      "likes": 183,
+      "likes": 185,
       "downloads": 51779,
       "pipeline_tag": "image-to-video"
     },
     {
       "id": "google/gemma-4-31B-it-assistant",
-      "likes": 172,
+      "likes": 174,
       "downloads": 47793,
       "pipeline_tag": "any-to-any"
     },
     {
       "id": "openai/privacy-filter",
-      "likes": 1377,
+      "likes": 1378,
       "downloads": 180322,
       "pipeline_tag": "token-classification"
     },
@@ -1421,19 +1421,19 @@
     },
     {
       "id": "Qwen/Qwen3.6-35B-A3B",
-      "likes": 1690,
+      "likes": 1691,
       "downloads": 3511378,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "XiaomiMiMo/MiMo-V2.5-Pro",
-      "likes": 497,
+      "likes": 498,
       "downloads": 31447,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "Onise/Qwen-Image-Edit-2509-LoRAs-Fast",
-      "likes": 364,
+      "likes": 369,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1445,7 +1445,7 @@
     },
     {
       "id": "r3gm/wan2-2-fp8da-aoti-preview2",
-      "likes": 1044,
+      "likes": 1045,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1457,7 +1457,7 @@
     },
     {
       "id": "AdithyaSK/rl-environments-guide",
-      "likes": 102,
+      "likes": 103,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1475,14 +1475,8 @@
     },
     {
       "id": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
-      "likes": 40,
+      "likes": 42,
       "downloads": 921,
-      "pipeline_tag": ""
-    },
-    {
-      "id": "prithivMLmods/FireRed-Image-Edit-1.0-Fast",
-      "likes": 1188,
-      "downloads": 0,
       "pipeline_tag": ""
     },
     {
@@ -1495,6 +1489,12 @@
       "id": "Jackrong/DeepSeek-V4-Distill-8000x",
       "likes": 71,
       "downloads": 7555,
+      "pipeline_tag": ""
+    },
+    {
+      "id": "prithivMLmods/FireRed-Image-Edit-1.0-Fast",
+      "likes": 1188,
+      "downloads": 0,
       "pipeline_tag": ""
     },
     {
@@ -1529,7 +1529,7 @@
     },
     {
       "id": "zerogpu-aoti/wan2-2-fp8da-aoti-faster",
-      "likes": 3018,
+      "likes": 3019,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1552,5 +1552,5 @@
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-05-10T03:15:36.929306+08:00"
+  "lastUpdatedISO": "2026-05-10T04:49:17.808434+08:00"
 }
