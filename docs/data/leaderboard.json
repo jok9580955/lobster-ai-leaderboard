@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-10 05:49",
+  "lastUpdated": "2026-05-10 06:50",
   "arena": [
     {
       "rank": 1,
@@ -553,7 +553,7 @@
       "id": "deepseek-ai/DeepSeek-V4-Pro",
       "name": "DeepSeek-V4-Pro",
       "org": "deepseek-ai",
-      "likes": 3781,
+      "likes": 3783,
       "downloads": 1167697,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -754,7 +754,7 @@
       "id": "meta-llama/Llama-3.2-1B",
       "name": "Llama-3.2-1B",
       "org": "meta-llama",
-      "likes": 2379,
+      "likes": 2380,
       "downloads": 1626988,
       "license": "Llama3.2",
       "pipeline_tag": "text-generation",
@@ -1373,25 +1373,25 @@
   "trending": [
     {
       "id": "SulphurAI/Sulphur-2-base",
-      "likes": 486,
+      "likes": 487,
       "downloads": 115477,
       "pipeline_tag": "text-to-video"
     },
     {
       "id": "Zyphra/ZAYA1-8B",
-      "likes": 324,
+      "likes": 325,
       "downloads": 23620,
       "pipeline_tag": ""
     },
     {
       "id": "deepseek-ai/DeepSeek-V4-Pro",
-      "likes": 3781,
+      "likes": 3783,
       "downloads": 1167697,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "SeeSee21/Z-Anime",
-      "likes": 264,
+      "likes": 265,
       "downloads": 8433,
       "pipeline_tag": "text-to-image"
     },
@@ -1409,7 +1409,7 @@
     },
     {
       "id": "openai/privacy-filter",
-      "likes": 1379,
+      "likes": 1381,
       "downloads": 180322,
       "pipeline_tag": "token-classification"
     },
@@ -1420,20 +1420,20 @@
       "pipeline_tag": "image-text-to-text"
     },
     {
+      "id": "Qwen/Qwen3.6-35B-A3B",
+      "likes": 1692,
+      "downloads": 3511378,
+      "pipeline_tag": "image-text-to-text"
+    },
+    {
       "id": "XiaomiMiMo/MiMo-V2.5-Pro",
       "likes": 498,
       "downloads": 31447,
       "pipeline_tag": "text-generation"
     },
     {
-      "id": "Qwen/Qwen3.6-35B-A3B",
-      "likes": 1691,
-      "downloads": 3511378,
-      "pipeline_tag": "image-text-to-text"
-    },
-    {
       "id": "Onise/Qwen-Image-Edit-2509-LoRAs-Fast",
-      "likes": 370,
+      "likes": 373,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1457,7 +1457,7 @@
     },
     {
       "id": "AdithyaSK/rl-environments-guide",
-      "likes": 105,
+      "likes": 106,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1475,7 +1475,7 @@
     },
     {
       "id": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
-      "likes": 42,
+      "likes": 43,
       "downloads": 921,
       "pipeline_tag": ""
     },
@@ -1535,7 +1535,7 @@
     },
     {
       "id": "smolagents/ml-intern",
-      "likes": 335,
+      "likes": 336,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1552,5 +1552,5 @@
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-05-10T05:49:02.281436+08:00"
+  "lastUpdatedISO": "2026-05-10T06:50:12.891205+08:00"
 }
