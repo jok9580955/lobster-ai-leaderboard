@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-09 06:57",
+  "lastUpdated": "2026-05-09 08:02",
   "arena": [
     {
       "rank": 1,
@@ -553,7 +553,7 @@
       "id": "deepseek-ai/DeepSeek-V4-Pro",
       "name": "DeepSeek-V4-Pro",
       "org": "deepseek-ai",
-      "likes": 3755,
+      "likes": 3757,
       "downloads": 1061344,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -875,7 +875,7 @@
       "id": "Qwen/Qwen3-0.6B",
       "name": "Qwen3-0.6B",
       "org": "Qwen",
-      "likes": 1231,
+      "likes": 1232,
       "downloads": 18773327,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1373,25 +1373,25 @@
   "trending": [
     {
       "id": "SulphurAI/Sulphur-2-base",
-      "likes": 446,
+      "likes": 448,
       "downloads": 92968,
       "pipeline_tag": "text-to-video"
     },
     {
       "id": "deepseek-ai/DeepSeek-V4-Pro",
-      "likes": 3755,
+      "likes": 3757,
       "downloads": 1061344,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "Zyphra/ZAYA1-8B",
-      "likes": 279,
+      "likes": 281,
       "downloads": 6810,
       "pipeline_tag": ""
     },
     {
       "id": "openai/privacy-filter",
-      "likes": 1367,
+      "likes": 1368,
       "downloads": 173110,
       "pipeline_tag": "token-classification"
     },
@@ -1421,13 +1421,13 @@
     },
     {
       "id": "XiaomiMiMo/MiMo-V2.5-Pro",
-      "likes": 485,
+      "likes": 487,
       "downloads": 26600,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "Qwen/Qwen3.6-35B-A3B",
-      "likes": 1676,
+      "likes": 1677,
       "downloads": 3363621,
       "pipeline_tag": "image-text-to-text"
     },
@@ -1439,7 +1439,7 @@
     },
     {
       "id": "Onise/Qwen-Image-Edit-2509-LoRAs-Fast",
-      "likes": 304,
+      "likes": 305,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1469,7 +1469,7 @@
     },
     {
       "id": "ADSKAILab/Zero-To-CAD-1m",
-      "likes": 46,
+      "likes": 47,
       "downloads": 6984,
       "pipeline_tag": ""
     },
@@ -1523,19 +1523,19 @@
     },
     {
       "id": "r3gm/wan2-2-fp8da-aoti-preview",
-      "likes": 2553,
+      "likes": 2552,
+      "downloads": 0,
+      "pipeline_tag": ""
+    },
+    {
+      "id": "k2-fsa/OmniVoice",
+      "likes": 796,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "mikeee/qwen-7b-chat",
       "likes": 119,
-      "downloads": 0,
-      "pipeline_tag": ""
-    },
-    {
-      "id": "k2-fsa/OmniVoice",
-      "likes": 795,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1552,5 +1552,5 @@
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-05-09T06:57:12.365643+08:00"
+  "lastUpdatedISO": "2026-05-09T08:02:56.585335+08:00"
 }
