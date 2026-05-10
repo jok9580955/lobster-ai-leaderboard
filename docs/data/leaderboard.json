@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-11 04:52",
+  "lastUpdated": "2026-05-11 05:51",
   "arena": [
     {
       "rank": 1,
@@ -485,7 +485,7 @@
       "id": "meta-llama/Meta-Llama-3-8B-Instruct",
       "name": "Meta-Llama-3-8B-Instruct",
       "org": "meta-llama",
-      "likes": 4514,
+      "likes": 4515,
       "downloads": 1695110,
       "license": "Llama3",
       "pipeline_tag": "text-generation",
@@ -553,7 +553,7 @@
       "id": "deepseek-ai/DeepSeek-V4-Pro",
       "name": "DeepSeek-V4-Pro",
       "org": "deepseek-ai",
-      "likes": 3815,
+      "likes": 3816,
       "downloads": 1339144,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -771,7 +771,7 @@
       "id": "moonshotai/Kimi-K2-Instruct",
       "name": "Kimi-K2-Instruct",
       "org": "moonshotai",
-      "likes": 2357,
+      "likes": 2356,
       "downloads": 781008,
       "license": "Other",
       "pipeline_tag": "text-generation",
@@ -942,7 +942,7 @@
       "id": "deepseek-ai/DeepSeek-V3.2",
       "name": "DeepSeek-V3.2",
       "org": "deepseek-ai",
-      "likes": 1430,
+      "likes": 1429,
       "downloads": 11923993,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -1373,7 +1373,7 @@
   "trending": [
     {
       "id": "SulphurAI/Sulphur-2-base",
-      "likes": 523,
+      "likes": 529,
       "downloads": 144251,
       "pipeline_tag": "text-to-video"
     },
@@ -1385,7 +1385,7 @@
     },
     {
       "id": "deepseek-ai/DeepSeek-V4-Pro",
-      "likes": 3815,
+      "likes": 3816,
       "downloads": 1339144,
       "pipeline_tag": "text-generation"
     },
@@ -1396,16 +1396,16 @@
       "pipeline_tag": "any-to-any"
     },
     {
+      "id": "HiDream-ai/HiDream-O1-Image",
+      "likes": 176,
+      "downloads": 692,
+      "pipeline_tag": "image-text-to-image"
+    },
+    {
       "id": "SeeSee21/Z-Anime",
       "likes": 289,
       "downloads": 8994,
       "pipeline_tag": "text-to-image"
-    },
-    {
-      "id": "HiDream-ai/HiDream-O1-Image",
-      "likes": 172,
-      "downloads": 692,
-      "pipeline_tag": "image-text-to-image"
     },
     {
       "id": "openai/privacy-filter",
@@ -1421,13 +1421,13 @@
     },
     {
       "id": "Qwen/Qwen3.6-27B",
-      "likes": 1220,
+      "likes": 1221,
       "downloads": 2273063,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "Onise/Qwen-Image-Edit-2509-LoRAs-Fast",
-      "likes": 424,
+      "likes": 427,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1445,7 +1445,7 @@
     },
     {
       "id": "r3gm/wan2-2-fp8da-aoti-preview2",
-      "likes": 1059,
+      "likes": 1060,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1487,7 +1487,7 @@
     },
     {
       "id": "kulkas2pintu/wan222",
-      "likes": 114,
+      "likes": 115,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1504,6 +1504,12 @@
       "pipeline_tag": ""
     },
     {
+      "id": "k2-fsa/OmniVoice",
+      "likes": 815,
+      "downloads": 0,
+      "pipeline_tag": ""
+    },
+    {
       "id": "iletisim/dezenformasyon-bultenleri",
       "likes": 26,
       "downloads": 202,
@@ -1512,12 +1518,6 @@
     {
       "id": "prithivMLmods/FireRed-Image-Edit-1.0-Fast",
       "likes": 1196,
-      "downloads": 0,
-      "pipeline_tag": ""
-    },
-    {
-      "id": "k2-fsa/OmniVoice",
-      "likes": 814,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1540,9 +1540,9 @@
       "pipeline_tag": ""
     },
     {
-      "id": "lambda/hermes-agent-reasoning-traces",
-      "likes": 294,
-      "downloads": 8892,
+      "id": "r0b0tlab/deepseek-hermes-reasoning-traces",
+      "likes": 20,
+      "downloads": 853,
       "pipeline_tag": ""
     },
     {
@@ -1552,5 +1552,5 @@
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-05-11T04:52:00.551865+08:00"
+  "lastUpdatedISO": "2026-05-11T05:51:09.791284+08:00"
 }
