@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-11 03:08",
+  "lastUpdated": "2026-05-11 04:52",
   "arena": [
     {
       "rank": 1,
@@ -366,7 +366,7 @@
       "id": "deepseek-ai/DeepSeek-R1",
       "name": "DeepSeek-R1",
       "org": "deepseek-ai",
-      "likes": 13325,
+      "likes": 13326,
       "downloads": 3681237,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -553,7 +553,7 @@
       "id": "deepseek-ai/DeepSeek-V4-Pro",
       "name": "DeepSeek-V4-Pro",
       "org": "deepseek-ai",
-      "likes": 3811,
+      "likes": 3815,
       "downloads": 1339144,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -603,7 +603,7 @@
       "id": "openai-community/gpt2",
       "name": "gpt2",
       "org": "openai-community",
-      "likes": 3231,
+      "likes": 3232,
       "downloads": 15977391,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -891,7 +891,7 @@
       "id": "openai-community/gpt2",
       "name": "gpt2",
       "org": "openai-community",
-      "likes": 3231,
+      "likes": 3232,
       "downloads": 15977391,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -942,7 +942,7 @@
       "id": "deepseek-ai/DeepSeek-V3.2",
       "name": "DeepSeek-V3.2",
       "org": "deepseek-ai",
-      "likes": 1429,
+      "likes": 1430,
       "downloads": 11923993,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -1175,7 +1175,7 @@
       "id": "deepseek-ai/DeepSeek-R1",
       "name": "DeepSeek-R1",
       "org": "deepseek-ai",
-      "likes": 13325,
+      "likes": 13326,
       "downloads": 3681237,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -1373,43 +1373,43 @@
   "trending": [
     {
       "id": "SulphurAI/Sulphur-2-base",
-      "likes": 521,
+      "likes": 523,
       "downloads": 144251,
       "pipeline_tag": "text-to-video"
     },
     {
       "id": "Zyphra/ZAYA1-8B",
-      "likes": 364,
+      "likes": 365,
       "downloads": 44834,
       "pipeline_tag": ""
     },
     {
       "id": "deepseek-ai/DeepSeek-V4-Pro",
-      "likes": 3811,
+      "likes": 3815,
       "downloads": 1339144,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "google/gemma-4-31B-it-assistant",
-      "likes": 189,
+      "likes": 191,
       "downloads": 56628,
       "pipeline_tag": "any-to-any"
     },
     {
       "id": "SeeSee21/Z-Anime",
-      "likes": 286,
+      "likes": 289,
       "downloads": 8994,
       "pipeline_tag": "text-to-image"
     },
     {
       "id": "HiDream-ai/HiDream-O1-Image",
-      "likes": 166,
+      "likes": 172,
       "downloads": 692,
       "pipeline_tag": "image-text-to-image"
     },
     {
       "id": "openai/privacy-filter",
-      "likes": 1392,
+      "likes": 1393,
       "downloads": 185884,
       "pipeline_tag": "token-classification"
     },
@@ -1427,13 +1427,13 @@
     },
     {
       "id": "Onise/Qwen-Image-Edit-2509-LoRAs-Fast",
-      "likes": 419,
+      "likes": 424,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "Qwen/Qwen3.6-35B-A3B",
-      "likes": 1703,
+      "likes": 1705,
       "downloads": 3668376,
       "pipeline_tag": "image-text-to-text"
     },
@@ -1445,7 +1445,7 @@
     },
     {
       "id": "r3gm/wan2-2-fp8da-aoti-preview2",
-      "likes": 1057,
+      "likes": 1059,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1492,15 +1492,15 @@
       "pipeline_tag": ""
     },
     {
-      "id": "prithivMLmods/FireRed-Image-Edit-1.0-Fast",
-      "likes": 1195,
-      "downloads": 0,
-      "pipeline_tag": ""
-    },
-    {
       "id": "Jackrong/DeepSeek-V4-Distill-8000x",
       "likes": 71,
       "downloads": 8042,
+      "pipeline_tag": ""
+    },
+    {
+      "id": "mikeee/qwen-7b-chat",
+      "likes": 141,
+      "downloads": 0,
       "pipeline_tag": ""
     },
     {
@@ -1510,14 +1510,14 @@
       "pipeline_tag": ""
     },
     {
-      "id": "mikeee/qwen-7b-chat",
-      "likes": 139,
+      "id": "prithivMLmods/FireRed-Image-Edit-1.0-Fast",
+      "likes": 1196,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "k2-fsa/OmniVoice",
-      "likes": 813,
+      "likes": 814,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1528,21 +1528,21 @@
       "pipeline_tag": ""
     },
     {
-      "id": "r0b0tlab/deepseek-hermes-reasoning-traces",
-      "likes": 20,
-      "downloads": 853,
+      "id": "zerogpu-aoti/wan2-2-fp8da-aoti-faster",
+      "likes": 3022,
+      "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "smolagents/ml-intern",
-      "likes": 344,
+      "likes": 345,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
-      "id": "zerogpu-aoti/wan2-2-fp8da-aoti-faster",
-      "likes": 3022,
-      "downloads": 0,
+      "id": "lambda/hermes-agent-reasoning-traces",
+      "likes": 294,
+      "downloads": 8892,
       "pipeline_tag": ""
     },
     {
@@ -1552,5 +1552,5 @@
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-05-11T03:08:24.021975+08:00"
+  "lastUpdatedISO": "2026-05-11T04:52:00.551865+08:00"
 }
