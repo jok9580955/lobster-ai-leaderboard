@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-10 23:57",
+  "lastUpdated": "2026-05-11 01:05",
   "arena": [
     {
       "rank": 1,
@@ -417,7 +417,7 @@
       "id": "bigscience/bloom",
       "name": "bloom",
       "org": "bigscience",
-      "likes": 5002,
+      "likes": 5001,
       "downloads": 5995,
       "license": "Bigscience Bloom Rail 1.0",
       "pipeline_tag": "text-generation",
@@ -1373,13 +1373,13 @@
   "trending": [
     {
       "id": "SulphurAI/Sulphur-2-base",
-      "likes": 516,
+      "likes": 518,
       "downloads": 144251,
       "pipeline_tag": "text-to-video"
     },
     {
       "id": "Zyphra/ZAYA1-8B",
-      "likes": 360,
+      "likes": 363,
       "downloads": 44834,
       "pipeline_tag": ""
     },
@@ -1391,15 +1391,21 @@
     },
     {
       "id": "google/gemma-4-31B-it-assistant",
-      "likes": 184,
+      "likes": 185,
       "downloads": 56628,
       "pipeline_tag": "any-to-any"
     },
     {
       "id": "SeeSee21/Z-Anime",
-      "likes": 283,
+      "likes": 285,
       "downloads": 8994,
       "pipeline_tag": "text-to-image"
+    },
+    {
+      "id": "HiDream-ai/HiDream-O1-Image",
+      "likes": 163,
+      "downloads": 692,
+      "pipeline_tag": "image-text-to-image"
     },
     {
       "id": "openai/privacy-filter",
@@ -1408,14 +1414,8 @@
       "pipeline_tag": "token-classification"
     },
     {
-      "id": "HiDream-ai/HiDream-O1-Image",
-      "likes": 157,
-      "downloads": 692,
-      "pipeline_tag": "image-text-to-image"
-    },
-    {
       "id": "TenStrip/LTX2.3-10Eros",
-      "likes": 194,
+      "likes": 195,
       "downloads": 58647,
       "pipeline_tag": "image-to-video"
     },
@@ -1427,19 +1427,19 @@
     },
     {
       "id": "Onise/Qwen-Image-Edit-2509-LoRAs-Fast",
-      "likes": 413,
+      "likes": 416,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "Qwen/Qwen3.6-35B-A3B",
-      "likes": 1699,
+      "likes": 1701,
       "downloads": 3668376,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "open-thoughts/AgentTrove",
-      "likes": 97,
+      "likes": 98,
       "downloads": 6941,
       "pipeline_tag": ""
     },
@@ -1451,7 +1451,7 @@
     },
     {
       "id": "ADSKAILab/Zero-To-CAD-1m",
-      "likes": 63,
+      "likes": 64,
       "downloads": 12272,
       "pipeline_tag": ""
     },
@@ -1487,7 +1487,7 @@
     },
     {
       "id": "kulkas2pintu/wan222",
-      "likes": 112,
+      "likes": 114,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1547,10 +1547,10 @@
     },
     {
       "id": "FrameAI4687/Omni-Video-Factory",
-      "likes": 1042,
+      "likes": 1043,
       "downloads": 0,
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-05-10T23:57:59.612600+08:00"
+  "lastUpdatedISO": "2026-05-11T01:05:09.207816+08:00"
 }
