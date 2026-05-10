@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-10 21:23",
+  "lastUpdated": "2026-05-10 22:55",
   "arena": [
     {
       "rank": 1,
@@ -553,7 +553,7 @@
       "id": "deepseek-ai/DeepSeek-V4-Pro",
       "name": "DeepSeek-V4-Pro",
       "org": "deepseek-ai",
-      "likes": 3800,
+      "likes": 3803,
       "downloads": 1339144,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -958,7 +958,7 @@
       "id": "Qwen/Qwen3-8B",
       "name": "Qwen3-8B",
       "org": "Qwen",
-      "likes": 1082,
+      "likes": 1083,
       "downloads": 11444026,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1007,7 +1007,7 @@
       "id": "Qwen/Qwen2.5-3B-Instruct",
       "name": "Qwen2.5-3B-Instruct",
       "org": "Qwen",
-      "likes": 452,
+      "likes": 453,
       "downloads": 8755192,
       "license": "Other",
       "pipeline_tag": "text-generation",
@@ -1107,7 +1107,7 @@
       "id": "Qwen/Qwen2.5-0.5B-Instruct",
       "name": "Qwen2.5-0.5B-Instruct",
       "org": "Qwen",
-      "likes": 509,
+      "likes": 510,
       "downloads": 5940066,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1373,31 +1373,31 @@
   "trending": [
     {
       "id": "SulphurAI/Sulphur-2-base",
-      "likes": 510,
+      "likes": 514,
       "downloads": 144251,
       "pipeline_tag": "text-to-video"
     },
     {
       "id": "Zyphra/ZAYA1-8B",
-      "likes": 352,
+      "likes": 355,
       "downloads": 44834,
       "pipeline_tag": ""
     },
     {
       "id": "deepseek-ai/DeepSeek-V4-Pro",
-      "likes": 3800,
+      "likes": 3803,
       "downloads": 1339144,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "google/gemma-4-31B-it-assistant",
-      "likes": 180,
+      "likes": 182,
       "downloads": 56628,
       "pipeline_tag": "any-to-any"
     },
     {
       "id": "SeeSee21/Z-Anime",
-      "likes": 280,
+      "likes": 283,
       "downloads": 8994,
       "pipeline_tag": "text-to-image"
     },
@@ -1408,26 +1408,26 @@
       "pipeline_tag": "token-classification"
     },
     {
+      "id": "HiDream-ai/HiDream-O1-Image",
+      "likes": 152,
+      "downloads": 692,
+      "pipeline_tag": "image-text-to-image"
+    },
+    {
       "id": "TenStrip/LTX2.3-10Eros",
       "likes": 194,
       "downloads": 58647,
       "pipeline_tag": "image-to-video"
     },
     {
-      "id": "HiDream-ai/HiDream-O1-Image",
-      "likes": 147,
-      "downloads": 692,
-      "pipeline_tag": "image-text-to-image"
-    },
-    {
       "id": "Qwen/Qwen3.6-27B",
-      "likes": 1215,
+      "likes": 1218,
       "downloads": 2273063,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "Onise/Qwen-Image-Edit-2509-LoRAs-Fast",
-      "likes": 408,
+      "likes": 412,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1445,13 +1445,13 @@
     },
     {
       "id": "r3gm/wan2-2-fp8da-aoti-preview2",
-      "likes": 1053,
+      "likes": 1055,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "AdithyaSK/rl-environments-guide",
-      "likes": 115,
+      "likes": 116,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1463,20 +1463,20 @@
     },
     {
       "id": "nvidia/Nemotron-Personas-Korea",
-      "likes": 430,
+      "likes": 431,
       "downloads": 72877,
+      "pipeline_tag": ""
+    },
+    {
+      "id": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+      "likes": 48,
+      "downloads": 1119,
       "pipeline_tag": ""
     },
     {
       "id": "Jackrong/GLM-5.1-Reasoning-1M-Cleaned",
       "likes": 189,
       "downloads": 8645,
-      "pipeline_tag": ""
-    },
-    {
-      "id": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
-      "likes": 47,
-      "downloads": 1119,
       "pipeline_tag": ""
     },
     {
@@ -1487,7 +1487,7 @@
     },
     {
       "id": "kulkas2pintu/wan222",
-      "likes": 108,
+      "likes": 110,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1504,12 +1504,6 @@
       "pipeline_tag": ""
     },
     {
-      "id": "Roman1111111/claude-opus-4.6-10000x",
-      "likes": 354,
-      "downloads": 7721,
-      "pipeline_tag": ""
-    },
-    {
       "id": "iletisim/dezenformasyon-bultenleri",
       "likes": 26,
       "downloads": 202,
@@ -1517,14 +1511,20 @@
     },
     {
       "id": "k2-fsa/OmniVoice",
-      "likes": 811,
+      "likes": 812,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "mikeee/qwen-7b-chat",
-      "likes": 134,
+      "likes": 135,
       "downloads": 0,
+      "pipeline_tag": ""
+    },
+    {
+      "id": "Roman1111111/claude-opus-4.6-10000x",
+      "likes": 354,
+      "downloads": 7721,
       "pipeline_tag": ""
     },
     {
@@ -1535,7 +1535,7 @@
     },
     {
       "id": "zerogpu-aoti/wan2-2-fp8da-aoti-faster",
-      "likes": 3021,
+      "likes": 3022,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1547,10 +1547,10 @@
     },
     {
       "id": "r3gm/wan2-2-fp8da-aoti-preview",
-      "likes": 2561,
+      "likes": 2562,
       "downloads": 0,
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-05-10T21:23:57.425065+08:00"
+  "lastUpdatedISO": "2026-05-10T22:55:41.192700+08:00"
 }
