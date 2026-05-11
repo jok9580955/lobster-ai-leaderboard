@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-11 23:15",
+  "lastUpdated": "2026-05-12 01:56",
   "arena": [
     {
       "rank": 1,
@@ -400,7 +400,7 @@
       "id": "meta-llama/Llama-3.1-8B-Instruct",
       "name": "Llama-3.1-8B-Instruct",
       "org": "meta-llama",
-      "likes": 5811,
+      "likes": 5810,
       "downloads": 9389311,
       "license": "Llama3.1",
       "pipeline_tag": "text-generation",
@@ -434,7 +434,7 @@
       "id": "openai/gpt-oss-120b",
       "name": "gpt-oss-120b",
       "org": "openai",
-      "likes": 4767,
+      "likes": 4768,
       "downloads": 4379055,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -553,7 +553,7 @@
       "id": "deepseek-ai/DeepSeek-V4-Pro",
       "name": "DeepSeek-V4-Pro",
       "org": "deepseek-ai",
-      "likes": 3848,
+      "likes": 3850,
       "downloads": 2017835,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -925,7 +925,7 @@
       "id": "Qwen/Qwen2.5-1.5B-Instruct",
       "name": "Qwen2.5-1.5B-Instruct",
       "org": "Qwen",
-      "likes": 691,
+      "likes": 692,
       "downloads": 12189925,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -974,7 +974,7 @@
       "id": "Qwen/Qwen3-4B-Instruct-2507",
       "name": "Qwen3-4B-Instruct-2507",
       "org": "Qwen",
-      "likes": 839,
+      "likes": 840,
       "downloads": 10701536,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -990,7 +990,7 @@
       "id": "meta-llama/Llama-3.1-8B-Instruct",
       "name": "Llama-3.1-8B-Instruct",
       "org": "meta-llama",
-      "likes": 5811,
+      "likes": 5810,
       "downloads": 9389311,
       "license": "Llama3.1",
       "pipeline_tag": "text-generation",
@@ -1007,7 +1007,7 @@
       "id": "Qwen/Qwen2.5-3B-Instruct",
       "name": "Qwen2.5-3B-Instruct",
       "org": "Qwen",
-      "likes": 454,
+      "likes": 455,
       "downloads": 8735726,
       "license": "Other",
       "pipeline_tag": "text-generation",
@@ -1158,7 +1158,7 @@
       "id": "openai/gpt-oss-120b",
       "name": "gpt-oss-120b",
       "org": "openai",
-      "likes": 4767,
+      "likes": 4768,
       "downloads": 4379055,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1359,7 +1359,7 @@
       "id": "Qwen/Qwen3-Coder-30B-A3B-Instruct",
       "name": "Qwen3-Coder-30B-A3B-Instruct",
       "org": "Qwen",
-      "likes": 1054,
+      "likes": 1055,
       "downloads": 2597821,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1374,37 +1374,37 @@
   "trending": [
     {
       "id": "SulphurAI/Sulphur-2-base",
-      "likes": 591,
+      "likes": 602,
       "downloads": 157648,
       "pipeline_tag": "text-to-video"
     },
     {
       "id": "Zyphra/ZAYA1-8B",
-      "likes": 411,
+      "likes": 415,
       "downloads": 66119,
       "pipeline_tag": ""
     },
     {
       "id": "deepseek-ai/DeepSeek-V4-Pro",
-      "likes": 3848,
+      "likes": 3850,
       "downloads": 2017835,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "HiDream-ai/HiDream-O1-Image",
-      "likes": 221,
+      "likes": 226,
       "downloads": 3418,
       "pipeline_tag": "image-text-to-image"
     },
     {
       "id": "google/gemma-4-31B-it-assistant",
-      "likes": 204,
+      "likes": 206,
       "downloads": 66561,
       "pipeline_tag": "any-to-any"
     },
     {
       "id": "SeeSee21/Z-Anime",
-      "likes": 305,
+      "likes": 307,
       "downloads": 9477,
       "pipeline_tag": "text-to-image"
     },
@@ -1416,13 +1416,13 @@
     },
     {
       "id": "TenStrip/LTX2.3-10Eros",
-      "likes": 215,
+      "likes": 217,
       "downloads": 64008,
       "pipeline_tag": "image-to-video"
     },
     {
       "id": "Qwen/Qwen3.6-27B",
-      "likes": 1235,
+      "likes": 1236,
       "downloads": 2446478,
       "pipeline_tag": "image-text-to-text"
     },
@@ -1434,7 +1434,7 @@
     },
     {
       "id": "open-thoughts/AgentTrove",
-      "likes": 109,
+      "likes": 111,
       "downloads": 7200,
       "pipeline_tag": ""
     },
@@ -1446,13 +1446,13 @@
     },
     {
       "id": "AdithyaSK/rl-environments-guide",
-      "likes": 125,
+      "likes": 127,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "r3gm/wan2-2-fp8da-aoti-preview2",
-      "likes": 1072,
+      "likes": 1074,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1476,13 +1476,19 @@
     },
     {
       "id": "kulkas2pintu/wan222",
-      "likes": 121,
+      "likes": 122,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "k2-fsa/OmniVoice",
-      "likes": 825,
+      "likes": 826,
+      "downloads": 0,
+      "pipeline_tag": ""
+    },
+    {
+      "id": "mikeee/qwen-7b-chat",
+      "likes": 151,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1499,12 +1505,6 @@
       "pipeline_tag": ""
     },
     {
-      "id": "mikeee/qwen-7b-chat",
-      "likes": 148,
-      "downloads": 0,
-      "pipeline_tag": ""
-    },
-    {
       "id": "Jackrong/GLM-5.1-Reasoning-1M-Cleaned",
       "likes": 189,
       "downloads": 9098,
@@ -1512,19 +1512,25 @@
     },
     {
       "id": "prithivMLmods/FireRed-Image-Edit-1.0-Fast",
-      "likes": 1200,
+      "likes": 1202,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "zerogpu-aoti/wan2-2-fp8da-aoti-faster",
-      "likes": 3029,
+      "likes": 3030,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "smolagents/ml-intern",
-      "likes": 349,
+      "likes": 350,
+      "downloads": 0,
+      "pipeline_tag": ""
+    },
+    {
+      "id": "FrameAI4687/Omni-Video-Factory",
+      "likes": 1049,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1541,17 +1547,11 @@
       "pipeline_tag": ""
     },
     {
-      "id": "FrameAI4687/Omni-Video-Factory",
-      "likes": 1048,
-      "downloads": 0,
-      "pipeline_tag": ""
-    },
-    {
       "id": "selfit-camera/Omni-Image-Editor",
       "likes": 1666,
       "downloads": 0,
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-05-11T23:15:02.636977+08:00"
+  "lastUpdatedISO": "2026-05-12T01:56:16.033200+08:00"
 }
