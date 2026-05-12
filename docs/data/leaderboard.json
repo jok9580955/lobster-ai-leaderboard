@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-12 06:56",
+  "lastUpdated": "2026-05-12 08:04",
   "arena": [
     {
       "rank": 1,
@@ -553,7 +553,7 @@
       "id": "deepseek-ai/DeepSeek-V4-Pro",
       "name": "DeepSeek-V4-Pro",
       "org": "deepseek-ai",
-      "likes": 3855,
+      "likes": 3856,
       "downloads": 2017835,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -1374,31 +1374,31 @@
   "trending": [
     {
       "id": "SulphurAI/Sulphur-2-base",
-      "likes": 620,
+      "likes": 623,
       "downloads": 157648,
       "pipeline_tag": "text-to-video"
     },
     {
       "id": "Zyphra/ZAYA1-8B",
-      "likes": 416,
+      "likes": 420,
       "downloads": 66119,
       "pipeline_tag": ""
     },
     {
       "id": "deepseek-ai/DeepSeek-V4-Pro",
-      "likes": 3855,
+      "likes": 3856,
       "downloads": 2017835,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "HiDream-ai/HiDream-O1-Image",
-      "likes": 237,
+      "likes": 239,
       "downloads": 3418,
       "pipeline_tag": "image-text-to-image"
     },
     {
       "id": "google/gemma-4-31B-it-assistant",
-      "likes": 207,
+      "likes": 209,
       "downloads": 66561,
       "pipeline_tag": "any-to-any"
     },
@@ -1410,7 +1410,7 @@
     },
     {
       "id": "openbmb/MiniCPM-V-4.6",
-      "likes": 174,
+      "likes": 179,
       "downloads": 0,
       "pipeline_tag": "image-text-to-text"
     },
@@ -1422,7 +1422,7 @@
     },
     {
       "id": "TenStrip/LTX2.3-10Eros",
-      "likes": 219,
+      "likes": 220,
       "downloads": 64008,
       "pipeline_tag": "image-to-video"
     },
@@ -1434,7 +1434,7 @@
     },
     {
       "id": "open-thoughts/AgentTrove",
-      "likes": 113,
+      "likes": 114,
       "downloads": 7200,
       "pipeline_tag": ""
     },
@@ -1446,43 +1446,37 @@
     },
     {
       "id": "AdithyaSK/rl-environments-guide",
-      "likes": 127,
+      "likes": 128,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "r3gm/wan2-2-fp8da-aoti-preview2",
-      "likes": 1077,
+      "likes": 1078,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
-      "likes": 63,
+      "likes": 64,
       "downloads": 1346,
       "pipeline_tag": ""
     },
     {
       "id": "nvidia/Nemotron-Personas-Korea",
-      "likes": 436,
+      "likes": 437,
       "downloads": 74199,
+      "pipeline_tag": ""
+    },
+    {
+      "id": "mikeee/qwen-7b-chat",
+      "likes": 160,
+      "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "kulkas2pintu/wan222",
       "likes": 123,
-      "downloads": 0,
-      "pipeline_tag": ""
-    },
-    {
-      "id": "jamiequint/sf_criminal_court",
-      "likes": 29,
-      "downloads": 943,
-      "pipeline_tag": ""
-    },
-    {
-      "id": "mikeee/qwen-7b-chat",
-      "likes": 156,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1514,6 +1508,12 @@
       "id": "Jackrong/DeepSeek-V4-Distill-8000x",
       "likes": 73,
       "downloads": 8444,
+      "pipeline_tag": ""
+    },
+    {
+      "id": "jamiequint/sf_criminal_court",
+      "likes": 29,
+      "downloads": 943,
       "pipeline_tag": ""
     },
     {
@@ -1553,5 +1553,5 @@
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-05-12T06:56:52.003237+08:00"
+  "lastUpdatedISO": "2026-05-12T08:04:26.785586+08:00"
 }
