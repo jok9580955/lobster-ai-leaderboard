@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-14 04:49",
+  "lastUpdated": "2026-05-14 06:14",
   "arena": [
     {
       "rank": 1,
@@ -1374,13 +1374,13 @@
   "trending": [
     {
       "id": "SulphurAI/Sulphur-2-base",
-      "likes": 819,
+      "likes": 823,
       "downloads": 535069,
       "pipeline_tag": "text-to-video"
     },
     {
       "id": "Zyphra/ZAYA1-8B",
-      "likes": 469,
+      "likes": 471,
       "downloads": 110182,
       "pipeline_tag": ""
     },
@@ -1392,7 +1392,7 @@
     },
     {
       "id": "HiDream-ai/HiDream-O1-Image",
-      "likes": 294,
+      "likes": 295,
       "downloads": 7747,
       "pipeline_tag": "image-text-to-image"
     },
@@ -1404,13 +1404,13 @@
     },
     {
       "id": "Supertone/supertonic-3",
-      "likes": 159,
+      "likes": 160,
       "downloads": 4954,
       "pipeline_tag": "text-to-speech"
     },
     {
       "id": "SeeSee21/Z-Anime",
-      "likes": 344,
+      "likes": 345,
       "downloads": 11486,
       "pipeline_tag": "text-to-image"
     },
@@ -1422,7 +1422,7 @@
     },
     {
       "id": "google/gemma-4-31B-it-assistant",
-      "likes": 230,
+      "likes": 231,
       "downloads": 93228,
       "pipeline_tag": "any-to-any"
     },
@@ -1464,7 +1464,7 @@
     },
     {
       "id": "AdithyaSK/rl-environments-guide",
-      "likes": 151,
+      "likes": 152,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1482,7 +1482,7 @@
     },
     {
       "id": "TencentARC/Pixal3D",
-      "likes": 70,
+      "likes": 71,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1500,7 +1500,13 @@
     },
     {
       "id": "Supertone/supertonic-3",
-      "likes": 53,
+      "likes": 55,
+      "downloads": 0,
+      "pipeline_tag": ""
+    },
+    {
+      "id": "HiDream-ai/HiDream-O1-Image",
+      "likes": 56,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1511,9 +1517,9 @@
       "pipeline_tag": ""
     },
     {
-      "id": "HiDream-ai/HiDream-O1-Image",
-      "likes": 54,
-      "downloads": 0,
+      "id": "Qwen/WebWorldData",
+      "likes": 19,
+      "downloads": 413,
       "pipeline_tag": ""
     },
     {
@@ -1523,21 +1529,15 @@
       "pipeline_tag": ""
     },
     {
+      "id": "FrameAI4687/Omni-Video-Factory",
+      "likes": 1063,
+      "downloads": 0,
+      "pipeline_tag": ""
+    },
+    {
       "id": "Jackrong/DeepSeek-V4-Distill-8000x",
       "likes": 75,
       "downloads": 9338,
-      "pipeline_tag": ""
-    },
-    {
-      "id": "Qwen/WebWorldData",
-      "likes": 18,
-      "downloads": 413,
-      "pipeline_tag": ""
-    },
-    {
-      "id": "FrameAI4687/Omni-Video-Factory",
-      "likes": 1062,
-      "downloads": 0,
       "pipeline_tag": ""
     },
     {
@@ -1553,5 +1553,5 @@
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-05-14T04:49:34.514344+08:00"
+  "lastUpdatedISO": "2026-05-14T06:14:34.925155+08:00"
 }
