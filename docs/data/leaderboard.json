@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-14 00:21",
+  "lastUpdated": "2026-05-14 02:57",
   "arena": [
     {
       "rank": 1,
@@ -366,7 +366,7 @@
       "id": "deepseek-ai/DeepSeek-R1",
       "name": "DeepSeek-R1",
       "org": "deepseek-ai",
-      "likes": 13326,
+      "likes": 13327,
       "downloads": 3825571,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -553,7 +553,7 @@
       "id": "deepseek-ai/DeepSeek-V4-Pro",
       "name": "DeepSeek-V4-Pro",
       "org": "deepseek-ai",
-      "likes": 3922,
+      "likes": 3923,
       "downloads": 2420384,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -1191,7 +1191,7 @@
       "id": "deepseek-ai/DeepSeek-R1",
       "name": "DeepSeek-R1",
       "org": "deepseek-ai",
-      "likes": 13326,
+      "likes": 13327,
       "downloads": 3825571,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -1358,7 +1358,7 @@
       "id": "Qwen/Qwen3-14B",
       "name": "Qwen3-14B",
       "org": "Qwen",
-      "likes": 396,
+      "likes": 397,
       "downloads": 2601873,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1374,7 +1374,7 @@
   "trending": [
     {
       "id": "SulphurAI/Sulphur-2-base",
-      "likes": 805,
+      "likes": 813,
       "downloads": 535069,
       "pipeline_tag": "text-to-video"
     },
@@ -1386,50 +1386,50 @@
     },
     {
       "id": "openbmb/MiniCPM-V-4.6",
-      "likes": 468,
+      "likes": 478,
       "downloads": 3494,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "HiDream-ai/HiDream-O1-Image",
-      "likes": 288,
+      "likes": 292,
       "downloads": 7747,
       "pipeline_tag": "image-text-to-image"
     },
     {
       "id": "deepseek-ai/DeepSeek-V4-Pro",
-      "likes": 3922,
+      "likes": 3923,
       "downloads": 2420384,
       "pipeline_tag": "text-generation"
     },
     {
-      "id": "SeeSee21/Z-Anime",
-      "likes": 338,
-      "downloads": 11486,
-      "pipeline_tag": "text-to-image"
-    },
-    {
       "id": "Supertone/supertonic-3",
-      "likes": 152,
+      "likes": 156,
       "downloads": 4954,
       "pipeline_tag": "text-to-speech"
     },
     {
+      "id": "SeeSee21/Z-Anime",
+      "likes": 340,
+      "downloads": 11486,
+      "pipeline_tag": "text-to-image"
+    },
+    {
       "id": "TenStrip/LTX2.3-10Eros",
-      "likes": 242,
+      "likes": 243,
       "downloads": 84903,
       "pipeline_tag": "image-to-video"
     },
     {
       "id": "google/gemma-4-31B-it-assistant",
-      "likes": 229,
+      "likes": 230,
       "downloads": 93228,
       "pipeline_tag": "any-to-any"
     },
     {
-      "id": "Jackrong/Qwopus3.6-35B-A3B-v1-GGUF",
-      "likes": 121,
-      "downloads": 96759,
+      "id": "Qwen/Qwen3.6-27B",
+      "likes": 1267,
+      "downloads": 2772193,
       "pipeline_tag": "image-text-to-text"
     },
     {
@@ -1439,26 +1439,26 @@
       "pipeline_tag": ""
     },
     {
+      "id": "TuringEnterprises/Open-MM-RL",
+      "likes": 76,
+      "downloads": 1074,
+      "pipeline_tag": ""
+    },
+    {
       "id": "open-thoughts/AgentTrove",
-      "likes": 123,
+      "likes": 124,
       "downloads": 9263,
       "pipeline_tag": ""
     },
     {
       "id": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
-      "likes": 80,
+      "likes": 81,
       "downloads": 1752,
       "pipeline_tag": ""
     },
     {
-      "id": "TuringEnterprises/Open-MM-RL",
-      "likes": 74,
-      "downloads": 1074,
-      "pipeline_tag": ""
-    },
-    {
       "id": "r3gm/wan2-2-fp8da-aoti-preview2",
-      "likes": 1126,
+      "likes": 1132,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1476,13 +1476,19 @@
     },
     {
       "id": "mikeee/qwen-7b-chat",
-      "likes": 190,
+      "likes": 191,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "TencentARC/Pixal3D",
-      "likes": 65,
+      "likes": 68,
+      "downloads": 0,
+      "pipeline_tag": ""
+    },
+    {
+      "id": "k2-fsa/OmniVoice",
+      "likes": 837,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1493,15 +1499,9 @@
       "pipeline_tag": ""
     },
     {
-      "id": "k2-fsa/OmniVoice",
-      "likes": 836,
-      "downloads": 0,
-      "pipeline_tag": ""
-    },
-    {
-      "id": "zerogpu-aoti/wan2-2-fp8da-aoti-faster",
-      "likes": 3048,
-      "downloads": 0,
+      "id": "lambda/hermes-agent-reasoning-traces",
+      "likes": 306,
+      "downloads": 8810,
       "pipeline_tag": ""
     },
     {
@@ -1517,9 +1517,9 @@
       "pipeline_tag": ""
     },
     {
-      "id": "lambda/hermes-agent-reasoning-traces",
-      "likes": 304,
-      "downloads": 8810,
+      "id": "zerogpu-aoti/wan2-2-fp8da-aoti-faster",
+      "likes": 3048,
+      "downloads": 0,
       "pipeline_tag": ""
     },
     {
@@ -1530,20 +1530,20 @@
     },
     {
       "id": "FrameAI4687/Omni-Video-Factory",
-      "likes": 1061,
+      "likes": 1062,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
-      "id": "Jackrong/GLM-5.1-Reasoning-1M-Cleaned",
-      "likes": 190,
-      "downloads": 9934,
+      "id": "Qwen/WebWorldData",
+      "likes": 17,
+      "downloads": 413,
       "pipeline_tag": ""
     },
     {
-      "id": "Qwen/WebWorldData",
-      "likes": 16,
-      "downloads": 413,
+      "id": "Jackrong/GLM-5.1-Reasoning-1M-Cleaned",
+      "likes": 191,
+      "downloads": 9934,
       "pipeline_tag": ""
     },
     {
@@ -1553,5 +1553,5 @@
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-05-14T00:21:29.337043+08:00"
+  "lastUpdatedISO": "2026-05-14T02:57:35.399691+08:00"
 }
