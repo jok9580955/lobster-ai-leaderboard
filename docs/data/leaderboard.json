@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-15 03:49",
+  "lastUpdated": "2026-05-15 05:12",
   "arena": [
     {
       "rank": 1,
@@ -1208,7 +1208,7 @@
       "id": "Qwen/Qwen3-1.7B",
       "name": "Qwen3-1.7B",
       "org": "Qwen",
-      "likes": 467,
+      "likes": 468,
       "downloads": 3535359,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1386,7 +1386,7 @@
     },
     {
       "id": "HiDream-ai/HiDream-O1-Image",
-      "likes": 320,
+      "likes": 322,
       "downloads": 9858,
       "pipeline_tag": "image-text-to-image"
     },
@@ -1404,7 +1404,7 @@
     },
     {
       "id": "Supertone/supertonic-3",
-      "likes": 190,
+      "likes": 191,
       "downloads": 9482,
       "pipeline_tag": "text-to-speech"
     },
@@ -1416,13 +1416,13 @@
     },
     {
       "id": "unsloth/Qwen3.6-27B-MTP-GGUF",
-      "likes": 133,
+      "likes": 136,
       "downloads": 74765,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "unsloth/Qwen3.6-35B-A3B-MTP-GGUF",
-      "likes": 123,
+      "likes": 125,
       "downloads": 67190,
       "pipeline_tag": "image-text-to-text"
     },
@@ -1434,7 +1434,7 @@
     },
     {
       "id": "TenStrip/LTX2.3-10Eros",
-      "likes": 255,
+      "likes": 256,
       "downloads": 90647,
       "pipeline_tag": "image-to-video"
     },
@@ -1458,13 +1458,13 @@
     },
     {
       "id": "open-thoughts/AgentTrove",
-      "likes": 130,
+      "likes": 131,
       "downloads": 9442,
       "pipeline_tag": ""
     },
     {
       "id": "AlienKevin/SWE-ZERO-12M-trajectories",
-      "likes": 37,
+      "likes": 39,
       "downloads": 2992,
       "pipeline_tag": ""
     },
@@ -1518,7 +1518,7 @@
     },
     {
       "id": "prithivMLmods/FireRed-Image-Edit-1.0-Fast",
-      "likes": 1234,
+      "likes": 1235,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1536,7 +1536,7 @@
     },
     {
       "id": "prithivMLmods/Qwen-Image-Edit-2511-LoRAs-Fast",
-      "likes": 1417,
+      "likes": 1416,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1553,5 +1553,5 @@
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-05-15T03:49:16.037574+08:00"
+  "lastUpdatedISO": "2026-05-15T05:12:33.489116+08:00"
 }
