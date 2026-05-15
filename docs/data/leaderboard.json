@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-15 18:26",
+  "lastUpdated": "2026-05-15 20:55",
   "arena": [
     {
       "rank": 1,
@@ -400,7 +400,7 @@
       "id": "meta-llama/Llama-3.1-8B-Instruct",
       "name": "Llama-3.1-8B-Instruct",
       "org": "meta-llama",
-      "likes": 5832,
+      "likes": 5833,
       "downloads": 9785417,
       "license": "Llama3.1",
       "pipeline_tag": "text-generation",
@@ -553,7 +553,7 @@
       "id": "deepseek-ai/DeepSeek-V4-Pro",
       "name": "DeepSeek-V4-Pro",
       "org": "deepseek-ai",
-      "likes": 3962,
+      "likes": 3965,
       "downloads": 2766621,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -654,7 +654,7 @@
       "id": "bigcode/starcoder",
       "name": "starcoder",
       "org": "bigcode",
-      "likes": 2947,
+      "likes": 2946,
       "downloads": 20330,
       "license": "Bigcode Openrail M",
       "pipeline_tag": "text-generation",
@@ -908,7 +908,7 @@
       "id": "Qwen/Qwen2.5-1.5B-Instruct",
       "name": "Qwen2.5-1.5B-Instruct",
       "org": "Qwen",
-      "likes": 695,
+      "likes": 696,
       "downloads": 12432884,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -974,7 +974,7 @@
       "id": "meta-llama/Llama-3.1-8B-Instruct",
       "name": "Llama-3.1-8B-Instruct",
       "org": "meta-llama",
-      "likes": 5832,
+      "likes": 5833,
       "downloads": 9785417,
       "license": "Llama3.1",
       "pipeline_tag": "text-generation",
@@ -1358,7 +1358,7 @@
       "id": "deepseek-ai/DeepSeek-V4-Pro",
       "name": "DeepSeek-V4-Pro",
       "org": "deepseek-ai",
-      "likes": 3962,
+      "likes": 3965,
       "downloads": 2766621,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -1375,73 +1375,73 @@
   "trending": [
     {
       "id": "SulphurAI/Sulphur-2-base",
-      "likes": 947,
+      "likes": 957,
       "downloads": 783564,
       "pipeline_tag": "text-to-video"
     },
     {
       "id": "openbmb/MiniCPM-V-4.6",
-      "likes": 544,
+      "likes": 551,
       "downloads": 22483,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "HiDream-ai/HiDream-O1-Image",
-      "likes": 329,
+      "likes": 334,
       "downloads": 11725,
       "pipeline_tag": "image-text-to-image"
     },
     {
       "id": "Zyphra/ZAYA1-8B",
-      "likes": 494,
+      "likes": 495,
       "downloads": 141203,
       "pipeline_tag": ""
     },
     {
       "id": "deepseek-ai/DeepSeek-V4-Pro",
-      "likes": 3962,
+      "likes": 3965,
       "downloads": 2766621,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "Supertone/supertonic-3",
-      "likes": 206,
+      "likes": 214,
       "downloads": 12832,
       "pipeline_tag": "text-to-speech"
     },
     {
       "id": "unsloth/Qwen3.6-27B-MTP-GGUF",
-      "likes": 150,
+      "likes": 155,
       "downloads": 105097,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "SeeSee21/Z-Anime",
-      "likes": 371,
+      "likes": 372,
       "downloads": 13998,
       "pipeline_tag": "text-to-image"
     },
     {
       "id": "unsloth/Qwen3.6-35B-A3B-MTP-GGUF",
-      "likes": 135,
+      "likes": 138,
       "downloads": 97682,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "PsiBotAI/SynData",
-      "likes": 124,
+      "likes": 125,
       "downloads": 18457,
       "pipeline_tag": ""
     },
     {
       "id": "TuringEnterprises/Open-MM-RL",
-      "likes": 95,
+      "likes": 97,
       "downloads": 3849,
       "pipeline_tag": ""
     },
     {
       "id": "TenStrip/LTX2.3-10Eros",
-      "likes": 261,
+      "likes": 262,
       "downloads": 100636,
       "pipeline_tag": "image-to-video"
     },
@@ -1453,13 +1453,13 @@
     },
     {
       "id": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
-      "likes": 96,
+      "likes": 97,
       "downloads": 2165,
       "pipeline_tag": ""
     },
     {
       "id": "r3gm/wan2-2-fp8da-aoti-preview-2",
-      "likes": 1160,
+      "likes": 1161,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1471,19 +1471,25 @@
     },
     {
       "id": "AlienKevin/SWE-ZERO-12M-trajectories",
-      "likes": 45,
+      "likes": 46,
       "downloads": 4642,
       "pipeline_tag": ""
     },
     {
       "id": "TencentARC/Pixal3D",
-      "likes": 99,
+      "likes": 103,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "mikeee/qwen-7b-chat",
-      "likes": 207,
+      "likes": 210,
+      "downloads": 0,
+      "pipeline_tag": ""
+    },
+    {
+      "id": "Supertone/supertonic-3",
+      "likes": 77,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1494,33 +1500,33 @@
       "pipeline_tag": ""
     },
     {
-      "id": "Supertone/supertonic-3",
-      "likes": 76,
-      "downloads": 0,
-      "pipeline_tag": ""
-    },
-    {
       "id": "HiDream-ai/HiDream-O1-Image",
-      "likes": 71,
+      "likes": 73,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "nvidia/Nemotron-Personas-Korea",
-      "likes": 449,
+      "likes": 450,
       "downloads": 80116,
       "pipeline_tag": ""
     },
     {
       "id": "prithivMLmods/FireRed-Image-Edit-1.0-Fast",
-      "likes": 1246,
+      "likes": 1247,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "techfreakworm/LTX2.3-Studio",
-      "likes": 72,
+      "likes": 73,
       "downloads": 0,
+      "pipeline_tag": ""
+    },
+    {
+      "id": "lambda/hermes-agent-reasoning-traces",
+      "likes": 314,
+      "downloads": 8265,
       "pipeline_tag": ""
     },
     {
@@ -1530,21 +1536,15 @@
       "pipeline_tag": ""
     },
     {
-      "id": "prithivMLmods/Qwen-Image-Edit-2511-LoRAs-Fast",
-      "likes": 1420,
-      "downloads": 0,
-      "pipeline_tag": ""
-    },
-    {
-      "id": "lambda/hermes-agent-reasoning-traces",
-      "likes": 312,
-      "downloads": 8265,
-      "pipeline_tag": ""
-    },
-    {
       "id": "5551z/VisCoR-55K",
       "likes": 23,
       "downloads": 185,
+      "pipeline_tag": ""
+    },
+    {
+      "id": "prithivMLmods/Qwen-Image-Edit-2511-LoRAs-Fast",
+      "likes": 1420,
+      "downloads": 0,
       "pipeline_tag": ""
     },
     {
@@ -1554,5 +1554,5 @@
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-05-15T18:26:37.226048+08:00"
+  "lastUpdatedISO": "2026-05-15T20:55:17.514324+08:00"
 }
