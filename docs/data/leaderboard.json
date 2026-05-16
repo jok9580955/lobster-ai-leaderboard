@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-17 01:56",
+  "lastUpdated": "2026-05-17 03:12",
   "arena": [
     {
       "rank": 1,
@@ -553,7 +553,7 @@
       "id": "deepseek-ai/DeepSeek-V4-Pro",
       "name": "DeepSeek-V4-Pro",
       "org": "deepseek-ai",
-      "likes": 3989,
+      "likes": 3993,
       "downloads": 2967518,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -875,7 +875,7 @@
       "id": "Qwen/Qwen3-0.6B",
       "name": "Qwen3-0.6B",
       "org": "Qwen",
-      "likes": 1247,
+      "likes": 1248,
       "downloads": 19274965,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1324,7 +1324,7 @@
       "id": "deepseek-ai/DeepSeek-V4-Pro",
       "name": "DeepSeek-V4-Pro",
       "org": "deepseek-ai",
-      "likes": 3989,
+      "likes": 3993,
       "downloads": 2967518,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -1375,13 +1375,13 @@
   "trending": [
     {
       "id": "openbmb/MiniCPM-V-4.6",
-      "likes": 633,
+      "likes": 634,
       "downloads": 28627,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "SulphurAI/Sulphur-2-base",
-      "likes": 1022,
+      "likes": 1023,
       "downloads": 875370,
       "pipeline_tag": "text-to-video"
     },
@@ -1393,7 +1393,7 @@
     },
     {
       "id": "Supertone/supertonic-3",
-      "likes": 288,
+      "likes": 291,
       "downloads": 16496,
       "pipeline_tag": "text-to-speech"
     },
@@ -1405,19 +1405,19 @@
     },
     {
       "id": "unsloth/Qwen3.6-27B-MTP-GGUF",
-      "likes": 186,
+      "likes": 191,
       "downloads": 133815,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "deepseek-ai/DeepSeek-V4-Pro",
-      "likes": 3989,
+      "likes": 3993,
       "downloads": 2967518,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "unsloth/Qwen3.6-35B-A3B-MTP-GGUF",
-      "likes": 170,
+      "likes": 173,
       "downloads": 124082,
       "pipeline_tag": "image-text-to-text"
     },
@@ -1429,7 +1429,7 @@
     },
     {
       "id": "circlestone-labs/Anima",
-      "likes": 1348,
+      "likes": 1349,
       "downloads": 501808,
       "pipeline_tag": ""
     },
@@ -1441,7 +1441,7 @@
     },
     {
       "id": "SeeSee21/Z-Anime",
-      "likes": 384,
+      "likes": 385,
       "downloads": 14494,
       "pipeline_tag": "text-to-image"
     },
@@ -1459,19 +1459,19 @@
     },
     {
       "id": "ADSKAILab/Zero-To-CAD-1m",
-      "likes": 111,
+      "likes": 112,
       "downloads": 22456,
       "pipeline_tag": ""
     },
     {
       "id": "r3gm/wan2-2-fp8da-aoti-preview-2",
-      "likes": 1191,
+      "likes": 1192,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "TencentARC/Pixal3D",
-      "likes": 121,
+      "likes": 123,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1483,7 +1483,7 @@
     },
     {
       "id": "mikeee/qwen-7b-chat",
-      "likes": 235,
+      "likes": 238,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1495,7 +1495,7 @@
     },
     {
       "id": "HiDream-ai/HiDream-O1-Image",
-      "likes": 83,
+      "likes": 85,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1512,15 +1512,15 @@
       "pipeline_tag": ""
     },
     {
-      "id": "5551z/VisCoR-55K",
-      "likes": 28,
-      "downloads": 207,
+      "id": "techfreakworm/LTX2.3-Studio",
+      "likes": 88,
+      "downloads": 0,
       "pipeline_tag": ""
     },
     {
-      "id": "techfreakworm/LTX2.3-Studio",
-      "likes": 86,
-      "downloads": 0,
+      "id": "5551z/VisCoR-55K",
+      "likes": 28,
+      "downloads": 207,
       "pipeline_tag": ""
     },
     {
@@ -1554,5 +1554,5 @@
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-05-17T01:56:02.615128+08:00"
+  "lastUpdatedISO": "2026-05-17T03:12:35.548139+08:00"
 }
