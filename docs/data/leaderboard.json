@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-16 21:27",
+  "lastUpdated": "2026-05-16 22:58",
   "arena": [
     {
       "rank": 1,
@@ -908,7 +908,7 @@
       "id": "Qwen/Qwen2.5-1.5B-Instruct",
       "name": "Qwen2.5-1.5B-Instruct",
       "org": "Qwen",
-      "likes": 698,
+      "likes": 699,
       "downloads": 12900413,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -942,7 +942,7 @@
       "id": "Qwen/Qwen3-8B",
       "name": "Qwen3-8B",
       "org": "Qwen",
-      "likes": 1090,
+      "likes": 1091,
       "downloads": 11613571,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1375,25 +1375,25 @@
   "trending": [
     {
       "id": "openbmb/MiniCPM-V-4.6",
-      "likes": 625,
+      "likes": 629,
       "downloads": 28627,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "SulphurAI/Sulphur-2-base",
-      "likes": 1013,
+      "likes": 1017,
       "downloads": 875370,
       "pipeline_tag": "text-to-video"
     },
     {
       "id": "HiDream-ai/HiDream-O1-Image",
-      "likes": 353,
+      "likes": 355,
       "downloads": 13587,
       "pipeline_tag": "image-text-to-image"
     },
     {
       "id": "Supertone/supertonic-3",
-      "likes": 268,
+      "likes": 278,
       "downloads": 16496,
       "pipeline_tag": "text-to-speech"
     },
@@ -1404,20 +1404,20 @@
       "pipeline_tag": ""
     },
     {
+      "id": "unsloth/Qwen3.6-27B-MTP-GGUF",
+      "likes": 183,
+      "downloads": 133815,
+      "pipeline_tag": "image-text-to-text"
+    },
+    {
       "id": "deepseek-ai/DeepSeek-V4-Pro",
       "likes": 3987,
       "downloads": 2967518,
       "pipeline_tag": "text-generation"
     },
     {
-      "id": "unsloth/Qwen3.6-27B-MTP-GGUF",
-      "likes": 179,
-      "downloads": 133815,
-      "pipeline_tag": "image-text-to-text"
-    },
-    {
       "id": "unsloth/Qwen3.6-35B-A3B-MTP-GGUF",
-      "likes": 164,
+      "likes": 167,
       "downloads": 124082,
       "pipeline_tag": "image-text-to-text"
     },
@@ -1434,15 +1434,15 @@
       "pipeline_tag": ""
     },
     {
-      "id": "PsiBotAI/SynData",
-      "likes": 131,
-      "downloads": 24094,
+      "id": "circlestone-labs/Anima",
+      "likes": 1344,
+      "downloads": 501808,
       "pipeline_tag": ""
     },
     {
-      "id": "circlestone-labs/Anima",
-      "likes": 1343,
-      "downloads": 501808,
+      "id": "PsiBotAI/SynData",
+      "likes": 131,
+      "downloads": 24094,
       "pipeline_tag": ""
     },
     {
@@ -1452,20 +1452,20 @@
       "pipeline_tag": ""
     },
     {
-      "id": "ADSKAILab/Zero-To-CAD-1m",
-      "likes": 111,
-      "downloads": 22456,
-      "pipeline_tag": ""
-    },
-    {
       "id": "AlienKevin/SWE-ZERO-12M-trajectories",
       "likes": 56,
       "downloads": 5906,
       "pipeline_tag": ""
     },
     {
+      "id": "ADSKAILab/Zero-To-CAD-1m",
+      "likes": 111,
+      "downloads": 22456,
+      "pipeline_tag": ""
+    },
+    {
       "id": "r3gm/wan2-2-fp8da-aoti-preview-2",
-      "likes": 1188,
+      "likes": 1190,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1483,13 +1483,13 @@
     },
     {
       "id": "mikeee/qwen-7b-chat",
-      "likes": 232,
+      "likes": 235,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "Supertone/supertonic-3",
-      "likes": 94,
+      "likes": 95,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1501,7 +1501,7 @@
     },
     {
       "id": "prithivMLmods/FireRed-Image-Edit-1.0-Fast",
-      "likes": 1260,
+      "likes": 1261,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1509,12 +1509,6 @@
       "id": "lambda/hermes-agent-reasoning-traces",
       "likes": 318,
       "downloads": 8060,
-      "pipeline_tag": ""
-    },
-    {
-      "id": "nvidia/Nemotron-Personas-Korea",
-      "likes": 454,
-      "downloads": 81532,
       "pipeline_tag": ""
     },
     {
@@ -1527,6 +1521,12 @@
       "id": "techfreakworm/LTX2.3-Studio",
       "likes": 84,
       "downloads": 0,
+      "pipeline_tag": ""
+    },
+    {
+      "id": "nvidia/Nemotron-Personas-Korea",
+      "likes": 454,
+      "downloads": 81532,
       "pipeline_tag": ""
     },
     {
@@ -1554,5 +1554,5 @@
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-05-16T21:27:23.612372+08:00"
+  "lastUpdatedISO": "2026-05-16T22:58:49.564004+08:00"
 }
