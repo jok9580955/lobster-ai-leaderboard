@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-18 03:21",
+  "lastUpdated": "2026-05-18 04:55",
   "arena": [
     {
       "rank": 1,
@@ -1042,7 +1042,7 @@
       "id": "Qwen/Qwen3-4B-Instruct-2507",
       "name": "Qwen3-4B-Instruct-2507",
       "org": "Qwen",
-      "likes": 845,
+      "likes": 846,
       "downloads": 7435618,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1387,25 +1387,25 @@
     },
     {
       "id": "Supertone/supertonic-3",
-      "likes": 352,
+      "likes": 355,
       "downloads": 20208,
       "pipeline_tag": "text-to-speech"
     },
     {
       "id": "unsloth/Qwen3.6-27B-MTP-GGUF",
-      "likes": 224,
+      "likes": 226,
       "downloads": 185303,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "unsloth/Qwen3.6-35B-A3B-MTP-GGUF",
-      "likes": 206,
+      "likes": 208,
       "downloads": 181425,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "HiDream-ai/HiDream-O1-Image",
-      "likes": 371,
+      "likes": 373,
       "downloads": 14285,
       "pipeline_tag": "image-text-to-image"
     },
@@ -1417,7 +1417,7 @@
     },
     {
       "id": "Zyphra/ZAYA1-8B",
-      "likes": 519,
+      "likes": 521,
       "downloads": 144833,
       "pipeline_tag": ""
     },
@@ -1465,7 +1465,7 @@
     },
     {
       "id": "r3gm/wan2-2-fp8da-aoti-preview-2",
-      "likes": 1211,
+      "likes": 1214,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1483,7 +1483,7 @@
     },
     {
       "id": "Supertone/supertonic-3",
-      "likes": 112,
+      "likes": 113,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1501,13 +1501,7 @@
     },
     {
       "id": "prithivMLmods/FireRed-Image-Edit-1.0-Fast",
-      "likes": 1270,
-      "downloads": 0,
-      "pipeline_tag": ""
-    },
-    {
-      "id": "HiDream-ai/HiDream-O1-Image",
-      "likes": 93,
+      "likes": 1271,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1518,21 +1512,27 @@
       "pipeline_tag": ""
     },
     {
+      "id": "HiDream-ai/HiDream-O1-Image",
+      "likes": 94,
+      "downloads": 0,
+      "pipeline_tag": ""
+    },
+    {
       "id": "lambda/hermes-agent-reasoning-traces",
       "likes": 318,
       "downloads": 7822,
       "pipeline_tag": ""
     },
     {
-      "id": "prithivMLmods/Qwen-Image-Edit-2511-LoRAs-Fast",
-      "likes": 1441,
-      "downloads": 0,
-      "pipeline_tag": ""
-    },
-    {
       "id": "Qwen/WebWorldData",
       "likes": 29,
       "downloads": 554,
+      "pipeline_tag": ""
+    },
+    {
+      "id": "prithivMLmods/Qwen-Image-Edit-2511-LoRAs-Fast",
+      "likes": 1441,
+      "downloads": 0,
       "pipeline_tag": ""
     },
     {
@@ -1554,5 +1554,5 @@
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-05-18T03:21:29.002023+08:00"
+  "lastUpdatedISO": "2026-05-18T04:55:54.874791+08:00"
 }
