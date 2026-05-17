@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-17 17:07",
+  "lastUpdated": "2026-05-17 19:09",
   "arena": [
     {
       "rank": 1,
@@ -400,7 +400,7 @@
       "id": "meta-llama/Llama-3.1-8B-Instruct",
       "name": "Llama-3.1-8B-Instruct",
       "org": "meta-llama",
-      "likes": 5841,
+      "likes": 5843,
       "downloads": 10025379,
       "license": "Llama3.1",
       "pipeline_tag": "text-generation",
@@ -925,7 +925,7 @@
       "id": "Qwen/Qwen2.5-7B-Instruct",
       "name": "Qwen2.5-7B-Instruct",
       "org": "Qwen",
-      "likes": 1279,
+      "likes": 1280,
       "downloads": 12681487,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -958,7 +958,7 @@
       "id": "meta-llama/Llama-3.1-8B-Instruct",
       "name": "Llama-3.1-8B-Instruct",
       "org": "meta-llama",
-      "likes": 5841,
+      "likes": 5843,
       "downloads": 10025379,
       "license": "Llama3.1",
       "pipeline_tag": "text-generation",
@@ -1224,7 +1224,7 @@
       "id": "Qwen/Qwen3-1.7B",
       "name": "Qwen3-1.7B",
       "org": "Qwen",
-      "likes": 470,
+      "likes": 471,
       "downloads": 3549428,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1358,7 +1358,7 @@
       "id": "TinyLlama/TinyLlama-1.1B-Chat-v1.0",
       "name": "TinyLlama-1.1B-Chat-v1.0",
       "org": "TinyLlama",
-      "likes": 1585,
+      "likes": 1586,
       "downloads": 2747860,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1375,19 +1375,19 @@
   "trending": [
     {
       "id": "openbmb/MiniCPM-V-4.6",
-      "likes": 662,
+      "likes": 666,
       "downloads": 56518,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "SulphurAI/Sulphur-2-base",
-      "likes": 1045,
+      "likes": 1052,
       "downloads": 970124,
       "pipeline_tag": "text-to-video"
     },
     {
       "id": "Supertone/supertonic-3",
-      "likes": 331,
+      "likes": 334,
       "downloads": 20208,
       "pipeline_tag": "text-to-speech"
     },
@@ -1399,13 +1399,13 @@
     },
     {
       "id": "unsloth/Qwen3.6-27B-MTP-GGUF",
-      "likes": 209,
+      "likes": 211,
       "downloads": 185303,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "unsloth/Qwen3.6-35B-A3B-MTP-GGUF",
-      "likes": 190,
+      "likes": 191,
       "downloads": 181425,
       "pipeline_tag": "image-text-to-text"
     },
@@ -1423,7 +1423,7 @@
     },
     {
       "id": "circlestone-labs/Anima",
-      "likes": 1362,
+      "likes": 1364,
       "downloads": 524067,
       "pipeline_tag": ""
     },
@@ -1441,7 +1441,7 @@
     },
     {
       "id": "froggeric/Qwen-Fixed-Chat-Templates",
-      "likes": 249,
+      "likes": 251,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1453,13 +1453,19 @@
     },
     {
       "id": "AlienKevin/SWE-ZERO-12M-trajectories",
-      "likes": 61,
+      "likes": 62,
       "downloads": 6550,
       "pipeline_tag": ""
     },
     {
       "id": "r3gm/wan2-2-fp8da-aoti-preview-2",
-      "likes": 1204,
+      "likes": 1207,
+      "downloads": 0,
+      "pipeline_tag": ""
+    },
+    {
+      "id": "TencentARC/Pixal3D",
+      "likes": 136,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1467,12 +1473,6 @@
       "id": "ADSKAILab/Zero-To-CAD-1m",
       "likes": 113,
       "downloads": 23370,
-      "pipeline_tag": ""
-    },
-    {
-      "id": "TencentARC/Pixal3D",
-      "likes": 134,
-      "downloads": 0,
       "pipeline_tag": ""
     },
     {
@@ -1489,13 +1489,7 @@
     },
     {
       "id": "Supertone/supertonic-3",
-      "likes": 102,
-      "downloads": 0,
-      "pipeline_tag": ""
-    },
-    {
-      "id": "HiDream-ai/HiDream-O1-Image",
-      "likes": 88,
+      "likes": 104,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1506,14 +1500,20 @@
       "pipeline_tag": ""
     },
     {
+      "id": "HiDream-ai/HiDream-O1-Image",
+      "likes": 88,
+      "downloads": 0,
+      "pipeline_tag": ""
+    },
+    {
       "id": "prithivMLmods/FireRed-Image-Edit-1.0-Fast",
-      "likes": 1264,
+      "likes": 1266,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "techfreakworm/LTX2.3-Studio",
-      "likes": 93,
+      "likes": 94,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1543,16 +1543,16 @@
     },
     {
       "id": "ysharma/fast-image-studio",
-      "likes": 64,
+      "likes": 65,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "k2-fsa/OmniVoice",
-      "likes": 866,
+      "likes": 867,
       "downloads": 0,
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-05-17T17:07:19.494395+08:00"
+  "lastUpdatedISO": "2026-05-17T19:09:41.623413+08:00"
 }
