@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-18 04:55",
+  "lastUpdated": "2026-05-18 05:58",
   "arena": [
     {
       "rank": 1,
@@ -400,7 +400,7 @@
       "id": "meta-llama/Llama-3.1-8B-Instruct",
       "name": "Llama-3.1-8B-Instruct",
       "org": "meta-llama",
-      "likes": 5843,
+      "likes": 5844,
       "downloads": 10025379,
       "license": "Llama3.1",
       "pipeline_tag": "text-generation",
@@ -553,7 +553,7 @@
       "id": "deepseek-ai/DeepSeek-V4-Pro",
       "name": "DeepSeek-V4-Pro",
       "org": "deepseek-ai",
-      "likes": 4008,
+      "likes": 4009,
       "downloads": 3140341,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -856,7 +856,7 @@
       "id": "meta-llama/Llama-3.2-3B-Instruct",
       "name": "Llama-3.2-3B-Instruct",
       "org": "meta-llama",
-      "likes": 2130,
+      "likes": 2131,
       "downloads": 2408377,
       "license": "Llama3.2",
       "pipeline_tag": "text-generation",
@@ -958,7 +958,7 @@
       "id": "meta-llama/Llama-3.1-8B-Instruct",
       "name": "Llama-3.1-8B-Instruct",
       "org": "meta-llama",
-      "likes": 5843,
+      "likes": 5844,
       "downloads": 10025379,
       "license": "Llama3.1",
       "pipeline_tag": "text-generation",
@@ -1008,7 +1008,7 @@
       "id": "meta-llama/Llama-3.2-1B-Instruct",
       "name": "Llama-3.2-1B-Instruct",
       "org": "meta-llama",
-      "likes": 1405,
+      "likes": 1406,
       "downloads": 7555396,
       "license": "Llama3.2",
       "pipeline_tag": "text-generation",
@@ -1273,7 +1273,7 @@
       "id": "deepseek-ai/DeepSeek-V4-Pro",
       "name": "DeepSeek-V4-Pro",
       "org": "deepseek-ai",
-      "likes": 4008,
+      "likes": 4009,
       "downloads": 3140341,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -1399,19 +1399,19 @@
     },
     {
       "id": "unsloth/Qwen3.6-35B-A3B-MTP-GGUF",
-      "likes": 208,
+      "likes": 209,
       "downloads": 181425,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "HiDream-ai/HiDream-O1-Image",
-      "likes": 373,
+      "likes": 374,
       "downloads": 14285,
       "pipeline_tag": "image-text-to-image"
     },
     {
       "id": "deepseek-ai/DeepSeek-V4-Pro",
-      "likes": 4008,
+      "likes": 4009,
       "downloads": 3140341,
       "pipeline_tag": "text-generation"
     },
@@ -1435,13 +1435,13 @@
     },
     {
       "id": "froggeric/Qwen-Fixed-Chat-Templates",
-      "likes": 262,
+      "likes": 263,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "PsiBotAI/SynData",
-      "likes": 136,
+      "likes": 137,
       "downloads": 29284,
       "pipeline_tag": ""
     },
@@ -1453,19 +1453,19 @@
     },
     {
       "id": "AlienKevin/SWE-ZERO-12M-trajectories",
-      "likes": 63,
+      "likes": 64,
       "downloads": 6550,
       "pipeline_tag": ""
     },
     {
       "id": "TencentARC/Pixal3D",
-      "likes": 148,
+      "likes": 150,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "r3gm/wan2-2-fp8da-aoti-preview-2",
-      "likes": 1214,
+      "likes": 1215,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1477,7 +1477,7 @@
     },
     {
       "id": "mikeee/qwen-7b-chat",
-      "likes": 254,
+      "likes": 255,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1525,7 +1525,7 @@
     },
     {
       "id": "Qwen/WebWorldData",
-      "likes": 29,
+      "likes": 30,
       "downloads": 554,
       "pipeline_tag": ""
     },
@@ -1543,7 +1543,7 @@
     },
     {
       "id": "ResembleAI/Dramabox",
-      "likes": 52,
+      "likes": 53,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1554,5 +1554,5 @@
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-05-18T04:55:54.874791+08:00"
+  "lastUpdatedISO": "2026-05-18T05:58:48.075457+08:00"
 }
