@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-19 04:25",
+  "lastUpdated": "2026-05-19 06:04",
   "arena": [
     {
       "rank": 1,
@@ -468,7 +468,7 @@
       "id": "openai/gpt-oss-20b",
       "name": "gpt-oss-20b",
       "org": "openai",
-      "likes": 4618,
+      "likes": 4619,
       "downloads": 7550707,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -553,7 +553,7 @@
       "id": "deepseek-ai/DeepSeek-V4-Pro",
       "name": "DeepSeek-V4-Pro",
       "org": "deepseek-ai",
-      "likes": 4037,
+      "likes": 4039,
       "downloads": 3435748,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -739,7 +739,7 @@
       "id": "xai-org/grok-1",
       "name": "grok-1",
       "org": "xai-org",
-      "likes": 2407,
+      "likes": 2408,
       "downloads": 519,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1008,7 +1008,7 @@
       "id": "openai/gpt-oss-20b",
       "name": "gpt-oss-20b",
       "org": "openai",
-      "likes": 4618,
+      "likes": 4619,
       "downloads": 7550707,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1240,7 +1240,7 @@
       "id": "deepseek-ai/DeepSeek-V4-Pro",
       "name": "DeepSeek-V4-Pro",
       "org": "deepseek-ai",
-      "likes": 4037,
+      "likes": 4039,
       "downloads": 3435748,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -1375,7 +1375,7 @@
   "trending": [
     {
       "id": "openbmb/MiniCPM-V-4.6",
-      "likes": 766,
+      "likes": 769,
       "downloads": 80586,
       "pipeline_tag": "image-text-to-text"
     },
@@ -1387,25 +1387,25 @@
     },
     {
       "id": "Supertone/supertonic-3",
-      "likes": 413,
+      "likes": 416,
       "downloads": 24031,
       "pipeline_tag": "text-to-speech"
     },
     {
       "id": "unsloth/Qwen3.6-27B-MTP-GGUF",
-      "likes": 281,
+      "likes": 284,
       "downloads": 268305,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "unsloth/Qwen3.6-35B-A3B-MTP-GGUF",
-      "likes": 244,
+      "likes": 247,
       "downloads": 237613,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "circlestone-labs/Anima",
-      "likes": 1402,
+      "likes": 1404,
       "downloads": 545205,
       "pipeline_tag": ""
     },
@@ -1417,32 +1417,32 @@
     },
     {
       "id": "deepseek-ai/DeepSeek-V4-Pro",
-      "likes": 4037,
+      "likes": 4039,
       "downloads": 3435748,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "HiDream-ai/HiDream-O1-Image",
-      "likes": 390,
+      "likes": 391,
       "downloads": 15024,
       "pipeline_tag": "image-text-to-image"
     },
     {
       "id": "froggeric/Qwen-Fixed-Chat-Templates",
-      "likes": 287,
+      "likes": 289,
       "downloads": 0,
-      "pipeline_tag": ""
-    },
-    {
-      "id": "TuringEnterprises/Open-MM-RL",
-      "likes": 116,
-      "downloads": 6695,
       "pipeline_tag": ""
     },
     {
       "id": "PsiBotAI/SynData",
       "likes": 139,
       "downloads": 33959,
+      "pipeline_tag": ""
+    },
+    {
+      "id": "TuringEnterprises/Open-MM-RL",
+      "likes": 116,
+      "downloads": 6695,
       "pipeline_tag": ""
     },
     {
@@ -1465,19 +1465,19 @@
     },
     {
       "id": "r3gm/wan2-2-fp8da-aoti-preview-2",
-      "likes": 1231,
+      "likes": 1232,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "mikeee/qwen-7b-chat",
-      "likes": 274,
+      "likes": 276,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "Supertone/supertonic-3",
-      "likes": 133,
+      "likes": 135,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1507,13 +1507,13 @@
     },
     {
       "id": "prithivMLmods/FireRed-Image-Edit-1.0-Fast",
-      "likes": 1281,
+      "likes": 1283,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "lambda/hermes-agent-reasoning-traces",
-      "likes": 321,
+      "likes": 322,
       "downloads": 7712,
       "pipeline_tag": ""
     },
@@ -1536,23 +1536,23 @@
       "pipeline_tag": ""
     },
     {
-      "id": "ysharma/fast-image-studio",
-      "likes": 79,
-      "downloads": 0,
-      "pipeline_tag": ""
-    },
-    {
       "id": "cbensimon/wan2-2-fp8da-aoti-preview2",
       "likes": 64,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
+      "id": "ysharma/fast-image-studio",
+      "likes": 81,
+      "downloads": 0,
+      "pipeline_tag": ""
+    },
+    {
       "id": "HiDream-ai/HiDream-O1-Image",
-      "likes": 101,
+      "likes": 102,
       "downloads": 0,
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-05-19T04:25:59.955901+08:00"
+  "lastUpdatedISO": "2026-05-19T06:04:04.927434+08:00"
 }
