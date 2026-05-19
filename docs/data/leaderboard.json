@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-20 00:22",
+  "lastUpdated": "2026-05-20 03:01",
   "arena": [
     {
       "rank": 1,
@@ -485,7 +485,7 @@
       "id": "meta-llama/Meta-Llama-3-8B-Instruct",
       "name": "Meta-Llama-3-8B-Instruct",
       "org": "meta-llama",
-      "likes": 4522,
+      "likes": 4523,
       "downloads": 1680747,
       "license": "Llama3",
       "pipeline_tag": "text-generation",
@@ -1375,49 +1375,49 @@
   "trending": [
     {
       "id": "SulphurAI/Sulphur-2-base",
-      "likes": 1157,
+      "likes": 1165,
       "downloads": 1114657,
       "pipeline_tag": "text-to-video"
     },
     {
       "id": "openbmb/MiniCPM-V-4.6",
-      "likes": 794,
+      "likes": 800,
       "downloads": 144826,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "Supertone/supertonic-3",
-      "likes": 454,
+      "likes": 460,
       "downloads": 28681,
       "pipeline_tag": "text-to-speech"
     },
     {
-      "id": "unsloth/Qwen3.6-27B-MTP-GGUF",
-      "likes": 315,
-      "downloads": 337076,
-      "pipeline_tag": "image-text-to-text"
-    },
-    {
       "id": "bytedance-research/Lance",
-      "likes": 249,
+      "likes": 277,
       "downloads": 171,
       "pipeline_tag": "any-to-any"
     },
     {
+      "id": "unsloth/Qwen3.6-27B-MTP-GGUF",
+      "likes": 320,
+      "downloads": 337076,
+      "pipeline_tag": "image-text-to-text"
+    },
+    {
       "id": "unsloth/Qwen3.6-35B-A3B-MTP-GGUF",
-      "likes": 260,
+      "likes": 268,
       "downloads": 296380,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "circlestone-labs/Anima",
-      "likes": 1423,
+      "likes": 1425,
       "downloads": 558113,
       "pipeline_tag": ""
     },
     {
       "id": "ResembleAI/Dramabox",
-      "likes": 172,
+      "likes": 176,
       "downloads": 1118,
       "pipeline_tag": "text-to-speech"
     },
@@ -1429,7 +1429,7 @@
     },
     {
       "id": "froggeric/Qwen-Fixed-Chat-Templates",
-      "likes": 305,
+      "likes": 307,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1441,43 +1441,43 @@
     },
     {
       "id": "AlienKevin/SWE-ZERO-12M-trajectories",
-      "likes": 77,
+      "likes": 79,
       "downloads": 7573,
       "pipeline_tag": ""
     },
     {
       "id": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
-      "likes": 141,
+      "likes": 142,
       "downloads": 3170,
       "pipeline_tag": ""
     },
     {
       "id": "TuringEnterprises/Open-MM-RL",
-      "likes": 119,
+      "likes": 120,
       "downloads": 8170,
       "pipeline_tag": ""
     },
     {
       "id": "TencentARC/Pixal3D",
-      "likes": 182,
+      "likes": 183,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "r3gm/wan2-2-fp8da-aoti-preview-2",
-      "likes": 1250,
+      "likes": 1252,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "mikeee/qwen-7b-chat",
-      "likes": 291,
+      "likes": 294,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "Supertone/supertonic-3",
-      "likes": 146,
+      "likes": 148,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1495,14 +1495,38 @@
     },
     {
       "id": "prithivMLmods/FireRed-Image-Edit-1.0-Fast",
-      "likes": 1293,
+      "likes": 1297,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
+      "id": "lambda/hermes-agent-reasoning-traces",
+      "likes": 325,
+      "downloads": 7415,
+      "pipeline_tag": ""
+    },
+    {
       "id": "techfreakworm/LTX2.3-Studio",
-      "likes": 118,
+      "likes": 120,
       "downloads": 0,
+      "pipeline_tag": ""
+    },
+    {
+      "id": "ResembleAI/Dramabox",
+      "likes": 63,
+      "downloads": 0,
+      "pipeline_tag": ""
+    },
+    {
+      "id": "cbensimon/wan2-2-fp8da-aoti-preview2",
+      "likes": 71,
+      "downloads": 0,
+      "pipeline_tag": ""
+    },
+    {
+      "id": "Qwen/WebWorldData",
+      "likes": 39,
+      "downloads": 604,
       "pipeline_tag": ""
     },
     {
@@ -1512,47 +1536,23 @@
       "pipeline_tag": ""
     },
     {
-      "id": "lambda/hermes-agent-reasoning-traces",
-      "likes": 324,
-      "downloads": 7415,
-      "pipeline_tag": ""
-    },
-    {
-      "id": "Qwen/WebWorldData",
-      "likes": 38,
-      "downloads": 604,
-      "pipeline_tag": ""
-    },
-    {
-      "id": "ResembleAI/Dramabox",
-      "likes": 62,
-      "downloads": 0,
-      "pipeline_tag": ""
-    },
-    {
-      "id": "cbensimon/wan2-2-fp8da-aoti-preview2",
-      "likes": 70,
-      "downloads": 0,
-      "pipeline_tag": ""
-    },
-    {
-      "id": "alibaba-multimodal-industrial-ai/IndustryBench",
-      "likes": 25,
-      "downloads": 162,
+      "id": "TeichAI/DeepSeek-v4-Pro-Agent",
+      "likes": 34,
+      "downloads": 2456,
       "pipeline_tag": ""
     },
     {
       "id": "prithivMLmods/Qwen-Image-Edit-2511-LoRAs-Fast",
-      "likes": 1450,
+      "likes": 1451,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "ysharma/fast-image-studio",
-      "likes": 81,
+      "likes": 82,
       "downloads": 0,
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-05-20T00:22:28.493035+08:00"
+  "lastUpdatedISO": "2026-05-20T03:01:56.957626+08:00"
 }
