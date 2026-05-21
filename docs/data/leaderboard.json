@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-22 04:53",
+  "lastUpdated": "2026-05-22 06:21",
   "arena": [
     {
       "rank": 1,
@@ -400,7 +400,7 @@
       "id": "meta-llama/Llama-3.1-8B-Instruct",
       "name": "Llama-3.1-8B-Instruct",
       "org": "meta-llama",
-      "likes": 5864,
+      "likes": 5865,
       "downloads": 10933148,
       "license": "Llama3.1",
       "pipeline_tag": "text-generation",
@@ -519,7 +519,7 @@
       "id": "deepseek-ai/DeepSeek-V4-Pro",
       "name": "DeepSeek-V4-Pro",
       "org": "deepseek-ai",
-      "likes": 4104,
+      "likes": 4108,
       "downloads": 4041458,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -958,7 +958,7 @@
       "id": "meta-llama/Llama-3.1-8B-Instruct",
       "name": "Llama-3.1-8B-Instruct",
       "org": "meta-llama",
-      "likes": 5864,
+      "likes": 5865,
       "downloads": 10933148,
       "license": "Llama3.1",
       "pipeline_tag": "text-generation",
@@ -1208,7 +1208,7 @@
       "id": "deepseek-ai/DeepSeek-V4-Pro",
       "name": "DeepSeek-V4-Pro",
       "org": "deepseek-ai",
-      "likes": 4104,
+      "likes": 4108,
       "downloads": 4041458,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -1375,25 +1375,25 @@
   "trending": [
     {
       "id": "bytedance-research/Lance",
-      "likes": 556,
+      "likes": 562,
       "downloads": 739,
       "pipeline_tag": "any-to-any"
     },
     {
       "id": "Supertone/supertonic-3",
-      "likes": 527,
+      "likes": 530,
       "downloads": 34965,
       "pipeline_tag": "text-to-speech"
     },
     {
       "id": "openbmb/MiniCPM-V-4.6",
-      "likes": 856,
+      "likes": 864,
       "downloads": 196105,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "SulphurAI/Sulphur-2-base",
-      "likes": 1226,
+      "likes": 1229,
       "downloads": 1198471,
       "pipeline_tag": "text-to-video"
     },
@@ -1405,9 +1405,15 @@
     },
     {
       "id": "sapientinc/HRM-Text-1B",
-      "likes": 211,
+      "likes": 212,
       "downloads": 58922,
       "pipeline_tag": "text-generation"
+    },
+    {
+      "id": "NemoStation/Marlin-2B",
+      "likes": 210,
+      "downloads": 2353,
+      "pipeline_tag": "video-text-to-text"
     },
     {
       "id": "circlestone-labs/Anima",
@@ -1416,20 +1422,14 @@
       "pipeline_tag": ""
     },
     {
-      "id": "NemoStation/Marlin-2B",
-      "likes": 207,
-      "downloads": 2353,
-      "pipeline_tag": "video-text-to-text"
-    },
-    {
       "id": "unsloth/Qwen3.6-35B-A3B-MTP-GGUF",
-      "likes": 311,
+      "likes": 310,
       "downloads": 421542,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "froggeric/Qwen-Fixed-Chat-Templates",
-      "likes": 349,
+      "likes": 352,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1459,13 +1459,13 @@
     },
     {
       "id": "TencentARC/Pixal3D",
-      "likes": 214,
+      "likes": 215,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "mikeee/qwen-7b-chat",
-      "likes": 328,
+      "likes": 330,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1477,7 +1477,7 @@
     },
     {
       "id": "r3gm/wan2-2-fp8da-aoti-preview-2",
-      "likes": 1286,
+      "likes": 1287,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1500,27 +1500,27 @@
       "pipeline_tag": ""
     },
     {
-      "id": "prithivMLmods/FireRed-Image-Edit-1.0-Fast",
-      "likes": 1318,
-      "downloads": 0,
+      "id": "Modotte/CodeX-2M-Thinking",
+      "likes": 106,
+      "downloads": 6071,
       "pipeline_tag": ""
     },
     {
       "id": "HuggingFaceBio/carbon-demo",
-      "likes": 64,
+      "likes": 66,
       "downloads": 0,
-      "pipeline_tag": ""
-    },
-    {
-      "id": "Modotte/CodeX-2M-Thinking",
-      "likes": 105,
-      "downloads": 6071,
       "pipeline_tag": ""
     },
     {
       "id": "Qwen/WebWorldData",
       "likes": 47,
       "downloads": 703,
+      "pipeline_tag": ""
+    },
+    {
+      "id": "prithivMLmods/FireRed-Image-Edit-1.0-Fast",
+      "likes": 1318,
+      "downloads": 0,
       "pipeline_tag": ""
     },
     {
@@ -1554,5 +1554,5 @@
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-05-22T04:53:45.154093+08:00"
+  "lastUpdatedISO": "2026-05-22T06:21:02.566209+08:00"
 }
