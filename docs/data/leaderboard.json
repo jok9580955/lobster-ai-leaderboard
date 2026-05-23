@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-24 03:14",
+  "lastUpdated": "2026-05-24 04:55",
   "arena": [
     {
       "rank": 1,
@@ -400,7 +400,7 @@
       "id": "meta-llama/Llama-3.1-8B-Instruct",
       "name": "Llama-3.1-8B-Instruct",
       "org": "meta-llama",
-      "likes": 5885,
+      "likes": 5886,
       "downloads": 10669321,
       "license": "Llama3.1",
       "pipeline_tag": "text-generation",
@@ -434,7 +434,7 @@
       "id": "openai/gpt-oss-120b",
       "name": "gpt-oss-120b",
       "org": "openai",
-      "likes": 4792,
+      "likes": 4793,
       "downloads": 5049460,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -519,7 +519,7 @@
       "id": "deepseek-ai/DeepSeek-V4-Pro",
       "name": "DeepSeek-V4-Pro",
       "org": "deepseek-ai",
-      "likes": 4186,
+      "likes": 4187,
       "downloads": 4510828,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -754,7 +754,7 @@
       "id": "meta-llama/Llama-3.2-1B",
       "name": "Llama-3.2-1B",
       "org": "meta-llama",
-      "likes": 2396,
+      "likes": 2397,
       "downloads": 1997493,
       "license": "Llama3.2",
       "pipeline_tag": "text-generation",
@@ -839,7 +839,7 @@
       "id": "meta-llama/Llama-3.1-8B",
       "name": "Llama-3.1-8B",
       "org": "meta-llama",
-      "likes": 2202,
+      "likes": 2203,
       "downloads": 1286252,
       "license": "Llama3.1",
       "pipeline_tag": "text-generation",
@@ -958,7 +958,7 @@
       "id": "meta-llama/Llama-3.1-8B-Instruct",
       "name": "Llama-3.1-8B-Instruct",
       "org": "meta-llama",
-      "likes": 5885,
+      "likes": 5886,
       "downloads": 10669321,
       "license": "Llama3.1",
       "pipeline_tag": "text-generation",
@@ -1024,7 +1024,7 @@
       "id": "meta-llama/Llama-3.2-1B-Instruct",
       "name": "Llama-3.2-1B-Instruct",
       "org": "meta-llama",
-      "likes": 1423,
+      "likes": 1424,
       "downloads": 8119515,
       "license": "Llama3.2",
       "pipeline_tag": "text-generation",
@@ -1107,7 +1107,7 @@
       "id": "openai/gpt-oss-120b",
       "name": "gpt-oss-120b",
       "org": "openai",
-      "likes": 4792,
+      "likes": 4793,
       "downloads": 5049460,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1175,7 +1175,7 @@
       "id": "deepseek-ai/DeepSeek-V4-Pro",
       "name": "DeepSeek-V4-Pro",
       "org": "deepseek-ai",
-      "likes": 4186,
+      "likes": 4187,
       "downloads": 4510828,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -1375,25 +1375,25 @@
   "trending": [
     {
       "id": "bytedance-research/Lance",
-      "likes": 694,
+      "likes": 698,
       "downloads": 1227,
       "pipeline_tag": "any-to-any"
     },
     {
       "id": "tencent/Hy-MT2-1.8B",
-      "likes": 383,
+      "likes": 397,
       "downloads": 2564,
       "pipeline_tag": "translation"
     },
     {
       "id": "Supertone/supertonic-3",
-      "likes": 606,
+      "likes": 611,
       "downloads": 40368,
       "pipeline_tag": "text-to-speech"
     },
     {
       "id": "tencent/Hy-MT2-30B-A3B",
-      "likes": 287,
+      "likes": 289,
       "downloads": 970,
       "pipeline_tag": "translation"
     },
@@ -1411,13 +1411,13 @@
     },
     {
       "id": "sapientinc/HRM-Text-1B",
-      "likes": 253,
+      "likes": 256,
       "downloads": 78771,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "SulphurAI/Sulphur-2-base",
-      "likes": 1298,
+      "likes": 1301,
       "downloads": 1286075,
       "pipeline_tag": "text-to-video"
     },
@@ -1447,7 +1447,7 @@
     },
     {
       "id": "TuringEnterprises/Open-MM-RL",
-      "likes": 204,
+      "likes": 205,
       "downloads": 12508,
       "pipeline_tag": ""
     },
@@ -1477,20 +1477,20 @@
     },
     {
       "id": "r3gm/wan2-2-fp8da-aoti-preview-2",
-      "likes": 1311,
+      "likes": 1315,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
-      "id": "PsiBotAI/SynData",
-      "likes": 170,
-      "downloads": 170338,
+      "id": "wikimedia/structured-wikipedia",
+      "likes": 138,
+      "downloads": 2916,
       "pipeline_tag": ""
     },
     {
-      "id": "wikimedia/structured-wikipedia",
-      "likes": 136,
-      "downloads": 2916,
+      "id": "PsiBotAI/SynData",
+      "likes": 171,
+      "downloads": 170338,
       "pipeline_tag": ""
     },
     {
@@ -1513,7 +1513,7 @@
     },
     {
       "id": "HuggingFaceBio/carbon-demo",
-      "likes": 76,
+      "likes": 77,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1543,7 +1543,7 @@
     },
     {
       "id": "techfreakworm/LTX2.3-Studio",
-      "likes": 138,
+      "likes": 139,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1554,5 +1554,5 @@
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-05-24T03:14:18.856544+08:00"
+  "lastUpdatedISO": "2026-05-24T04:55:52.383171+08:00"
 }
