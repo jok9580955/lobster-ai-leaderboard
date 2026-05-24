@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-25 04:59",
+  "lastUpdated": "2026-05-25 06:04",
   "arena": [
     {
       "rank": 1,
@@ -400,7 +400,7 @@
       "id": "meta-llama/Llama-3.1-8B-Instruct",
       "name": "Llama-3.1-8B-Instruct",
       "org": "meta-llama",
-      "likes": 5891,
+      "likes": 5892,
       "downloads": 10578535,
       "license": "Llama3.1",
       "pipeline_tag": "text-generation",
@@ -485,7 +485,7 @@
       "id": "meta-llama/Meta-Llama-3-8B-Instruct",
       "name": "Meta-Llama-3-8B-Instruct",
       "org": "meta-llama",
-      "likes": 4535,
+      "likes": 4536,
       "downloads": 1671206,
       "license": "Llama3",
       "pipeline_tag": "text-generation",
@@ -519,7 +519,7 @@
       "id": "deepseek-ai/DeepSeek-V4-Pro",
       "name": "DeepSeek-V4-Pro",
       "org": "deepseek-ai",
-      "likes": 4223,
+      "likes": 4224,
       "downloads": 4666078,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -975,7 +975,7 @@
       "id": "meta-llama/Llama-3.1-8B-Instruct",
       "name": "Llama-3.1-8B-Instruct",
       "org": "meta-llama",
-      "likes": 5891,
+      "likes": 5892,
       "downloads": 10578535,
       "license": "Llama3.1",
       "pipeline_tag": "text-generation",
@@ -1158,7 +1158,7 @@
       "id": "deepseek-ai/DeepSeek-V4-Pro",
       "name": "DeepSeek-V4-Pro",
       "org": "deepseek-ai",
-      "likes": 4223,
+      "likes": 4224,
       "downloads": 4666078,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -1381,13 +1381,13 @@
     },
     {
       "id": "tencent/Hy-MT2-1.8B",
-      "likes": 568,
+      "likes": 577,
       "downloads": 4534,
       "pipeline_tag": "translation"
     },
     {
       "id": "NemoStation/Marlin-2B",
-      "likes": 304,
+      "likes": 305,
       "downloads": 6032,
       "pipeline_tag": "video-text-to-text"
     },
@@ -1399,13 +1399,13 @@
     },
     {
       "id": "Supertone/supertonic-3",
-      "likes": 642,
+      "likes": 643,
       "downloads": 43119,
       "pipeline_tag": "text-to-speech"
     },
     {
       "id": "sapientinc/HRM-Text-1B",
-      "likes": 269,
+      "likes": 270,
       "downloads": 84346,
       "pipeline_tag": "text-generation"
     },
@@ -1423,7 +1423,7 @@
     },
     {
       "id": "unsloth/Qwen3.6-27B-MTP-GGUF",
-      "likes": 450,
+      "likes": 451,
       "downloads": 660321,
       "pipeline_tag": "image-text-to-text"
     },
@@ -1435,7 +1435,7 @@
     },
     {
       "id": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
-      "likes": 215,
+      "likes": 216,
       "downloads": 4833,
       "pipeline_tag": ""
     },
@@ -1471,7 +1471,7 @@
     },
     {
       "id": "r3gm/wan2-2-fp8da-aoti-preview-2",
-      "likes": 1334,
+      "likes": 1335,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1500,20 +1500,20 @@
       "pipeline_tag": ""
     },
     {
-      "id": "PsiBotAI/SynData",
-      "likes": 172,
-      "downloads": 172516,
-      "pipeline_tag": ""
-    },
-    {
       "id": "5CD-AI/Viet-Handwriting-OCR-v2",
       "likes": 54,
       "downloads": 500,
       "pipeline_tag": ""
     },
     {
+      "id": "PsiBotAI/SynData",
+      "likes": 172,
+      "downloads": 172516,
+      "pipeline_tag": ""
+    },
+    {
       "id": "cbensimon/wan2-2-fp8da-aoti-preview2",
-      "likes": 139,
+      "likes": 140,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1524,9 +1524,9 @@
       "pipeline_tag": ""
     },
     {
-      "id": "Qwen/WebWorldData",
-      "likes": 51,
-      "downloads": 1145,
+      "id": "zhifeixie/Voices-in-the-Wild-2M",
+      "likes": 21,
+      "downloads": 7238,
       "pipeline_tag": ""
     },
     {
@@ -1543,7 +1543,7 @@
     },
     {
       "id": "prithivMLmods/Qwen-Image-Edit-2511-LoRAs-Fast",
-      "likes": 1493,
+      "likes": 1494,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1554,5 +1554,5 @@
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-05-25T04:59:00.437673+08:00"
+  "lastUpdatedISO": "2026-05-25T06:04:10.507429+08:00"
 }
