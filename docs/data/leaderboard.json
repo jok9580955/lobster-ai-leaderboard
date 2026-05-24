@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-24 23:05",
+  "lastUpdated": "2026-05-25 01:04",
   "arena": [
     {
       "rank": 1,
@@ -366,7 +366,7 @@
       "id": "deepseek-ai/DeepSeek-R1",
       "name": "DeepSeek-R1",
       "org": "deepseek-ai",
-      "likes": 13339,
+      "likes": 13340,
       "downloads": 4378429,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -400,7 +400,7 @@
       "id": "meta-llama/Llama-3.1-8B-Instruct",
       "name": "Llama-3.1-8B-Instruct",
       "org": "meta-llama",
-      "likes": 5890,
+      "likes": 5891,
       "downloads": 10578535,
       "license": "Llama3.1",
       "pipeline_tag": "text-generation",
@@ -519,7 +519,7 @@
       "id": "deepseek-ai/DeepSeek-V4-Pro",
       "name": "DeepSeek-V4-Pro",
       "org": "deepseek-ai",
-      "likes": 4212,
+      "likes": 4217,
       "downloads": 4666078,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -975,7 +975,7 @@
       "id": "meta-llama/Llama-3.1-8B-Instruct",
       "name": "Llama-3.1-8B-Instruct",
       "org": "meta-llama",
-      "likes": 5890,
+      "likes": 5891,
       "downloads": 10578535,
       "license": "Llama3.1",
       "pipeline_tag": "text-generation",
@@ -1158,7 +1158,7 @@
       "id": "deepseek-ai/DeepSeek-V4-Pro",
       "name": "DeepSeek-V4-Pro",
       "org": "deepseek-ai",
-      "likes": 4212,
+      "likes": 4217,
       "downloads": 4666078,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -1209,7 +1209,7 @@
       "id": "deepseek-ai/DeepSeek-R1",
       "name": "DeepSeek-R1",
       "org": "deepseek-ai",
-      "likes": 13339,
+      "likes": 13340,
       "downloads": 4378429,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -1375,43 +1375,43 @@
   "trending": [
     {
       "id": "bytedance-research/Lance",
-      "likes": 735,
+      "likes": 743,
       "downloads": 1474,
       "pipeline_tag": "any-to-any"
     },
     {
       "id": "tencent/Hy-MT2-1.8B",
-      "likes": 525,
+      "likes": 540,
       "downloads": 4534,
       "pipeline_tag": "translation"
     },
     {
       "id": "tencent/Hy-MT2-30B-A3B",
-      "likes": 302,
+      "likes": 304,
       "downloads": 1243,
       "pipeline_tag": "translation"
     },
     {
-      "id": "Supertone/supertonic-3",
-      "likes": 636,
-      "downloads": 43119,
-      "pipeline_tag": "text-to-speech"
-    },
-    {
       "id": "NemoStation/Marlin-2B",
-      "likes": 291,
+      "likes": 295,
       "downloads": 6032,
       "pipeline_tag": "video-text-to-text"
     },
     {
+      "id": "Supertone/supertonic-3",
+      "likes": 639,
+      "downloads": 43119,
+      "pipeline_tag": "text-to-speech"
+    },
+    {
       "id": "sapientinc/HRM-Text-1B",
-      "likes": 267,
+      "likes": 268,
       "downloads": 84346,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "SulphurAI/Sulphur-2-base",
-      "likes": 1318,
+      "likes": 1320,
       "downloads": 1331058,
       "pipeline_tag": "text-to-video"
     },
@@ -1435,13 +1435,13 @@
     },
     {
       "id": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
-      "likes": 211,
+      "likes": 212,
       "downloads": 4833,
       "pipeline_tag": ""
     },
     {
       "id": "GD-ML/TransitLM",
-      "likes": 74,
+      "likes": 75,
       "downloads": 910,
       "pipeline_tag": ""
     },
@@ -1453,7 +1453,7 @@
     },
     {
       "id": "wikimedia/structured-wikipedia",
-      "likes": 145,
+      "likes": 146,
       "downloads": 3081,
       "pipeline_tag": ""
     },
@@ -1465,13 +1465,13 @@
     },
     {
       "id": "TencentARC/Pixal3D",
-      "likes": 245,
+      "likes": 246,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "r3gm/wan2-2-fp8da-aoti-preview-2",
-      "likes": 1331,
+      "likes": 1332,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1494,15 +1494,15 @@
       "pipeline_tag": ""
     },
     {
-      "id": "5CD-AI/Viet-Handwriting-OCR-v2",
-      "likes": 54,
-      "downloads": 500,
-      "pipeline_tag": ""
-    },
-    {
       "id": "HuggingFaceBio/carbon-demo",
       "likes": 82,
       "downloads": 0,
+      "pipeline_tag": ""
+    },
+    {
+      "id": "5CD-AI/Viet-Handwriting-OCR-v2",
+      "likes": 54,
+      "downloads": 500,
       "pipeline_tag": ""
     },
     {
@@ -1554,5 +1554,5 @@
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-05-24T23:05:46.362595+08:00"
+  "lastUpdatedISO": "2026-05-25T01:04:20.942611+08:00"
 }
