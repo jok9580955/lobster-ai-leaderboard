@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-29 03:36",
+  "lastUpdated": "2026-05-29 05:56",
   "arena": [
     {
       "rank": 1,
@@ -519,7 +519,7 @@
       "id": "deepseek-ai/DeepSeek-V4-Pro",
       "name": "DeepSeek-V4-Pro",
       "org": "deepseek-ai",
-      "likes": 4399,
+      "likes": 4400,
       "downloads": 5281601,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -1120,7 +1120,7 @@
       "id": "deepseek-ai/DeepSeek-V4-Pro",
       "name": "DeepSeek-V4-Pro",
       "org": "deepseek-ai",
-      "likes": 4399,
+      "likes": 4400,
       "downloads": 5281601,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -1368,62 +1368,62 @@
   "trending": [
     {
       "id": "openbmb/MiniCPM5-1B",
-      "likes": 480,
+      "likes": 488,
       "downloads": 15629,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "bytedance-research/Lance",
-      "likes": 952,
+      "likes": 953,
       "downloads": 2506,
       "pipeline_tag": "any-to-any"
     },
     {
       "id": "meituan-longcat/LongCat-Video-Avatar-1.5",
-      "likes": 361,
+      "likes": 366,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-      "likes": 992,
+      "likes": 994,
       "downloads": 1956558,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "NemoStation/Marlin-2B",
-      "likes": 427,
+      "likes": 429,
       "downloads": 13855,
       "pipeline_tag": "video-text-to-text"
     },
     {
       "id": "deepseek-ai/DeepSeek-V4-Pro",
-      "likes": 4399,
+      "likes": 4400,
       "downloads": 5281601,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "Supertone/supertonic-3",
-      "likes": 724,
+      "likes": 725,
       "downloads": 52022,
       "pipeline_tag": "text-to-speech"
     },
     {
       "id": "sapientinc/HRM-Text-1B",
-      "likes": 399,
+      "likes": 400,
       "downloads": 121862,
       "pipeline_tag": "text-generation"
     },
     {
-      "id": "Jackrong/Qwopus3.6-27B-v2-GGUF",
-      "likes": 169,
-      "downloads": 24336,
+      "id": "nvidia/LocateAnything-3B",
+      "likes": 175,
+      "downloads": 1755,
       "pipeline_tag": "image-text-to-text"
     },
     {
-      "id": "nvidia/LocateAnything-3B",
-      "likes": 161,
-      "downloads": 1755,
+      "id": "Jackrong/Qwopus3.6-27B-v2-GGUF",
+      "likes": 170,
+      "downloads": 24336,
       "pipeline_tag": "image-text-to-text"
     },
     {
@@ -1434,7 +1434,7 @@
     },
     {
       "id": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
-      "likes": 266,
+      "likes": 268,
       "downloads": 6639,
       "pipeline_tag": ""
     },
@@ -1446,7 +1446,7 @@
     },
     {
       "id": "victor/LongCat-Video-Avatar-1.5",
-      "likes": 142,
+      "likes": 143,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1463,20 +1463,20 @@
       "pipeline_tag": ""
     },
     {
+      "id": "webml-community/bonsai-image-webgpu",
+      "likes": 98,
+      "downloads": 0,
+      "pipeline_tag": ""
+    },
+    {
       "id": "openbmb/Ultra-FineWeb-L3",
       "likes": 87,
       "downloads": 6241,
       "pipeline_tag": ""
     },
     {
-      "id": "webml-community/bonsai-image-webgpu",
-      "likes": 95,
-      "downloads": 0,
-      "pipeline_tag": ""
-    },
-    {
       "id": "jasperai/monet",
-      "likes": 37,
+      "likes": 39,
       "downloads": 244905,
       "pipeline_tag": ""
     },
@@ -1494,7 +1494,7 @@
     },
     {
       "id": "TencentARC/Pixal3D",
-      "likes": 281,
+      "likes": 282,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1505,14 +1505,20 @@
       "pipeline_tag": ""
     },
     {
-      "id": "HuggingFaceFW/fineweb",
-      "likes": 2841,
-      "downloads": 1044051,
+      "id": "TuringEnterprises/Open-MM-RL",
+      "likes": 225,
+      "downloads": 15638,
       "pipeline_tag": ""
     },
     {
       "id": "bytedance-research/Lance",
-      "likes": 60,
+      "likes": 61,
+      "downloads": 0,
+      "pipeline_tag": ""
+    },
+    {
+      "id": "cbensimon/wan2-2-fp8da-aoti-preview2",
+      "likes": 162,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1529,23 +1535,17 @@
       "pipeline_tag": ""
     },
     {
-      "id": "cbensimon/wan2-2-fp8da-aoti-preview2",
-      "likes": 162,
+      "id": "multimodalart/z-image-6b-pixel-space",
+      "likes": 53,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
-      "id": "HuggingFaceBio/carbon-demo",
-      "likes": 119,
-      "downloads": 0,
-      "pipeline_tag": ""
-    },
-    {
-      "id": "stabilityai/stable-audio-3",
-      "likes": 68,
+      "id": "selfit-camera/Omni-Image-Editor",
+      "likes": 1781,
       "downloads": 0,
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-05-29T03:36:42.938966+08:00"
+  "lastUpdatedISO": "2026-05-29T05:56:33.939294+08:00"
 }
