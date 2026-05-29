@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-30 05:09",
+  "lastUpdated": "2026-05-30 07:15",
   "arena": [
     {
       "rank": 1,
@@ -434,7 +434,7 @@
       "id": "openai/gpt-oss-120b",
       "name": "gpt-oss-120b",
       "org": "openai",
-      "likes": 4820,
+      "likes": 4821,
       "downloads": 4847208,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -856,7 +856,7 @@
       "id": "meta-llama/Llama-3.2-3B-Instruct",
       "name": "Llama-3.2-3B-Instruct",
       "org": "meta-llama",
-      "likes": 2163,
+      "likes": 2164,
       "downloads": 1969088,
       "license": "Llama3.2",
       "pipeline_tag": "text-generation",
@@ -1154,7 +1154,7 @@
       "id": "openai/gpt-oss-120b",
       "name": "gpt-oss-120b",
       "org": "openai",
-      "likes": 4820,
+      "likes": 4821,
       "downloads": 4847208,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1368,43 +1368,43 @@
   "trending": [
     {
       "id": "openbmb/MiniCPM5-1B",
-      "likes": 546,
+      "likes": 549,
       "downloads": 23629,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "nvidia/LocateAnything-3B",
-      "likes": 368,
+      "likes": 381,
       "downloads": 7861,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "meituan-longcat/LongCat-Video-Avatar-1.5",
-      "likes": 391,
+      "likes": 393,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
-      "id": "bytedance-research/Lance",
-      "likes": 973,
-      "downloads": 2738,
-      "pipeline_tag": "any-to-any"
-    },
-    {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-      "likes": 1048,
+      "likes": 1049,
       "downloads": 2114938,
       "pipeline_tag": "image-text-to-text"
     },
     {
+      "id": "bytedance-research/Lance",
+      "likes": 974,
+      "downloads": 2738,
+      "pipeline_tag": "any-to-any"
+    },
+    {
       "id": "openbmb/UltraData-SFT-2605",
-      "likes": 195,
+      "likes": 201,
       "downloads": 1869,
       "pipeline_tag": ""
     },
     {
       "id": "LiquidAI/LFM2.5-8B-A1B",
-      "likes": 202,
+      "likes": 211,
       "downloads": 8854,
       "pipeline_tag": "text-generation"
     },
@@ -1428,20 +1428,20 @@
     },
     {
       "id": "sapientinc/HRM-Text-1B",
-      "likes": 404,
+      "likes": 405,
       "downloads": 131828,
       "pipeline_tag": "text-generation"
+    },
+    {
+      "id": "wikimedia/structured-wikipedia",
+      "likes": 225,
+      "downloads": 4486,
+      "pipeline_tag": ""
     },
     {
       "id": "openbmb/Ultra-FineWeb-L3",
       "likes": 203,
       "downloads": 14442,
-      "pipeline_tag": ""
-    },
-    {
-      "id": "wikimedia/structured-wikipedia",
-      "likes": 223,
-      "downloads": 4486,
       "pipeline_tag": ""
     },
     {
@@ -1452,19 +1452,19 @@
     },
     {
       "id": "victor/LongCat-Video-Avatar-1.5",
-      "likes": 158,
+      "likes": 159,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "armand0e/qwen3.7-max-pi-traces",
-      "likes": 56,
+      "likes": 57,
       "downloads": 3035,
       "pipeline_tag": ""
     },
     {
       "id": "jasperai/monet",
-      "likes": 53,
+      "likes": 54,
       "downloads": 249105,
       "pipeline_tag": ""
     },
@@ -1476,13 +1476,13 @@
     },
     {
       "id": "r3gm/wan2-2-fp8da-aoti-preview-2",
-      "likes": 1428,
+      "likes": 1429,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "bytedance-research/Lance",
-      "likes": 73,
+      "likes": 75,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1499,12 +1499,6 @@
       "pipeline_tag": ""
     },
     {
-      "id": "TencentARC/Pixal3D",
-      "likes": 285,
-      "downloads": 0,
-      "pipeline_tag": ""
-    },
-    {
       "id": "HuggingFaceFW/fineweb",
       "likes": 2843,
       "downloads": 1051137,
@@ -1517,8 +1511,8 @@
       "pipeline_tag": ""
     },
     {
-      "id": "prithivMLmods/Qwen-Image-Edit-2511-LoRAs-Fast",
-      "likes": 1531,
+      "id": "TencentARC/Pixal3D",
+      "likes": 285,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1529,8 +1523,14 @@
       "pipeline_tag": ""
     },
     {
+      "id": "prithivMLmods/Qwen-Image-Edit-2511-LoRAs-Fast",
+      "likes": 1531,
+      "downloads": 0,
+      "pipeline_tag": ""
+    },
+    {
       "id": "Onise/Qwen-Image-Edit-2509-LoRAs-Fast2",
-      "likes": 114,
+      "likes": 116,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1541,11 +1541,11 @@
       "pipeline_tag": ""
     },
     {
-      "id": "amphora/ResearchMath-14k",
-      "likes": 18,
-      "downloads": 302,
+      "id": "open-thoughts/AgentTrove",
+      "likes": 168,
+      "downloads": 12024,
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-05-30T05:09:37.927772+08:00"
+  "lastUpdatedISO": "2026-05-30T07:15:57.479114+08:00"
 }
