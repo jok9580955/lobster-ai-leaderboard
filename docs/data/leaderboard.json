@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-31 06:59",
+  "lastUpdated": "2026-05-31 08:10",
   "arena": [
     {
       "rank": 1,
@@ -519,7 +519,7 @@
       "id": "deepseek-ai/DeepSeek-V4-Pro",
       "name": "DeepSeek-V4-Pro",
       "org": "deepseek-ai",
-      "likes": 4462,
+      "likes": 4463,
       "downloads": 5918111,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -822,7 +822,7 @@
       "id": "meta-llama/Llama-3.1-8B",
       "name": "Llama-3.1-8B",
       "org": "meta-llama",
-      "likes": 2221,
+      "likes": 2222,
       "downloads": 1266115,
       "license": "Llama3.1",
       "pipeline_tag": "text-generation",
@@ -925,7 +925,7 @@
       "id": "Qwen/Qwen2.5-3B-Instruct",
       "name": "Qwen2.5-3B-Instruct",
       "org": "Qwen",
-      "likes": 473,
+      "likes": 474,
       "downloads": 13821532,
       "license": "Other",
       "pipeline_tag": "text-generation",
@@ -1087,7 +1087,7 @@
       "id": "deepseek-ai/DeepSeek-V4-Pro",
       "name": "DeepSeek-V4-Pro",
       "org": "deepseek-ai",
-      "likes": 4462,
+      "likes": 4463,
       "downloads": 5918111,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -1255,7 +1255,7 @@
       "id": "Qwen/Qwen2.5-0.5B-Instruct",
       "name": "Qwen2.5-0.5B-Instruct",
       "org": "Qwen",
-      "likes": 521,
+      "likes": 522,
       "downloads": 4363734,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1374,25 +1374,25 @@
     },
     {
       "id": "nvidia/LocateAnything-3B",
-      "likes": 489,
+      "likes": 494,
       "downloads": 18327,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-      "likes": 1100,
+      "likes": 1101,
       "downloads": 2227885,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "meituan-longcat/LongCat-Video-Avatar-1.5",
-      "likes": 410,
+      "likes": 411,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "LiquidAI/LFM2.5-8B-A1B",
-      "likes": 270,
+      "likes": 274,
       "downloads": 17084,
       "pipeline_tag": "text-generation"
     },
@@ -1410,13 +1410,13 @@
     },
     {
       "id": "nvidia/PiD",
-      "likes": 190,
+      "likes": 192,
       "downloads": 437,
       "pipeline_tag": "image-to-image"
     },
     {
       "id": "deepseek-ai/DeepSeek-V4-Pro",
-      "likes": 4462,
+      "likes": 4463,
       "downloads": 5918111,
       "pipeline_tag": "text-generation"
     },
@@ -1458,7 +1458,7 @@
     },
     {
       "id": "victor/LongCat-Video-Avatar-1.5",
-      "likes": 169,
+      "likes": 171,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1476,7 +1476,7 @@
     },
     {
       "id": "r3gm/wan2-2-fp8da-aoti-preview-2",
-      "likes": 1438,
+      "likes": 1440,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1547,5 +1547,5 @@
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-05-31T06:59:37.181122+08:00"
+  "lastUpdatedISO": "2026-05-31T08:10:50.253171+08:00"
 }
