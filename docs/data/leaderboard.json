@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-03 02:41",
+  "lastUpdated": "2026-06-03 05:49",
   "arena": [
     {
       "rank": 1,
@@ -366,7 +366,7 @@
       "id": "deepseek-ai/DeepSeek-R1",
       "name": "DeepSeek-R1",
       "org": "deepseek-ai",
-      "likes": 13363,
+      "likes": 13364,
       "downloads": 5356633,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -383,7 +383,7 @@
       "id": "meta-llama/Meta-Llama-3-8B",
       "name": "Meta-Llama-3-8B",
       "org": "meta-llama",
-      "likes": 6556,
+      "likes": 6557,
       "downloads": 1891924,
       "license": "Llama3",
       "pipeline_tag": "text-generation",
@@ -400,7 +400,7 @@
       "id": "meta-llama/Llama-3.1-8B-Instruct",
       "name": "Llama-3.1-8B-Instruct",
       "org": "meta-llama",
-      "likes": 5969,
+      "likes": 5972,
       "downloads": 10730022,
       "license": "Llama3.1",
       "pipeline_tag": "text-generation",
@@ -482,6 +482,23 @@
       "created_at": "2025-08-04T22:33:29.000Z"
     },
     {
+      "id": "deepseek-ai/DeepSeek-V4-Pro",
+      "name": "DeepSeek-V4-Pro",
+      "org": "deepseek-ai",
+      "likes": 4566,
+      "downloads": 5829042,
+      "license": "Mit",
+      "pipeline_tag": "text-generation",
+      "tags": [
+        "deepseek_v4",
+        "text-generation",
+        "conversational",
+        "8-bit",
+        "fp8"
+      ],
+      "created_at": "2026-04-22T06:04:45.000Z"
+    },
+    {
       "id": "meta-llama/Meta-Llama-3-8B-Instruct",
       "name": "Meta-Llama-3-8B-Instruct",
       "org": "meta-llama",
@@ -497,23 +514,6 @@
         "llama-3"
       ],
       "created_at": "2024-04-17T09:35:12.000Z"
-    },
-    {
-      "id": "deepseek-ai/DeepSeek-V4-Pro",
-      "name": "DeepSeek-V4-Pro",
-      "org": "deepseek-ai",
-      "likes": 4555,
-      "downloads": 5829042,
-      "license": "Mit",
-      "pipeline_tag": "text-generation",
-      "tags": [
-        "deepseek_v4",
-        "text-generation",
-        "conversational",
-        "8-bit",
-        "fp8"
-      ],
-      "created_at": "2026-04-22T06:04:45.000Z"
     },
     {
       "id": "meta-llama/Llama-2-7b",
@@ -688,7 +688,7 @@
       "id": "meta-llama/Llama-3.3-70B-Instruct",
       "name": "Llama-3.3-70B-Instruct",
       "org": "meta-llama",
-      "likes": 2795,
+      "likes": 2796,
       "downloads": 825325,
       "license": "Llama3.3",
       "pipeline_tag": "text-generation",
@@ -856,7 +856,7 @@
       "id": "meta-llama/Llama-3.2-3B-Instruct",
       "name": "Llama-3.2-3B-Instruct",
       "org": "meta-llama",
-      "likes": 2181,
+      "likes": 2182,
       "downloads": 1805604,
       "license": "Llama3.2",
       "pipeline_tag": "text-generation",
@@ -971,7 +971,7 @@
       "id": "Qwen/Qwen2.5-7B-Instruct",
       "name": "Qwen2.5-7B-Instruct",
       "org": "Qwen",
-      "likes": 1320,
+      "likes": 1321,
       "downloads": 12583587,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1004,7 +1004,7 @@
       "id": "meta-llama/Llama-3.1-8B-Instruct",
       "name": "Llama-3.1-8B-Instruct",
       "org": "meta-llama",
-      "likes": 5969,
+      "likes": 5972,
       "downloads": 10730022,
       "license": "Llama3.1",
       "pipeline_tag": "text-generation",
@@ -1071,7 +1071,7 @@
       "id": "deepseek-ai/DeepSeek-V4-Pro",
       "name": "DeepSeek-V4-Pro",
       "org": "deepseek-ai",
-      "likes": 4555,
+      "likes": 4566,
       "downloads": 5829042,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -1122,7 +1122,7 @@
       "id": "deepseek-ai/DeepSeek-R1",
       "name": "DeepSeek-R1",
       "org": "deepseek-ai",
-      "likes": 13363,
+      "likes": 13364,
       "downloads": 5356633,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -1304,7 +1304,7 @@
       "id": "deepseek-ai/DeepSeek-V4-Flash",
       "name": "DeepSeek-V4-Flash",
       "org": "deepseek-ai",
-      "likes": 1355,
+      "likes": 1358,
       "downloads": 3525218,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -1318,7 +1318,7 @@
       "id": "unsloth/Qwen3-Coder-Next-GGUF",
       "name": "Qwen3-Coder-Next-GGUF",
       "org": "unsloth",
-      "likes": 671,
+      "likes": 672,
       "downloads": 3071255,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1369,128 +1369,134 @@
   "trending": [
     {
       "id": "nvidia/LocateAnything-3B",
-      "likes": 915,
+      "likes": 952,
       "downloads": 61604,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "LiquidAI/LFM2.5-8B-A1B",
-      "likes": 435,
+      "likes": 438,
       "downloads": 47742,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "openbmb/MiniCPM5-1B",
-      "likes": 716,
+      "likes": 727,
       "downloads": 57683,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "openbmb/UltraData-SFT-2605",
-      "likes": 274,
+      "likes": 276,
       "downloads": 15200,
       "pipeline_tag": ""
     },
     {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-      "likes": 1268,
+      "likes": 1273,
       "downloads": 2573320,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "stepfun-ai/Step-3.7-Flash",
-      "likes": 211,
+      "likes": 212,
       "downloads": 12932,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "meituan-longcat/LongCat-Video-Avatar-1.5",
-      "likes": 481,
+      "likes": 483,
       "downloads": 174,
       "pipeline_tag": ""
     },
     {
       "id": "deepseek-ai/DeepSeek-V4-Pro",
-      "likes": 4555,
+      "likes": 4566,
       "downloads": 5829042,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "openbmb/Ultra-FineWeb-L3",
-      "likes": 243,
+      "likes": 244,
       "downloads": 38319,
       "pipeline_tag": ""
     },
     {
       "id": "PaddlePaddle/PaddleOCR-VL-1.6",
-      "likes": 181,
+      "likes": 183,
       "downloads": 4003,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "LiquidAI/LFM2.5-8B-A1B-GGUF",
-      "likes": 156,
+      "likes": 158,
       "downloads": 70865,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "nvidia/PiD",
-      "likes": 252,
+      "likes": 256,
       "downloads": 646,
       "pipeline_tag": "image-to-image"
     },
     {
       "id": "jasperai/monet",
-      "likes": 94,
+      "likes": 97,
       "downloads": 287654,
       "pipeline_tag": ""
     },
     {
       "id": "wikimedia/structured-wikipedia",
-      "likes": 254,
+      "likes": 255,
       "downloads": 6656,
       "pipeline_tag": ""
     },
     {
       "id": "webml-community/bonsai-image-webgpu",
-      "likes": 183,
+      "likes": 187,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "nvidia/LocateAnything",
-      "likes": 129,
+      "likes": 132,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
-      "likes": 295,
+      "likes": 299,
       "downloads": 8015,
       "pipeline_tag": ""
     },
     {
       "id": "stanford-vision-lab/gpic",
-      "likes": 43,
+      "likes": 44,
       "downloads": 34118,
       "pipeline_tag": ""
     },
     {
       "id": "r3gm/wan2-2-fp8da-aoti-preview-2",
-      "likes": 1486,
+      "likes": 1490,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "victor/LongCat-Video-Avatar-1.5",
-      "likes": 202,
+      "likes": 205,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "amphora/ResearchMath-14k",
-      "likes": 29,
+      "likes": 30,
       "downloads": 1117,
+      "pipeline_tag": ""
+    },
+    {
+      "id": "ReasonCore/open-spatial-reasoning",
+      "likes": 41,
+      "downloads": 180,
       "pipeline_tag": ""
     },
     {
@@ -1500,14 +1506,8 @@
       "pipeline_tag": ""
     },
     {
-      "id": "ReasonCore/open-spatial-reasoning",
-      "likes": 36,
-      "downloads": 180,
-      "pipeline_tag": ""
-    },
-    {
       "id": "bytedance-research/Lance",
-      "likes": 87,
+      "likes": 88,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1518,8 +1518,20 @@
       "pipeline_tag": ""
     },
     {
+      "id": "HuggingFaceFW/fineweb",
+      "likes": 2857,
+      "downloads": 1074860,
+      "pipeline_tag": ""
+    },
+    {
       "id": "prithivMLmods/Qwen-Image-Edit-2511-LoRAs-Fast",
-      "likes": 1562,
+      "likes": 1565,
+      "downloads": 0,
+      "pipeline_tag": ""
+    },
+    {
+      "id": "prism-ml/Bonsai-Image-Demo",
+      "likes": 46,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1530,23 +1542,11 @@
       "pipeline_tag": ""
     },
     {
-      "id": "HuggingFaceFW/fineweb",
-      "likes": 2855,
-      "downloads": 1074860,
-      "pipeline_tag": ""
-    },
-    {
-      "id": "prism-ml/Bonsai-Image-Demo",
-      "likes": 43,
-      "downloads": 0,
-      "pipeline_tag": ""
-    },
-    {
-      "id": "r3gm/wan2-2-fp8da-aoti-preview",
-      "likes": 2683,
+      "id": "mrfakename/Z-Image-Turbo",
+      "likes": 3286,
       "downloads": 0,
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-06-03T02:41:31.758171+08:00"
+  "lastUpdatedISO": "2026-06-03T05:49:29.626000+08:00"
 }
