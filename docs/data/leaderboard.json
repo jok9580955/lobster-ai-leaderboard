@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-03 05:49",
+  "lastUpdated": "2026-06-03 07:47",
   "arena": [
     {
       "rank": 1,
@@ -468,7 +468,7 @@
       "id": "openai/gpt-oss-20b",
       "name": "gpt-oss-20b",
       "org": "openai",
-      "likes": 4666,
+      "likes": 4667,
       "downloads": 7908043,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -485,7 +485,7 @@
       "id": "deepseek-ai/DeepSeek-V4-Pro",
       "name": "DeepSeek-V4-Pro",
       "org": "deepseek-ai",
-      "likes": 4566,
+      "likes": 4568,
       "downloads": 5829042,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -688,7 +688,7 @@
       "id": "meta-llama/Llama-3.3-70B-Instruct",
       "name": "Llama-3.3-70B-Instruct",
       "org": "meta-llama",
-      "likes": 2796,
+      "likes": 2797,
       "downloads": 825325,
       "license": "Llama3.3",
       "pipeline_tag": "text-generation",
@@ -938,7 +938,7 @@
       "id": "Qwen/Qwen2.5-3B-Instruct",
       "name": "Qwen2.5-3B-Instruct",
       "org": "Qwen",
-      "likes": 485,
+      "likes": 486,
       "downloads": 13833000,
       "license": "Other",
       "pipeline_tag": "text-generation",
@@ -1038,7 +1038,7 @@
       "id": "openai/gpt-oss-20b",
       "name": "gpt-oss-20b",
       "org": "openai",
-      "likes": 4666,
+      "likes": 4667,
       "downloads": 7908043,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1071,7 +1071,7 @@
       "id": "deepseek-ai/DeepSeek-V4-Pro",
       "name": "DeepSeek-V4-Pro",
       "org": "deepseek-ai",
-      "likes": 4566,
+      "likes": 4568,
       "downloads": 5829042,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -1304,7 +1304,7 @@
       "id": "deepseek-ai/DeepSeek-V4-Flash",
       "name": "DeepSeek-V4-Flash",
       "org": "deepseek-ai",
-      "likes": 1358,
+      "likes": 1361,
       "downloads": 3525218,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -1369,19 +1369,19 @@
   "trending": [
     {
       "id": "nvidia/LocateAnything-3B",
-      "likes": 952,
+      "likes": 960,
       "downloads": 61604,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "LiquidAI/LFM2.5-8B-A1B",
-      "likes": 438,
+      "likes": 440,
       "downloads": 47742,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "openbmb/MiniCPM5-1B",
-      "likes": 727,
+      "likes": 733,
       "downloads": 57683,
       "pipeline_tag": "text-generation"
     },
@@ -1393,39 +1393,39 @@
     },
     {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-      "likes": 1273,
+      "likes": 1274,
       "downloads": 2573320,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "stepfun-ai/Step-3.7-Flash",
-      "likes": 212,
+      "likes": 213,
       "downloads": 12932,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "meituan-longcat/LongCat-Video-Avatar-1.5",
-      "likes": 483,
+      "likes": 485,
       "downloads": 174,
       "pipeline_tag": ""
     },
     {
       "id": "deepseek-ai/DeepSeek-V4-Pro",
-      "likes": 4566,
+      "likes": 4568,
       "downloads": 5829042,
       "pipeline_tag": "text-generation"
+    },
+    {
+      "id": "PaddlePaddle/PaddleOCR-VL-1.6",
+      "likes": 184,
+      "downloads": 4003,
+      "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "openbmb/Ultra-FineWeb-L3",
       "likes": 244,
       "downloads": 38319,
       "pipeline_tag": ""
-    },
-    {
-      "id": "PaddlePaddle/PaddleOCR-VL-1.6",
-      "likes": 183,
-      "downloads": 4003,
-      "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "LiquidAI/LFM2.5-8B-A1B-GGUF",
@@ -1435,13 +1435,13 @@
     },
     {
       "id": "nvidia/PiD",
-      "likes": 256,
+      "likes": 260,
       "downloads": 646,
       "pipeline_tag": "image-to-image"
     },
     {
       "id": "jasperai/monet",
-      "likes": 97,
+      "likes": 99,
       "downloads": 287654,
       "pipeline_tag": ""
     },
@@ -1453,13 +1453,13 @@
     },
     {
       "id": "webml-community/bonsai-image-webgpu",
-      "likes": 187,
+      "likes": 193,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "nvidia/LocateAnything",
-      "likes": 132,
+      "likes": 133,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1471,32 +1471,32 @@
     },
     {
       "id": "stanford-vision-lab/gpic",
-      "likes": 44,
+      "likes": 46,
       "downloads": 34118,
       "pipeline_tag": ""
     },
     {
       "id": "r3gm/wan2-2-fp8da-aoti-preview-2",
-      "likes": 1490,
+      "likes": 1491,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "victor/LongCat-Video-Avatar-1.5",
-      "likes": 205,
+      "likes": 206,
       "downloads": 0,
+      "pipeline_tag": ""
+    },
+    {
+      "id": "ReasonCore/open-spatial-reasoning",
+      "likes": 43,
+      "downloads": 180,
       "pipeline_tag": ""
     },
     {
       "id": "amphora/ResearchMath-14k",
       "likes": 30,
       "downloads": 1117,
-      "pipeline_tag": ""
-    },
-    {
-      "id": "ReasonCore/open-spatial-reasoning",
-      "likes": 41,
-      "downloads": 180,
       "pipeline_tag": ""
     },
     {
@@ -1507,13 +1507,19 @@
     },
     {
       "id": "bytedance-research/Lance",
-      "likes": 88,
+      "likes": 89,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "HuggingFaceBio/carbon-demo",
-      "likes": 157,
+      "likes": 159,
+      "downloads": 0,
+      "pipeline_tag": ""
+    },
+    {
+      "id": "prithivMLmods/Qwen-Image-Edit-2511-LoRAs-Fast",
+      "likes": 1567,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1524,20 +1530,14 @@
       "pipeline_tag": ""
     },
     {
-      "id": "prithivMLmods/Qwen-Image-Edit-2511-LoRAs-Fast",
-      "likes": 1565,
+      "id": "selfit-camera/Omni-Image-Editor",
+      "likes": 1821,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "prism-ml/Bonsai-Image-Demo",
-      "likes": 46,
-      "downloads": 0,
-      "pipeline_tag": ""
-    },
-    {
-      "id": "selfit-camera/Omni-Image-Editor",
-      "likes": 1817,
+      "likes": 47,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1548,5 +1548,5 @@
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-06-03T05:49:29.626000+08:00"
+  "lastUpdatedISO": "2026-06-03T07:47:29.400729+08:00"
 }
