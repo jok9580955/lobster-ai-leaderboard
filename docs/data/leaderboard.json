@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-07 02:07",
+  "lastUpdated": "2026-06-07 04:10",
   "arena": [
     {
       "rank": 1,
@@ -468,7 +468,7 @@
       "id": "openai/gpt-oss-20b",
       "name": "gpt-oss-20b",
       "org": "openai",
-      "likes": 4687,
+      "likes": 4689,
       "downloads": 7570259,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -485,7 +485,7 @@
       "id": "deepseek-ai/DeepSeek-V4-Pro",
       "name": "DeepSeek-V4-Pro",
       "org": "deepseek-ai",
-      "likes": 4674,
+      "likes": 4676,
       "downloads": 5510611,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -1054,7 +1054,7 @@
       "id": "openai/gpt-oss-20b",
       "name": "gpt-oss-20b",
       "org": "openai",
-      "likes": 4687,
+      "likes": 4689,
       "downloads": 7570259,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1122,7 +1122,7 @@
       "id": "deepseek-ai/DeepSeek-V4-Pro",
       "name": "DeepSeek-V4-Pro",
       "org": "deepseek-ai",
-      "likes": 4674,
+      "likes": 4676,
       "downloads": 5510611,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -1172,7 +1172,7 @@
       "id": "Qwen/Qwen3-4B-Instruct-2507",
       "name": "Qwen3-4B-Instruct-2507",
       "org": "Qwen",
-      "likes": 871,
+      "likes": 872,
       "downloads": 4684571,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1352,7 +1352,7 @@
       "id": "Qwen/Qwen2.5-Coder-14B-Instruct",
       "name": "Qwen2.5-Coder-14B-Instruct",
       "org": "Qwen",
-      "likes": 158,
+      "likes": 159,
       "downloads": 2941473,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1369,49 +1369,49 @@
   "trending": [
     {
       "id": "nvidia/LocateAnything-3B",
-      "likes": 1431,
+      "likes": 1440,
       "downloads": 111078,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "google/gemma-4-12B-it",
-      "likes": 605,
+      "likes": 609,
       "downloads": 315131,
       "pipeline_tag": "any-to-any"
     },
     {
       "id": "unsloth/gemma-4-12b-it-GGUF",
-      "likes": 409,
+      "likes": 413,
       "downloads": 458174,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "google/gemma-4-12B",
-      "likes": 367,
+      "likes": 371,
       "downloads": 84549,
       "pipeline_tag": "any-to-any"
     },
     {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-      "likes": 1475,
+      "likes": 1479,
       "downloads": 2771843,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "sapientinc/HRM-Text-1B",
-      "likes": 705,
+      "likes": 708,
       "downloads": 161627,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "ideogram-ai/ideogram-4-fp8",
-      "likes": 291,
+      "likes": 296,
       "downloads": 2818,
       "pipeline_tag": "text-to-image"
     },
     {
       "id": "LiquidAI/LFM2.5-8B-A1B",
-      "likes": 528,
+      "likes": 530,
       "downloads": 95440,
       "pipeline_tag": "text-generation"
     },
@@ -1464,15 +1464,15 @@
       "pipeline_tag": ""
     },
     {
-      "id": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
-      "likes": 326,
-      "downloads": 8318,
-      "pipeline_tag": ""
-    },
-    {
       "id": "ReasonCore/open-spatial-reasoning",
       "likes": 60,
       "downloads": 2525,
+      "pipeline_tag": ""
+    },
+    {
+      "id": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+      "likes": 326,
+      "downloads": 8318,
       "pipeline_tag": ""
     },
     {
@@ -1489,7 +1489,7 @@
     },
     {
       "id": "r3gm/wan2-2-fp8da-aoti-preview-2",
-      "likes": 1549,
+      "likes": 1551,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1512,14 +1512,14 @@
       "pipeline_tag": ""
     },
     {
-      "id": "ideogram-ai/ideogram4",
-      "likes": 70,
+      "id": "prithivMLmods/Qwen-Image-Edit-2511-LoRAs-Fast",
+      "likes": 1617,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
-      "id": "prithivMLmods/Qwen-Image-Edit-2511-LoRAs-Fast",
-      "likes": 1616,
+      "id": "ideogram-ai/ideogram4",
+      "likes": 70,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1531,7 +1531,7 @@
     },
     {
       "id": "mrfakename/Z-Image-Turbo",
-      "likes": 3329,
+      "likes": 3330,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1543,10 +1543,10 @@
     },
     {
       "id": "FrameAI4687/Omni-Video-Factory",
-      "likes": 1178,
+      "likes": 1180,
       "downloads": 0,
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-06-07T02:07:29.682572+08:00"
+  "lastUpdatedISO": "2026-06-07T04:10:27.338906+08:00"
 }
