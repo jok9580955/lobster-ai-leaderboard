@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-07 17:16",
+  "lastUpdated": "2026-06-07 19:49",
   "arena": [
     {
       "rank": 1,
@@ -485,7 +485,7 @@
       "id": "deepseek-ai/DeepSeek-V4-Pro",
       "name": "DeepSeek-V4-Pro",
       "org": "deepseek-ai",
-      "likes": 4684,
+      "likes": 4687,
       "downloads": 5515325,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -771,7 +771,7 @@
       "id": "moonshotai/Kimi-K2-Instruct",
       "name": "Kimi-K2-Instruct",
       "org": "moonshotai",
-      "likes": 2365,
+      "likes": 2364,
       "downloads": 629908,
       "license": "Other",
       "pipeline_tag": "text-generation",
@@ -856,7 +856,7 @@
       "id": "meta-llama/Llama-3.2-3B-Instruct",
       "name": "Llama-3.2-3B-Instruct",
       "org": "meta-llama",
-      "likes": 2199,
+      "likes": 2200,
       "downloads": 1693307,
       "license": "Llama3.2",
       "pipeline_tag": "text-generation",
@@ -938,7 +938,7 @@
       "id": "Qwen/Qwen2.5-7B-Instruct",
       "name": "Qwen2.5-7B-Instruct",
       "org": "Qwen",
-      "likes": 1332,
+      "likes": 1333,
       "downloads": 12466205,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1038,7 +1038,7 @@
       "id": "google/gemma-3-270m",
       "name": "gemma-3-270m",
       "org": "google",
-      "likes": 1033,
+      "likes": 1032,
       "downloads": 7955836,
       "license": "Gemma",
       "pipeline_tag": "text-generation",
@@ -1122,7 +1122,7 @@
       "id": "deepseek-ai/DeepSeek-V4-Pro",
       "name": "DeepSeek-V4-Pro",
       "org": "deepseek-ai",
-      "likes": 4684,
+      "likes": 4687,
       "downloads": 5515325,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -1369,44 +1369,50 @@
   "trending": [
     {
       "id": "nvidia/LocateAnything-3B",
-      "likes": 1481,
+      "likes": 1485,
       "downloads": 115556,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "google/gemma-4-12B-it",
-      "likes": 641,
+      "likes": 649,
       "downloads": 434969,
       "pipeline_tag": "any-to-any"
     },
     {
       "id": "unsloth/gemma-4-12b-it-GGUF",
-      "likes": 429,
+      "likes": 432,
       "downloads": 568158,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "google/gemma-4-12B",
-      "likes": 387,
+      "likes": 391,
       "downloads": 99655,
       "pipeline_tag": "any-to-any"
     },
     {
       "id": "ideogram-ai/ideogram-4-fp8",
-      "likes": 322,
+      "likes": 324,
       "downloads": 4377,
       "pipeline_tag": "text-to-image"
     },
     {
+      "id": "sapientinc/HRM-Text-1B",
+      "likes": 716,
+      "downloads": 162822,
+      "pipeline_tag": "text-generation"
+    },
+    {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-      "likes": 1496,
+      "likes": 1499,
       "downloads": 2923564,
       "pipeline_tag": "image-text-to-text"
     },
     {
-      "id": "sapientinc/HRM-Text-1B",
-      "likes": 715,
-      "downloads": 162822,
+      "id": "JetBrains/Mellum2-12B-A2.5B-Thinking",
+      "likes": 244,
+      "downloads": 16924,
       "pipeline_tag": "text-generation"
     },
     {
@@ -1416,32 +1422,26 @@
       "pipeline_tag": "text-generation"
     },
     {
-      "id": "JetBrains/Mellum2-12B-A2.5B-Thinking",
-      "likes": 243,
-      "downloads": 16924,
-      "pipeline_tag": "text-generation"
-    },
-    {
       "id": "ideogram-ai/ideogram-4-nf4",
-      "likes": 217,
+      "likes": 219,
       "downloads": 3844,
       "pipeline_tag": "text-to-image"
     },
     {
       "id": "openbmb/UltraData-SFT-2605",
-      "likes": 316,
+      "likes": 318,
       "downloads": 30258,
       "pipeline_tag": ""
     },
     {
       "id": "wikimedia/structured-wikipedia",
-      "likes": 305,
+      "likes": 308,
       "downloads": 11132,
       "pipeline_tag": ""
     },
     {
       "id": "nvidia/LocateAnything",
-      "likes": 201,
+      "likes": 204,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1459,32 +1459,44 @@
     },
     {
       "id": "ReasonCore/open-spatial-reasoning",
-      "likes": 60,
+      "likes": 61,
       "downloads": 2630,
       "pipeline_tag": ""
     },
     {
       "id": "VAST-AI/TripoSplat",
-      "likes": 107,
+      "likes": 109,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
-      "likes": 327,
+      "likes": 329,
       "downloads": 8459,
       "pipeline_tag": ""
     },
     {
-      "id": "jasperai/monet",
-      "likes": 117,
-      "downloads": 342492,
+      "id": "stanford-vision-lab/gpic",
+      "likes": 72,
+      "downloads": 92356,
       "pipeline_tag": ""
     },
     {
       "id": "OpenClaw/clawhub-security-signals",
-      "likes": 38,
+      "likes": 39,
       "downloads": 282,
+      "pipeline_tag": ""
+    },
+    {
+      "id": "jasperai/monet",
+      "likes": 118,
+      "downloads": 342492,
+      "pipeline_tag": ""
+    },
+    {
+      "id": "VCLab-PolyU/GGT-100K",
+      "likes": 35,
+      "downloads": 1907,
       "pipeline_tag": ""
     },
     {
@@ -1494,33 +1506,21 @@
       "pipeline_tag": ""
     },
     {
-      "id": "stanford-vision-lab/gpic",
-      "likes": 68,
-      "downloads": 92356,
+      "id": "ideogram-ai/ideogram4",
+      "likes": 77,
+      "downloads": 0,
       "pipeline_tag": ""
     },
     {
-      "id": "VCLab-PolyU/GGT-100K",
-      "likes": 34,
-      "downloads": 1907,
+      "id": "nvidia/Nemotron-Personas-El-Salvador",
+      "likes": 32,
+      "downloads": 2137,
       "pipeline_tag": ""
     },
     {
       "id": "prithivMLmods/Qwen-Image-Edit-2511-LoRAs-Fast",
       "likes": 1624,
       "downloads": 0,
-      "pipeline_tag": ""
-    },
-    {
-      "id": "ideogram-ai/ideogram4",
-      "likes": 74,
-      "downloads": 0,
-      "pipeline_tag": ""
-    },
-    {
-      "id": "nvidia/Nemotron-Personas-El-Salvador",
-      "likes": 31,
-      "downloads": 2137,
       "pipeline_tag": ""
     },
     {
@@ -1531,13 +1531,13 @@
     },
     {
       "id": "mrfakename/Z-Image-Turbo",
-      "likes": 3333,
+      "likes": 3334,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "FrameAI4687/Omni-Video-Factory",
-      "likes": 1183,
+      "likes": 1186,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1548,5 +1548,5 @@
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-06-07T17:16:29.524086+08:00"
+  "lastUpdatedISO": "2026-06-07T19:49:35.143577+08:00"
 }
