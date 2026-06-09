@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-09 08:08",
+  "lastUpdated": "2026-06-09 13:08",
   "arena": [
     {
       "rank": 1,
@@ -434,7 +434,7 @@
       "id": "openai/gpt-oss-120b",
       "name": "gpt-oss-120b",
       "org": "openai",
-      "likes": 4863,
+      "likes": 4865,
       "downloads": 4469144,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -468,7 +468,7 @@
       "id": "deepseek-ai/DeepSeek-V4-Pro",
       "name": "DeepSeek-V4-Pro",
       "org": "deepseek-ai",
-      "likes": 4719,
+      "likes": 4723,
       "downloads": 5399597,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -502,7 +502,7 @@
       "id": "meta-llama/Meta-Llama-3-8B-Instruct",
       "name": "Meta-Llama-3-8B-Instruct",
       "org": "meta-llama",
-      "likes": 4580,
+      "likes": 4581,
       "downloads": 1469945,
       "license": "Llama3",
       "pipeline_tag": "text-generation",
@@ -688,7 +688,7 @@
       "id": "meta-llama/Llama-3.3-70B-Instruct",
       "name": "Llama-3.3-70B-Instruct",
       "org": "meta-llama",
-      "likes": 2807,
+      "likes": 2808,
       "downloads": 762561,
       "license": "Llama3.3",
       "pipeline_tag": "text-generation",
@@ -722,7 +722,7 @@
       "id": "meta-llama/Llama-3.2-1B",
       "name": "Llama-3.2-1B",
       "org": "meta-llama",
-      "likes": 2438,
+      "likes": 2439,
       "downloads": 2348376,
       "license": "Llama3.2",
       "pipeline_tag": "text-generation",
@@ -856,7 +856,7 @@
       "id": "meta-llama/Llama-3.2-3B-Instruct",
       "name": "Llama-3.2-3B-Instruct",
       "org": "meta-llama",
-      "likes": 2207,
+      "likes": 2208,
       "downloads": 1643427,
       "license": "Llama3.2",
       "pipeline_tag": "text-generation",
@@ -875,7 +875,7 @@
       "id": "Qwen/Qwen3-0.6B",
       "name": "Qwen3-0.6B",
       "org": "Qwen",
-      "likes": 1306,
+      "likes": 1307,
       "downloads": 22789512,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1037,7 +1037,7 @@
       "id": "meta-llama/Llama-3.2-1B-Instruct",
       "name": "Llama-3.2-1B-Instruct",
       "org": "meta-llama",
-      "likes": 1465,
+      "likes": 1466,
       "downloads": 8041519,
       "license": "Llama3.2",
       "pipeline_tag": "text-generation",
@@ -1122,7 +1122,7 @@
       "id": "deepseek-ai/DeepSeek-V4-Pro",
       "name": "DeepSeek-V4-Pro",
       "org": "deepseek-ai",
-      "likes": 4719,
+      "likes": 4723,
       "downloads": 5399597,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -1188,7 +1188,7 @@
       "id": "openai/gpt-oss-120b",
       "name": "gpt-oss-120b",
       "org": "openai",
-      "likes": 4863,
+      "likes": 4865,
       "downloads": 4469144,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1205,7 +1205,7 @@
       "id": "Qwen/Qwen2.5-0.5B-Instruct",
       "name": "Qwen2.5-0.5B-Instruct",
       "org": "Qwen",
-      "likes": 526,
+      "likes": 527,
       "downloads": 4325461,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1304,7 +1304,7 @@
       "id": "deepseek-ai/DeepSeek-V4-Flash",
       "name": "DeepSeek-V4-Flash",
       "org": "deepseek-ai",
-      "likes": 1446,
+      "likes": 1449,
       "downloads": 3262529,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -1372,109 +1372,115 @@
   "trending": [
     {
       "id": "nvidia/LocateAnything-3B",
-      "likes": 1615,
+      "likes": 1639,
       "downloads": 121594,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "google/gemma-4-12B-it",
-      "likes": 750,
+      "likes": 758,
       "downloads": 554173,
       "pipeline_tag": "any-to-any"
     },
     {
       "id": "unsloth/gemma-4-12b-it-GGUF",
-      "likes": 498,
+      "likes": 504,
       "downloads": 645263,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "google/gemma-4-12B",
-      "likes": 450,
+      "likes": 457,
       "downloads": 117509,
       "pipeline_tag": "any-to-any"
     },
     {
       "id": "ideogram-ai/ideogram-4-fp8",
-      "likes": 392,
+      "likes": 402,
       "downloads": 5495,
       "pipeline_tag": "text-to-image"
     },
     {
       "id": "sapientinc/HRM-Text-1B",
-      "likes": 726,
+      "likes": 728,
       "downloads": 163953,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-      "likes": 1552,
+      "likes": 1560,
       "downloads": 3036465,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "ideogram-ai/ideogram-4-nf4",
-      "likes": 261,
+      "likes": 266,
       "downloads": 4963,
       "pipeline_tag": "text-to-image"
     },
     {
       "id": "bosonai/higgs-audio-v3-tts-4b",
-      "likes": 243,
+      "likes": 255,
       "downloads": 15005,
       "pipeline_tag": "text-to-speech"
     },
     {
       "id": "nvidia/nemotron-3.5-asr-streaming-0.6b",
-      "likes": 287,
+      "likes": 298,
       "downloads": 3957,
       "pipeline_tag": "automatic-speech-recognition"
     },
     {
       "id": "wikimedia/structured-wikipedia",
-      "likes": 327,
+      "likes": 328,
       "downloads": 11544,
       "pipeline_tag": ""
     },
     {
       "id": "openbmb/UltraData-SFT-2605",
-      "likes": 328,
+      "likes": 329,
       "downloads": 34625,
       "pipeline_tag": ""
     },
     {
       "id": "stanford-vision-lab/gpic",
-      "likes": 93,
+      "likes": 94,
       "downloads": 97260,
       "pipeline_tag": ""
     },
     {
       "id": "VAST-AI/TripoSplat",
-      "likes": 130,
+      "likes": 136,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
-      "likes": 338,
+      "likes": 341,
       "downloads": 8576,
       "pipeline_tag": ""
     },
     {
       "id": "nvidia/Nemotron-Personas-El-Salvador",
-      "likes": 44,
+      "likes": 45,
       "downloads": 2352,
       "pipeline_tag": ""
     },
     {
-      "id": "openbmb/Ultra-FineWeb-L3",
-      "likes": 277,
-      "downloads": 58647,
+      "id": "ideogram-ai/ideogram4",
+      "likes": 104,
+      "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "nvidia/LocateAnything",
-      "likes": 218,
+      "likes": 222,
+      "downloads": 0,
+      "pipeline_tag": ""
+    },
+    {
+      "id": "r3gm/wan2-2-fp8da-aoti-preview-2",
+      "likes": 1588,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1485,26 +1491,20 @@
       "pipeline_tag": ""
     },
     {
-      "id": "ideogram-ai/ideogram4",
-      "likes": 99,
-      "downloads": 0,
-      "pipeline_tag": ""
-    },
-    {
-      "id": "r3gm/wan2-2-fp8da-aoti-preview-2",
-      "likes": 1585,
-      "downloads": 0,
-      "pipeline_tag": ""
-    },
-    {
       "id": "nvidia/Nemotron-Personas-Vietnam",
-      "likes": 34,
+      "likes": 37,
       "downloads": 1851,
       "pipeline_tag": ""
     },
     {
+      "id": "openbmb/Ultra-FineWeb-L3",
+      "likes": 277,
+      "downloads": 58647,
+      "pipeline_tag": ""
+    },
+    {
       "id": "nvidia/Nemotron-Pretraining-Code-v3",
-      "likes": 31,
+      "likes": 33,
       "downloads": 338,
       "pipeline_tag": ""
     },
@@ -1515,9 +1515,9 @@
       "pipeline_tag": ""
     },
     {
-      "id": "jasperai/monet",
-      "likes": 121,
-      "downloads": 323339,
+      "id": "ReasonCore/open-spatial-reasoning",
+      "likes": 64,
+      "downloads": 2709,
       "pipeline_tag": ""
     },
     {
@@ -1534,7 +1534,13 @@
     },
     {
       "id": "mrfakename/Z-Image-Turbo",
-      "likes": 3342,
+      "likes": 3343,
+      "downloads": 0,
+      "pipeline_tag": ""
+    },
+    {
+      "id": "FrameAI4687/Omni-Video-Factory",
+      "likes": 1204,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1543,13 +1549,7 @@
       "likes": 1430,
       "downloads": 0,
       "pipeline_tag": ""
-    },
-    {
-      "id": "FrameAI4687/Omni-Video-Factory",
-      "likes": 1199,
-      "downloads": 0,
-      "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-06-09T08:08:18.581662+08:00"
+  "lastUpdatedISO": "2026-06-09T13:08:31.394612+08:00"
 }
