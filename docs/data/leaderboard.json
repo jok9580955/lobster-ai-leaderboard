@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-10 06:43",
+  "lastUpdated": "2026-06-10 08:16",
   "arena": [
     {
       "rank": 1,
@@ -875,7 +875,7 @@
       "id": "Qwen/Qwen3-0.6B",
       "name": "Qwen3-0.6B",
       "org": "Qwen",
-      "likes": 1309,
+      "likes": 1310,
       "downloads": 21649861,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -938,7 +938,7 @@
       "id": "Qwen/Qwen2.5-7B-Instruct",
       "name": "Qwen2.5-7B-Instruct",
       "org": "Qwen",
-      "likes": 1343,
+      "likes": 1344,
       "downloads": 11890117,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1155,7 +1155,7 @@
       "id": "Qwen/Qwen3-4B-Instruct-2507",
       "name": "Qwen3-4B-Instruct-2507",
       "org": "Qwen",
-      "likes": 875,
+      "likes": 876,
       "downloads": 4349929,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1372,33 +1372,39 @@
   "trending": [
     {
       "id": "google/gemma-4-12B-it",
-      "likes": 807,
+      "likes": 810,
       "downloads": 581354,
       "pipeline_tag": "any-to-any"
     },
     {
       "id": "nvidia/LocateAnything-3B",
-      "likes": 1723,
+      "likes": 1727,
       "downloads": 123922,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "unsloth/gemma-4-12b-it-GGUF",
-      "likes": 527,
+      "likes": 531,
       "downloads": 660140,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "google/gemma-4-12B",
-      "likes": 477,
+      "likes": 479,
       "downloads": 122464,
       "pipeline_tag": "any-to-any"
     },
     {
       "id": "ideogram-ai/ideogram-4-fp8",
-      "likes": 438,
+      "likes": 439,
       "downloads": 5915,
       "pipeline_tag": "text-to-image"
+    },
+    {
+      "id": "bosonai/higgs-audio-v3-tts-4b",
+      "likes": 283,
+      "downloads": 16207,
+      "pipeline_tag": "text-to-speech"
     },
     {
       "id": "ideogram-ai/ideogram-4-nf4",
@@ -1407,10 +1413,10 @@
       "pipeline_tag": "text-to-image"
     },
     {
-      "id": "bosonai/higgs-audio-v3-tts-4b",
-      "likes": 279,
-      "downloads": 16207,
-      "pipeline_tag": "text-to-speech"
+      "id": "nvidia/nemotron-3.5-asr-streaming-0.6b",
+      "likes": 317,
+      "downloads": 4181,
+      "pipeline_tag": "automatic-speech-recognition"
     },
     {
       "id": "sapientinc/HRM-Text-1B",
@@ -1419,14 +1425,8 @@
       "pipeline_tag": "text-generation"
     },
     {
-      "id": "nvidia/nemotron-3.5-asr-streaming-0.6b",
-      "likes": 317,
-      "downloads": 4181,
-      "pipeline_tag": "automatic-speech-recognition"
-    },
-    {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-      "likes": 1589,
+      "likes": 1592,
       "downloads": 2983909,
       "pipeline_tag": "image-text-to-text"
     },
@@ -1515,9 +1515,9 @@
       "pipeline_tag": ""
     },
     {
-      "id": "Jackrong/GLM-5.1-Reasoning-1M-Cleaned",
-      "likes": 266,
-      "downloads": 8126,
+      "id": "julien-c/synthtraces",
+      "likes": 24,
+      "downloads": 1456,
       "pipeline_tag": ""
     },
     {
@@ -1533,14 +1533,14 @@
       "pipeline_tag": ""
     },
     {
-      "id": "FrameAI4687/Omni-Video-Factory",
-      "likes": 1211,
+      "id": "mrfakename/Z-Image-Turbo",
+      "likes": 3352,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
-      "id": "mrfakename/Z-Image-Turbo",
-      "likes": 3351,
+      "id": "FrameAI4687/Omni-Video-Factory",
+      "likes": 1211,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1551,5 +1551,5 @@
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-06-10T06:43:27.312302+08:00"
+  "lastUpdatedISO": "2026-06-10T08:16:57.240013+08:00"
 }
