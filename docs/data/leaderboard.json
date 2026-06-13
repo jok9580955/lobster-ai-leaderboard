@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-14 04:16",
+  "lastUpdated": "2026-06-14 06:05",
   "arena": [
     {
       "rank": 1,
@@ -383,7 +383,7 @@
       "id": "meta-llama/Meta-Llama-3-8B",
       "name": "Meta-Llama-3-8B",
       "org": "meta-llama",
-      "likes": 6572,
+      "likes": 6573,
       "downloads": 915357,
       "license": "Llama3",
       "pipeline_tag": "text-generation",
@@ -400,7 +400,7 @@
       "id": "meta-llama/Llama-3.1-8B-Instruct",
       "name": "Llama-3.1-8B-Instruct",
       "org": "meta-llama",
-      "likes": 6067,
+      "likes": 6068,
       "downloads": 6906531,
       "license": "Llama3.1",
       "pipeline_tag": "text-generation",
@@ -451,7 +451,7 @@
       "id": "deepseek-ai/DeepSeek-V4-Pro",
       "name": "DeepSeek-V4-Pro",
       "org": "deepseek-ai",
-      "likes": 4810,
+      "likes": 4811,
       "downloads": 3250404,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -938,7 +938,7 @@
       "id": "Qwen/Qwen3-8B",
       "name": "Qwen3-8B",
       "org": "Qwen",
-      "likes": 1137,
+      "likes": 1138,
       "downloads": 8625058,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1004,7 +1004,7 @@
       "id": "meta-llama/Llama-3.1-8B-Instruct",
       "name": "Llama-3.1-8B-Instruct",
       "org": "meta-llama",
-      "likes": 6067,
+      "likes": 6068,
       "downloads": 6906531,
       "license": "Llama3.1",
       "pipeline_tag": "text-generation",
@@ -1171,7 +1171,7 @@
       "id": "deepseek-ai/DeepSeek-V4-Pro",
       "name": "DeepSeek-V4-Pro",
       "org": "deepseek-ai",
-      "likes": 4810,
+      "likes": 4811,
       "downloads": 3250404,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -1288,7 +1288,7 @@
       "id": "unsloth/Qwen3-Coder-Next-GGUF",
       "name": "Qwen3-Coder-Next-GGUF",
       "org": "unsloth",
-      "likes": 703,
+      "likes": 704,
       "downloads": 2211320,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1339,7 +1339,7 @@
       "id": "Qwen/Qwen3-32B",
       "name": "Qwen3-32B",
       "org": "Qwen",
-      "likes": 700,
+      "likes": 701,
       "downloads": 2111332,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1372,13 +1372,13 @@
   "trending": [
     {
       "id": "google/diffusiongemma-26B-A4B-it",
-      "likes": 696,
+      "likes": 700,
       "downloads": 92080,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "moonshotai/Kimi-K2.7-Code",
-      "likes": 496,
+      "likes": 507,
       "downloads": 1689,
       "pipeline_tag": "image-text-to-text"
     },
@@ -1390,25 +1390,25 @@
     },
     {
       "id": "MiniMaxAI/MiniMax-M3",
-      "likes": 404,
+      "likes": 411,
       "downloads": 1031,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "CohereLabs/North-Mini-Code-1.0",
-      "likes": 349,
+      "likes": 352,
       "downloads": 6533,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "google/gemma-4-12B-it",
-      "likes": 991,
+      "likes": 993,
       "downloads": 1005883,
       "pipeline_tag": "any-to-any"
     },
     {
       "id": "bosonai/higgs-audio-v3-tts-4b",
-      "likes": 410,
+      "likes": 412,
       "downloads": 32162,
       "pipeline_tag": "text-to-speech"
     },
@@ -1425,20 +1425,20 @@
       "pipeline_tag": ""
     },
     {
-      "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-      "likes": 1758,
-      "downloads": 2411202,
-      "pipeline_tag": "image-text-to-text"
-    },
-    {
       "id": "OBLITERATUS/Gemma-4-12B-OBLITERATED",
       "likes": 273,
       "downloads": 50289,
       "pipeline_tag": "text-generation"
     },
     {
+      "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "likes": 1759,
+      "downloads": 2411202,
+      "pipeline_tag": "image-text-to-text"
+    },
+    {
       "id": "Glint-Research/Fable-5-traces",
-      "likes": 67,
+      "likes": 73,
       "downloads": 41,
       "pipeline_tag": ""
     },
@@ -1456,13 +1456,13 @@
     },
     {
       "id": "VAST-AI/TripoSplat",
-      "likes": 219,
+      "likes": 221,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
-      "likes": 367,
+      "likes": 368,
       "downloads": 9191,
       "pipeline_tag": ""
     },
@@ -1474,7 +1474,7 @@
     },
     {
       "id": "r3gm/wan2-2-fp8da-aoti-preview-2",
-      "likes": 1686,
+      "likes": 1689,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1485,21 +1485,27 @@
       "pipeline_tag": ""
     },
     {
+      "id": "signsur4739379373/LTX-2.3-10Eros",
+      "likes": 104,
+      "downloads": 0,
+      "pipeline_tag": ""
+    },
+    {
       "id": "openbmb/UltraData-SFT-2605",
       "likes": 341,
       "downloads": 40491,
       "pipeline_tag": ""
     },
     {
-      "id": "signsur4739379373/LTX-2.3-10Eros",
-      "likes": 101,
-      "downloads": 0,
-      "pipeline_tag": ""
-    },
-    {
       "id": "nvidia/Nemotron-Personas-Vietnam",
       "likes": 47,
       "downloads": 4969,
+      "pipeline_tag": ""
+    },
+    {
+      "id": "armand0e/claude-fable-5-claude-code",
+      "likes": 23,
+      "downloads": 163,
       "pipeline_tag": ""
     },
     {
@@ -1515,14 +1521,8 @@
       "pipeline_tag": ""
     },
     {
-      "id": "openbmb/Ultra-FineWeb-L3",
-      "likes": 289,
-      "downloads": 69778,
-      "pipeline_tag": ""
-    },
-    {
       "id": "selfit-camera/Omni-Image-Editor",
-      "likes": 1926,
+      "likes": 1928,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1539,17 +1539,17 @@
       "pipeline_tag": ""
     },
     {
-      "id": "mrfakename/Z-Image-Turbo",
-      "likes": 3380,
+      "id": "FrameAI4687/Omni-Video-Factory",
+      "likes": 1230,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
-      "id": "FrameAI4687/Omni-Video-Factory",
-      "likes": 1229,
+      "id": "mrfakename/Z-Image-Turbo",
+      "likes": 3381,
       "downloads": 0,
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-06-14T04:16:54.240138+08:00"
+  "lastUpdatedISO": "2026-06-14T06:05:29.969116+08:00"
 }
