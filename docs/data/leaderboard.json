@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-21 04:16",
+  "lastUpdated": "2026-06-21 06:10",
   "arena": [
     {
       "rank": 1,
@@ -366,7 +366,7 @@
       "id": "deepseek-ai/DeepSeek-R1",
       "name": "DeepSeek-R1",
       "org": "deepseek-ai",
-      "likes": 13403,
+      "likes": 13404,
       "downloads": 6809722,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -822,7 +822,7 @@
       "id": "microsoft/phi-4",
       "name": "phi-4",
       "org": "microsoft",
-      "likes": 2257,
+      "likes": 2258,
       "downloads": 1011127,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -875,7 +875,7 @@
       "id": "Qwen/Qwen3-0.6B",
       "name": "Qwen3-0.6B",
       "org": "Qwen",
-      "likes": 1350,
+      "likes": 1351,
       "downloads": 27358157,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -970,7 +970,7 @@
       "id": "Qwen/Qwen2.5-3B-Instruct",
       "name": "Qwen2.5-3B-Instruct",
       "org": "Qwen",
-      "likes": 508,
+      "likes": 509,
       "downloads": 11422175,
       "license": "Other",
       "pipeline_tag": "text-generation",
@@ -1088,7 +1088,7 @@
       "id": "deepseek-ai/DeepSeek-R1",
       "name": "DeepSeek-R1",
       "org": "deepseek-ai",
-      "likes": 13403,
+      "likes": 13404,
       "downloads": 6809722,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -1372,25 +1372,25 @@
   "trending": [
     {
       "id": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
-      "likes": 1963,
+      "likes": 1974,
       "downloads": 312332,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "zai-org/GLM-5.2",
-      "likes": 1663,
+      "likes": 1677,
       "downloads": 19683,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "MiniMaxAI/MiniMax-M3",
-      "likes": 1155,
+      "likes": 1158,
       "downloads": 85771,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "WeiboAI/VibeThinker-3B",
-      "likes": 503,
+      "likes": 506,
       "downloads": 16270,
       "pipeline_tag": "text-generation"
     },
@@ -1402,7 +1402,7 @@
     },
     {
       "id": "Glint-Research/Fable-5-traces",
-      "likes": 327,
+      "likes": 328,
       "downloads": 9709,
       "pipeline_tag": ""
     },
@@ -1426,13 +1426,13 @@
     },
     {
       "id": "nvidia/LocateAnything-3B",
-      "likes": 2213,
+      "likes": 2214,
       "downloads": 235606,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-      "likes": 2035,
+      "likes": 2037,
       "downloads": 3812636,
       "pipeline_tag": "image-text-to-text"
     },
@@ -1444,7 +1444,7 @@
     },
     {
       "id": "lazarus19/Vibe-Coding-Instruct",
-      "likes": 132,
+      "likes": 134,
       "downloads": 1336,
       "pipeline_tag": ""
     },
@@ -1456,13 +1456,13 @@
     },
     {
       "id": "WithinUsAI/claude_mythos_distilled_25k",
-      "likes": 95,
+      "likes": 96,
       "downloads": 2417,
       "pipeline_tag": ""
     },
     {
       "id": "webml-community/gemma-4-webgpu-kernels",
-      "likes": 87,
+      "likes": 89,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1473,6 +1473,12 @@
       "pipeline_tag": ""
     },
     {
+      "id": "SakanaAI/AI-CUDA-Engineer-Archive",
+      "likes": 206,
+      "downloads": 1901,
+      "pipeline_tag": ""
+    },
+    {
       "id": "build-small-hackathon/small-talk",
       "likes": 116,
       "downloads": 0,
@@ -1480,19 +1486,13 @@
     },
     {
       "id": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
-      "likes": 399,
+      "likes": 400,
       "downloads": 10711,
       "pipeline_tag": ""
     },
     {
-      "id": "SakanaAI/AI-CUDA-Engineer-Archive",
-      "likes": 205,
-      "downloads": 1901,
-      "pipeline_tag": ""
-    },
-    {
       "id": "Glint-Research/Complete-FABLE.5-traces-2M",
-      "likes": 28,
+      "likes": 29,
       "downloads": 901,
       "pipeline_tag": ""
     },
@@ -1510,13 +1510,7 @@
     },
     {
       "id": "r3gm/wan2-2-fp8da-aoti-preview-2",
-      "likes": 1775,
-      "downloads": 0,
-      "pipeline_tag": ""
-    },
-    {
-      "id": "selfit-camera/Omni-Image-Editor",
-      "likes": 1977,
+      "likes": 1776,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1527,14 +1521,20 @@
       "pipeline_tag": ""
     },
     {
+      "id": "selfit-camera/Omni-Image-Editor",
+      "likes": 1978,
+      "downloads": 0,
+      "pipeline_tag": ""
+    },
+    {
       "id": "nvidia/LocateAnything",
-      "likes": 302,
+      "likes": 303,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "build-small-hackathon/OpenMythos",
-      "likes": 35,
+      "likes": 37,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1551,5 +1551,5 @@
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-06-21T04:16:38.597272+08:00"
+  "lastUpdatedISO": "2026-06-21T06:10:28.373689+08:00"
 }
