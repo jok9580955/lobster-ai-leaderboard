@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-21 21:08",
+  "lastUpdated": "2026-06-21 23:54",
   "arena": [
     {
       "rank": 1,
@@ -400,7 +400,7 @@
       "id": "meta-llama/Llama-3.1-8B-Instruct",
       "name": "Llama-3.1-8B-Instruct",
       "org": "meta-llama",
-      "likes": 6123,
+      "likes": 6126,
       "downloads": 9812999,
       "license": "Llama3.1",
       "pipeline_tag": "text-generation",
@@ -434,7 +434,7 @@
       "id": "deepseek-ai/DeepSeek-V4-Pro",
       "name": "DeepSeek-V4-Pro",
       "org": "deepseek-ai",
-      "likes": 4991,
+      "likes": 4993,
       "downloads": 2611991,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -502,7 +502,7 @@
       "id": "meta-llama/Meta-Llama-3-8B-Instruct",
       "name": "Meta-Llama-3-8B-Instruct",
       "org": "meta-llama",
-      "likes": 4620,
+      "likes": 4622,
       "downloads": 1409777,
       "license": "Llama3",
       "pipeline_tag": "text-generation",
@@ -671,7 +671,7 @@
       "id": "Qwen/QwQ-32B",
       "name": "QwQ-32B",
       "org": "Qwen",
-      "likes": 2932,
+      "likes": 2933,
       "downloads": 70542,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -839,7 +839,7 @@
       "id": "meta-llama/Llama-3.2-3B-Instruct",
       "name": "Llama-3.2-3B-Instruct",
       "org": "meta-llama",
-      "likes": 2251,
+      "likes": 2252,
       "downloads": 1804997,
       "license": "Llama3.2",
       "pipeline_tag": "text-generation",
@@ -1004,7 +1004,7 @@
       "id": "meta-llama/Llama-3.1-8B-Instruct",
       "name": "Llama-3.1-8B-Instruct",
       "org": "meta-llama",
-      "likes": 6123,
+      "likes": 6126,
       "downloads": 9812999,
       "license": "Llama3.1",
       "pipeline_tag": "text-generation",
@@ -1372,31 +1372,31 @@
   "trending": [
     {
       "id": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
-      "likes": 2030,
+      "likes": 2047,
       "downloads": 358677,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "zai-org/GLM-5.2",
-      "likes": 1748,
+      "likes": 1768,
       "downloads": 27413,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "MiniMaxAI/MiniMax-M3",
-      "likes": 1170,
+      "likes": 1172,
       "downloads": 104076,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "WeiboAI/VibeThinker-3B",
-      "likes": 537,
+      "likes": 544,
       "downloads": 20277,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "moonshotai/Kimi-K2.7-Code",
-      "likes": 938,
+      "likes": 942,
       "downloads": 363308,
       "pipeline_tag": "image-text-to-text"
     },
@@ -1408,33 +1408,33 @@
     },
     {
       "id": "microsoft/FastContext-1.0-4B-SFT",
-      "likes": 255,
+      "likes": 256,
       "downloads": 2593,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "google/diffusiongemma-26B-A4B-it",
-      "likes": 1026,
+      "likes": 1028,
       "downloads": 762861,
       "pipeline_tag": "image-text-to-text"
     },
     {
-      "id": "nvidia/LocateAnything-3B",
-      "likes": 2234,
-      "downloads": 241845,
-      "pipeline_tag": "image-text-to-text"
-    },
-    {
       "id": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
-      "likes": 229,
+      "likes": 240,
       "downloads": 21730,
       "pipeline_tag": "text-generation"
     },
     {
-      "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-      "likes": 2061,
-      "downloads": 3966691,
+      "id": "nvidia/LocateAnything-3B",
+      "likes": 2235,
+      "downloads": 241845,
       "pipeline_tag": "image-text-to-text"
+    },
+    {
+      "id": "unsloth/GLM-5.2-GGUF",
+      "likes": 217,
+      "downloads": 32260,
+      "pipeline_tag": "text-generation"
     },
     {
       "id": "armand0e/claude-fable-5-claude-code",
@@ -1449,26 +1449,26 @@
       "pipeline_tag": ""
     },
     {
-      "id": "signsur4739379373/LTX-2.3-Finetuned-I2V",
-      "likes": 246,
-      "downloads": 0,
-      "pipeline_tag": ""
-    },
-    {
       "id": "Glint-Research/Complete-FABLE.5-traces-2M",
-      "likes": 48,
+      "likes": 53,
       "downloads": 2110,
       "pipeline_tag": ""
     },
     {
+      "id": "signsur4739379373/LTX-2.3-Finetuned-I2V",
+      "likes": 247,
+      "downloads": 0,
+      "pipeline_tag": ""
+    },
+    {
       "id": "WithinUsAI/claude_mythos_distilled_25k",
-      "likes": 99,
+      "likes": 100,
       "downloads": 2472,
       "pipeline_tag": ""
     },
     {
       "id": "webml-community/gemma-4-webgpu-kernels",
-      "likes": 95,
+      "likes": 96,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1486,7 +1486,7 @@
     },
     {
       "id": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
-      "likes": 401,
+      "likes": 402,
       "downloads": 10578,
       "pipeline_tag": ""
     },
@@ -1504,7 +1504,7 @@
     },
     {
       "id": "r3gm/wan2-2-fp8da-aoti-preview-2",
-      "likes": 1786,
+      "likes": 1787,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1516,40 +1516,40 @@
     },
     {
       "id": "selfit-camera/Omni-Image-Editor",
-      "likes": 1985,
-      "downloads": 0,
-      "pipeline_tag": ""
-    },
-    {
-      "id": "prithivMLmods/Qwen-Image-Edit-2511-LoRAs-Fast",
-      "likes": 1762,
+      "likes": 1988,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "nvidia/LocateAnything",
-      "likes": 306,
+      "likes": 307,
+      "downloads": 0,
+      "pipeline_tag": ""
+    },
+    {
+      "id": "prithivMLmods/Qwen-Image-Edit-2511-LoRAs-Fast",
+      "likes": 1763,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "build-small-hackathon/OpenMythos",
-      "likes": 38,
+      "likes": 41,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "huggingface-projects/diffusiongemma-codegen",
-      "likes": 62,
+      "likes": 63,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
-      "id": "gemma-challenge/gemma-dashboard",
-      "likes": 81,
+      "id": "r3gm/wan2-2-fp8da-aoti-preview",
+      "likes": 2781,
       "downloads": 0,
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-06-21T21:08:21.609653+08:00"
+  "lastUpdatedISO": "2026-06-21T23:54:14.904745+08:00"
 }
