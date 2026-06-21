@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-22 03:45",
+  "lastUpdated": "2026-06-22 05:16",
   "arena": [
     {
       "rank": 1,
@@ -434,7 +434,7 @@
       "id": "deepseek-ai/DeepSeek-V4-Pro",
       "name": "DeepSeek-V4-Pro",
       "org": "deepseek-ai",
-      "likes": 4996,
+      "likes": 4997,
       "downloads": 2611991,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -468,7 +468,7 @@
       "id": "meta-llama/Llama-2-7b-chat-hf",
       "name": "Llama-2-7b-chat-hf",
       "org": "meta-llama",
-      "likes": 4784,
+      "likes": 4783,
       "downloads": 261063,
       "license": "Llama2",
       "pipeline_tag": "text-generation",
@@ -536,7 +536,7 @@
       "id": "mistralai/Mistral-7B-v0.1",
       "name": "Mistral-7B-v0.1",
       "org": "mistralai",
-      "likes": 4112,
+      "likes": 4113,
       "downloads": 806416,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -805,7 +805,7 @@
       "id": "meta-llama/Llama-3.1-8B",
       "name": "Llama-3.1-8B",
       "org": "meta-llama",
-      "likes": 2267,
+      "likes": 2268,
       "downloads": 1527881,
       "license": "Llama3.1",
       "pipeline_tag": "text-generation",
@@ -1305,7 +1305,7 @@
       "id": "Andycurrent/Gemma-3-1B-it-GLM-4.7-Flash-Heretic-Uncensored-Thinking_GGUF",
       "name": "Gemma-3-1B-it-GLM-4.7-Flash-Heretic-Uncensored-Thinking_GGUF",
       "org": "Andycurrent",
-      "likes": 71,
+      "likes": 72,
       "downloads": 3706603,
       "license": "Gemma",
       "pipeline_tag": "text-generation",
@@ -1372,14 +1372,20 @@
   "trending": [
     {
       "id": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
-      "likes": 2064,
+      "likes": 2074,
       "downloads": 358677,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "zai-org/GLM-5.2",
-      "likes": 1792,
+      "likes": 1798,
       "downloads": 27413,
+      "pipeline_tag": "text-generation"
+    },
+    {
+      "id": "WeiboAI/VibeThinker-3B",
+      "likes": 554,
+      "downloads": 20277,
       "pipeline_tag": "text-generation"
     },
     {
@@ -1387,12 +1393,6 @@
       "likes": 1176,
       "downloads": 104076,
       "pipeline_tag": "image-text-to-text"
-    },
-    {
-      "id": "WeiboAI/VibeThinker-3B",
-      "likes": 551,
-      "downloads": 20277,
-      "pipeline_tag": "text-generation"
     },
     {
       "id": "moonshotai/Kimi-K2.7-Code",
@@ -1408,25 +1408,25 @@
     },
     {
       "id": "Glint-Research/Fable-5-traces",
-      "likes": 343,
+      "likes": 345,
       "downloads": 12430,
       "pipeline_tag": ""
     },
     {
       "id": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
-      "likes": 260,
+      "likes": 265,
       "downloads": 21730,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "google/diffusiongemma-26B-A4B-it",
-      "likes": 1032,
+      "likes": 1033,
       "downloads": 762861,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "nvidia/LocateAnything-3B",
-      "likes": 2239,
+      "likes": 2240,
       "downloads": 241845,
       "pipeline_tag": "image-text-to-text"
     },
@@ -1450,7 +1450,7 @@
     },
     {
       "id": "Glint-Research/Complete-FABLE.5-traces-2M",
-      "likes": 62,
+      "likes": 64,
       "downloads": 2110,
       "pipeline_tag": ""
     },
@@ -1462,7 +1462,7 @@
     },
     {
       "id": "WithinUsAI/claude_mythos_distilled_25k",
-      "likes": 103,
+      "likes": 104,
       "downloads": 2472,
       "pipeline_tag": ""
     },
@@ -1504,19 +1504,19 @@
     },
     {
       "id": "r3gm/wan2-2-fp8da-aoti-preview-2",
-      "likes": 1788,
+      "likes": 1790,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "build-small-hackathon/small-talk",
-      "likes": 119,
+      "likes": 120,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "selfit-camera/Omni-Image-Editor",
-      "likes": 1988,
+      "likes": 1989,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1546,10 +1546,10 @@
     },
     {
       "id": "gemma-challenge/gemma-dashboard",
-      "likes": 84,
+      "likes": 85,
       "downloads": 0,
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-06-22T03:45:52.177831+08:00"
+  "lastUpdatedISO": "2026-06-22T05:16:41.004468+08:00"
 }
