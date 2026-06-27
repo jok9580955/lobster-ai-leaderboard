@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-27 21:47",
+  "lastUpdated": "2026-06-27 23:16",
   "arena": [
     {
       "rank": 1,
@@ -434,7 +434,7 @@
       "id": "bigscience/bloom",
       "name": "bloom",
       "org": "bigscience",
-      "likes": 5013,
+      "likes": 5014,
       "downloads": 5485,
       "license": "Bigscience Bloom Rail 1.0",
       "pipeline_tag": "text-generation",
@@ -502,7 +502,7 @@
       "id": "meta-llama/Meta-Llama-3-8B-Instruct",
       "name": "Meta-Llama-3-8B-Instruct",
       "org": "meta-llama",
-      "likes": 4640,
+      "likes": 4642,
       "downloads": 1302688,
       "license": "Llama3",
       "pipeline_tag": "text-generation",
@@ -688,7 +688,7 @@
       "id": "meta-llama/Llama-3.3-70B-Instruct",
       "name": "Llama-3.3-70B-Instruct",
       "org": "meta-llama",
-      "likes": 2858,
+      "likes": 2859,
       "downloads": 675237,
       "license": "Llama3.3",
       "pipeline_tag": "text-generation",
@@ -705,7 +705,7 @@
       "id": "zai-org/GLM-5.2",
       "name": "GLM-5.2",
       "org": "zai-org",
-      "likes": 2640,
+      "likes": 2649,
       "downloads": 98994,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -770,6 +770,23 @@
       "created_at": "2023-05-24T12:08:30.000Z"
     },
     {
+      "id": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
+      "name": "gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
+      "org": "yuxinlu1",
+      "likes": 2419,
+      "downloads": 536130,
+      "license": "Apache 2.0",
+      "pipeline_tag": "text-generation",
+      "tags": [
+        "gguf",
+        "gemma4",
+        "coding",
+        "code",
+        "reasoning"
+      ],
+      "created_at": "2026-06-10T07:24:02.000Z"
+    },
+    {
       "id": "xai-org/grok-1",
       "name": "grok-1",
       "org": "xai-org",
@@ -783,23 +800,6 @@
         "text-generation"
       ],
       "created_at": "2024-03-17T05:47:21.000Z"
-    },
-    {
-      "id": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
-      "name": "gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
-      "org": "yuxinlu1",
-      "likes": 2417,
-      "downloads": 536130,
-      "license": "Apache 2.0",
-      "pipeline_tag": "text-generation",
-      "tags": [
-        "gguf",
-        "gemma4",
-        "coding",
-        "code",
-        "reasoning"
-      ],
-      "created_at": "2026-06-10T07:24:02.000Z"
     },
     {
       "id": "moonshotai/Kimi-K2-Instruct",
@@ -856,7 +856,7 @@
       "id": "meta-llama/Llama-3.2-3B-Instruct",
       "name": "Llama-3.2-3B-Instruct",
       "org": "meta-llama",
-      "likes": 2274,
+      "likes": 2275,
       "downloads": 2002144,
       "license": "Llama3.2",
       "pipeline_tag": "text-generation",
@@ -1122,7 +1122,7 @@
       "id": "Qwen/Qwen3-1.7B",
       "name": "Qwen3-1.7B",
       "org": "Qwen",
-      "likes": 489,
+      "likes": 490,
       "downloads": 5772336,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1154,7 +1154,7 @@
       "id": "nvidia/Qwen3.6-35B-A3B-NVFP4",
       "name": "Qwen3.6-35B-A3B-NVFP4",
       "org": "nvidia",
-      "likes": 364,
+      "likes": 365,
       "downloads": 5022254,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1371,67 +1371,67 @@
   "trending": [
     {
       "id": "baidu/Unlimited-OCR",
-      "likes": 1102,
+      "likes": 1112,
       "downloads": 212760,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "zai-org/GLM-5.2",
-      "likes": 2640,
+      "likes": 2649,
       "downloads": 98994,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
-      "likes": 639,
+      "likes": 647,
       "downloads": 712627,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
-      "likes": 709,
+      "likes": 714,
       "downloads": 206828,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
-      "likes": 2417,
+      "likes": 2419,
       "downloads": 536130,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M",
-      "likes": 465,
+      "likes": 468,
       "downloads": 30298,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "Qwen/Qwen-AgentWorld-35B-A3B",
-      "likes": 342,
+      "likes": 346,
       "downloads": 18872,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "krea/Krea-2-Turbo",
-      "likes": 304,
+      "likes": 305,
       "downloads": 17445,
       "pipeline_tag": "text-to-image"
     },
     {
       "id": "deepreinforce-ai/Ornith-1.0-35B-GGUF",
-      "likes": 273,
+      "likes": 283,
       "downloads": 20266,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "WeiboAI/VibeThinker-3B",
-      "likes": 737,
+      "likes": 738,
       "downloads": 57521,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "Glint-Research/Fable-5-traces",
-      "likes": 429,
+      "likes": 430,
       "downloads": 33015,
       "pipeline_tag": ""
     },
@@ -1449,13 +1449,13 @@
     },
     {
       "id": "webml-community/gemma-4-webgpu-kernels",
-      "likes": 193,
+      "likes": 194,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "Qwen/AgentWorldBench",
-      "likes": 39,
+      "likes": 40,
       "downloads": 669,
       "pipeline_tag": ""
     },
@@ -1479,7 +1479,7 @@
     },
     {
       "id": "r3gm/wan2-2-fp8da-aoti-preview-2",
-      "likes": 1870,
+      "likes": 1871,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1503,7 +1503,7 @@
     },
     {
       "id": "BitRobot/HIW-500",
-      "likes": 24,
+      "likes": 25,
       "downloads": 43530,
       "pipeline_tag": ""
     },
@@ -1514,20 +1514,20 @@
       "pipeline_tag": ""
     },
     {
+      "id": "baidu/Unlimited-OCR",
+      "likes": 56,
+      "downloads": 0,
+      "pipeline_tag": ""
+    },
+    {
       "id": "krea/Krea-2",
       "likes": 51,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
-      "id": "baidu/Unlimited-OCR",
-      "likes": 55,
-      "downloads": 0,
-      "pipeline_tag": ""
-    },
-    {
       "id": "multimodalart/Boogu-Image",
-      "likes": 51,
+      "likes": 52,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1550,5 +1550,5 @@
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-06-27T21:47:04.468404+08:00"
+  "lastUpdatedISO": "2026-06-27T23:16:50.300219+08:00"
 }
