@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-01 06:15",
+  "lastUpdated": "2026-07-01 08:06",
   "arena": [
     {
       "rank": 1,
@@ -654,7 +654,7 @@
       "id": "zai-org/GLM-5.2",
       "name": "GLM-5.2",
       "org": "zai-org",
-      "likes": 3037,
+      "likes": 3046,
       "downloads": 142547,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -722,7 +722,7 @@
       "id": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
       "name": "gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
       "org": "yuxinlu1",
-      "likes": 2527,
+      "likes": 2528,
       "downloads": 575255,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1155,7 +1155,7 @@
       "id": "Qwen/Qwen3-4B-Instruct-2507",
       "name": "Qwen3-4B-Instruct-2507",
       "org": "Qwen",
-      "likes": 888,
+      "likes": 889,
       "downloads": 5299649,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1371,43 +1371,43 @@
   "trending": [
     {
       "id": "baidu/Unlimited-OCR",
-      "likes": 1484,
+      "likes": 1488,
       "downloads": 429056,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
-      "likes": 1047,
+      "likes": 1055,
       "downloads": 970663,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "zai-org/GLM-5.2",
-      "likes": 3037,
+      "likes": 3046,
       "downloads": 142547,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "deepreinforce-ai/Ornith-1.0-35B-GGUF",
-      "likes": 543,
+      "likes": 546,
       "downloads": 157418,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "Qwen/Qwen-AgentWorld-35B-A3B",
-      "likes": 464,
+      "likes": 465,
       "downloads": 28480,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
-      "likes": 881,
+      "likes": 886,
       "downloads": 257216,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M",
-      "likes": 589,
+      "likes": 593,
       "downloads": 99359,
       "pipeline_tag": "text-generation"
     },
@@ -1419,7 +1419,7 @@
     },
     {
       "id": "deepreinforce-ai/Ornith-1.0-9B-GGUF",
-      "likes": 342,
+      "likes": 345,
       "downloads": 98750,
       "pipeline_tag": "text-generation"
     },
@@ -1431,13 +1431,13 @@
     },
     {
       "id": "Glint-Research/Fable-5-traces",
-      "likes": 481,
+      "likes": 482,
       "downloads": 41461,
       "pipeline_tag": ""
     },
     {
       "id": "armand0e/claude-fable-5-claude-code",
-      "likes": 251,
+      "likes": 252,
       "downloads": 12969,
       "pipeline_tag": ""
     },
@@ -1467,7 +1467,7 @@
     },
     {
       "id": "bcbl190626/SpanishBCBL",
-      "likes": 38,
+      "likes": 39,
       "downloads": 1516,
       "pipeline_tag": ""
     },
@@ -1490,6 +1490,12 @@
       "pipeline_tag": ""
     },
     {
+      "id": "kulkas2pintu/wan555",
+      "likes": 240,
+      "downloads": 0,
+      "pipeline_tag": ""
+    },
+    {
       "id": "BitRobot/HIW-500",
       "likes": 35,
       "downloads": 56627,
@@ -1502,14 +1508,8 @@
       "pipeline_tag": ""
     },
     {
-      "id": "kulkas2pintu/wan555",
-      "likes": 240,
-      "downloads": 0,
-      "pipeline_tag": ""
-    },
-    {
       "id": "LocalLaws/LOCUS-v1",
-      "likes": 80,
+      "likes": 81,
       "downloads": 1963,
       "pipeline_tag": ""
     },
@@ -1520,14 +1520,14 @@
       "pipeline_tag": ""
     },
     {
-      "id": "build-small-hackathon/OpenMythos",
-      "likes": 137,
+      "id": "krea/Krea-2",
+      "likes": 74,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
-      "id": "krea/Krea-2",
-      "likes": 73,
+      "id": "build-small-hackathon/OpenMythos",
+      "likes": 137,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1538,17 +1538,17 @@
       "pipeline_tag": ""
     },
     {
-      "id": "webml-community/lfm2-webgpu-kernels",
-      "likes": 45,
+      "id": "M3st3rJ4k3l/FLUX.2-Klein-Multi-LoRA",
+      "likes": 87,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
-      "id": "M3st3rJ4k3l/FLUX.2-Klein-Multi-LoRA",
-      "likes": 86,
+      "id": "webml-community/lfm2-webgpu-kernels",
+      "likes": 45,
       "downloads": 0,
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-07-01T06:15:53.786522+08:00"
+  "lastUpdatedISO": "2026-07-01T08:06:47.523135+08:00"
 }
