@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-03 22:10",
+  "lastUpdated": "2026-07-04 00:26",
   "arena": [
     {
       "rank": 1,
@@ -400,7 +400,7 @@
       "id": "meta-llama/Llama-3.1-8B-Instruct",
       "name": "Llama-3.1-8B-Instruct",
       "org": "meta-llama",
-      "likes": 6213,
+      "likes": 6214,
       "downloads": 9489535,
       "license": "Llama3.1",
       "pipeline_tag": "text-generation",
@@ -417,7 +417,7 @@
       "id": "deepseek-ai/DeepSeek-V4-Pro",
       "name": "DeepSeek-V4-Pro",
       "org": "deepseek-ai",
-      "likes": 5138,
+      "likes": 5139,
       "downloads": 1182658,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -619,7 +619,7 @@
       "id": "zai-org/GLM-5.2",
       "name": "GLM-5.2",
       "org": "zai-org",
-      "likes": 3310,
+      "likes": 3317,
       "downloads": 191462,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -721,7 +721,7 @@
       "id": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
       "name": "gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
       "org": "yuxinlu1",
-      "likes": 2579,
+      "likes": 2582,
       "downloads": 628225,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -890,7 +890,7 @@
       "id": "Qwen/Qwen3-8B",
       "name": "Qwen3-8B",
       "org": "Qwen",
-      "likes": 1175,
+      "likes": 1176,
       "downloads": 15327298,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -986,7 +986,7 @@
       "id": "meta-llama/Llama-3.1-8B-Instruct",
       "name": "Llama-3.1-8B-Instruct",
       "org": "meta-llama",
-      "likes": 6213,
+      "likes": 6214,
       "downloads": 9489535,
       "license": "Llama3.1",
       "pipeline_tag": "text-generation",
@@ -1370,85 +1370,85 @@
   "trending": [
     {
       "id": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
-      "likes": 1323,
+      "likes": 1335,
       "downloads": 1366360,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "zai-org/GLM-5.2",
-      "likes": 3310,
+      "likes": 3317,
       "downloads": 191462,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "baidu/Unlimited-OCR",
-      "likes": 1674,
+      "likes": 1678,
       "downloads": 885040,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "deepreinforce-ai/Ornith-1.0-35B-GGUF",
-      "likes": 671,
+      "likes": 673,
       "downloads": 322780,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "deepseek-ai/DeepSeek-V4-Pro-DSpark",
-      "likes": 321,
+      "likes": 325,
       "downloads": 9388,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
-      "likes": 978,
+      "likes": 981,
       "downloads": 329391,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "deepreinforce-ai/Ornith-1.0-9B-GGUF",
-      "likes": 405,
+      "likes": 407,
       "downloads": 287942,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "deepreinforce-ai/Ornith-1.0-9B",
-      "likes": 358,
+      "likes": 359,
       "downloads": 64051,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "deepreinforce-ai/Ornith-1.0-35B",
-      "likes": 316,
+      "likes": 319,
       "downloads": 211406,
       "pipeline_tag": "text-generation"
     },
     {
-      "id": "Qwen/Qwen-AgentWorld-35B-A3B",
-      "likes": 519,
-      "downloads": 45455,
+      "id": "nvidia/Qwen3.6-27B-NVFP4",
+      "likes": 225,
+      "downloads": 94465,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "Glint-Research/Fable-5-traces",
-      "likes": 506,
+      "likes": 508,
       "downloads": 51152,
       "pipeline_tag": ""
     },
     {
       "id": "mlabonne/open-perfectblend",
-      "likes": 141,
+      "likes": 143,
       "downloads": 3045,
       "pipeline_tag": ""
     },
     {
       "id": "Sneak-Moose/Pro-Realism-Edit-Studio",
-      "likes": 341,
+      "likes": 342,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "armand0e/claude-fable-5-claude-code",
-      "likes": 266,
+      "likes": 268,
       "downloads": 15763,
       "pipeline_tag": ""
     },
@@ -1460,25 +1460,25 @@
     },
     {
       "id": "markov-ai/gaming-500-hours",
-      "likes": 45,
+      "likes": 47,
       "downloads": 8696,
       "pipeline_tag": ""
     },
     {
-      "id": "kulkas2pintu/wan555",
-      "likes": 301,
+      "id": "smolagents/hf-realtime-voice",
+      "likes": 117,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
-      "id": "smolagents/hf-realtime-voice",
-      "likes": 107,
+      "id": "kulkas2pintu/wan555",
+      "likes": 303,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "baidu/Unlimited-OCR",
-      "likes": 151,
+      "likes": 152,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1490,7 +1490,7 @@
     },
     {
       "id": "scholarweave/arxiv-latex",
-      "likes": 52,
+      "likes": 53,
       "downloads": 17543,
       "pipeline_tag": ""
     },
@@ -1508,7 +1508,7 @@
     },
     {
       "id": "webml-community/gemma-4-webgpu-kernels",
-      "likes": 265,
+      "likes": 267,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1537,17 +1537,17 @@
       "pipeline_tag": ""
     },
     {
-      "id": "loveseries/wanmanlove",
-      "likes": 53,
+      "id": "build-small-hackathon/OpenMythos",
+      "likes": 149,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
-      "id": "build-small-hackathon/OpenMythos",
-      "likes": 148,
+      "id": "loveseries/wanmanlove",
+      "likes": 54,
       "downloads": 0,
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-07-03T22:10:25.864142+08:00"
+  "lastUpdatedISO": "2026-07-04T00:26:18.920984+08:00"
 }
