@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-05 21:44",
+  "lastUpdated": "2026-07-05 23:14",
   "arena": [
     {
       "rank": 1,
@@ -450,7 +450,7 @@
       "id": "openai/gpt-oss-120b",
       "name": "gpt-oss-120b",
       "org": "openai",
-      "likes": 4945,
+      "likes": 4946,
       "downloads": 4183948,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -501,7 +501,7 @@
       "id": "meta-llama/Meta-Llama-3-8B-Instruct",
       "name": "Meta-Llama-3-8B-Instruct",
       "org": "meta-llama",
-      "likes": 4672,
+      "likes": 4674,
       "downloads": 1312920,
       "license": "Llama3",
       "pipeline_tag": "text-generation",
@@ -535,7 +535,7 @@
       "id": "mistralai/Mistral-7B-v0.1",
       "name": "Mistral-7B-v0.1",
       "org": "mistralai",
-      "likes": 4119,
+      "likes": 4120,
       "downloads": 881965,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -586,7 +586,7 @@
       "id": "zai-org/GLM-5.2",
       "name": "GLM-5.2",
       "org": "zai-org",
-      "likes": 3430,
+      "likes": 3437,
       "downloads": 220379,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -636,7 +636,7 @@
       "id": "mistralai/Mistral-7B-Instruct-v0.2",
       "name": "Mistral-7B-Instruct-v0.2",
       "org": "mistralai",
-      "likes": 3178,
+      "likes": 3179,
       "downloads": 987025,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -721,7 +721,7 @@
       "id": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
       "name": "gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
       "org": "yuxinlu1",
-      "likes": 2601,
+      "likes": 2602,
       "downloads": 651758,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -772,7 +772,7 @@
       "id": "tiiuae/falcon-40b",
       "name": "falcon-40b",
       "org": "tiiuae",
-      "likes": 2437,
+      "likes": 2438,
       "downloads": 30869,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1236,7 +1236,7 @@
       "id": "openai/gpt-oss-120b",
       "name": "gpt-oss-120b",
       "org": "openai",
-      "likes": 4945,
+      "likes": 4946,
       "downloads": 4183948,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1370,79 +1370,79 @@
   "trending": [
     {
       "id": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
-      "likes": 1509,
+      "likes": 1515,
       "downloads": 1533844,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "zai-org/GLM-5.2",
-      "likes": 3430,
+      "likes": 3437,
       "downloads": 220379,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "baidu/Unlimited-OCR",
-      "likes": 1727,
+      "likes": 1732,
       "downloads": 1044217,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "deepreinforce-ai/Ornith-1.0-35B-GGUF",
-      "likes": 718,
+      "likes": 722,
       "downloads": 394164,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "nvidia/Qwen3.6-27B-NVFP4",
-      "likes": 267,
+      "likes": 268,
       "downloads": 297130,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "InternScience/Agents-A1",
-      "likes": 261,
+      "likes": 266,
       "downloads": 7010,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
-      "likes": 1018,
+      "likes": 1020,
       "downloads": 355871,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "google/tabfm-1.0.0-pytorch",
-      "likes": 213,
+      "likes": 215,
       "downloads": 2670,
       "pipeline_tag": "tabular-classification"
     },
     {
       "id": "deepseek-ai/DeepSeek-V4-Pro-DSpark",
-      "likes": 379,
+      "likes": 380,
       "downloads": 12580,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "deepreinforce-ai/Ornith-1.0-9B-GGUF",
-      "likes": 430,
+      "likes": 431,
       "downloads": 352002,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "Glint-Research/Fable-5-traces",
-      "likes": 537,
+      "likes": 539,
       "downloads": 57204,
       "pipeline_tag": ""
     },
     {
       "id": "smolagents/hf-realtime-voice",
-      "likes": 202,
+      "likes": 206,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "markov-ai/gaming-500-hours",
-      "likes": 65,
+      "likes": 66,
       "downloads": 11818,
       "pipeline_tag": ""
     },
@@ -1454,13 +1454,19 @@
     },
     {
       "id": "bcbl190626/SpanishBCBL",
-      "likes": 52,
+      "likes": 53,
       "downloads": 3978,
       "pipeline_tag": ""
     },
     {
       "id": "Sneak-Moose/Pro-Realism-Edit-Studio",
-      "likes": 377,
+      "likes": 379,
+      "downloads": 0,
+      "pipeline_tag": ""
+    },
+    {
+      "id": "kulkas2pintu/wan555",
+      "likes": 330,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1471,14 +1477,8 @@
       "pipeline_tag": ""
     },
     {
-      "id": "kulkas2pintu/wan555",
-      "likes": 328,
-      "downloads": 0,
-      "pipeline_tag": ""
-    },
-    {
       "id": "LiquidAI/ifstruct-v1.0",
-      "likes": 39,
+      "likes": 41,
       "downloads": 215,
       "pipeline_tag": ""
     },
@@ -1496,26 +1496,26 @@
     },
     {
       "id": "Crownelius/Complete-FABLE.5-traces-2M",
-      "likes": 62,
+      "likes": 63,
       "downloads": 5321,
       "pipeline_tag": ""
     },
     {
       "id": "r3gm/wan2-2-fp8da-aoti-preview-2c",
-      "likes": 1980,
+      "likes": 1983,
       "downloads": 0,
+      "pipeline_tag": ""
+    },
+    {
+      "id": "ByteDance-Seed/EdgeBench",
+      "likes": 25,
+      "downloads": 1751,
       "pipeline_tag": ""
     },
     {
       "id": "webml-community/gemma-4-webgpu-kernels",
       "likes": 277,
       "downloads": 0,
-      "pipeline_tag": ""
-    },
-    {
-      "id": "ByteDance-Seed/EdgeBench",
-      "likes": 24,
-      "downloads": 1751,
       "pipeline_tag": ""
     },
     {
@@ -1531,6 +1531,12 @@
       "pipeline_tag": ""
     },
     {
+      "id": "build-small-hackathon/llm-cinema",
+      "likes": 62,
+      "downloads": 0,
+      "pipeline_tag": ""
+    },
+    {
       "id": "ginigen-ai/Metacognition-Bench",
       "likes": 28,
       "downloads": 186,
@@ -1541,13 +1547,7 @@
       "likes": 117,
       "downloads": 0,
       "pipeline_tag": ""
-    },
-    {
-      "id": "build-small-hackathon/llm-cinema",
-      "likes": 61,
-      "downloads": 0,
-      "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-07-05T21:44:00.512221+08:00"
+  "lastUpdatedISO": "2026-07-05T23:14:11.011663+08:00"
 }
