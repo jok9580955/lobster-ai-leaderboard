@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-09 06:08",
+  "lastUpdated": "2026-07-09 08:12",
   "arena": [
     {
       "rank": 1,
@@ -400,7 +400,7 @@
       "id": "meta-llama/Llama-3.1-8B-Instruct",
       "name": "Llama-3.1-8B-Instruct",
       "org": "meta-llama",
-      "likes": 6260,
+      "likes": 6262,
       "downloads": 9213787,
       "license": "Llama3.1",
       "pipeline_tag": "text-generation",
@@ -485,7 +485,7 @@
       "id": "openai/gpt-oss-20b",
       "name": "gpt-oss-20b",
       "org": "openai",
-      "likes": 4773,
+      "likes": 4774,
       "downloads": 7014199,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -570,7 +570,7 @@
       "id": "zai-org/GLM-5.2",
       "name": "GLM-5.2",
       "org": "zai-org",
-      "likes": 3661,
+      "likes": 3663,
       "downloads": 281584,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -722,7 +722,7 @@
       "id": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
       "name": "gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
       "org": "yuxinlu1",
-      "likes": 2649,
+      "likes": 2651,
       "downloads": 674977,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -739,7 +739,7 @@
       "id": "meta-llama/Llama-3.2-1B",
       "name": "Llama-3.2-1B",
       "org": "meta-llama",
-      "likes": 2475,
+      "likes": 2476,
       "downloads": 1832322,
       "license": "Llama3.2",
       "pipeline_tag": "text-generation",
@@ -940,7 +940,7 @@
       "id": "Qwen/Qwen2.5-7B-Instruct",
       "name": "Qwen2.5-7B-Instruct",
       "org": "Qwen",
-      "likes": 1411,
+      "likes": 1412,
       "downloads": 12661459,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1024,7 +1024,7 @@
       "id": "meta-llama/Llama-3.1-8B-Instruct",
       "name": "Llama-3.1-8B-Instruct",
       "org": "meta-llama",
-      "likes": 6260,
+      "likes": 6262,
       "downloads": 9213787,
       "license": "Llama3.1",
       "pipeline_tag": "text-generation",
@@ -1075,7 +1075,7 @@
       "id": "openai/gpt-oss-20b",
       "name": "gpt-oss-20b",
       "org": "openai",
-      "likes": 4773,
+      "likes": 4774,
       "downloads": 7014199,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1092,7 +1092,7 @@
       "id": "antirez/deepseek-v4-gguf",
       "name": "deepseek-v4-gguf",
       "org": "antirez",
-      "likes": 314,
+      "likes": 315,
       "downloads": 6392626,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -1375,39 +1375,45 @@
   "trending": [
     {
       "id": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
-      "likes": 1841,
+      "likes": 1849,
       "downloads": 1683711,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "tencent/Hy3",
-      "likes": 555,
+      "likes": 561,
       "downloads": 121,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "zai-org/GLM-5.2",
-      "likes": 3661,
+      "likes": 3663,
       "downloads": 281584,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "baidu/Unlimited-OCR",
-      "likes": 1869,
+      "likes": 1871,
       "downloads": 1084945,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "InternScience/Agents-A1",
-      "likes": 397,
+      "likes": 399,
       "downloads": 14723,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "google/tabfm-1.0.0-pytorch",
-      "likes": 308,
+      "likes": 313,
       "downloads": 9458,
       "pipeline_tag": "tabular-classification"
+    },
+    {
+      "id": "AliesTaha/fable-traces",
+      "likes": 187,
+      "downloads": 3886,
+      "pipeline_tag": "text-generation"
     },
     {
       "id": "deepreinforce-ai/Ornith-1.0-35B-GGUF",
@@ -1416,44 +1422,38 @@
       "pipeline_tag": "text-generation"
     },
     {
-      "id": "AliesTaha/fable-traces",
-      "likes": 186,
-      "downloads": 3886,
-      "pipeline_tag": "text-generation"
-    },
-    {
-      "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-      "likes": 2573,
-      "downloads": 2823988,
-      "pipeline_tag": "image-text-to-text"
-    },
-    {
       "id": "mistralai/Leanstral-1.5-119B-A6B",
-      "likes": 163,
+      "likes": 164,
       "downloads": 157,
       "pipeline_tag": ""
     },
     {
+      "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "likes": 2574,
+      "downloads": 2823988,
+      "pipeline_tag": "image-text-to-text"
+    },
+    {
       "id": "smolagents/hf-realtime-voice",
-      "likes": 299,
+      "likes": 302,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "markov-ai/gaming-500-hours",
-      "likes": 101,
+      "likes": 105,
       "downloads": 15126,
       "pipeline_tag": ""
     },
     {
       "id": "Glint-Research/Fable-5-traces",
-      "likes": 571,
+      "likes": 572,
       "downloads": 64153,
       "pipeline_tag": ""
     },
     {
       "id": "Sneak-Moose/Pro-Realism-Edit-Studio",
-      "likes": 450,
+      "likes": 451,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1471,7 +1471,7 @@
     },
     {
       "id": "kulkas2pintu/wan555",
-      "likes": 378,
+      "likes": 381,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1495,13 +1495,13 @@
     },
     {
       "id": "Crownelius/Complete-FABLE.5-traces-2M",
-      "likes": 79,
+      "likes": 80,
       "downloads": 6387,
       "pipeline_tag": ""
     },
     {
       "id": "baidu/Unlimited-OCR",
-      "likes": 194,
+      "likes": 195,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1509,12 +1509,6 @@
       "id": "krea/Krea-2",
       "likes": 141,
       "downloads": 0,
-      "pipeline_tag": ""
-    },
-    {
-      "id": "scholarweave/arxiv-latex",
-      "likes": 63,
-      "downloads": 23592,
       "pipeline_tag": ""
     },
     {
@@ -1527,6 +1521,12 @@
       "id": "webml-community/gemma-4-webgpu-kernels",
       "likes": 287,
       "downloads": 0,
+      "pipeline_tag": ""
+    },
+    {
+      "id": "scholarweave/arxiv-latex",
+      "likes": 63,
+      "downloads": 23592,
       "pipeline_tag": ""
     },
     {
@@ -1554,5 +1554,5 @@
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-07-09T06:08:48.277078+08:00"
+  "lastUpdatedISO": "2026-07-09T08:12:27.131167+08:00"
 }
