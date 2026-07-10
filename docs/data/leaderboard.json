@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-11 00:57",
+  "lastUpdated": "2026-07-11 02:25",
   "arena": [
     {
       "rank": 1,
@@ -502,7 +502,7 @@
       "id": "meta-llama/Meta-Llama-3-8B-Instruct",
       "name": "Meta-Llama-3-8B-Instruct",
       "org": "meta-llama",
-      "likes": 4692,
+      "likes": 4693,
       "downloads": 1416749,
       "license": "Llama3",
       "pipeline_tag": "text-generation",
@@ -570,7 +570,7 @@
       "id": "zai-org/GLM-5.2",
       "name": "GLM-5.2",
       "org": "zai-org",
-      "likes": 3765,
+      "likes": 3769,
       "downloads": 392655,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -957,7 +957,7 @@
       "id": "Qwen/Qwen2.5-7B-Instruct",
       "name": "Qwen2.5-7B-Instruct",
       "org": "Qwen",
-      "likes": 1414,
+      "likes": 1415,
       "downloads": 12737053,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1375,19 +1375,19 @@
   "trending": [
     {
       "id": "tencent/Hy3",
-      "likes": 650,
+      "likes": 654,
       "downloads": 6923,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
-      "likes": 1955,
+      "likes": 1960,
       "downloads": 1909705,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "zai-org/GLM-5.2",
-      "likes": 3765,
+      "likes": 3769,
       "downloads": 392655,
       "pipeline_tag": "text-generation"
     },
@@ -1399,19 +1399,19 @@
     },
     {
       "id": "baidu/Unlimited-OCR",
-      "likes": 1917,
+      "likes": 1920,
       "downloads": 1319683,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "bottlecapai/ThinkingCap-Qwen3.6-27B",
-      "likes": 205,
+      "likes": 206,
       "downloads": 3699,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "google/tabfm-1.0.0-pytorch",
-      "likes": 341,
+      "likes": 342,
       "downloads": 18626,
       "pipeline_tag": "tabular-classification"
     },
@@ -1441,7 +1441,7 @@
     },
     {
       "id": "markov-ai/gaming-500-hours",
-      "likes": 125,
+      "likes": 127,
       "downloads": 21507,
       "pipeline_tag": ""
     },
@@ -1453,19 +1453,13 @@
     },
     {
       "id": "LiquidAI/antidoom-mix-v1.0",
-      "likes": 52,
+      "likes": 53,
       "downloads": 245,
       "pipeline_tag": ""
     },
     {
-      "id": "IlyaGusev/habr",
-      "likes": 81,
-      "downloads": 1609,
-      "pipeline_tag": ""
-    },
-    {
       "id": "ByteDance-Seed/EdgeBench",
-      "likes": 61,
+      "likes": 62,
       "downloads": 4974,
       "pipeline_tag": ""
     },
@@ -1483,7 +1477,7 @@
     },
     {
       "id": "kulkas2pintu/wan555",
-      "likes": 425,
+      "likes": 426,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1494,26 +1488,26 @@
       "pipeline_tag": ""
     },
     {
+      "id": "FlyRank/internship-warehouse",
+      "likes": 74,
+      "downloads": 57,
+      "pipeline_tag": ""
+    },
+    {
       "id": "armand0e/claude-fable-5-claude-code",
       "likes": 301,
       "downloads": 17649,
       "pipeline_tag": ""
     },
     {
-      "id": "FlyRank/internship-warehouse",
-      "likes": 70,
-      "downloads": 57,
-      "pipeline_tag": ""
-    },
-    {
       "id": "kyutai/rocket-science",
-      "likes": 23,
+      "likes": 24,
       "downloads": 10307,
       "pipeline_tag": ""
     },
     {
       "id": "baidu/Unlimited-OCR",
-      "likes": 211,
+      "likes": 212,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1524,20 +1518,26 @@
       "pipeline_tag": ""
     },
     {
+      "id": "mlabonne/open-perfectblend",
+      "likes": 164,
+      "downloads": 4593,
+      "pipeline_tag": ""
+    },
+    {
       "id": "krea/Krea-2",
-      "likes": 154,
+      "likes": 155,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "r3gm/wan2-2-fp8da-aoti-preview-2c",
-      "likes": 2016,
+      "likes": 2017,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "prithivMLmods/Qwen-Image-Edit-2511-LoRAs-Fast",
-      "likes": 1885,
+      "likes": 1886,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1554,5 +1554,5 @@
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-07-11T00:57:23.806447+08:00"
+  "lastUpdatedISO": "2026-07-11T02:25:54.633825+08:00"
 }
