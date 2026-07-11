@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-12 06:51",
+  "lastUpdated": "2026-07-12 07:56",
   "arena": [
     {
       "rank": 1,
@@ -570,7 +570,7 @@
       "id": "zai-org/GLM-5.2",
       "name": "GLM-5.2",
       "org": "zai-org",
-      "likes": 3829,
+      "likes": 3830,
       "downloads": 421270,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -1157,7 +1157,7 @@
       "id": "antirez/deepseek-v4-gguf",
       "name": "deepseek-v4-gguf",
       "org": "antirez",
-      "likes": 317,
+      "likes": 318,
       "downloads": 5461312,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -1383,13 +1383,13 @@
     },
     {
       "id": "zai-org/GLM-5.2",
-      "likes": 3829,
+      "likes": 3830,
       "downloads": 421270,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "InternScience/Agents-A1",
-      "likes": 491,
+      "likes": 492,
       "downloads": 28141,
       "pipeline_tag": "text-generation"
     },
@@ -1413,7 +1413,7 @@
     },
     {
       "id": "conradlocke/krea2-identity-edit",
-      "likes": 182,
+      "likes": 184,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1431,19 +1431,19 @@
     },
     {
       "id": "markov-ai/gaming-500-hours",
-      "likes": 134,
+      "likes": 136,
       "downloads": 24465,
       "pipeline_tag": ""
     },
     {
       "id": "smolagents/hf-realtime-voice",
-      "likes": 357,
+      "likes": 359,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "LiquidAI/antidoom-mix-v1.0",
-      "likes": 58,
+      "likes": 59,
       "downloads": 394,
       "pipeline_tag": ""
     },
@@ -1455,20 +1455,20 @@
     },
     {
       "id": "Sneak-Moose/Pro-Realism-Edit-Studio",
-      "likes": 512,
+      "likes": 513,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
-      "id": "FlyRank/internship-warehouse",
-      "likes": 105,
-      "downloads": 373,
+      "id": "ByteDance-Seed/EdgeBench",
+      "likes": 64,
+      "downloads": 6490,
       "pipeline_tag": ""
     },
     {
-      "id": "ByteDance-Seed/EdgeBench",
-      "likes": 63,
-      "downloads": 6490,
+      "id": "FlyRank/internship-warehouse",
+      "likes": 106,
+      "downloads": 373,
       "pipeline_tag": ""
     },
     {
@@ -1509,13 +1509,13 @@
     },
     {
       "id": "victor/gemma-avatar",
-      "likes": 66,
+      "likes": 67,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "jasfn/LTX-2.3-10Eros",
-      "likes": 116,
+      "likes": 118,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1532,14 +1532,14 @@
       "pipeline_tag": ""
     },
     {
-      "id": "krea/Krea-2",
-      "likes": 159,
+      "id": "mrfakename/Z-Image-Turbo",
+      "likes": 3537,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
-      "id": "mrfakename/Z-Image-Turbo",
-      "likes": 3536,
+      "id": "krea/Krea-2",
+      "likes": 159,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1550,5 +1550,5 @@
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-07-12T06:51:20.372653+08:00"
+  "lastUpdatedISO": "2026-07-12T07:56:53.673982+08:00"
 }
