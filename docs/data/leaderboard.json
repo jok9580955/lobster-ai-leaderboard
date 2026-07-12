@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-13 05:52",
+  "lastUpdated": "2026-07-13 06:51",
   "arena": [
     {
       "rank": 1,
@@ -366,7 +366,7 @@
       "id": "deepseek-ai/DeepSeek-R1",
       "name": "DeepSeek-R1",
       "org": "deepseek-ai",
-      "likes": 13460,
+      "likes": 13461,
       "downloads": 8739585,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -451,7 +451,7 @@
       "id": "openai/gpt-oss-120b",
       "name": "gpt-oss-120b",
       "org": "openai",
-      "likes": 4965,
+      "likes": 4966,
       "downloads": 4420084,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -570,7 +570,7 @@
       "id": "zai-org/GLM-5.2",
       "name": "GLM-5.2",
       "org": "zai-org",
-      "likes": 3852,
+      "likes": 3854,
       "downloads": 441413,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -671,7 +671,7 @@
       "id": "bigcode/starcoder",
       "name": "starcoder",
       "org": "bigcode",
-      "likes": 2972,
+      "likes": 2973,
       "downloads": 21667,
       "license": "Bigcode Openrail M",
       "pipeline_tag": "text-generation",
@@ -1008,7 +1008,7 @@
       "id": "deepseek-ai/DeepSeek-R1",
       "name": "DeepSeek-R1",
       "org": "deepseek-ai",
-      "likes": 13460,
+      "likes": 13461,
       "downloads": 8739585,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -1240,7 +1240,7 @@
       "id": "openai/gpt-oss-120b",
       "name": "gpt-oss-120b",
       "org": "openai",
-      "likes": 4965,
+      "likes": 4966,
       "downloads": 4420084,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1371,19 +1371,19 @@
   "trending": [
     {
       "id": "tencent/Hy3",
-      "likes": 714,
+      "likes": 717,
       "downloads": 8655,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
-      "likes": 2041,
+      "likes": 2043,
       "downloads": 1967677,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "zai-org/GLM-5.2",
-      "likes": 3852,
+      "likes": 3854,
       "downloads": 441413,
       "pipeline_tag": "text-generation"
     },
@@ -1395,31 +1395,31 @@
     },
     {
       "id": "InternScience/Agents-A1",
-      "likes": 506,
+      "likes": 507,
       "downloads": 29038,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "conradlocke/krea2-identity-edit",
-      "likes": 207,
+      "likes": 208,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "froggeric/Qwen-Fixed-Chat-Templates",
-      "likes": 861,
+      "likes": 862,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "baidu/Unlimited-OCR",
-      "likes": 1941,
+      "likes": 1942,
       "downloads": 1430656,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-      "likes": 2672,
+      "likes": 2673,
       "downloads": 2596384,
       "pipeline_tag": "image-text-to-text"
     },
@@ -1443,7 +1443,7 @@
     },
     {
       "id": "smolagents/hf-realtime-voice",
-      "likes": 370,
+      "likes": 371,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1467,7 +1467,7 @@
     },
     {
       "id": "kulkas2pintu/wan555",
-      "likes": 472,
+      "likes": 473,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1538,17 +1538,17 @@
       "pipeline_tag": ""
     },
     {
-      "id": "r3gm/wan2-2-fp8da-aoti-preview-2c",
-      "likes": 2026,
+      "id": "selfit-camera/Omni-Image-Editor",
+      "likes": 2116,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
-      "id": "selfit-camera/Omni-Image-Editor",
-      "likes": 2115,
+      "id": "r3gm/wan2-2-fp8da-aoti-preview-2c",
+      "likes": 2026,
       "downloads": 0,
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-07-13T05:52:59.452700+08:00"
+  "lastUpdatedISO": "2026-07-13T06:51:57.779581+08:00"
 }
