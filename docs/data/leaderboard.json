@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-12 22:58",
+  "lastUpdated": "2026-07-13 00:04",
   "arena": [
     {
       "rank": 1,
@@ -570,7 +570,7 @@
       "id": "zai-org/GLM-5.2",
       "name": "GLM-5.2",
       "org": "zai-org",
-      "likes": 3847,
+      "likes": 3848,
       "downloads": 441413,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -722,7 +722,7 @@
       "id": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
       "name": "gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
       "org": "yuxinlu1",
-      "likes": 2688,
+      "likes": 2689,
       "downloads": 726600,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1308,7 +1308,7 @@
       "id": "Qwen/Qwen2-1.5B-Instruct",
       "name": "Qwen2-1.5B-Instruct",
       "org": "Qwen",
-      "likes": 162,
+      "likes": 163,
       "downloads": 3863947,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1377,25 +1377,25 @@
     },
     {
       "id": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
-      "likes": 2033,
+      "likes": 2034,
       "downloads": 1967677,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "zai-org/GLM-5.2",
-      "likes": 3847,
+      "likes": 3848,
       "downloads": 441413,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "bottlecapai/ThinkingCap-Qwen3.6-27B",
-      "likes": 247,
+      "likes": 250,
       "downloads": 4463,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "InternScience/Agents-A1",
-      "likes": 501,
+      "likes": 502,
       "downloads": 29038,
       "pipeline_tag": "text-generation"
     },
@@ -1407,7 +1407,7 @@
     },
     {
       "id": "conradlocke/krea2-identity-edit",
-      "likes": 202,
+      "likes": 204,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1418,16 +1418,16 @@
       "pipeline_tag": "image-text-to-text"
     },
     {
-      "id": "meituan-longcat/LongCat-2.0",
-      "likes": 179,
-      "downloads": 1767,
-      "pipeline_tag": "text-generation"
-    },
-    {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
       "likes": 2667,
       "downloads": 2596384,
       "pipeline_tag": "image-text-to-text"
+    },
+    {
+      "id": "meituan-longcat/LongCat-2.0",
+      "likes": 181,
+      "downloads": 1767,
+      "pipeline_tag": "text-generation"
     },
     {
       "id": "markov-ai/gaming-500-hours",
@@ -1443,7 +1443,7 @@
     },
     {
       "id": "smolagents/hf-realtime-voice",
-      "likes": 368,
+      "likes": 369,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1455,19 +1455,19 @@
     },
     {
       "id": "Sneak-Moose/Pro-Realism-Edit-Studio",
-      "likes": 528,
+      "likes": 531,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "FlyRank/internship-warehouse",
-      "likes": 125,
+      "likes": 127,
       "downloads": 468,
       "pipeline_tag": ""
     },
     {
       "id": "kulkas2pintu/wan555",
-      "likes": 467,
+      "likes": 468,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1497,13 +1497,13 @@
     },
     {
       "id": "netflix/Vera-Layered-Video-Dataset",
-      "likes": 24,
+      "likes": 25,
       "downloads": 12711,
       "pipeline_tag": ""
     },
     {
       "id": "victor/gemma-avatar",
-      "likes": 74,
+      "likes": 75,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1527,7 +1527,7 @@
     },
     {
       "id": "mrfakename/Z-Image-Turbo",
-      "likes": 3537,
+      "likes": 3538,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1550,5 +1550,5 @@
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-07-12T22:58:16.181541+08:00"
+  "lastUpdatedISO": "2026-07-13T00:04:40.811627+08:00"
 }
