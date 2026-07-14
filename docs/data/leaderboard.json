@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-14 22:53",
+  "lastUpdated": "2026-07-15 00:17",
   "arena": [
     {
       "rank": 1,
@@ -366,7 +366,7 @@
       "id": "deepseek-ai/DeepSeek-R1",
       "name": "DeepSeek-R1",
       "org": "deepseek-ai",
-      "likes": 13467,
+      "likes": 13468,
       "downloads": 8888471,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -400,7 +400,7 @@
       "id": "meta-llama/Llama-3.1-8B-Instruct",
       "name": "Llama-3.1-8B-Instruct",
       "org": "meta-llama",
-      "likes": 6304,
+      "likes": 6305,
       "downloads": 8510091,
       "license": "Llama3.1",
       "pipeline_tag": "text-generation",
@@ -468,7 +468,7 @@
       "id": "openai/gpt-oss-20b",
       "name": "gpt-oss-20b",
       "org": "openai",
-      "likes": 4796,
+      "likes": 4797,
       "downloads": 7294171,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -570,7 +570,7 @@
       "id": "zai-org/GLM-5.2",
       "name": "GLM-5.2",
       "org": "zai-org",
-      "likes": 3935,
+      "likes": 3937,
       "downloads": 489611,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -957,7 +957,7 @@
       "id": "Qwen/Qwen2.5-1.5B-Instruct",
       "name": "Qwen2.5-1.5B-Instruct",
       "org": "Qwen",
-      "likes": 768,
+      "likes": 769,
       "downloads": 12561436,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1008,7 +1008,7 @@
       "id": "deepseek-ai/DeepSeek-R1",
       "name": "DeepSeek-R1",
       "org": "deepseek-ai",
-      "likes": 13467,
+      "likes": 13468,
       "downloads": 8888471,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -1025,7 +1025,7 @@
       "id": "nvidia/Qwen3.6-35B-A3B-NVFP4",
       "name": "Qwen3.6-35B-A3B-NVFP4",
       "org": "nvidia",
-      "likes": 463,
+      "likes": 464,
       "downloads": 8582672,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1042,7 +1042,7 @@
       "id": "meta-llama/Llama-3.1-8B-Instruct",
       "name": "Llama-3.1-8B-Instruct",
       "org": "meta-llama",
-      "likes": 6304,
+      "likes": 6305,
       "downloads": 8510091,
       "license": "Llama3.1",
       "pipeline_tag": "text-generation",
@@ -1059,7 +1059,7 @@
       "id": "openai/gpt-oss-20b",
       "name": "gpt-oss-20b",
       "org": "openai",
-      "likes": 4796,
+      "likes": 4797,
       "downloads": 7294171,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1225,7 +1225,7 @@
       "id": "Qwen/Qwen3-14B",
       "name": "Qwen3-14B",
       "org": "Qwen",
-      "likes": 421,
+      "likes": 422,
       "downloads": 4585938,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1371,7 +1371,7 @@
   "trending": [
     {
       "id": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
-      "likes": 2121,
+      "likes": 2126,
       "downloads": 2006265,
       "pipeline_tag": "image-text-to-text"
     },
@@ -1383,21 +1383,27 @@
     },
     {
       "id": "zai-org/GLM-5.2",
-      "likes": 3935,
+      "likes": 3937,
       "downloads": 489611,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "conradlocke/krea2-identity-edit",
-      "likes": 278,
+      "likes": 281,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "bottlecapai/ThinkingCap-Qwen3.6-27B",
-      "likes": 332,
+      "likes": 333,
       "downloads": 6208,
       "pipeline_tag": "image-text-to-text"
+    },
+    {
+      "id": "OpenMOSS-Team/MOSS-Transcribe-Diarize",
+      "likes": 176,
+      "downloads": 65109,
+      "pipeline_tag": "audio-text-to-text"
     },
     {
       "id": "GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF",
@@ -1406,14 +1412,8 @@
       "pipeline_tag": "text-generation"
     },
     {
-      "id": "OpenMOSS-Team/MOSS-Transcribe-Diarize",
-      "likes": 173,
-      "downloads": 65109,
-      "pipeline_tag": "audio-text-to-text"
-    },
-    {
       "id": "InternScience/Agents-A1",
-      "likes": 533,
+      "likes": 534,
       "downloads": 30539,
       "pipeline_tag": "text-generation"
     },
@@ -1431,19 +1431,19 @@
     },
     {
       "id": "LiquidAI/antidoom-mix-v1.0",
-      "likes": 80,
+      "likes": 82,
       "downloads": 472,
       "pipeline_tag": ""
     },
     {
       "id": "markov-ai/gaming-500-hours",
-      "likes": 156,
+      "likes": 157,
       "downloads": 26068,
       "pipeline_tag": ""
     },
     {
       "id": "FlyRank/internship-warehouse",
-      "likes": 180,
+      "likes": 182,
       "downloads": 573,
       "pipeline_tag": ""
     },
@@ -1454,14 +1454,14 @@
       "pipeline_tag": ""
     },
     {
-      "id": "smolagents/hf-realtime-voice",
-      "likes": 383,
+      "id": "kulkas2pintu/wan555",
+      "likes": 500,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
-      "id": "kulkas2pintu/wan555",
-      "likes": 500,
+      "id": "smolagents/hf-realtime-voice",
+      "likes": 383,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1496,27 +1496,27 @@
       "pipeline_tag": ""
     },
     {
-      "id": "victor/gemma-avatar",
-      "likes": 94,
-      "downloads": 0,
-      "pipeline_tag": ""
-    },
-    {
       "id": "LiquidAI/ifstruct-v1.0",
       "likes": 74,
       "downloads": 729,
       "pipeline_tag": ""
     },
     {
-      "id": "Crownelius/Complete-FABLE.5-traces-2M",
-      "likes": 96,
-      "downloads": 9078,
+      "id": "victor/gemma-avatar",
+      "likes": 94,
+      "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "jasfn/LTX-2.3-10Eros",
-      "likes": 141,
+      "likes": 143,
       "downloads": 0,
+      "pipeline_tag": ""
+    },
+    {
+      "id": "Crownelius/Complete-FABLE.5-traces-2M",
+      "likes": 96,
+      "downloads": 9078,
       "pipeline_tag": ""
     },
     {
@@ -1539,7 +1539,7 @@
     },
     {
       "id": "HuggingFaceM4/hugging-voice",
-      "likes": 35,
+      "likes": 36,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1550,5 +1550,5 @@
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-07-14T22:53:28.522624+08:00"
+  "lastUpdatedISO": "2026-07-15T00:17:02.339657+08:00"
 }
