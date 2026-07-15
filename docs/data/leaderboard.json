@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-16 06:02",
+  "lastUpdated": "2026-07-16 07:59",
   "arena": [
     {
       "rank": 1,
@@ -400,7 +400,7 @@
       "id": "meta-llama/Llama-3.1-8B-Instruct",
       "name": "Llama-3.1-8B-Instruct",
       "org": "meta-llama",
-      "likes": 6310,
+      "likes": 6309,
       "downloads": 8510091,
       "license": "Llama3.1",
       "pipeline_tag": "text-generation",
@@ -417,7 +417,7 @@
       "id": "deepseek-ai/DeepSeek-V4-Pro",
       "name": "DeepSeek-V4-Pro",
       "org": "deepseek-ai",
-      "likes": 5227,
+      "likes": 5229,
       "downloads": 1431875,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -468,7 +468,7 @@
       "id": "openai/gpt-oss-20b",
       "name": "gpt-oss-20b",
       "org": "openai",
-      "likes": 4797,
+      "likes": 4798,
       "downloads": 7294171,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -502,7 +502,7 @@
       "id": "meta-llama/Meta-Llama-3-8B-Instruct",
       "name": "Meta-Llama-3-8B-Instruct",
       "org": "meta-llama",
-      "likes": 4716,
+      "likes": 4717,
       "downloads": 1459200,
       "license": "Llama3",
       "pipeline_tag": "text-generation",
@@ -570,7 +570,7 @@
       "id": "zai-org/GLM-5.2",
       "name": "GLM-5.2",
       "org": "zai-org",
-      "likes": 3989,
+      "likes": 3994,
       "downloads": 489611,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -839,7 +839,7 @@
       "id": "meta-llama/Llama-3.2-3B-Instruct",
       "name": "Llama-3.2-3B-Instruct",
       "org": "meta-llama",
-      "likes": 2335,
+      "likes": 2336,
       "downloads": 2148112,
       "license": "Llama3.2",
       "pipeline_tag": "text-generation",
@@ -991,7 +991,7 @@
       "id": "meta-llama/Llama-3.2-1B-Instruct",
       "name": "Llama-3.2-1B-Instruct",
       "org": "meta-llama",
-      "likes": 1528,
+      "likes": 1529,
       "downloads": 9931164,
       "license": "Llama3.2",
       "pipeline_tag": "text-generation",
@@ -1042,7 +1042,7 @@
       "id": "meta-llama/Llama-3.1-8B-Instruct",
       "name": "Llama-3.1-8B-Instruct",
       "org": "meta-llama",
-      "likes": 6310,
+      "likes": 6309,
       "downloads": 8510091,
       "license": "Llama3.1",
       "pipeline_tag": "text-generation",
@@ -1059,7 +1059,7 @@
       "id": "openai/gpt-oss-20b",
       "name": "gpt-oss-20b",
       "org": "openai",
-      "likes": 4797,
+      "likes": 4798,
       "downloads": 7294171,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1371,31 +1371,31 @@
   "trending": [
     {
       "id": "prism-ml/Ternary-Bonsai-27B-gguf",
-      "likes": 444,
+      "likes": 459,
       "downloads": 23,
       "pipeline_tag": "text-generation"
     },
     {
-      "id": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
-      "likes": 2210,
-      "downloads": 2006265,
-      "pipeline_tag": "image-text-to-text"
-    },
-    {
       "id": "thinkingmachines/Inkling",
-      "likes": 274,
+      "likes": 314,
       "downloads": 0,
       "pipeline_tag": "image-text-to-text"
     },
     {
+      "id": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+      "likes": 2212,
+      "downloads": 2006265,
+      "pipeline_tag": "image-text-to-text"
+    },
+    {
       "id": "zai-org/GLM-5.2",
-      "likes": 3989,
+      "likes": 3994,
       "downloads": 489611,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "prism-ml/Bonsai-27B-gguf",
-      "likes": 255,
+      "likes": 262,
       "downloads": 513,
       "pipeline_tag": "text-generation"
     },
@@ -1406,26 +1406,26 @@
       "pipeline_tag": "image-text-to-text"
     },
     {
+      "id": "conradlocke/krea2-identity-edit",
+      "likes": 307,
+      "downloads": 0,
+      "pipeline_tag": ""
+    },
+    {
       "id": "tencent/Hy3",
       "likes": 799,
       "downloads": 10406,
       "pipeline_tag": "text-generation"
     },
     {
-      "id": "conradlocke/krea2-identity-edit",
-      "likes": 306,
-      "downloads": 0,
-      "pipeline_tag": ""
-    },
-    {
       "id": "OpenMOSS-Team/MOSS-Transcribe-Diarize",
-      "likes": 211,
+      "likes": 212,
       "downloads": 65109,
       "pipeline_tag": "audio-text-to-text"
     },
     {
       "id": "GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF",
-      "likes": 246,
+      "likes": 247,
       "downloads": 89892,
       "pipeline_tag": "text-generation"
     },
@@ -1437,13 +1437,13 @@
     },
     {
       "id": "markov-ai/gaming-500-hours",
-      "likes": 164,
+      "likes": 166,
       "downloads": 26068,
       "pipeline_tag": ""
     },
     {
       "id": "LiquidAI/antidoom-mix-v1.0",
-      "likes": 89,
+      "likes": 90,
       "downloads": 472,
       "pipeline_tag": ""
     },
@@ -1455,13 +1455,13 @@
     },
     {
       "id": "webml-community/bonsai-webgpu-kernels",
-      "likes": 117,
+      "likes": 118,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "kulkas2pintu/wan555",
-      "likes": 527,
+      "likes": 528,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1479,7 +1479,7 @@
     },
     {
       "id": "smolagents/hf-realtime-voice",
-      "likes": 390,
+      "likes": 391,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1497,7 +1497,7 @@
     },
     {
       "id": "jasfn/LTX-2.3-10Eros",
-      "likes": 157,
+      "likes": 156,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1527,7 +1527,13 @@
     },
     {
       "id": "selfit-camera/Omni-Image-Editor",
-      "likes": 2134,
+      "likes": 2135,
+      "downloads": 0,
+      "pipeline_tag": ""
+    },
+    {
+      "id": "ICML-2026-agent-repro/challenge",
+      "likes": 40,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1542,13 +1548,7 @@
       "likes": 3557,
       "downloads": 0,
       "pipeline_tag": ""
-    },
-    {
-      "id": "HuggingFaceM4/hugging-voice",
-      "likes": 38,
-      "downloads": 0,
-      "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-07-16T06:02:51.183354+08:00"
+  "lastUpdatedISO": "2026-07-16T07:59:35.911238+08:00"
 }
