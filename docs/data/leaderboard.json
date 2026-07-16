@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-16 07:59",
+  "lastUpdated": "2026-07-16 11:28",
   "arena": [
     {
       "rank": 1,
@@ -570,7 +570,7 @@
       "id": "zai-org/GLM-5.2",
       "name": "GLM-5.2",
       "org": "zai-org",
-      "likes": 3994,
+      "likes": 4003,
       "downloads": 489611,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -705,7 +705,7 @@
       "id": "meta-llama/Llama-3.3-70B-Instruct",
       "name": "Llama-3.3-70B-Instruct",
       "org": "meta-llama",
-      "likes": 2894,
+      "likes": 2895,
       "downloads": 758253,
       "license": "Llama3.3",
       "pipeline_tag": "text-generation",
@@ -790,7 +790,7 @@
       "id": "xai-org/grok-1",
       "name": "grok-1",
       "org": "xai-org",
-      "likes": 2423,
+      "likes": 2424,
       "downloads": 239,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -856,7 +856,7 @@
       "id": "meta-llama/Llama-3.1-8B",
       "name": "Llama-3.1-8B",
       "org": "meta-llama",
-      "likes": 2322,
+      "likes": 2323,
       "downloads": 1639823,
       "license": "Llama3.1",
       "pipeline_tag": "text-generation",
@@ -875,7 +875,7 @@
       "id": "Qwen/Qwen3-0.6B",
       "name": "Qwen3-0.6B",
       "org": "Qwen",
-      "likes": 1412,
+      "likes": 1413,
       "downloads": 27190743,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -957,7 +957,7 @@
       "id": "Qwen/Qwen2.5-1.5B-Instruct",
       "name": "Qwen2.5-1.5B-Instruct",
       "org": "Qwen",
-      "likes": 769,
+      "likes": 770,
       "downloads": 12561436,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1109,7 +1109,7 @@
       "id": "Qwen/Qwen3-4B",
       "name": "Qwen3-4B",
       "org": "Qwen",
-      "likes": 656,
+      "likes": 657,
       "downloads": 5959672,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1371,37 +1371,37 @@
   "trending": [
     {
       "id": "prism-ml/Ternary-Bonsai-27B-gguf",
-      "likes": 459,
+      "likes": 478,
       "downloads": 23,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "thinkingmachines/Inkling",
-      "likes": 314,
+      "likes": 419,
       "downloads": 0,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
-      "likes": 2212,
+      "likes": 2218,
       "downloads": 2006265,
       "pipeline_tag": "image-text-to-text"
     },
     {
-      "id": "zai-org/GLM-5.2",
-      "likes": 3994,
-      "downloads": 489611,
-      "pipeline_tag": "text-generation"
-    },
-    {
       "id": "prism-ml/Bonsai-27B-gguf",
-      "likes": 262,
+      "likes": 272,
       "downloads": 513,
       "pipeline_tag": "text-generation"
     },
     {
+      "id": "zai-org/GLM-5.2",
+      "likes": 4003,
+      "downloads": 489611,
+      "pipeline_tag": "text-generation"
+    },
+    {
       "id": "bottlecapai/ThinkingCap-Qwen3.6-27B",
-      "likes": 364,
+      "likes": 368,
       "downloads": 6208,
       "pipeline_tag": "image-text-to-text"
     },
@@ -1412,32 +1412,32 @@
       "pipeline_tag": ""
     },
     {
-      "id": "tencent/Hy3",
-      "likes": 799,
-      "downloads": 10406,
-      "pipeline_tag": "text-generation"
-    },
-    {
       "id": "OpenMOSS-Team/MOSS-Transcribe-Diarize",
-      "likes": 212,
+      "likes": 215,
       "downloads": 65109,
       "pipeline_tag": "audio-text-to-text"
     },
     {
+      "id": "tencent/Hy3",
+      "likes": 801,
+      "downloads": 10406,
+      "pipeline_tag": "text-generation"
+    },
+    {
       "id": "GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF",
-      "likes": 247,
+      "likes": 250,
       "downloads": 89892,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "FlyRank/internship-warehouse",
-      "likes": 222,
+      "likes": 224,
       "downloads": 573,
       "pipeline_tag": ""
     },
     {
       "id": "markov-ai/gaming-500-hours",
-      "likes": 166,
+      "likes": 167,
       "downloads": 26068,
       "pipeline_tag": ""
     },
@@ -1448,38 +1448,44 @@
       "pipeline_tag": ""
     },
     {
-      "id": "Sneak-Moose/Pro-Realism-Edit-Studio",
-      "likes": 606,
+      "id": "webml-community/bonsai-webgpu-kernels",
+      "likes": 127,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
-      "id": "webml-community/bonsai-webgpu-kernels",
-      "likes": 118,
+      "id": "Sneak-Moose/Pro-Realism-Edit-Studio",
+      "likes": 607,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "kulkas2pintu/wan555",
-      "likes": 528,
+      "likes": 530,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "openbmb/UltraX-Preview",
-      "likes": 48,
+      "likes": 49,
       "downloads": 651,
       "pipeline_tag": ""
     },
     {
       "id": "Glint-Research/Fable-5-traces",
-      "likes": 613,
+      "likes": 615,
       "downloads": 74344,
       "pipeline_tag": ""
     },
     {
+      "id": "AlicanKiraz0/Turkce-Atlas-Instruct",
+      "likes": 29,
+      "downloads": 52,
+      "pipeline_tag": ""
+    },
+    {
       "id": "smolagents/hf-realtime-voice",
-      "likes": 391,
+      "likes": 394,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1490,15 +1496,21 @@
       "pipeline_tag": ""
     },
     {
-      "id": "AlicanKiraz0/Turkce-Atlas-Instruct",
-      "likes": 28,
-      "downloads": 52,
+      "id": "jasfn/LTX-2.3-10Eros",
+      "likes": 157,
+      "downloads": 0,
       "pipeline_tag": ""
     },
     {
-      "id": "jasfn/LTX-2.3-10Eros",
-      "likes": 156,
-      "downloads": 0,
+      "id": "sensenova/SenseNova-Vision-Corpus-50M",
+      "likes": 31,
+      "downloads": 4806,
+      "pipeline_tag": ""
+    },
+    {
+      "id": "Crownelius/Complete-FABLE.5-traces-2M",
+      "likes": 104,
+      "downloads": 9078,
       "pipeline_tag": ""
     },
     {
@@ -1508,47 +1520,35 @@
       "pipeline_tag": ""
     },
     {
-      "id": "sensenova/SenseNova-Vision-Corpus-50M",
-      "likes": 29,
-      "downloads": 4806,
-      "pipeline_tag": ""
-    },
-    {
-      "id": "Crownelius/Complete-FABLE.5-traces-2M",
-      "likes": 102,
-      "downloads": 9078,
-      "pipeline_tag": ""
-    },
-    {
       "id": "victor/gemma-avatar",
-      "likes": 102,
+      "likes": 104,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "selfit-camera/Omni-Image-Editor",
-      "likes": 2135,
+      "likes": 2137,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "ICML-2026-agent-repro/challenge",
-      "likes": 40,
+      "likes": 44,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "ATH-MaaS/OvisOCR2",
-      "likes": 40,
+      "likes": 42,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
-      "id": "mrfakename/Z-Image-Turbo",
-      "likes": 3557,
+      "id": "HuggingFaceM4/hugging-voice",
+      "likes": 38,
       "downloads": 0,
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-07-16T07:59:35.911238+08:00"
+  "lastUpdatedISO": "2026-07-16T11:28:56.876390+08:00"
 }
