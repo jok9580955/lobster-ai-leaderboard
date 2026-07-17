@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-17 06:58",
+  "lastUpdated": "2026-07-17 08:05",
   "arena": [
     {
       "rank": 1,
@@ -400,7 +400,7 @@
       "id": "meta-llama/Llama-3.1-8B-Instruct",
       "name": "Llama-3.1-8B-Instruct",
       "org": "meta-llama",
-      "likes": 6321,
+      "likes": 6322,
       "downloads": 8221617,
       "license": "Llama3.1",
       "pipeline_tag": "text-generation",
@@ -570,7 +570,7 @@
       "id": "zai-org/GLM-5.2",
       "name": "GLM-5.2",
       "org": "zai-org",
-      "likes": 4028,
+      "likes": 4029,
       "downloads": 513061,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -739,7 +739,7 @@
       "id": "meta-llama/Llama-3.2-1B",
       "name": "Llama-3.2-1B",
       "org": "meta-llama",
-      "likes": 2490,
+      "likes": 2491,
       "downloads": 1718708,
       "license": "Llama3.2",
       "pipeline_tag": "text-generation",
@@ -819,6 +819,23 @@
       "created_at": "2025-07-11T00:55:12.000Z"
     },
     {
+      "id": "meta-llama/Llama-3.2-3B-Instruct",
+      "name": "Llama-3.2-3B-Instruct",
+      "org": "meta-llama",
+      "likes": 2345,
+      "downloads": 2103044,
+      "license": "Llama3.2",
+      "pipeline_tag": "text-generation",
+      "tags": [
+        "llama",
+        "text-generation",
+        "facebook",
+        "meta",
+        "llama-3"
+      ],
+      "created_at": "2024-09-18T15:19:20.000Z"
+    },
+    {
       "id": "meta-llama/Llama-2-7b-hf",
       "name": "Llama-2-7b-hf",
       "org": "meta-llama",
@@ -834,23 +851,6 @@
         "llama-2"
       ],
       "created_at": "2023-07-13T16:16:13.000Z"
-    },
-    {
-      "id": "meta-llama/Llama-3.2-3B-Instruct",
-      "name": "Llama-3.2-3B-Instruct",
-      "org": "meta-llama",
-      "likes": 2344,
-      "downloads": 2103044,
-      "license": "Llama3.2",
-      "pipeline_tag": "text-generation",
-      "tags": [
-        "llama",
-        "text-generation",
-        "facebook",
-        "meta",
-        "llama-3"
-      ],
-      "created_at": "2024-09-18T15:19:20.000Z"
     },
     {
       "id": "meta-llama/Llama-3.1-8B",
@@ -1042,7 +1042,7 @@
       "id": "meta-llama/Llama-3.1-8B-Instruct",
       "name": "Llama-3.1-8B-Instruct",
       "org": "meta-llama",
-      "likes": 6321,
+      "likes": 6322,
       "downloads": 8221617,
       "license": "Llama3.1",
       "pipeline_tag": "text-generation",
@@ -1371,31 +1371,31 @@
   "trending": [
     {
       "id": "thinkingmachines/Inkling",
-      "likes": 791,
+      "likes": 798,
       "downloads": 4,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "prism-ml/Ternary-Bonsai-27B-gguf",
-      "likes": 592,
+      "likes": 596,
       "downloads": 74007,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "prism-ml/Bonsai-27B-gguf",
-      "likes": 335,
+      "likes": 336,
       "downloads": 559267,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
-      "likes": 2233,
+      "likes": 2235,
       "downloads": 2042670,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "zai-org/GLM-5.2",
-      "likes": 4028,
+      "likes": 4029,
       "downloads": 513061,
       "pipeline_tag": "text-generation"
     },
@@ -1407,13 +1407,13 @@
     },
     {
       "id": "conradlocke/krea2-identity-edit",
-      "likes": 320,
+      "likes": 322,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "tencent/Hy3",
-      "likes": 812,
+      "likes": 813,
       "downloads": 11849,
       "pipeline_tag": "text-generation"
     },
@@ -1425,7 +1425,7 @@
     },
     {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-      "likes": 2785,
+      "likes": 2786,
       "downloads": 2328315,
       "pipeline_tag": "image-text-to-text"
     },
@@ -1437,13 +1437,13 @@
     },
     {
       "id": "openbmb/UltraX-Preview",
-      "likes": 99,
+      "likes": 105,
       "downloads": 1894,
       "pipeline_tag": ""
     },
     {
       "id": "webml-community/bonsai-webgpu-kernels",
-      "likes": 156,
+      "likes": 158,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1455,13 +1455,13 @@
     },
     {
       "id": "Sneak-Moose/Pro-Realism-Edit-Studio",
-      "likes": 631,
+      "likes": 633,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "LiquidAI/antidoom-mix-v1.0",
-      "likes": 91,
+      "likes": 95,
       "downloads": 674,
       "pipeline_tag": ""
     },
@@ -1485,7 +1485,7 @@
     },
     {
       "id": "ICML-2026-agent-repro/challenge",
-      "likes": 74,
+      "likes": 75,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1550,5 +1550,5 @@
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-07-17T06:58:06.864003+08:00"
+  "lastUpdatedISO": "2026-07-17T08:05:50.648641+08:00"
 }
