@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-18 04:57",
+  "lastUpdated": "2026-07-18 06:00",
   "arena": [
     {
       "rank": 1,
@@ -705,7 +705,7 @@
       "id": "meta-llama/Llama-3.3-70B-Instruct",
       "name": "Llama-3.3-70B-Instruct",
       "org": "meta-llama",
-      "likes": 2906,
+      "likes": 2907,
       "downloads": 735183,
       "license": "Llama3.3",
       "pipeline_tag": "text-generation",
@@ -1373,19 +1373,19 @@
   "trending": [
     {
       "id": "thinkingmachines/Inkling",
-      "likes": 937,
+      "likes": 945,
       "downloads": 7870,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "prism-ml/Ternary-Bonsai-27B-gguf",
-      "likes": 667,
+      "likes": 671,
       "downloads": 200774,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "prism-ml/Bonsai-27B-gguf",
-      "likes": 381,
+      "likes": 386,
       "downloads": 1045182,
       "pipeline_tag": "text-generation"
     },
@@ -1409,13 +1409,13 @@
     },
     {
       "id": "bottlecapai/ThinkingCap-Qwen3.6-27B",
-      "likes": 411,
+      "likes": 412,
       "downloads": 9383,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "conradlocke/krea2-identity-edit",
-      "likes": 341,
+      "likes": 342,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1433,13 +1433,13 @@
     },
     {
       "id": "ATH-MaaS/OvisOCR2",
-      "likes": 150,
+      "likes": 152,
       "downloads": 10795,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "webml-community/bonsai-webgpu-kernels",
-      "likes": 180,
+      "likes": 181,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1451,13 +1451,13 @@
     },
     {
       "id": "Sneak-Moose/Pro-Realism-Edit-Studio",
-      "likes": 657,
+      "likes": 658,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "markov-ai/gaming-500-hours",
-      "likes": 175,
+      "likes": 176,
       "downloads": 29415,
       "pipeline_tag": ""
     },
@@ -1469,7 +1469,7 @@
     },
     {
       "id": "kulkas2pintu/wan555",
-      "likes": 564,
+      "likes": 566,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1511,7 +1511,7 @@
     },
     {
       "id": "smolagents/hf-realtime-voice",
-      "likes": 402,
+      "likes": 403,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1522,15 +1522,15 @@
       "pipeline_tag": ""
     },
     {
-      "id": "SupraLabs/reasoning-corpus-4K-5M-v1",
-      "likes": 24,
-      "downloads": 205,
+      "id": "ATH-MaaS/OvisOCR2",
+      "likes": 52,
+      "downloads": 0,
       "pipeline_tag": ""
     },
     {
-      "id": "ATH-MaaS/OvisOCR2",
-      "likes": 51,
-      "downloads": 0,
+      "id": "SupraLabs/reasoning-corpus-4K-5M-v1",
+      "likes": 24,
+      "downloads": 205,
       "pipeline_tag": ""
     },
     {
@@ -1552,5 +1552,5 @@
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-07-18T04:57:57.112489+08:00"
+  "lastUpdatedISO": "2026-07-18T06:00:29.138940+08:00"
 }
