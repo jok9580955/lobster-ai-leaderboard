@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-19 05:52",
+  "lastUpdated": "2026-07-19 06:52",
   "arena": [
     {
       "rank": 1,
@@ -1373,33 +1373,33 @@
   "trending": [
     {
       "id": "thinkingmachines/Inkling",
-      "likes": 1056,
+      "likes": 1058,
       "downloads": 12456,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "prism-ml/Ternary-Bonsai-27B-gguf",
-      "likes": 726,
+      "likes": 730,
       "downloads": 301893,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "prism-ml/Bonsai-27B-gguf",
-      "likes": 440,
+      "likes": 441,
       "downloads": 1218815,
       "pipeline_tag": "text-generation"
+    },
+    {
+      "id": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+      "likes": 2314,
+      "downloads": 2112869,
+      "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "zai-org/GLM-5.2",
       "likes": 4125,
       "downloads": 541662,
       "pipeline_tag": "text-generation"
-    },
-    {
-      "id": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
-      "likes": 2312,
-      "downloads": 2112869,
-      "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "openbmb/UltraX-Preview",
@@ -1409,25 +1409,25 @@
     },
     {
       "id": "conradlocke/krea2-identity-edit",
-      "likes": 391,
+      "likes": 392,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "bottlecapai/ThinkingCap-Qwen3.6-27B",
-      "likes": 435,
+      "likes": 437,
       "downloads": 10445,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "ATH-MaaS/OvisOCR2",
-      "likes": 166,
+      "likes": 168,
       "downloads": 13750,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-      "likes": 2862,
+      "likes": 2863,
       "downloads": 2190398,
       "pipeline_tag": "image-text-to-text"
     },
@@ -1439,13 +1439,13 @@
     },
     {
       "id": "webml-community/bonsai-webgpu-kernels",
-      "likes": 196,
+      "likes": 198,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "FlyRank/internship-warehouse",
-      "likes": 281,
+      "likes": 282,
       "downloads": 1898,
       "pipeline_tag": ""
     },
@@ -1487,13 +1487,13 @@
     },
     {
       "id": "Glint-Research/Fable-5-traces",
-      "likes": 630,
+      "likes": 631,
       "downloads": 76922,
       "pipeline_tag": ""
     },
     {
       "id": "jasfn/LTX-2.3-10Eros",
-      "likes": 183,
+      "likes": 186,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1507,6 +1507,12 @@
       "id": "ATH-MaaS/OvisOCR2",
       "likes": 54,
       "downloads": 0,
+      "pipeline_tag": ""
+    },
+    {
+      "id": "SupraLabs/reasoning-corpus-4K-5M-v1",
+      "likes": 28,
+      "downloads": 391,
       "pipeline_tag": ""
     },
     {
@@ -1528,12 +1534,6 @@
       "pipeline_tag": ""
     },
     {
-      "id": "SupraLabs/reasoning-corpus-4K-5M-v1",
-      "likes": 27,
-      "downloads": 391,
-      "pipeline_tag": ""
-    },
-    {
       "id": "conradlocke/krea2-identity-edit",
       "likes": 65,
       "downloads": 0,
@@ -1552,5 +1552,5 @@
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-07-19T05:52:59.732225+08:00"
+  "lastUpdatedISO": "2026-07-19T06:52:34.256771+08:00"
 }
