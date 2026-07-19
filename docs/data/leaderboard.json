@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-20 01:58",
+  "lastUpdated": "2026-07-20 03:18",
   "arena": [
     {
       "rank": 1,
@@ -383,7 +383,7 @@
       "id": "meta-llama/Meta-Llama-3-8B",
       "name": "Meta-Llama-3-8B",
       "org": "meta-llama",
-      "likes": 6607,
+      "likes": 6608,
       "downloads": 1333961,
       "license": "Llama3",
       "pipeline_tag": "text-generation",
@@ -739,7 +739,7 @@
       "id": "meta-llama/Llama-3.2-1B",
       "name": "Llama-3.2-1B",
       "org": "meta-llama",
-      "likes": 2496,
+      "likes": 2498,
       "downloads": 1680980,
       "license": "Llama3.2",
       "pipeline_tag": "text-generation",
@@ -891,7 +891,7 @@
       "id": "Qwen/Qwen3-8B",
       "name": "Qwen3-8B",
       "org": "Qwen",
-      "likes": 1214,
+      "likes": 1215,
       "downloads": 16980225,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1174,7 +1174,7 @@
       "id": "Qwen/Qwen2.5-0.5B-Instruct",
       "name": "Qwen2.5-0.5B-Instruct",
       "org": "Qwen",
-      "likes": 557,
+      "likes": 558,
       "downloads": 4978058,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1258,7 +1258,7 @@
       "id": "google/gemma-3-1b-it",
       "name": "gemma-3-1b-it",
       "org": "google",
-      "likes": 1057,
+      "likes": 1058,
       "downloads": 3974832,
       "license": "Gemma",
       "pipeline_tag": "text-generation",
@@ -1373,19 +1373,19 @@
   "trending": [
     {
       "id": "thinkingmachines/Inkling",
-      "likes": 1129,
+      "likes": 1133,
       "downloads": 13462,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "prism-ml/Ternary-Bonsai-27B-gguf",
-      "likes": 778,
+      "likes": 780,
       "downloads": 338945,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "prism-ml/Bonsai-27B-gguf",
-      "likes": 481,
+      "likes": 484,
       "downloads": 1262894,
       "pipeline_tag": "text-generation"
     },
@@ -1403,13 +1403,13 @@
     },
     {
       "id": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
-      "likes": 2335,
+      "likes": 2336,
       "downloads": 2118995,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "conradlocke/krea2-identity-edit",
-      "likes": 414,
+      "likes": 416,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1427,7 +1427,7 @@
     },
     {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-      "likes": 2890,
+      "likes": 2893,
       "downloads": 2084530,
       "pipeline_tag": "image-text-to-text"
     },
@@ -1439,7 +1439,7 @@
     },
     {
       "id": "webml-community/bonsai-webgpu-kernels",
-      "likes": 206,
+      "likes": 210,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1451,13 +1451,13 @@
     },
     {
       "id": "Sneak-Moose/Pro-Realism-Edit-Studio",
-      "likes": 696,
+      "likes": 698,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "markov-ai/gaming-500-hours",
-      "likes": 186,
+      "likes": 187,
       "downloads": 31399,
       "pipeline_tag": ""
     },
@@ -1469,7 +1469,7 @@
     },
     {
       "id": "kulkas2pintu/wan555",
-      "likes": 601,
+      "likes": 603,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1493,7 +1493,7 @@
     },
     {
       "id": "jasfn/LTX-2.3-10Eros",
-      "likes": 197,
+      "likes": 198,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1529,7 +1529,13 @@
     },
     {
       "id": "conradlocke/krea2-identity-edit",
-      "likes": 68,
+      "likes": 69,
+      "downloads": 0,
+      "pipeline_tag": ""
+    },
+    {
+      "id": "victor/gemma-avatar",
+      "likes": 126,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1540,17 +1546,11 @@
       "pipeline_tag": ""
     },
     {
-      "id": "victor/gemma-avatar",
-      "likes": 125,
-      "downloads": 0,
-      "pipeline_tag": ""
-    },
-    {
       "id": "loveseries/wanmanlove",
-      "likes": 127,
+      "likes": 128,
       "downloads": 0,
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-07-20T01:58:16.998466+08:00"
+  "lastUpdatedISO": "2026-07-20T03:18:06.140508+08:00"
 }
