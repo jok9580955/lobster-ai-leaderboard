@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-20 06:54",
+  "lastUpdated": "2026-07-20 07:59",
   "arena": [
     {
       "rank": 1,
@@ -536,7 +536,7 @@
       "id": "zai-org/GLM-5.2",
       "name": "GLM-5.2",
       "org": "zai-org",
-      "likes": 4165,
+      "likes": 4166,
       "downloads": 536177,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -1373,7 +1373,7 @@
   "trending": [
     {
       "id": "thinkingmachines/Inkling",
-      "likes": 1143,
+      "likes": 1145,
       "downloads": 13462,
       "pipeline_tag": "image-text-to-text"
     },
@@ -1385,13 +1385,13 @@
     },
     {
       "id": "prism-ml/Bonsai-27B-gguf",
-      "likes": 488,
+      "likes": 490,
       "downloads": 1262894,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "zai-org/GLM-5.2",
-      "likes": 4165,
+      "likes": 4166,
       "downloads": 536177,
       "pipeline_tag": "text-generation"
     },
@@ -1403,43 +1403,43 @@
     },
     {
       "id": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
-      "likes": 2340,
+      "likes": 2343,
       "downloads": 2118995,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "conradlocke/krea2-identity-edit",
-      "likes": 421,
+      "likes": 423,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "baidu/Unlimited-OCR",
-      "likes": 2162,
+      "likes": 2170,
       "downloads": 2122848,
       "pipeline_tag": "image-text-to-text"
     },
     {
-      "id": "bottlecapai/ThinkingCap-Qwen3.6-27B",
-      "likes": 459,
-      "downloads": 10647,
-      "pipeline_tag": "image-text-to-text"
-    },
-    {
       "id": "ATH-MaaS/OvisOCR2",
-      "likes": 191,
+      "likes": 192,
       "downloads": 14587,
       "pipeline_tag": "image-text-to-text"
     },
     {
+      "id": "bottlecapai/ThinkingCap-Qwen3.6-27B",
+      "likes": 460,
+      "downloads": 10647,
+      "pipeline_tag": "image-text-to-text"
+    },
+    {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-      "likes": 2896,
+      "likes": 2898,
       "downloads": 2084530,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "webml-community/bonsai-webgpu-kernels",
-      "likes": 211,
+      "likes": 212,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1451,13 +1451,13 @@
     },
     {
       "id": "Sneak-Moose/Pro-Realism-Edit-Studio",
-      "likes": 703,
+      "likes": 704,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "markov-ai/gaming-500-hours",
-      "likes": 188,
+      "likes": 189,
       "downloads": 31399,
       "pipeline_tag": ""
     },
@@ -1469,7 +1469,7 @@
     },
     {
       "id": "kulkas2pintu/wan555",
-      "likes": 604,
+      "likes": 607,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1481,7 +1481,7 @@
     },
     {
       "id": "Glint-Research/Fable-5-traces",
-      "likes": 634,
+      "likes": 635,
       "downloads": 71989,
       "pipeline_tag": ""
     },
@@ -1504,20 +1504,20 @@
       "pipeline_tag": ""
     },
     {
+      "id": "armand0e/claude-fable-5-claude-code",
+      "likes": 326,
+      "downloads": 13521,
+      "pipeline_tag": ""
+    },
+    {
       "id": "sensenova/SenseNova-Vision-Corpus-50M",
       "likes": 39,
       "downloads": 13987,
       "pipeline_tag": ""
     },
     {
-      "id": "armand0e/claude-fable-5-claude-code",
-      "likes": 325,
-      "downloads": 13521,
-      "pipeline_tag": ""
-    },
-    {
       "id": "ATH-MaaS/OvisOCR2",
-      "likes": 57,
+      "likes": 58,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1535,7 +1535,7 @@
     },
     {
       "id": "victor/gemma-avatar",
-      "likes": 129,
+      "likes": 130,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1552,5 +1552,5 @@
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-07-20T06:54:48.199623+08:00"
+  "lastUpdatedISO": "2026-07-20T07:59:38.731478+08:00"
 }
