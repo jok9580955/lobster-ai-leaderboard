@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-20 21:07",
+  "lastUpdated": "2026-07-20 23:52",
   "arena": [
     {
       "rank": 1,
@@ -366,7 +366,7 @@
       "id": "deepseek-ai/DeepSeek-R1",
       "name": "DeepSeek-R1",
       "org": "deepseek-ai",
-      "likes": 13486,
+      "likes": 13487,
       "downloads": 8580743,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -383,7 +383,7 @@
       "id": "meta-llama/Meta-Llama-3-8B",
       "name": "Meta-Llama-3-8B",
       "org": "meta-llama",
-      "likes": 6611,
+      "likes": 6612,
       "downloads": 1310375,
       "license": "Llama3",
       "pipeline_tag": "text-generation",
@@ -400,7 +400,7 @@
       "id": "meta-llama/Llama-3.1-8B-Instruct",
       "name": "Llama-3.1-8B-Instruct",
       "org": "meta-llama",
-      "likes": 6354,
+      "likes": 6355,
       "downloads": 7911617,
       "license": "Llama3.1",
       "pipeline_tag": "text-generation",
@@ -417,7 +417,7 @@
       "id": "deepseek-ai/DeepSeek-V4-Pro",
       "name": "DeepSeek-V4-Pro",
       "org": "deepseek-ai",
-      "likes": 5266,
+      "likes": 5267,
       "downloads": 1461358,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -451,7 +451,7 @@
       "id": "openai/gpt-oss-120b",
       "name": "gpt-oss-120b",
       "org": "openai",
-      "likes": 5002,
+      "likes": 5003,
       "downloads": 4362753,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -536,7 +536,7 @@
       "id": "zai-org/GLM-5.2",
       "name": "GLM-5.2",
       "org": "zai-org",
-      "likes": 4193,
+      "likes": 4204,
       "downloads": 531947,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -805,7 +805,7 @@
       "id": "moonshotai/Kimi-K2-Instruct",
       "name": "Kimi-K2-Instruct",
       "org": "moonshotai",
-      "likes": 2368,
+      "likes": 2369,
       "downloads": 211921,
       "license": "Other",
       "pipeline_tag": "text-generation",
@@ -1008,7 +1008,7 @@
       "id": "deepseek-ai/DeepSeek-R1",
       "name": "DeepSeek-R1",
       "org": "deepseek-ai",
-      "likes": 13486,
+      "likes": 13487,
       "downloads": 8580743,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -1042,7 +1042,7 @@
       "id": "meta-llama/Llama-3.1-8B-Instruct",
       "name": "Llama-3.1-8B-Instruct",
       "org": "meta-llama",
-      "likes": 6354,
+      "likes": 6355,
       "downloads": 7911617,
       "license": "Llama3.1",
       "pipeline_tag": "text-generation",
@@ -1224,7 +1224,7 @@
       "id": "openai/gpt-oss-120b",
       "name": "gpt-oss-120b",
       "org": "openai",
-      "likes": 5002,
+      "likes": 5003,
       "downloads": 4362753,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1291,7 +1291,7 @@
       "id": "Qwen/Qwen3-4B-Instruct-2507",
       "name": "Qwen3-4B-Instruct-2507",
       "org": "Qwen",
-      "likes": 899,
+      "likes": 900,
       "downloads": 3334195,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1356,7 +1356,7 @@
       "id": "zai-org/GLM-5.2-FP8",
       "name": "GLM-5.2-FP8",
       "org": "zai-org",
-      "likes": 223,
+      "likes": 225,
       "downloads": 2919638,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -1373,133 +1373,133 @@
   "trending": [
     {
       "id": "thinkingmachines/Inkling",
-      "likes": 1190,
+      "likes": 1209,
       "downloads": 13462,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "prism-ml/Ternary-Bonsai-27B-gguf",
-      "likes": 824,
+      "likes": 831,
       "downloads": 338945,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "prism-ml/Bonsai-27B-gguf",
-      "likes": 521,
+      "likes": 526,
       "downloads": 1262894,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "baidu/Unlimited-OCR",
-      "likes": 2313,
+      "likes": 2354,
       "downloads": 2122848,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "zai-org/GLM-5.2",
-      "likes": 4193,
+      "likes": 4204,
       "downloads": 531947,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
-      "likes": 2358,
+      "likes": 2361,
       "downloads": 2117323,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "openbmb/UltraX-Preview",
-      "likes": 235,
+      "likes": 236,
       "downloads": 2585,
       "pipeline_tag": ""
     },
     {
       "id": "conradlocke/krea2-identity-edit",
-      "likes": 441,
+      "likes": 446,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "bottlecapai/ThinkingCap-Qwen3.6-27B",
-      "likes": 471,
+      "likes": 475,
       "downloads": 10647,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-      "likes": 2916,
+      "likes": 2923,
       "downloads": 2007025,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "ATH-MaaS/OvisOCR2",
-      "likes": 207,
+      "likes": 211,
       "downloads": 14587,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "webml-community/bonsai-webgpu-kernels",
-      "likes": 221,
+      "likes": 222,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "FlyRank/internship-warehouse",
-      "likes": 292,
+      "likes": 295,
       "downloads": 2035,
       "pipeline_tag": ""
     },
     {
       "id": "Sneak-Moose/Pro-Realism-Edit-Studio",
-      "likes": 726,
+      "likes": 731,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "ICML-2026-agent-repro/challenge",
-      "likes": 120,
+      "likes": 125,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "kulkas2pintu/wan555",
-      "likes": 611,
+      "likes": 617,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "markov-ai/gaming-500-hours",
-      "likes": 191,
+      "likes": 192,
       "downloads": 31399,
       "pipeline_tag": ""
     },
     {
       "id": "LiquidAI/antidoom-mix-v1.0",
-      "likes": 104,
+      "likes": 107,
       "downloads": 791,
       "pipeline_tag": ""
     },
     {
       "id": "Glint-Research/Fable-5-traces",
-      "likes": 639,
+      "likes": 640,
       "downloads": 69843,
       "pipeline_tag": ""
     },
     {
       "id": "SupraLabs/reasoning-corpus-4K-5M-v1",
-      "likes": 37,
+      "likes": 40,
       "downloads": 413,
       "pipeline_tag": ""
     },
     {
       "id": "jasfn/LTX-2.3-10Eros",
-      "likes": 208,
+      "likes": 212,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "ATH-MaaS/OvisOCR2",
-      "likes": 60,
+      "likes": 61,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1510,27 +1510,27 @@
       "pipeline_tag": ""
     },
     {
+      "id": "roneneldan/TinyStories",
+      "likes": 1085,
+      "downloads": 79952,
+      "pipeline_tag": ""
+    },
+    {
       "id": "sensenova/SenseNova-Vision-Corpus-50M",
       "likes": 40,
       "downloads": 13987,
       "pipeline_tag": ""
     },
     {
+      "id": "wikimedia/wikipedia",
+      "likes": 1307,
+      "downloads": 227405,
+      "pipeline_tag": ""
+    },
+    {
       "id": "conradlocke/krea2-identity-edit",
       "likes": 78,
       "downloads": 0,
-      "pipeline_tag": ""
-    },
-    {
-      "id": "nvidia/Open-SWE-Traces",
-      "likes": 64,
-      "downloads": 8085,
-      "pipeline_tag": ""
-    },
-    {
-      "id": "AlicanKiraz0/Turkce-Atlas-Instruct",
-      "likes": 44,
-      "downloads": 222,
       "pipeline_tag": ""
     },
     {
@@ -1541,16 +1541,16 @@
     },
     {
       "id": "victor/gemma-avatar",
-      "likes": 133,
+      "likes": 134,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "hugging-apps/unise-speech-enhancement",
-      "likes": 51,
+      "likes": 52,
       "downloads": 0,
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-07-20T21:07:49.869149+08:00"
+  "lastUpdatedISO": "2026-07-20T23:52:05.780387+08:00"
 }
