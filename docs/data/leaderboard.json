@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-21 04:22",
+  "lastUpdated": "2026-07-21 06:01",
   "arena": [
     {
       "rank": 1,
@@ -366,7 +366,7 @@
       "id": "deepseek-ai/DeepSeek-R1",
       "name": "DeepSeek-R1",
       "org": "deepseek-ai",
-      "likes": 13489,
+      "likes": 13490,
       "downloads": 8580743,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -536,7 +536,7 @@
       "id": "zai-org/GLM-5.2",
       "name": "GLM-5.2",
       "org": "zai-org",
-      "likes": 4213,
+      "likes": 4218,
       "downloads": 531947,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -1008,7 +1008,7 @@
       "id": "deepseek-ai/DeepSeek-R1",
       "name": "DeepSeek-R1",
       "org": "deepseek-ai",
-      "likes": 13489,
+      "likes": 13490,
       "downloads": 8580743,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -1373,37 +1373,37 @@
   "trending": [
     {
       "id": "thinkingmachines/Inkling",
-      "likes": 1242,
+      "likes": 1251,
       "downloads": 13462,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "prism-ml/Ternary-Bonsai-27B-gguf",
-      "likes": 842,
+      "likes": 847,
       "downloads": 338945,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "prism-ml/Bonsai-27B-gguf",
-      "likes": 535,
+      "likes": 537,
       "downloads": 1262894,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "baidu/Unlimited-OCR",
-      "likes": 2407,
+      "likes": 2416,
       "downloads": 2122848,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "zai-org/GLM-5.2",
-      "likes": 4213,
+      "likes": 4218,
       "downloads": 531947,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
-      "likes": 2364,
+      "likes": 2365,
       "downloads": 2117323,
       "pipeline_tag": "image-text-to-text"
     },
@@ -1427,13 +1427,13 @@
     },
     {
       "id": "bottlecapai/ThinkingCap-Qwen3.6-27B",
-      "likes": 475,
+      "likes": 478,
       "downloads": 10647,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "ATH-MaaS/OvisOCR2",
-      "likes": 214,
+      "likes": 216,
       "downloads": 14587,
       "pipeline_tag": "image-text-to-text"
     },
@@ -1445,13 +1445,13 @@
     },
     {
       "id": "Sneak-Moose/Pro-Realism-Edit-Studio",
-      "likes": 738,
+      "likes": 740,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "FlyRank/internship-warehouse",
-      "likes": 298,
+      "likes": 299,
       "downloads": 2035,
       "pipeline_tag": ""
     },
@@ -1463,38 +1463,44 @@
     },
     {
       "id": "kulkas2pintu/wan555",
-      "likes": 624,
+      "likes": 626,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "markov-ai/gaming-500-hours",
-      "likes": 192,
+      "likes": 193,
       "downloads": 31399,
       "pipeline_tag": ""
     },
     {
       "id": "LiquidAI/antidoom-mix-v1.0",
-      "likes": 109,
+      "likes": 110,
       "downloads": 791,
       "pipeline_tag": ""
     },
     {
-      "id": "Glint-Research/Fable-5-traces",
-      "likes": 641,
-      "downloads": 69843,
-      "pipeline_tag": ""
-    },
-    {
       "id": "SupraLabs/reasoning-corpus-4K-5M-v1",
-      "likes": 41,
+      "likes": 43,
       "downloads": 413,
       "pipeline_tag": ""
     },
     {
+      "id": "Glint-Research/Fable-5-traces",
+      "likes": 642,
+      "downloads": 69843,
+      "pipeline_tag": ""
+    },
+    {
       "id": "jasfn/LTX-2.3-10Eros",
-      "likes": 221,
+      "likes": 223,
       "downloads": 0,
+      "pipeline_tag": ""
+    },
+    {
+      "id": "wikimedia/wikipedia",
+      "likes": 1313,
+      "downloads": 227405,
       "pipeline_tag": ""
     },
     {
@@ -1504,14 +1510,8 @@
       "pipeline_tag": ""
     },
     {
-      "id": "wikimedia/wikipedia",
-      "likes": 1310,
-      "downloads": 227405,
-      "pipeline_tag": ""
-    },
-    {
       "id": "armand0e/claude-fable-5-claude-code",
-      "likes": 327,
+      "likes": 328,
       "downloads": 13169,
       "pipeline_tag": ""
     },
@@ -1534,23 +1534,23 @@
       "pipeline_tag": ""
     },
     {
-      "id": "victor/gemma-avatar",
+      "id": "loveseries/wanmanlove",
       "likes": 137,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
-      "id": "loveseries/wanmanlove",
-      "likes": 136,
+      "id": "smolagents/hf-realtime-voice",
+      "likes": 426,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
-      "id": "hugging-apps/unise-speech-enhancement",
-      "likes": 54,
+      "id": "victor/gemma-avatar",
+      "likes": 139,
       "downloads": 0,
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-07-21T04:22:21.243817+08:00"
+  "lastUpdatedISO": "2026-07-21T06:01:09.624275+08:00"
 }
