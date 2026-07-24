@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-25 04:20",
+  "lastUpdated": "2026-07-25 06:06",
   "arena": [
     {
       "rank": 1,
@@ -536,7 +536,7 @@
       "id": "zai-org/GLM-5.2",
       "name": "GLM-5.2",
       "org": "zai-org",
-      "likes": 4412,
+      "likes": 4414,
       "downloads": 667403,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -620,7 +620,7 @@
       "id": "openai-community/gpt2",
       "name": "gpt2",
       "org": "openai-community",
-      "likes": 3367,
+      "likes": 3368,
       "downloads": 14104620,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -722,7 +722,7 @@
       "id": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
       "name": "gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
       "org": "yuxinlu1",
-      "likes": 2756,
+      "likes": 2757,
       "downloads": 310841,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -875,7 +875,7 @@
       "id": "Qwen/Qwen3-0.6B",
       "name": "Qwen3-0.6B",
       "org": "Qwen",
-      "likes": 1444,
+      "likes": 1445,
       "downloads": 29081830,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -907,7 +907,7 @@
       "id": "Qwen/Qwen3-8B",
       "name": "Qwen3-8B",
       "org": "Qwen",
-      "likes": 1231,
+      "likes": 1232,
       "downloads": 16621403,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -940,7 +940,7 @@
       "id": "openai-community/gpt2",
       "name": "gpt2",
       "org": "openai-community",
-      "likes": 3367,
+      "likes": 3368,
       "downloads": 14104620,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -1371,37 +1371,37 @@
   "trending": [
     {
       "id": "baidu/Unlimited-OCR",
-      "likes": 3000,
+      "likes": 3003,
       "downloads": 2500391,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "poolside/Laguna-S-2.1",
-      "likes": 589,
+      "likes": 596,
       "downloads": 28992,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "thinkingmachines/Inkling",
-      "likes": 1541,
+      "likes": 1542,
       "downloads": 27883,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "upstage/Solar-Open2-250B",
-      "likes": 535,
+      "likes": 537,
       "downloads": 1106,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
-      "likes": 470,
+      "likes": 474,
       "downloads": 407421,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "Nanbeige/Nanbeige4.2-3B",
-      "likes": 361,
+      "likes": 364,
       "downloads": 8169,
       "pipeline_tag": "text-generation"
     },
@@ -1413,25 +1413,25 @@
     },
     {
       "id": "zai-org/GLM-5.2",
-      "likes": 4412,
+      "likes": 4414,
       "downloads": 667403,
       "pipeline_tag": "text-generation"
     },
     {
-      "id": "prism-ml/Bonsai-27B-gguf",
-      "likes": 631,
-      "downloads": 2028115,
-      "pipeline_tag": "text-generation"
-    },
-    {
       "id": "microsoft/Mage-Flow",
-      "likes": 220,
+      "likes": 225,
       "downloads": 891,
       "pipeline_tag": "text-to-image"
     },
     {
+      "id": "prism-ml/Bonsai-27B-gguf",
+      "likes": 632,
+      "downloads": 2028115,
+      "pipeline_tag": "text-generation"
+    },
+    {
       "id": "HuggingFaceCode/stack-v3-train",
-      "likes": 106,
+      "likes": 113,
       "downloads": 15337,
       "pipeline_tag": ""
     },
@@ -1461,7 +1461,7 @@
     },
     {
       "id": "webml-community/bonsai-webgpu-kernels",
-      "likes": 315,
+      "likes": 316,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1478,14 +1478,8 @@
       "pipeline_tag": ""
     },
     {
-      "id": "markov-ai/gaming-500-hours",
-      "likes": 212,
-      "downloads": 39902,
-      "pipeline_tag": ""
-    },
-    {
       "id": "greghavens/kimi-k3-coding-and-debugging-traces",
-      "likes": 34,
+      "likes": 35,
       "downloads": 1759,
       "pipeline_tag": ""
     },
@@ -1496,9 +1490,21 @@
       "pipeline_tag": ""
     },
     {
+      "id": "markov-ai/gaming-500-hours",
+      "likes": 213,
+      "downloads": 39902,
+      "pipeline_tag": ""
+    },
+    {
       "id": "r0b0tlab/qwen3.8-max-distillation-50k",
-      "likes": 26,
+      "likes": 27,
       "downloads": 186,
+      "pipeline_tag": ""
+    },
+    {
+      "id": "wikimedia/wikipedia",
+      "likes": 1330,
+      "downloads": 253916,
       "pipeline_tag": ""
     },
     {
@@ -1508,20 +1514,14 @@
       "pipeline_tag": ""
     },
     {
-      "id": "wikimedia/wikipedia",
-      "likes": 1329,
-      "downloads": 253916,
+      "id": "baidu/Unlimited-OCR",
+      "likes": 295,
+      "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "smolagents/hf-realtime-voice",
       "likes": 463,
-      "downloads": 0,
-      "pipeline_tag": ""
-    },
-    {
-      "id": "baidu/Unlimited-OCR",
-      "likes": 295,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1550,5 +1550,5 @@
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-07-25T04:20:51.166598+08:00"
+  "lastUpdatedISO": "2026-07-25T06:06:02.311008+08:00"
 }
