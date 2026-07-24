@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-25 00:47",
+  "lastUpdated": "2026-07-25 02:19",
   "arena": [
     {
       "rank": 1,
@@ -468,7 +468,7 @@
       "id": "openai/gpt-oss-20b",
       "name": "gpt-oss-20b",
       "org": "openai",
-      "likes": 4833,
+      "likes": 4834,
       "downloads": 7768828,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -536,7 +536,7 @@
       "id": "zai-org/GLM-5.2",
       "name": "GLM-5.2",
       "org": "zai-org",
-      "likes": 4406,
+      "likes": 4410,
       "downloads": 667403,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -1075,7 +1075,7 @@
       "id": "openai/gpt-oss-20b",
       "name": "gpt-oss-20b",
       "org": "openai",
-      "likes": 4833,
+      "likes": 4834,
       "downloads": 7768828,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1371,37 +1371,37 @@
   "trending": [
     {
       "id": "baidu/Unlimited-OCR",
-      "likes": 2984,
+      "likes": 2990,
       "downloads": 2500391,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "poolside/Laguna-S-2.1",
-      "likes": 576,
+      "likes": 579,
       "downloads": 28992,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "thinkingmachines/Inkling",
-      "likes": 1537,
+      "likes": 1539,
       "downloads": 27883,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "upstage/Solar-Open2-250B",
-      "likes": 529,
+      "likes": 533,
       "downloads": 1106,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
-      "likes": 458,
+      "likes": 465,
       "downloads": 407421,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "Nanbeige/Nanbeige4.2-3B",
-      "likes": 354,
+      "likes": 357,
       "downloads": 8169,
       "pipeline_tag": "text-generation"
     },
@@ -1413,7 +1413,7 @@
     },
     {
       "id": "zai-org/GLM-5.2",
-      "likes": 4406,
+      "likes": 4410,
       "downloads": 667403,
       "pipeline_tag": "text-generation"
     },
@@ -1425,25 +1425,25 @@
     },
     {
       "id": "microsoft/Mage-Flow",
-      "likes": 210,
+      "likes": 214,
       "downloads": 891,
       "pipeline_tag": "text-to-image"
     },
     {
       "id": "HuggingFaceCode/stack-v3-train",
-      "likes": 101,
+      "likes": 105,
       "downloads": 15337,
       "pipeline_tag": ""
     },
     {
       "id": "SupraLabs/reasoning-corpus-4K-5M-v1",
-      "likes": 97,
+      "likes": 98,
       "downloads": 1153,
       "pipeline_tag": ""
     },
     {
       "id": "kulkas2pintu/wan555",
-      "likes": 738,
+      "likes": 740,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1455,8 +1455,14 @@
     },
     {
       "id": "FlyRank/internship-warehouse",
-      "likes": 339,
+      "likes": 340,
       "downloads": 4632,
+      "pipeline_tag": ""
+    },
+    {
+      "id": "webml-community/bonsai-webgpu-kernels",
+      "likes": 314,
+      "downloads": 0,
       "pipeline_tag": ""
     },
     {
@@ -1466,21 +1472,9 @@
       "pipeline_tag": ""
     },
     {
-      "id": "webml-community/bonsai-webgpu-kernels",
-      "likes": 311,
-      "downloads": 0,
-      "pipeline_tag": ""
-    },
-    {
       "id": "Glint-Research/Fable-5-traces",
       "likes": 666,
       "downloads": 64435,
-      "pipeline_tag": ""
-    },
-    {
-      "id": "ICML-2026-agent-repro/challenge",
-      "likes": 181,
-      "downloads": 0,
       "pipeline_tag": ""
     },
     {
@@ -1496,6 +1490,12 @@
       "pipeline_tag": ""
     },
     {
+      "id": "ICML-2026-agent-repro/challenge",
+      "likes": 181,
+      "downloads": 0,
+      "pipeline_tag": ""
+    },
+    {
       "id": "r0b0tlab/qwen3.8-max-distillation-50k",
       "likes": 26,
       "downloads": 186,
@@ -1503,7 +1503,7 @@
     },
     {
       "id": "prithivMLmods/Qwen-Image-Edit-2511-LoRAs-Fast",
-      "likes": 1993,
+      "likes": 1995,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1514,14 +1514,14 @@
       "pipeline_tag": ""
     },
     {
-      "id": "conradlocke/krea2-identity-edit",
-      "likes": 118,
+      "id": "smolagents/hf-realtime-voice",
+      "likes": 462,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
-      "id": "smolagents/hf-realtime-voice",
-      "likes": 461,
+      "id": "conradlocke/krea2-identity-edit",
+      "likes": 119,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1533,22 +1533,22 @@
     },
     {
       "id": "baidu/Unlimited-OCR",
-      "likes": 291,
+      "likes": 293,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "selfit-camera/Omni-Image-Editor",
-      "likes": 2204,
+      "likes": 2205,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
-      "id": "victor/gemma-avatar",
-      "likes": 158,
+      "id": "microsoft/mage-flow",
+      "likes": 47,
       "downloads": 0,
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-07-25T00:47:00.103037+08:00"
+  "lastUpdatedISO": "2026-07-25T02:19:13.475128+08:00"
 }
