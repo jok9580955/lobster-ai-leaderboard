@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-27 04:59",
+  "lastUpdated": "2026-07-27 06:06",
   "arena": [
     {
       "rank": 1,
@@ -536,7 +536,7 @@
       "id": "zai-org/GLM-5.2",
       "name": "GLM-5.2",
       "org": "zai-org",
-      "likes": 4472,
+      "likes": 4473,
       "downloads": 827191,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -1374,7 +1374,7 @@
   "trending": [
     {
       "id": "baidu/Unlimited-OCR",
-      "likes": 3193,
+      "likes": 3197,
       "downloads": 2593460,
       "pipeline_tag": "image-text-to-text"
     },
@@ -1386,19 +1386,19 @@
     },
     {
       "id": "upstage/Solar-Open2-250B",
-      "likes": 588,
+      "likes": 589,
       "downloads": 3305,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
-      "likes": 623,
+      "likes": 627,
       "downloads": 552026,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "Nanbeige/Nanbeige4.2-3B",
-      "likes": 441,
+      "likes": 442,
       "downloads": 14049,
       "pipeline_tag": "text-generation"
     },
@@ -1410,19 +1410,19 @@
     },
     {
       "id": "microsoft/Mage-Flow",
-      "likes": 327,
+      "likes": 331,
       "downloads": 1375,
       "pipeline_tag": "text-to-image"
     },
     {
       "id": "zai-org/GLM-5.2",
-      "likes": 4472,
+      "likes": 4473,
       "downloads": 827191,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "prism-ml/Ternary-Bonsai-27B-gguf",
-      "likes": 1046,
+      "likes": 1047,
       "downloads": 631970,
       "pipeline_tag": "text-generation"
     },
@@ -1446,7 +1446,7 @@
     },
     {
       "id": "kulkas2pintu/wan555",
-      "likes": 804,
+      "likes": 805,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1458,7 +1458,7 @@
     },
     {
       "id": "webml-community/bonsai-webgpu-kernels",
-      "likes": 347,
+      "likes": 349,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1470,20 +1470,20 @@
     },
     {
       "id": "r0b0tlab/qwen3.8-max-distillation-50k",
-      "likes": 36,
+      "likes": 37,
       "downloads": 382,
-      "pipeline_tag": ""
-    },
-    {
-      "id": "greghavens/kimi-k3-coding-and-debugging-traces",
-      "likes": 44,
-      "downloads": 2857,
       "pipeline_tag": ""
     },
     {
       "id": "openbmb/UltraX-Preview",
       "likes": 265,
       "downloads": 6584,
+      "pipeline_tag": ""
+    },
+    {
+      "id": "greghavens/kimi-k3-coding-and-debugging-traces",
+      "likes": 44,
+      "downloads": 2857,
       "pipeline_tag": ""
     },
     {
@@ -1499,27 +1499,21 @@
       "pipeline_tag": ""
     },
     {
+      "id": "smolagents/hf-realtime-voice",
+      "likes": 480,
+      "downloads": 0,
+      "pipeline_tag": ""
+    },
+    {
       "id": "ICML-2026-agent-repro/challenge",
       "likes": 186,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
-      "id": "smolagents/hf-realtime-voice",
-      "likes": 479,
-      "downloads": 0,
-      "pipeline_tag": ""
-    },
-    {
       "id": "baidu/Unlimited-OCR",
-      "likes": 305,
+      "likes": 306,
       "downloads": 0,
-      "pipeline_tag": ""
-    },
-    {
-      "id": "wikimedia/wikipedia",
-      "likes": 1331,
-      "downloads": 250736,
       "pipeline_tag": ""
     },
     {
@@ -1530,19 +1524,25 @@
     },
     {
       "id": "microsoft/mage-flow",
-      "likes": 57,
+      "likes": 58,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
+      "id": "wikimedia/wikipedia",
+      "likes": 1331,
+      "downloads": 250736,
+      "pipeline_tag": ""
+    },
+    {
       "id": "conradlocke/krea2-identity-edit",
-      "likes": 134,
+      "likes": 135,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "pliny-the-prompter/obliteratus",
-      "likes": 456,
+      "likes": 457,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1553,5 +1553,5 @@
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-07-27T04:59:20.152533+08:00"
+  "lastUpdatedISO": "2026-07-27T06:06:42.218936+08:00"
 }
