@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-27 06:06",
+  "lastUpdated": "2026-07-27 08:01",
   "arena": [
     {
       "rank": 1,
@@ -417,7 +417,7 @@
       "id": "deepseek-ai/DeepSeek-V4-Pro",
       "name": "DeepSeek-V4-Pro",
       "org": "deepseek-ai",
-      "likes": 5311,
+      "likes": 5312,
       "downloads": 1664160,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -536,7 +536,7 @@
       "id": "zai-org/GLM-5.2",
       "name": "GLM-5.2",
       "org": "zai-org",
-      "likes": 4473,
+      "likes": 4475,
       "downloads": 827191,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -637,7 +637,7 @@
       "id": "mistralai/Mistral-7B-Instruct-v0.2",
       "name": "Mistral-7B-Instruct-v0.2",
       "org": "mistralai",
-      "likes": 3192,
+      "likes": 3193,
       "downloads": 1161856,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1024,7 +1024,7 @@
       "id": "nvidia/Qwen3.6-35B-A3B-NVFP4",
       "name": "Qwen3.6-35B-A3B-NVFP4",
       "org": "nvidia",
-      "likes": 500,
+      "likes": 502,
       "downloads": 9592583,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1374,55 +1374,55 @@
   "trending": [
     {
       "id": "baidu/Unlimited-OCR",
-      "likes": 3197,
+      "likes": 3200,
       "downloads": 2593460,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "poolside/Laguna-S-2.1",
-      "likes": 694,
+      "likes": 696,
       "downloads": 56445,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "upstage/Solar-Open2-250B",
-      "likes": 589,
+      "likes": 591,
       "downloads": 3305,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
-      "likes": 627,
+      "likes": 633,
       "downloads": 552026,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "Nanbeige/Nanbeige4.2-3B",
-      "likes": 442,
+      "likes": 443,
       "downloads": 14049,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "thinkingmachines/Inkling",
-      "likes": 1578,
+      "likes": 1579,
       "downloads": 34511,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "microsoft/Mage-Flow",
-      "likes": 331,
+      "likes": 334,
       "downloads": 1375,
       "pipeline_tag": "text-to-image"
     },
     {
       "id": "zai-org/GLM-5.2",
-      "likes": 4473,
+      "likes": 4475,
       "downloads": 827191,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "prism-ml/Ternary-Bonsai-27B-gguf",
-      "likes": 1047,
+      "likes": 1049,
       "downloads": 631970,
       "pipeline_tag": "text-generation"
     },
@@ -1434,7 +1434,7 @@
     },
     {
       "id": "unsloth/Laguna-S-2.1-GGUF",
-      "likes": 199,
+      "likes": 200,
       "downloads": 102684,
       "pipeline_tag": "text-generation"
     },
@@ -1446,7 +1446,7 @@
     },
     {
       "id": "kulkas2pintu/wan555",
-      "likes": 805,
+      "likes": 808,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1464,7 +1464,7 @@
     },
     {
       "id": "FlyRank/internship-warehouse",
-      "likes": 354,
+      "likes": 355,
       "downloads": 5709,
       "pipeline_tag": ""
     },
@@ -1494,7 +1494,7 @@
     },
     {
       "id": "prithivMLmods/Qwen-Image-Edit-2511-LoRAs-Fast",
-      "likes": 2024,
+      "likes": 2025,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1517,32 +1517,32 @@
       "pipeline_tag": ""
     },
     {
+      "id": "microsoft/mage-flow",
+      "likes": 59,
+      "downloads": 0,
+      "pipeline_tag": ""
+    },
+    {
+      "id": "wikimedia/wikipedia",
+      "likes": 1332,
+      "downloads": 250736,
+      "pipeline_tag": ""
+    },
+    {
+      "id": "conradlocke/krea2-identity-edit",
+      "likes": 136,
+      "downloads": 0,
+      "pipeline_tag": ""
+    },
+    {
       "id": "markov-ai/gaming-500-hours",
       "likes": 215,
       "downloads": 41375,
       "pipeline_tag": ""
     },
     {
-      "id": "microsoft/mage-flow",
-      "likes": 58,
-      "downloads": 0,
-      "pipeline_tag": ""
-    },
-    {
-      "id": "wikimedia/wikipedia",
-      "likes": 1331,
-      "downloads": 250736,
-      "pipeline_tag": ""
-    },
-    {
-      "id": "conradlocke/krea2-identity-edit",
-      "likes": 135,
-      "downloads": 0,
-      "pipeline_tag": ""
-    },
-    {
       "id": "pliny-the-prompter/obliteratus",
-      "likes": 457,
+      "likes": 459,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1553,5 +1553,5 @@
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-07-27T06:06:42.218936+08:00"
+  "lastUpdatedISO": "2026-07-27T08:01:46.133098+08:00"
 }
