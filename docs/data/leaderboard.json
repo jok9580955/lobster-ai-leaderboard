@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-27 23:42",
+  "lastUpdated": "2026-07-28 01:43",
   "arena": [
     {
       "rank": 1,
@@ -366,7 +366,7 @@
       "id": "deepseek-ai/DeepSeek-R1",
       "name": "DeepSeek-R1",
       "org": "deepseek-ai",
-      "likes": 13509,
+      "likes": 13510,
       "downloads": 8860456,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -417,7 +417,7 @@
       "id": "deepseek-ai/DeepSeek-V4-Pro",
       "name": "DeepSeek-V4-Pro",
       "org": "deepseek-ai",
-      "likes": 5322,
+      "likes": 5325,
       "downloads": 1648028,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -468,7 +468,7 @@
       "id": "openai/gpt-oss-20b",
       "name": "gpt-oss-20b",
       "org": "openai",
-      "likes": 4846,
+      "likes": 4847,
       "downloads": 7983620,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -502,7 +502,7 @@
       "id": "meta-llama/Meta-Llama-3-8B-Instruct",
       "name": "Meta-Llama-3-8B-Instruct",
       "org": "meta-llama",
-      "likes": 4762,
+      "likes": 4763,
       "downloads": 1692222,
       "license": "Llama3",
       "pipeline_tag": "text-generation",
@@ -514,6 +514,23 @@
         "llama-3"
       ],
       "created_at": "2024-04-17T09:35:12.000Z"
+    },
+    {
+      "id": "zai-org/GLM-5.2",
+      "name": "GLM-5.2",
+      "org": "zai-org",
+      "likes": 4526,
+      "downloads": 1003547,
+      "license": "Mit",
+      "pipeline_tag": "text-generation",
+      "tags": [
+        "glm_moe_dsa",
+        "text-generation",
+        "conversational",
+        "en",
+        "zh"
+      ],
+      "created_at": "2026-06-16T07:39:20.000Z"
     },
     {
       "id": "meta-llama/Llama-2-7b",
@@ -531,23 +548,6 @@
         "text-generation"
       ],
       "created_at": "2023-07-09T07:34:35.000Z"
-    },
-    {
-      "id": "zai-org/GLM-5.2",
-      "name": "GLM-5.2",
-      "org": "zai-org",
-      "likes": 4515,
-      "downloads": 1003547,
-      "license": "Mit",
-      "pipeline_tag": "text-generation",
-      "tags": [
-        "glm_moe_dsa",
-        "text-generation",
-        "conversational",
-        "en",
-        "zh"
-      ],
-      "created_at": "2026-06-16T07:39:20.000Z"
     },
     {
       "id": "mistralai/Mistral-7B-v0.1",
@@ -570,7 +570,7 @@
       "id": "deepseek-ai/DeepSeek-V3",
       "name": "DeepSeek-V3",
       "org": "deepseek-ai",
-      "likes": 4102,
+      "likes": 4103,
       "downloads": 1159954,
       "license": "Unknown",
       "pipeline_tag": "text-generation",
@@ -620,7 +620,7 @@
       "id": "openai-community/gpt2",
       "name": "gpt2",
       "org": "openai-community",
-      "likes": 3370,
+      "likes": 3371,
       "downloads": 13838843,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -637,7 +637,7 @@
       "id": "mistralai/Mistral-7B-Instruct-v0.2",
       "name": "Mistral-7B-Instruct-v0.2",
       "org": "mistralai",
-      "likes": 3192,
+      "likes": 3193,
       "downloads": 1159450,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -722,7 +722,7 @@
       "id": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
       "name": "gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
       "org": "yuxinlu1",
-      "likes": 2765,
+      "likes": 2766,
       "downloads": 276821,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -940,7 +940,7 @@
       "id": "openai-community/gpt2",
       "name": "gpt2",
       "org": "openai-community",
-      "likes": 3370,
+      "likes": 3371,
       "downloads": 13838843,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -1041,7 +1041,7 @@
       "id": "deepseek-ai/DeepSeek-R1",
       "name": "DeepSeek-R1",
       "org": "deepseek-ai",
-      "likes": 13509,
+      "likes": 13510,
       "downloads": 8860456,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -1058,7 +1058,7 @@
       "id": "openai/gpt-oss-20b",
       "name": "gpt-oss-20b",
       "org": "openai",
-      "likes": 4846,
+      "likes": 4847,
       "downloads": 7983620,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1242,7 +1242,7 @@
       "id": "deepreinforce-ai/Ornith-1.0-9B-GGUF",
       "name": "Ornith-1.0-9B-GGUF",
       "org": "deepreinforce-ai",
-      "likes": 568,
+      "likes": 569,
       "downloads": 3878350,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -1373,25 +1373,25 @@
   "trending": [
     {
       "id": "moonshotai/Kimi-K3",
-      "likes": 4376,
+      "likes": 5225,
       "downloads": 2850,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "baidu/Unlimited-OCR",
-      "likes": 3291,
+      "likes": 3304,
       "downloads": 2645773,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "poolside/Laguna-S-2.1",
-      "likes": 731,
+      "likes": 737,
       "downloads": 63605,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
-      "likes": 705,
+      "likes": 717,
       "downloads": 634146,
       "pipeline_tag": "image-text-to-text"
     },
@@ -1403,37 +1403,37 @@
     },
     {
       "id": "Nanbeige/Nanbeige4.2-3B",
-      "likes": 476,
+      "likes": 483,
       "downloads": 16518,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "microsoft/Mage-Flow",
-      "likes": 372,
+      "likes": 376,
       "downloads": 1691,
       "pipeline_tag": "text-to-image"
     },
     {
       "id": "thinkingmachines/Inkling",
-      "likes": 1593,
+      "likes": 1594,
       "downloads": 36196,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "HuggingFaceCode/stack-v3-train",
-      "likes": 185,
+      "likes": 186,
       "downloads": 58644,
       "pipeline_tag": ""
     },
     {
       "id": "zai-org/GLM-5.2",
-      "likes": 4515,
+      "likes": 4526,
       "downloads": 1003547,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "Kwaipilot/KAT-Coder-V2.5-Dev",
-      "likes": 227,
+      "likes": 229,
       "downloads": 5312,
       "pipeline_tag": "text-generation"
     },
@@ -1445,37 +1445,37 @@
     },
     {
       "id": "kulkas2pintu/wan555",
-      "likes": 834,
+      "likes": 836,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "Manusagents/GPT-5.5-Gemini-3.1-Pro-Grok-4-Claude-Fable-5-Mythos-5-Qwen-3.7-Max-and-more-Distillation-Dataset",
-      "likes": 92,
+      "likes": 93,
       "downloads": 8077,
       "pipeline_tag": ""
     },
     {
       "id": "webml-community/bonsai-webgpu-kernels",
-      "likes": 357,
+      "likes": 358,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "FlyRank/internship-warehouse",
-      "likes": 361,
+      "likes": 362,
       "downloads": 6281,
       "pipeline_tag": ""
     },
     {
       "id": "r0b0tlab/qwen3.8-max-distillation-50k",
-      "likes": 38,
+      "likes": 40,
       "downloads": 492,
       "pipeline_tag": ""
     },
     {
       "id": "cinderholm/wan2-2-i2v-v3",
-      "likes": 98,
+      "likes": 101,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1517,7 +1517,7 @@
     },
     {
       "id": "smolagents/hf-realtime-voice",
-      "likes": 482,
+      "likes": 483,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1528,9 +1528,9 @@
       "pipeline_tag": ""
     },
     {
-      "id": "wikimedia/wikipedia",
-      "likes": 1334,
-      "downloads": 252568,
+      "id": "conradlocke/krea2-identity-edit",
+      "likes": 146,
+      "downloads": 0,
       "pipeline_tag": ""
     },
     {
@@ -1540,9 +1540,9 @@
       "pipeline_tag": ""
     },
     {
-      "id": "conradlocke/krea2-identity-edit",
-      "likes": 143,
-      "downloads": 0,
+      "id": "wikimedia/wikipedia",
+      "likes": 1334,
+      "downloads": 252568,
       "pipeline_tag": ""
     },
     {
@@ -1552,5 +1552,5 @@
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-07-27T23:42:50.658938+08:00"
+  "lastUpdatedISO": "2026-07-28T01:43:42.203002+08:00"
 }
