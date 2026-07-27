@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-28 05:12",
+  "lastUpdated": "2026-07-28 07:03",
   "arena": [
     {
       "rank": 1,
@@ -468,7 +468,7 @@
       "id": "openai/gpt-oss-20b",
       "name": "gpt-oss-20b",
       "org": "openai",
-      "likes": 4847,
+      "likes": 4848,
       "downloads": 7983620,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -502,7 +502,7 @@
       "id": "meta-llama/Meta-Llama-3-8B-Instruct",
       "name": "Meta-Llama-3-8B-Instruct",
       "org": "meta-llama",
-      "likes": 4764,
+      "likes": 4765,
       "downloads": 1692222,
       "license": "Llama3",
       "pipeline_tag": "text-generation",
@@ -519,7 +519,7 @@
       "id": "zai-org/GLM-5.2",
       "name": "GLM-5.2",
       "org": "zai-org",
-      "likes": 4542,
+      "likes": 4547,
       "downloads": 1003547,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -1058,7 +1058,7 @@
       "id": "openai/gpt-oss-20b",
       "name": "gpt-oss-20b",
       "org": "openai",
-      "likes": 4847,
+      "likes": 4848,
       "downloads": 7983620,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1340,7 +1340,7 @@
       "id": "google/gemma-3-1b-it",
       "name": "gemma-3-1b-it",
       "org": "google",
-      "likes": 1066,
+      "likes": 1067,
       "downloads": 3187943,
       "license": "Gemma",
       "pipeline_tag": "text-generation",
@@ -1373,55 +1373,55 @@
   "trending": [
     {
       "id": "moonshotai/Kimi-K3",
-      "likes": 5769,
+      "likes": 5954,
       "downloads": 2850,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "baidu/Unlimited-OCR",
-      "likes": 3321,
+      "likes": 3325,
       "downloads": 2645773,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "poolside/Laguna-S-2.1",
-      "likes": 749,
+      "likes": 753,
       "downloads": 63605,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
-      "likes": 732,
+      "likes": 741,
       "downloads": 634146,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "upstage/Solar-Open2-250B",
-      "likes": 627,
+      "likes": 628,
       "downloads": 3761,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "Nanbeige/Nanbeige4.2-3B",
-      "likes": 490,
+      "likes": 491,
       "downloads": 16518,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "microsoft/Mage-Flow",
-      "likes": 380,
+      "likes": 384,
       "downloads": 1691,
       "pipeline_tag": "text-to-image"
     },
     {
       "id": "thinkingmachines/Inkling",
-      "likes": 1601,
+      "likes": 1602,
       "downloads": 36196,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "zai-org/GLM-5.2",
-      "likes": 4542,
+      "likes": 4547,
       "downloads": 1003547,
       "pipeline_tag": "text-generation"
     },
@@ -1433,7 +1433,7 @@
     },
     {
       "id": "Kwaipilot/KAT-Coder-V2.5-Dev",
-      "likes": 235,
+      "likes": 239,
       "downloads": 5312,
       "pipeline_tag": "text-generation"
     },
@@ -1445,7 +1445,7 @@
     },
     {
       "id": "kulkas2pintu/wan555",
-      "likes": 843,
+      "likes": 847,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1457,7 +1457,7 @@
     },
     {
       "id": "webml-community/bonsai-webgpu-kernels",
-      "likes": 364,
+      "likes": 365,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1475,7 +1475,7 @@
     },
     {
       "id": "cinderholm/wan2-2-i2v-v3",
-      "likes": 105,
+      "likes": 108,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1493,7 +1493,7 @@
     },
     {
       "id": "prithivMLmods/Qwen-Image-Edit-2511-LoRAs-Fast",
-      "likes": 2045,
+      "likes": 2046,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1535,7 +1535,7 @@
     },
     {
       "id": "smolagents/hf-realtime-voice",
-      "likes": 484,
+      "likes": 485,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1546,11 +1546,11 @@
       "pipeline_tag": ""
     },
     {
-      "id": "wikimedia/wikipedia",
-      "likes": 1334,
-      "downloads": 252568,
+      "id": "markov-ai/gaming-500-hours",
+      "likes": 218,
+      "downloads": 42012,
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-07-28T05:12:21.353386+08:00"
+  "lastUpdatedISO": "2026-07-28T07:03:33.972821+08:00"
 }
