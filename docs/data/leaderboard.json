@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-28 03:36",
+  "lastUpdated": "2026-07-28 05:12",
   "arena": [
     {
       "rank": 1,
@@ -366,7 +366,7 @@
       "id": "deepseek-ai/DeepSeek-R1",
       "name": "DeepSeek-R1",
       "org": "deepseek-ai",
-      "likes": 13510,
+      "likes": 13511,
       "downloads": 8860456,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -400,7 +400,7 @@
       "id": "meta-llama/Llama-3.1-8B-Instruct",
       "name": "Llama-3.1-8B-Instruct",
       "org": "meta-llama",
-      "likes": 6404,
+      "likes": 6406,
       "downloads": 7952157,
       "license": "Llama3.1",
       "pipeline_tag": "text-generation",
@@ -417,7 +417,7 @@
       "id": "deepseek-ai/DeepSeek-V4-Pro",
       "name": "DeepSeek-V4-Pro",
       "org": "deepseek-ai",
-      "likes": 5327,
+      "likes": 5328,
       "downloads": 1648028,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -502,7 +502,7 @@
       "id": "meta-llama/Meta-Llama-3-8B-Instruct",
       "name": "Meta-Llama-3-8B-Instruct",
       "org": "meta-llama",
-      "likes": 4763,
+      "likes": 4764,
       "downloads": 1692222,
       "license": "Llama3",
       "pipeline_tag": "text-generation",
@@ -519,7 +519,7 @@
       "id": "zai-org/GLM-5.2",
       "name": "GLM-5.2",
       "org": "zai-org",
-      "likes": 4537,
+      "likes": 4542,
       "downloads": 1003547,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -805,7 +805,7 @@
       "id": "meta-llama/Llama-3.2-3B-Instruct",
       "name": "Llama-3.2-3B-Instruct",
       "org": "meta-llama",
-      "likes": 2370,
+      "likes": 2372,
       "downloads": 1773508,
       "license": "Llama3.2",
       "pipeline_tag": "text-generation",
@@ -957,7 +957,7 @@
       "id": "Qwen/Qwen2.5-1.5B-Instruct",
       "name": "Qwen2.5-1.5B-Instruct",
       "org": "Qwen",
-      "likes": 783,
+      "likes": 784,
       "downloads": 13344230,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1041,7 +1041,7 @@
       "id": "deepseek-ai/DeepSeek-R1",
       "name": "DeepSeek-R1",
       "org": "deepseek-ai",
-      "likes": 13510,
+      "likes": 13511,
       "downloads": 8860456,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -1075,7 +1075,7 @@
       "id": "meta-llama/Llama-3.1-8B-Instruct",
       "name": "Llama-3.1-8B-Instruct",
       "org": "meta-llama",
-      "likes": 6404,
+      "likes": 6406,
       "downloads": 7952157,
       "license": "Llama3.1",
       "pipeline_tag": "text-generation",
@@ -1373,25 +1373,25 @@
   "trending": [
     {
       "id": "moonshotai/Kimi-K3",
-      "likes": 5565,
+      "likes": 5769,
       "downloads": 2850,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "baidu/Unlimited-OCR",
-      "likes": 3314,
+      "likes": 3321,
       "downloads": 2645773,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "poolside/Laguna-S-2.1",
-      "likes": 741,
+      "likes": 749,
       "downloads": 63605,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
-      "likes": 729,
+      "likes": 732,
       "downloads": 634146,
       "pipeline_tag": "image-text-to-text"
     },
@@ -1403,37 +1403,37 @@
     },
     {
       "id": "Nanbeige/Nanbeige4.2-3B",
-      "likes": 487,
+      "likes": 490,
       "downloads": 16518,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "microsoft/Mage-Flow",
-      "likes": 379,
+      "likes": 380,
       "downloads": 1691,
       "pipeline_tag": "text-to-image"
     },
     {
       "id": "thinkingmachines/Inkling",
-      "likes": 1599,
+      "likes": 1601,
       "downloads": 36196,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "zai-org/GLM-5.2",
-      "likes": 4537,
+      "likes": 4542,
       "downloads": 1003547,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "HuggingFaceCode/stack-v3-train",
-      "likes": 187,
+      "likes": 188,
       "downloads": 58644,
       "pipeline_tag": ""
     },
     {
       "id": "Kwaipilot/KAT-Coder-V2.5-Dev",
-      "likes": 231,
+      "likes": 235,
       "downloads": 5312,
       "pipeline_tag": "text-generation"
     },
@@ -1445,7 +1445,7 @@
     },
     {
       "id": "kulkas2pintu/wan555",
-      "likes": 838,
+      "likes": 843,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1457,7 +1457,7 @@
     },
     {
       "id": "webml-community/bonsai-webgpu-kernels",
-      "likes": 362,
+      "likes": 364,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1480,9 +1480,9 @@
       "pipeline_tag": ""
     },
     {
-      "id": "prithivMLmods/Qwen-Image-Edit-2511-LoRAs-Fast",
-      "likes": 2045,
-      "downloads": 0,
+      "id": "greghavens/kimi-k3-coding-and-debugging-traces",
+      "likes": 46,
+      "downloads": 3762,
       "pipeline_tag": ""
     },
     {
@@ -1492,9 +1492,9 @@
       "pipeline_tag": ""
     },
     {
-      "id": "greghavens/kimi-k3-coding-and-debugging-traces",
-      "likes": 46,
-      "downloads": 3762,
+      "id": "prithivMLmods/Qwen-Image-Edit-2511-LoRAs-Fast",
+      "likes": 2045,
+      "downloads": 0,
       "pipeline_tag": ""
     },
     {
@@ -1506,18 +1506,6 @@
     {
       "id": "pliny-the-prompter/obliteratus",
       "likes": 470,
-      "downloads": 0,
-      "pipeline_tag": ""
-    },
-    {
-      "id": "openbmb/UltraX-Preview",
-      "likes": 266,
-      "downloads": 7166,
-      "pipeline_tag": ""
-    },
-    {
-      "id": "smolagents/hf-realtime-voice",
-      "likes": 484,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1534,8 +1522,20 @@
       "pipeline_tag": ""
     },
     {
+      "id": "openbmb/UltraX-Preview",
+      "likes": 266,
+      "downloads": 7166,
+      "pipeline_tag": ""
+    },
+    {
       "id": "baidu/Unlimited-OCR",
       "likes": 313,
+      "downloads": 0,
+      "pipeline_tag": ""
+    },
+    {
+      "id": "smolagents/hf-realtime-voice",
+      "likes": 484,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1552,5 +1552,5 @@
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-07-28T03:36:16.172916+08:00"
+  "lastUpdatedISO": "2026-07-28T05:12:21.353386+08:00"
 }
