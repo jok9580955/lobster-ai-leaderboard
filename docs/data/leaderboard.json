@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-29 04:16",
+  "lastUpdated": "2026-07-29 06:05",
   "arena": [
     {
       "rank": 1,
@@ -417,7 +417,7 @@
       "id": "deepseek-ai/DeepSeek-V4-Pro",
       "name": "DeepSeek-V4-Pro",
       "org": "deepseek-ai",
-      "likes": 5339,
+      "likes": 5340,
       "downloads": 1635092,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -519,7 +519,7 @@
       "id": "zai-org/GLM-5.2",
       "name": "GLM-5.2",
       "org": "zai-org",
-      "likes": 4595,
+      "likes": 4597,
       "downloads": 1267198,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -790,7 +790,7 @@
       "id": "xai-org/grok-1",
       "name": "grok-1",
       "org": "xai-org",
-      "likes": 2430,
+      "likes": 2431,
       "downloads": 277,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1242,7 +1242,7 @@
       "id": "deepreinforce-ai/Ornith-1.0-9B-GGUF",
       "name": "Ornith-1.0-9B-GGUF",
       "org": "deepreinforce-ai",
-      "likes": 576,
+      "likes": 577,
       "downloads": 4067571,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -1373,79 +1373,79 @@
   "trending": [
     {
       "id": "moonshotai/Kimi-K3",
-      "likes": 7851,
+      "likes": 7894,
       "downloads": 99214,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "baidu/Unlimited-OCR",
-      "likes": 3402,
+      "likes": 3406,
       "downloads": 2694935,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "poolside/Laguna-S-2.1",
-      "likes": 793,
+      "likes": 794,
       "downloads": 67286,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
-      "likes": 832,
+      "likes": 837,
       "downloads": 736692,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "upstage/Solar-Open2-250B",
-      "likes": 642,
+      "likes": 643,
       "downloads": 4804,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "Nanbeige/Nanbeige4.2-3B",
-      "likes": 520,
+      "likes": 524,
       "downloads": 18933,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "microsoft/Mage-Flow",
-      "likes": 412,
+      "likes": 413,
       "downloads": 2007,
       "pipeline_tag": "text-to-image"
     },
     {
       "id": "HuggingFaceCode/stack-v3-train",
-      "likes": 210,
+      "likes": 211,
       "downloads": 76867,
       "pipeline_tag": ""
     },
     {
       "id": "Kwaipilot/KAT-Coder-V2.5-Dev",
-      "likes": 278,
+      "likes": 282,
       "downloads": 6275,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "zai-org/GLM-5.2",
-      "likes": 4595,
+      "likes": 4597,
       "downloads": 1267198,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "owensong/Inflect-Micro-v2",
-      "likes": 258,
+      "likes": 261,
       "downloads": 645,
       "pipeline_tag": "text-to-speech"
     },
     {
       "id": "kulkas2pintu/wan555",
-      "likes": 882,
+      "likes": 884,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "SupraLabs/reasoning-corpus-4K-5M-v1",
-      "likes": 139,
+      "likes": 140,
       "downloads": 3026,
       "pipeline_tag": ""
     },
@@ -1457,7 +1457,7 @@
     },
     {
       "id": "cinderholm/wan2-2-i2v-v3",
-      "likes": 161,
+      "likes": 163,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1469,7 +1469,7 @@
     },
     {
       "id": "FlyRank/internship-warehouse",
-      "likes": 369,
+      "likes": 370,
       "downloads": 6977,
       "pipeline_tag": ""
     },
@@ -1481,14 +1481,20 @@
     },
     {
       "id": "prithivMLmods/Qwen-Image-Edit-2511-LoRAs-Fast",
-      "likes": 2068,
+      "likes": 2069,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "microsoft/mage-flow",
-      "likes": 80,
+      "likes": 82,
       "downloads": 0,
+      "pipeline_tag": ""
+    },
+    {
+      "id": "greghavens/kimi-k3-coding-and-debugging-traces",
+      "likes": 50,
+      "downloads": 5111,
       "pipeline_tag": ""
     },
     {
@@ -1498,20 +1504,14 @@
       "pipeline_tag": ""
     },
     {
-      "id": "greghavens/kimi-k3-coding-and-debugging-traces",
-      "likes": 48,
-      "downloads": 5111,
-      "pipeline_tag": ""
-    },
-    {
       "id": "pliny-the-prompter/obliteratus",
-      "likes": 479,
+      "likes": 480,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "unstonio/pixelgpt-24x24-20k",
-      "likes": 26,
+      "likes": 27,
       "downloads": 2414,
       "pipeline_tag": ""
     },
@@ -1529,19 +1529,19 @@
     },
     {
       "id": "conradlocke/krea2-identity-edit",
-      "likes": 151,
+      "likes": 152,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "owensong/Inflect-v2",
-      "likes": 58,
+      "likes": 59,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "baidu/Unlimited-OCR",
-      "likes": 326,
+      "likes": 327,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1552,5 +1552,5 @@
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-07-29T04:16:18.256196+08:00"
+  "lastUpdatedISO": "2026-07-29T06:05:22.301600+08:00"
 }
