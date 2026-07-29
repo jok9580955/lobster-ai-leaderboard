@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-30 04:57",
+  "lastUpdated": "2026-07-30 06:06",
   "arena": [
     {
       "rank": 1,
@@ -417,7 +417,7 @@
       "id": "deepseek-ai/DeepSeek-V4-Pro",
       "name": "DeepSeek-V4-Pro",
       "org": "deepseek-ai",
-      "likes": 5351,
+      "likes": 5352,
       "downloads": 1635092,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -468,7 +468,7 @@
       "id": "openai/gpt-oss-20b",
       "name": "gpt-oss-20b",
       "org": "openai",
-      "likes": 4856,
+      "likes": 4857,
       "downloads": 8088875,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -519,7 +519,7 @@
       "id": "zai-org/GLM-5.2",
       "name": "GLM-5.2",
       "org": "zai-org",
-      "likes": 4635,
+      "likes": 4639,
       "downloads": 1267198,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -907,7 +907,7 @@
       "id": "Qwen/Qwen3-8B",
       "name": "Qwen3-8B",
       "org": "Qwen",
-      "likes": 1255,
+      "likes": 1256,
       "downloads": 16574019,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1058,7 +1058,7 @@
       "id": "openai/gpt-oss-20b",
       "name": "gpt-oss-20b",
       "org": "openai",
-      "likes": 4856,
+      "likes": 4857,
       "downloads": 8088875,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1242,7 +1242,7 @@
       "id": "deepreinforce-ai/Ornith-1.0-9B-GGUF",
       "name": "Ornith-1.0-9B-GGUF",
       "org": "deepreinforce-ai",
-      "likes": 581,
+      "likes": 582,
       "downloads": 4067571,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -1373,25 +1373,25 @@
   "trending": [
     {
       "id": "moonshotai/Kimi-K3",
-      "likes": 8584,
+      "likes": 8611,
       "downloads": 99214,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "baidu/Unlimited-OCR",
-      "likes": 3504,
+      "likes": 3510,
       "downloads": 2694935,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
-      "likes": 921,
+      "likes": 927,
       "downloads": 736692,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "upstage/Solar-Open2-250B",
-      "likes": 690,
+      "likes": 692,
       "downloads": 4804,
       "pipeline_tag": "text-generation"
     },
@@ -1403,43 +1403,43 @@
     },
     {
       "id": "Nanbeige/Nanbeige4.2-3B",
-      "likes": 551,
+      "likes": 553,
       "downloads": 18933,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "Kwaipilot/KAT-Coder-V2.5-Dev",
-      "likes": 314,
+      "likes": 315,
       "downloads": 6275,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "HuggingFaceCode/stack-v3-train",
-      "likes": 223,
+      "likes": 225,
       "downloads": 76867,
       "pipeline_tag": ""
     },
     {
       "id": "owensong/Inflect-Micro-v2",
-      "likes": 287,
+      "likes": 288,
       "downloads": 645,
       "pipeline_tag": "text-to-speech"
     },
     {
       "id": "zai-org/GLM-5.2",
-      "likes": 4635,
+      "likes": 4639,
       "downloads": 1267198,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "microsoft/Fara1.5-27B",
-      "likes": 197,
+      "likes": 199,
       "downloads": 1543,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "kulkas2pintu/wan555",
-      "likes": 925,
+      "likes": 929,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1451,31 +1451,31 @@
     },
     {
       "id": "Manusagents/GPT-5.5-Gemini-3.1-Pro-Grok-4-Claude-Fable-5-Mythos-5-Qwen-3.7-Max-and-more-Distillation-Dataset",
-      "likes": 116,
+      "likes": 118,
       "downloads": 8592,
       "pipeline_tag": ""
     },
     {
       "id": "cinderholm/wan2-2-i2v-v3",
-      "likes": 195,
+      "likes": 197,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "FlyRank/internship-warehouse",
-      "likes": 378,
+      "likes": 380,
       "downloads": 6977,
       "pipeline_tag": ""
     },
     {
       "id": "r0b0tlab/qwen3.8-max-distillation-50k",
-      "likes": 49,
+      "likes": 51,
       "downloads": 663,
       "pipeline_tag": ""
     },
     {
       "id": "webml-community/bonsai-webgpu-kernels",
-      "likes": 391,
+      "likes": 392,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1511,13 +1511,13 @@
     },
     {
       "id": "moonshotai/PerceptionBench",
-      "likes": 25,
+      "likes": 26,
       "downloads": 677,
       "pipeline_tag": ""
     },
     {
       "id": "microsoft/mage-flow",
-      "likes": 93,
+      "likes": 94,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1541,7 +1541,7 @@
     },
     {
       "id": "baidu/Unlimited-OCR",
-      "likes": 334,
+      "likes": 335,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1552,5 +1552,5 @@
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-07-30T04:57:46.659297+08:00"
+  "lastUpdatedISO": "2026-07-30T06:06:19.953335+08:00"
 }
