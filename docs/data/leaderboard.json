@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-30 06:06",
+  "lastUpdated": "2026-07-30 08:01",
   "arena": [
     {
       "rank": 1,
@@ -400,7 +400,7 @@
       "id": "meta-llama/Llama-3.1-8B-Instruct",
       "name": "Llama-3.1-8B-Instruct",
       "org": "meta-llama",
-      "likes": 6416,
+      "likes": 6418,
       "downloads": 8022692,
       "license": "Llama3.1",
       "pipeline_tag": "text-generation",
@@ -722,7 +722,7 @@
       "id": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
       "name": "gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
       "org": "yuxinlu1",
-      "likes": 2773,
+      "likes": 2774,
       "downloads": 267329,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1075,7 +1075,7 @@
       "id": "meta-llama/Llama-3.1-8B-Instruct",
       "name": "Llama-3.1-8B-Instruct",
       "org": "meta-llama",
-      "likes": 6416,
+      "likes": 6418,
       "downloads": 8022692,
       "license": "Llama3.1",
       "pipeline_tag": "text-generation",
@@ -1242,7 +1242,7 @@
       "id": "deepreinforce-ai/Ornith-1.0-9B-GGUF",
       "name": "Ornith-1.0-9B-GGUF",
       "org": "deepreinforce-ai",
-      "likes": 582,
+      "likes": 583,
       "downloads": 4067571,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -1373,27 +1373,21 @@
   "trending": [
     {
       "id": "moonshotai/Kimi-K3",
-      "likes": 8611,
+      "likes": 8627,
       "downloads": 99214,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "baidu/Unlimited-OCR",
-      "likes": 3510,
+      "likes": 3514,
       "downloads": 2694935,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
-      "likes": 927,
+      "likes": 935,
       "downloads": 736692,
       "pipeline_tag": "image-text-to-text"
-    },
-    {
-      "id": "upstage/Solar-Open2-250B",
-      "likes": 692,
-      "downloads": 4804,
-      "pipeline_tag": "text-generation"
     },
     {
       "id": "poolside/Laguna-S-2.1",
@@ -1402,26 +1396,32 @@
       "pipeline_tag": "text-generation"
     },
     {
+      "id": "upstage/Solar-Open2-250B",
+      "likes": 693,
+      "downloads": 4804,
+      "pipeline_tag": "text-generation"
+    },
+    {
       "id": "Nanbeige/Nanbeige4.2-3B",
-      "likes": 553,
+      "likes": 554,
       "downloads": 18933,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "Kwaipilot/KAT-Coder-V2.5-Dev",
-      "likes": 315,
+      "likes": 316,
       "downloads": 6275,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "HuggingFaceCode/stack-v3-train",
-      "likes": 225,
+      "likes": 226,
       "downloads": 76867,
       "pipeline_tag": ""
     },
     {
       "id": "owensong/Inflect-Micro-v2",
-      "likes": 288,
+      "likes": 289,
       "downloads": 645,
       "pipeline_tag": "text-to-speech"
     },
@@ -1451,13 +1451,13 @@
     },
     {
       "id": "Manusagents/GPT-5.5-Gemini-3.1-Pro-Grok-4-Claude-Fable-5-Mythos-5-Qwen-3.7-Max-and-more-Distillation-Dataset",
-      "likes": 118,
+      "likes": 119,
       "downloads": 8592,
       "pipeline_tag": ""
     },
     {
       "id": "cinderholm/wan2-2-i2v-v3",
-      "likes": 197,
+      "likes": 194,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1517,7 +1517,7 @@
     },
     {
       "id": "microsoft/mage-flow",
-      "likes": 94,
+      "likes": 95,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1534,8 +1534,8 @@
       "pipeline_tag": ""
     },
     {
-      "id": "conradlocke/krea2-identity-edit",
-      "likes": 157,
+      "id": "Fighterdan/LTX-2.3-10Eros_I2V",
+      "likes": 121,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1546,11 +1546,11 @@
       "pipeline_tag": ""
     },
     {
-      "id": "Fighterdan/LTX-2.3-10Eros_I2V",
-      "likes": 120,
+      "id": "conradlocke/krea2-identity-edit",
+      "likes": 158,
       "downloads": 0,
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-07-30T06:06:19.953335+08:00"
+  "lastUpdatedISO": "2026-07-30T08:01:07.245044+08:00"
 }
