@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-01 23:01",
+  "lastUpdated": "2026-08-02 01:02",
   "arena": [
     {
       "rank": 1,
@@ -366,7 +366,7 @@
       "id": "deepseek-ai/DeepSeek-R1",
       "name": "DeepSeek-R1",
       "org": "deepseek-ai",
-      "likes": 13530,
+      "likes": 13531,
       "downloads": 9399065,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -400,7 +400,7 @@
       "id": "meta-llama/Llama-3.1-8B-Instruct",
       "name": "Llama-3.1-8B-Instruct",
       "org": "meta-llama",
-      "likes": 6443,
+      "likes": 6444,
       "downloads": 7809391,
       "license": "Llama3.1",
       "pipeline_tag": "text-generation",
@@ -434,7 +434,7 @@
       "id": "openai/gpt-oss-120b",
       "name": "gpt-oss-120b",
       "org": "openai",
-      "likes": 5060,
+      "likes": 5061,
       "downloads": 4224431,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -519,7 +519,7 @@
       "id": "zai-org/GLM-5.2",
       "name": "GLM-5.2",
       "org": "zai-org",
-      "likes": 4722,
+      "likes": 4727,
       "downloads": 1683442,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -790,7 +790,7 @@
       "id": "xai-org/grok-1",
       "name": "grok-1",
       "org": "xai-org",
-      "likes": 2433,
+      "likes": 2434,
       "downloads": 320,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1025,7 +1025,7 @@
       "id": "deepseek-ai/DeepSeek-R1",
       "name": "DeepSeek-R1",
       "org": "deepseek-ai",
-      "likes": 13530,
+      "likes": 13531,
       "downloads": 9399065,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -1075,7 +1075,7 @@
       "id": "meta-llama/Llama-3.1-8B-Instruct",
       "name": "Llama-3.1-8B-Instruct",
       "org": "meta-llama",
-      "likes": 6443,
+      "likes": 6444,
       "downloads": 7809391,
       "license": "Llama3.1",
       "pipeline_tag": "text-generation",
@@ -1175,7 +1175,7 @@
       "id": "deepreinforce-ai/Ornith-1.0-9B-GGUF",
       "name": "Ornith-1.0-9B-GGUF",
       "org": "deepreinforce-ai",
-      "likes": 591,
+      "likes": 593,
       "downloads": 4590097,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -1240,7 +1240,7 @@
       "id": "openai/gpt-oss-120b",
       "name": "gpt-oss-120b",
       "org": "openai",
-      "likes": 5060,
+      "likes": 5061,
       "downloads": 4224431,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1370,63 +1370,63 @@
   "trending": [
     {
       "id": "moonshotai/Kimi-K3",
-      "likes": 9411,
+      "likes": 9430,
       "downloads": 559924,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "deepseek-ai/DeepSeek-V4-Flash-0731",
-      "likes": 1300,
+      "likes": 1336,
       "downloads": 15366,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
-      "likes": 1204,
+      "likes": 1212,
       "downloads": 1173001,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "baidu/Unlimited-OCR",
-      "likes": 3694,
+      "likes": 3700,
       "downloads": 2457387,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "owensong/Inflect-Micro-v2",
-      "likes": 356,
+      "likes": 357,
       "downloads": 1565,
       "pipeline_tag": "text-to-speech"
     },
     {
       "id": "unsloth/DeepSeek-V4-Flash-0731-GGUF",
-      "likes": 250,
+      "likes": 258,
       "downloads": 4048,
       "pipeline_tag": ""
     },
     {
       "id": "zai-org/GLM-5.2",
-      "likes": 4722,
+      "likes": 4727,
       "downloads": 1683442,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "unsloth/Kimi-K3-GGUF",
-      "likes": 237,
+      "likes": 239,
       "downloads": 41337,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "Kwaipilot/KAT-Coder-V2.5-Dev",
-      "likes": 381,
+      "likes": 382,
       "downloads": 10771,
       "pipeline_tag": "text-generation"
     },
     {
-      "id": "Nanbeige/Nanbeige4.2-3B",
-      "likes": 606,
-      "downloads": 27892,
-      "pipeline_tag": "text-generation"
+      "id": "thinkingmachines/Inkling-Small",
+      "likes": 206,
+      "downloads": 3998,
+      "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "XYZAILab/XYZ-Aquila-SFT",
@@ -1436,13 +1436,13 @@
     },
     {
       "id": "HuggingFaceCode/stack-v3-train",
-      "likes": 269,
+      "likes": 270,
       "downloads": 118665,
       "pipeline_tag": ""
     },
     {
       "id": "cinderholm/wan2-2-i2v-v3",
-      "likes": 307,
+      "likes": 312,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1466,7 +1466,7 @@
     },
     {
       "id": "prithivMLmods/Qwen-Image-Edit-2511-LoRAs-Fast",
-      "likes": 2175,
+      "likes": 2176,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1478,7 +1478,7 @@
     },
     {
       "id": "FlyRank/internship-warehouse",
-      "likes": 409,
+      "likes": 410,
       "downloads": 9575,
       "pipeline_tag": ""
     },
@@ -1495,15 +1495,15 @@
       "pipeline_tag": ""
     },
     {
-      "id": "pliny-the-prompter/obliteratus",
-      "likes": 508,
-      "downloads": 0,
-      "pipeline_tag": ""
-    },
-    {
       "id": "Glint-Research/Fable-5-traces",
       "likes": 698,
       "downloads": 46464,
+      "pipeline_tag": ""
+    },
+    {
+      "id": "pliny-the-prompter/obliteratus",
+      "likes": 509,
+      "downloads": 0,
       "pipeline_tag": ""
     },
     {
@@ -1525,14 +1525,14 @@
       "pipeline_tag": ""
     },
     {
-      "id": "owensong/Inflect-v2",
-      "likes": 94,
+      "id": "acvlab/abot-world-interactive",
+      "likes": 62,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
-      "id": "acvlab/abot-world-interactive",
-      "likes": 62,
+      "id": "owensong/Inflect-v2",
+      "likes": 96,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1549,5 +1549,5 @@
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-08-01T23:01:28.942873+08:00"
+  "lastUpdatedISO": "2026-08-02T01:02:00.510384+08:00"
 }
