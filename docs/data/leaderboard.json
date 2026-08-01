@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-02 05:58",
+  "lastUpdated": "2026-08-02 07:01",
   "arena": [
     {
       "rank": 1,
@@ -400,7 +400,7 @@
       "id": "meta-llama/Llama-3.1-8B-Instruct",
       "name": "Llama-3.1-8B-Instruct",
       "org": "meta-llama",
-      "likes": 6444,
+      "likes": 6445,
       "downloads": 7809391,
       "license": "Llama3.1",
       "pipeline_tag": "text-generation",
@@ -519,7 +519,7 @@
       "id": "zai-org/GLM-5.2",
       "name": "GLM-5.2",
       "org": "zai-org",
-      "likes": 4732,
+      "likes": 4734,
       "downloads": 1683442,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -722,7 +722,7 @@
       "id": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
       "name": "gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
       "org": "yuxinlu1",
-      "likes": 2788,
+      "likes": 2789,
       "downloads": 262940,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -805,7 +805,7 @@
       "id": "meta-llama/Llama-3.2-3B-Instruct",
       "name": "Llama-3.2-3B-Instruct",
       "org": "meta-llama",
-      "likes": 2383,
+      "likes": 2384,
       "downloads": 1493557,
       "license": "Llama3.2",
       "pipeline_tag": "text-generation",
@@ -1075,7 +1075,7 @@
       "id": "meta-llama/Llama-3.1-8B-Instruct",
       "name": "Llama-3.1-8B-Instruct",
       "org": "meta-llama",
-      "likes": 6444,
+      "likes": 6445,
       "downloads": 7809391,
       "license": "Llama3.1",
       "pipeline_tag": "text-generation",
@@ -1370,19 +1370,19 @@
   "trending": [
     {
       "id": "moonshotai/Kimi-K3",
-      "likes": 9465,
+      "likes": 9468,
       "downloads": 559924,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "deepseek-ai/DeepSeek-V4-Flash-0731",
-      "likes": 1401,
+      "likes": 1409,
       "downloads": 15366,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
-      "likes": 1229,
+      "likes": 1232,
       "downloads": 1173001,
       "pipeline_tag": "image-text-to-text"
     },
@@ -1393,20 +1393,20 @@
       "pipeline_tag": "image-text-to-text"
     },
     {
+      "id": "unsloth/DeepSeek-V4-Flash-0731-GGUF",
+      "likes": 282,
+      "downloads": 4048,
+      "pipeline_tag": ""
+    },
+    {
       "id": "owensong/Inflect-Micro-v2",
       "likes": 361,
       "downloads": 1565,
       "pipeline_tag": "text-to-speech"
     },
     {
-      "id": "unsloth/DeepSeek-V4-Flash-0731-GGUF",
-      "likes": 278,
-      "downloads": 4048,
-      "pipeline_tag": ""
-    },
-    {
       "id": "zai-org/GLM-5.2",
-      "likes": 4732,
+      "likes": 4734,
       "downloads": 1683442,
       "pipeline_tag": "text-generation"
     },
@@ -1418,7 +1418,7 @@
     },
     {
       "id": "Kwaipilot/KAT-Coder-V2.5-Dev",
-      "likes": 387,
+      "likes": 390,
       "downloads": 10771,
       "pipeline_tag": "text-generation"
     },
@@ -1442,13 +1442,13 @@
     },
     {
       "id": "cinderholm/wan2-2-i2v-v3",
-      "likes": 323,
+      "likes": 325,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "kulkas2pintu/wan555",
-      "likes": 989,
+      "likes": 990,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1538,7 +1538,7 @@
     },
     {
       "id": "Fighterdan/LTX-2.3-10Eros_I2V",
-      "likes": 146,
+      "likes": 147,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1549,5 +1549,5 @@
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-08-02T05:58:11.622989+08:00"
+  "lastUpdatedISO": "2026-08-02T07:01:21.388730+08:00"
 }
