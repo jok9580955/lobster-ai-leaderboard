@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-02 23:03",
+  "lastUpdated": "2026-08-03 01:01",
   "arena": [
     {
       "rank": 1,
@@ -519,7 +519,7 @@
       "id": "zai-org/GLM-5.2",
       "name": "GLM-5.2",
       "org": "zai-org",
-      "likes": 4747,
+      "likes": 4748,
       "downloads": 2050533,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -875,7 +875,7 @@
       "id": "Qwen/Qwen3-0.6B",
       "name": "Qwen3-0.6B",
       "org": "Qwen",
-      "likes": 1474,
+      "likes": 1475,
       "downloads": 28903185,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -907,7 +907,7 @@
       "id": "Qwen/Qwen3-8B",
       "name": "Qwen3-8B",
       "org": "Qwen",
-      "likes": 1266,
+      "likes": 1268,
       "downloads": 15945414,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -991,7 +991,7 @@
       "id": "nvidia/Qwen3.6-35B-A3B-NVFP4",
       "name": "Qwen3.6-35B-A3B-NVFP4",
       "org": "nvidia",
-      "likes": 527,
+      "likes": 528,
       "downloads": 11015888,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1175,7 +1175,7 @@
       "id": "deepreinforce-ai/Ornith-1.0-9B-GGUF",
       "name": "Ornith-1.0-9B-GGUF",
       "org": "deepreinforce-ai",
-      "likes": 595,
+      "likes": 596,
       "downloads": 4698021,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -1273,7 +1273,7 @@
       "id": "ibm-granite/granite-4.1-8b",
       "name": "granite-4.1-8b",
       "org": "ibm-granite",
-      "likes": 240,
+      "likes": 241,
       "downloads": 3991168,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1307,7 +1307,7 @@
       "id": "deepreinforce-ai/Ornith-1.0-35B-GGUF",
       "name": "Ornith-1.0-35B-GGUF",
       "org": "deepreinforce-ai",
-      "likes": 1000,
+      "likes": 1001,
       "downloads": 3541902,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -1372,57 +1372,51 @@
   "trending": [
     {
       "id": "moonshotai/Kimi-K3",
-      "likes": 9582,
+      "likes": 9589,
       "downloads": 837202,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "deepseek-ai/DeepSeek-V4-Flash-0731",
-      "likes": 1612,
+      "likes": 1632,
       "downloads": 156173,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
-      "likes": 1284,
+      "likes": 1295,
       "downloads": 1372285,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "baidu/Unlimited-OCR",
-      "likes": 3741,
+      "likes": 3748,
       "downloads": 2536284,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "unsloth/DeepSeek-V4-Flash-0731-GGUF",
-      "likes": 315,
+      "likes": 321,
       "downloads": 48707,
       "pipeline_tag": ""
     },
     {
       "id": "unsloth/Kimi-K3-GGUF",
-      "likes": 246,
+      "likes": 248,
       "downloads": 88481,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "zai-org/GLM-5.2",
-      "likes": 4747,
+      "likes": 4748,
       "downloads": 2050533,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "thinkingmachines/Inkling-Small",
-      "likes": 220,
+      "likes": 222,
       "downloads": 6839,
       "pipeline_tag": "image-text-to-text"
-    },
-    {
-      "id": "owensong/Inflect-Micro-v2",
-      "likes": 368,
-      "downloads": 1825,
-      "pipeline_tag": "text-to-speech"
     },
     {
       "id": "Kwaipilot/KAT-Coder-V2.5-Dev",
@@ -1431,20 +1425,26 @@
       "pipeline_tag": "text-generation"
     },
     {
+      "id": "owensong/Inflect-Micro-v2",
+      "likes": 369,
+      "downloads": 1825,
+      "pipeline_tag": "text-to-speech"
+    },
+    {
       "id": "XYZAILab/XYZ-Aquila-SFT",
-      "likes": 326,
+      "likes": 328,
       "downloads": 562,
       "pipeline_tag": ""
     },
     {
       "id": "HuggingFaceCode/stack-v3-train",
-      "likes": 280,
+      "likes": 281,
       "downloads": 129288,
       "pipeline_tag": ""
     },
     {
       "id": "cinderholm/wan2-2-i2v-v3",
-      "likes": 362,
+      "likes": 368,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1468,19 +1468,19 @@
     },
     {
       "id": "prithivMLmods/Qwen-Image-Edit-2511-LoRAs-Fast",
-      "likes": 2188,
+      "likes": 2189,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "FlyRank/internship-warehouse",
-      "likes": 416,
+      "likes": 417,
       "downloads": 10815,
       "pipeline_tag": ""
     },
     {
       "id": "unstonio/pixelgpt-24x24-20k",
-      "likes": 47,
+      "likes": 48,
       "downloads": 4699,
       "pipeline_tag": ""
     },
@@ -1492,7 +1492,7 @@
     },
     {
       "id": "microsoft/mage-vl-demo",
-      "likes": 81,
+      "likes": 82,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1509,21 +1509,21 @@
       "pipeline_tag": ""
     },
     {
-      "id": "ianncity/GLM-5.2-Conversation",
-      "likes": 44,
-      "downloads": 2981,
-      "pipeline_tag": ""
-    },
-    {
       "id": "acvlab/abot-world-interactive",
-      "likes": 65,
+      "likes": 67,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "obsxrver/wan22-i2v-omni-lora",
-      "likes": 66,
+      "likes": 69,
       "downloads": 0,
+      "pipeline_tag": ""
+    },
+    {
+      "id": "ianncity/GLM-5.2-Conversation",
+      "likes": 44,
+      "downloads": 2981,
       "pipeline_tag": ""
     },
     {
@@ -1534,13 +1534,7 @@
     },
     {
       "id": "Fighterdan/LTX-2.3-10Eros_I2V",
-      "likes": 153,
-      "downloads": 0,
-      "pipeline_tag": ""
-    },
-    {
-      "id": "microsoft/mage-flow",
-      "likes": 120,
+      "likes": 155,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1549,7 +1543,13 @@
       "likes": 2277,
       "downloads": 0,
       "pipeline_tag": ""
+    },
+    {
+      "id": "M3st3rJ4k3l/FLUX.2-Klein-Multi-LoRA",
+      "likes": 288,
+      "downloads": 0,
+      "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-08-02T23:03:38.300030+08:00"
+  "lastUpdatedISO": "2026-08-03T01:01:20.485778+08:00"
 }
