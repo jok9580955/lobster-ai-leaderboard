@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-03 01:01",
+  "lastUpdated": "2026-08-03 03:12",
   "arena": [
     {
       "rank": 1,
@@ -400,7 +400,7 @@
       "id": "meta-llama/Llama-3.1-8B-Instruct",
       "name": "Llama-3.1-8B-Instruct",
       "org": "meta-llama",
-      "likes": 6448,
+      "likes": 6450,
       "downloads": 7916062,
       "license": "Llama3.1",
       "pipeline_tag": "text-generation",
@@ -519,7 +519,7 @@
       "id": "zai-org/GLM-5.2",
       "name": "GLM-5.2",
       "org": "zai-org",
-      "likes": 4748,
+      "likes": 4749,
       "downloads": 2050533,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -722,7 +722,7 @@
       "id": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
       "name": "gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
       "org": "yuxinlu1",
-      "likes": 2791,
+      "likes": 2793,
       "downloads": 299414,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -907,7 +907,7 @@
       "id": "Qwen/Qwen3-8B",
       "name": "Qwen3-8B",
       "org": "Qwen",
-      "likes": 1268,
+      "likes": 1269,
       "downloads": 15945414,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1075,7 +1075,7 @@
       "id": "meta-llama/Llama-3.1-8B-Instruct",
       "name": "Llama-3.1-8B-Instruct",
       "org": "meta-llama",
-      "likes": 6448,
+      "likes": 6450,
       "downloads": 7916062,
       "license": "Llama3.1",
       "pipeline_tag": "text-generation",
@@ -1175,7 +1175,7 @@
       "id": "deepreinforce-ai/Ornith-1.0-9B-GGUF",
       "name": "Ornith-1.0-9B-GGUF",
       "org": "deepreinforce-ai",
-      "likes": 596,
+      "likes": 597,
       "downloads": 4698021,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -1290,7 +1290,7 @@
       "id": "unsloth/Qwen3-Coder-30B-A3B-Instruct-GGUF",
       "name": "Qwen3-Coder-30B-A3B-Instruct-GGUF",
       "org": "unsloth",
-      "likes": 851,
+      "likes": 852,
       "downloads": 3816684,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1372,55 +1372,55 @@
   "trending": [
     {
       "id": "moonshotai/Kimi-K3",
-      "likes": 9589,
+      "likes": 9605,
       "downloads": 837202,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "deepseek-ai/DeepSeek-V4-Flash-0731",
-      "likes": 1632,
+      "likes": 1644,
       "downloads": 156173,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
-      "likes": 1295,
+      "likes": 1305,
       "downloads": 1372285,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "baidu/Unlimited-OCR",
-      "likes": 3748,
+      "likes": 3752,
       "downloads": 2536284,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "unsloth/DeepSeek-V4-Flash-0731-GGUF",
-      "likes": 321,
+      "likes": 325,
       "downloads": 48707,
       "pipeline_tag": ""
     },
     {
       "id": "unsloth/Kimi-K3-GGUF",
-      "likes": 248,
+      "likes": 247,
       "downloads": 88481,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "zai-org/GLM-5.2",
-      "likes": 4748,
+      "likes": 4749,
       "downloads": 2050533,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "thinkingmachines/Inkling-Small",
-      "likes": 222,
+      "likes": 223,
       "downloads": 6839,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "Kwaipilot/KAT-Coder-V2.5-Dev",
-      "likes": 397,
+      "likes": 398,
       "downloads": 13164,
       "pipeline_tag": "text-generation"
     },
@@ -1432,19 +1432,19 @@
     },
     {
       "id": "XYZAILab/XYZ-Aquila-SFT",
-      "likes": 328,
+      "likes": 330,
       "downloads": 562,
       "pipeline_tag": ""
     },
     {
       "id": "HuggingFaceCode/stack-v3-train",
-      "likes": 281,
+      "likes": 282,
       "downloads": 129288,
       "pipeline_tag": ""
     },
     {
       "id": "cinderholm/wan2-2-i2v-v3",
-      "likes": 368,
+      "likes": 370,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1456,7 +1456,7 @@
     },
     {
       "id": "kulkas2pintu/wan555",
-      "likes": 1006,
+      "likes": 1009,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1468,19 +1468,19 @@
     },
     {
       "id": "prithivMLmods/Qwen-Image-Edit-2511-LoRAs-Fast",
-      "likes": 2189,
+      "likes": 2193,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "FlyRank/internship-warehouse",
-      "likes": 417,
+      "likes": 418,
       "downloads": 10815,
       "pipeline_tag": ""
     },
     {
       "id": "unstonio/pixelgpt-24x24-20k",
-      "likes": 48,
+      "likes": 49,
       "downloads": 4699,
       "pipeline_tag": ""
     },
@@ -1492,14 +1492,8 @@
     },
     {
       "id": "microsoft/mage-vl-demo",
-      "likes": 82,
+      "likes": 83,
       "downloads": 0,
-      "pipeline_tag": ""
-    },
-    {
-      "id": "r0b0tlab/qwen3.8-max-distillation-50k",
-      "likes": 62,
-      "downloads": 1231,
       "pipeline_tag": ""
     },
     {
@@ -1509,21 +1503,27 @@
       "pipeline_tag": ""
     },
     {
-      "id": "acvlab/abot-world-interactive",
-      "likes": 67,
-      "downloads": 0,
+      "id": "r0b0tlab/qwen3.8-max-distillation-50k",
+      "likes": 62,
+      "downloads": 1231,
       "pipeline_tag": ""
     },
     {
-      "id": "obsxrver/wan22-i2v-omni-lora",
+      "id": "acvlab/abot-world-interactive",
       "likes": 69,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "ianncity/GLM-5.2-Conversation",
-      "likes": 44,
+      "likes": 45,
       "downloads": 2981,
+      "pipeline_tag": ""
+    },
+    {
+      "id": "obsxrver/wan22-i2v-omni-lora",
+      "likes": 72,
+      "downloads": 0,
       "pipeline_tag": ""
     },
     {
@@ -1533,23 +1533,23 @@
       "pipeline_tag": ""
     },
     {
-      "id": "Fighterdan/LTX-2.3-10Eros_I2V",
-      "likes": 155,
+      "id": "victor/DeepSeek-V4-Flash-0731-free-endpoint",
+      "likes": 53,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "selfit-camera/Omni-Image-Editor",
-      "likes": 2277,
+      "likes": 2278,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "M3st3rJ4k3l/FLUX.2-Klein-Multi-LoRA",
-      "likes": 288,
+      "likes": 290,
       "downloads": 0,
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-08-03T01:01:20.485778+08:00"
+  "lastUpdatedISO": "2026-08-03T03:12:36.229988+08:00"
 }
