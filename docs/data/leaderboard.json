@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-03 04:57",
+  "lastUpdated": "2026-08-03 06:01",
   "arena": [
     {
       "rank": 1,
@@ -519,7 +519,7 @@
       "id": "zai-org/GLM-5.2",
       "name": "GLM-5.2",
       "org": "zai-org",
-      "likes": 4750,
+      "likes": 4751,
       "downloads": 2050533,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -1240,7 +1240,7 @@
       "id": "google/gemma-3-1b-it",
       "name": "gemma-3-1b-it",
       "org": "google",
-      "likes": 1074,
+      "likes": 1075,
       "downloads": 4276608,
       "license": "Gemma",
       "pipeline_tag": "text-generation",
@@ -1307,7 +1307,7 @@
       "id": "deepreinforce-ai/Ornith-1.0-35B-GGUF",
       "name": "Ornith-1.0-35B-GGUF",
       "org": "deepreinforce-ai",
-      "likes": 1001,
+      "likes": 1002,
       "downloads": 3541902,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -1372,43 +1372,43 @@
   "trending": [
     {
       "id": "moonshotai/Kimi-K3",
-      "likes": 9619,
+      "likes": 9625,
       "downloads": 837202,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "deepseek-ai/DeepSeek-V4-Flash-0731",
-      "likes": 1672,
+      "likes": 1679,
       "downloads": 156173,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
-      "likes": 1323,
+      "likes": 1332,
       "downloads": 1372285,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "baidu/Unlimited-OCR",
-      "likes": 3762,
+      "likes": 3774,
       "downloads": 2536284,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "unsloth/DeepSeek-V4-Flash-0731-GGUF",
-      "likes": 331,
+      "likes": 333,
       "downloads": 48707,
       "pipeline_tag": ""
     },
     {
       "id": "unsloth/Kimi-K3-GGUF",
-      "likes": 247,
+      "likes": 248,
       "downloads": 88481,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "zai-org/GLM-5.2",
-      "likes": 4750,
+      "likes": 4751,
       "downloads": 2050533,
       "pipeline_tag": "text-generation"
     },
@@ -1420,19 +1420,19 @@
     },
     {
       "id": "Kwaipilot/KAT-Coder-V2.5-Dev",
-      "likes": 400,
+      "likes": 401,
       "downloads": 13164,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "owensong/Inflect-Micro-v2",
-      "likes": 370,
+      "likes": 371,
       "downloads": 1825,
       "pipeline_tag": "text-to-speech"
     },
     {
       "id": "XYZAILab/XYZ-Aquila-SFT",
-      "likes": 330,
+      "likes": 331,
       "downloads": 562,
       "pipeline_tag": ""
     },
@@ -1444,7 +1444,7 @@
     },
     {
       "id": "cinderholm/wan2-2-i2v-v3",
-      "likes": 375,
+      "likes": 379,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1468,7 +1468,7 @@
     },
     {
       "id": "prithivMLmods/Qwen-Image-Edit-2511-LoRAs-Fast",
-      "likes": 2194,
+      "likes": 2195,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1533,14 +1533,14 @@
       "pipeline_tag": ""
     },
     {
-      "id": "victor/DeepSeek-V4-Flash-0731-free-endpoint",
-      "likes": 53,
+      "id": "selfit-camera/Omni-Image-Editor",
+      "likes": 2280,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
-      "id": "selfit-camera/Omni-Image-Editor",
-      "likes": 2279,
+      "id": "victor/DeepSeek-V4-Flash-0731-free-endpoint",
+      "likes": 53,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1551,5 +1551,5 @@
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-08-03T04:57:15.759090+08:00"
+  "lastUpdatedISO": "2026-08-03T06:01:45.859583+08:00"
 }
