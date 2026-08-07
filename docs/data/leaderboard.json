@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-08 04:42",
+  "lastUpdated": "2026-08-08 05:40",
   "arena": [
     {
       "rank": 1,
@@ -722,7 +722,7 @@
       "id": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
       "name": "gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
       "org": "yuxinlu1",
-      "likes": 2812,
+      "likes": 2813,
       "downloads": 282466,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -739,7 +739,7 @@
       "id": "deepseek-ai/DeepSeek-V4-Flash-0731",
       "name": "DeepSeek-V4-Flash-0731",
       "org": "deepseek-ai",
-      "likes": 2732,
+      "likes": 2734,
       "downloads": 702709,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -1372,31 +1372,31 @@
   "trending": [
     {
       "id": "MiniMaxAI/MiniMax-H3",
-      "likes": 2932,
+      "likes": 2936,
       "downloads": 18112,
       "pipeline_tag": "image-text-to-video"
     },
     {
       "id": "deepseek-ai/DeepSeek-V4-Flash-0731",
-      "likes": 2732,
+      "likes": 2734,
       "downloads": 702709,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "Comfy-Org/MiniMax-H3",
-      "likes": 928,
+      "likes": 930,
       "downloads": 3139920,
       "pipeline_tag": ""
     },
     {
       "id": "moonshotai/Kimi-K3",
-      "likes": 10268,
+      "likes": 10269,
       "downloads": 1308186,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
-      "likes": 1701,
+      "likes": 1703,
       "downloads": 2217339,
       "pipeline_tag": "image-text-to-text"
     },
@@ -1408,19 +1408,19 @@
     },
     {
       "id": "larryvrh/MiniMax-H3-Turbo-Lora",
-      "likes": 405,
+      "likes": 407,
       "downloads": 0,
       "pipeline_tag": "text-to-video"
     },
     {
       "id": "LiquidAI/LFM2.5-2.6B",
-      "likes": 373,
+      "likes": 375,
       "downloads": 77973,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "ethanfel/Qwen3-VL-32B-Ultra-Heretic-H3-ComfyUI-INT8-ConvRot",
-      "likes": 375,
+      "likes": 376,
       "downloads": 0,
       "pipeline_tag": "image-text-to-text"
     },
@@ -1473,15 +1473,15 @@
       "pipeline_tag": ""
     },
     {
-      "id": "prithivMLmods/Qwen-Image-Edit-2511-LoRAs-Fast",
-      "likes": 2326,
-      "downloads": 0,
-      "pipeline_tag": ""
-    },
-    {
       "id": "tatsu-lab/alpaca",
       "likes": 1084,
       "downloads": 80941,
+      "pipeline_tag": ""
+    },
+    {
+      "id": "prithivMLmods/Qwen-Image-Edit-2511-LoRAs-Fast",
+      "likes": 2326,
+      "downloads": 0,
       "pipeline_tag": ""
     },
     {
@@ -1528,7 +1528,7 @@
     },
     {
       "id": "Alissonerdx/charactersheet-lora-demo",
-      "likes": 82,
+      "likes": 83,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1551,5 +1551,5 @@
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-08-08T04:42:22.167488+08:00"
+  "lastUpdatedISO": "2026-08-08T05:40:15.553760+08:00"
 }
