@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-07 15:18",
+  "lastUpdated": "2026-08-07 17:00",
   "arena": [
     {
       "rank": 1,
@@ -367,7 +367,7 @@
       "name": "DeepSeek-R1",
       "org": "deepseek-ai",
       "likes": 13548,
-      "downloads": 9682639,
+      "downloads": 9405763,
       "license": "Mit",
       "pipeline_tag": "text-generation",
       "tags": [
@@ -384,7 +384,7 @@
       "name": "Meta-Llama-3-8B",
       "org": "meta-llama",
       "likes": 6623,
-      "downloads": 2036600,
+      "downloads": 2006988,
       "license": "Llama3",
       "pipeline_tag": "text-generation",
       "tags": [
@@ -401,7 +401,7 @@
       "name": "Llama-3.1-8B-Instruct",
       "org": "meta-llama",
       "likes": 6544,
-      "downloads": 7788831,
+      "downloads": 7666987,
       "license": "Llama3.1",
       "pipeline_tag": "text-generation",
       "tags": [
@@ -418,7 +418,7 @@
       "name": "DeepSeek-V4-Pro",
       "org": "deepseek-ai",
       "likes": 5392,
-      "downloads": 1574208,
+      "downloads": 1561291,
       "license": "Mit",
       "pipeline_tag": "text-generation",
       "tags": [
@@ -435,7 +435,7 @@
       "name": "gpt-oss-120b",
       "org": "openai",
       "likes": 5083,
-      "downloads": 4149709,
+      "downloads": 4138863,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
       "tags": [
@@ -469,7 +469,7 @@
       "name": "gpt-oss-20b",
       "org": "openai",
       "likes": 4884,
-      "downloads": 8390269,
+      "downloads": 8229095,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
       "tags": [
@@ -485,8 +485,8 @@
       "id": "zai-org/GLM-5.2",
       "name": "GLM-5.2",
       "org": "zai-org",
-      "likes": 4877,
-      "downloads": 2391730,
+      "likes": 4879,
+      "downloads": 2430330,
       "license": "Mit",
       "pipeline_tag": "text-generation",
       "tags": [
@@ -520,7 +520,7 @@
       "name": "Meta-Llama-3-8B-Instruct",
       "org": "meta-llama",
       "likes": 4796,
-      "downloads": 1766921,
+      "downloads": 1778885,
       "license": "Llama3",
       "pipeline_tag": "text-generation",
       "tags": [
@@ -554,7 +554,7 @@
       "name": "DeepSeek-V3",
       "org": "deepseek-ai",
       "likes": 4169,
-      "downloads": 1177530,
+      "downloads": 1154814,
       "license": "Unknown",
       "pipeline_tag": "text-generation",
       "tags": [
@@ -638,7 +638,7 @@
       "name": "Mistral-7B-Instruct-v0.2",
       "org": "mistralai",
       "likes": 3194,
-      "downloads": 1239633,
+      "downloads": 1195938,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
       "tags": [
@@ -655,7 +655,7 @@
       "name": "DeepSeek-V3-0324",
       "org": "deepseek-ai",
       "likes": 3152,
-      "downloads": 964959,
+      "downloads": 1000016,
       "license": "Mit",
       "pipeline_tag": "text-generation",
       "tags": [
@@ -689,7 +689,7 @@
       "name": "QwQ-32B",
       "org": "Qwen",
       "likes": 2961,
-      "downloads": 234120,
+      "downloads": 193789,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
       "tags": [
@@ -706,7 +706,7 @@
       "name": "Llama-3.3-70B-Instruct",
       "org": "meta-llama",
       "likes": 2944,
-      "downloads": 420604,
+      "downloads": 394334,
       "license": "Llama3.3",
       "pipeline_tag": "text-generation",
       "tags": [
@@ -722,8 +722,8 @@
       "id": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
       "name": "gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
       "org": "yuxinlu1",
-      "likes": 2811,
-      "downloads": 285919,
+      "likes": 2812,
+      "downloads": 282466,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
       "tags": [
@@ -739,8 +739,8 @@
       "id": "deepseek-ai/DeepSeek-V4-Flash-0731",
       "name": "DeepSeek-V4-Flash-0731",
       "org": "deepseek-ai",
-      "likes": 2679,
-      "downloads": 617900,
+      "likes": 2694,
+      "downloads": 702709,
       "license": "Mit",
       "pipeline_tag": "text-generation",
       "tags": [
@@ -757,7 +757,7 @@
       "name": "Llama-3.2-1B",
       "org": "meta-llama",
       "likes": 2521,
-      "downloads": 1680220,
+      "downloads": 1637736,
       "license": "Llama3.2",
       "pipeline_tag": "text-generation",
       "tags": [
@@ -774,7 +774,7 @@
       "name": "DeepSeek-R1-0528",
       "org": "deepseek-ai",
       "likes": 2458,
-      "downloads": 202374,
+      "downloads": 201473,
       "license": "Mit",
       "pipeline_tag": "text-generation",
       "tags": [
@@ -808,7 +808,7 @@
       "name": "grok-1",
       "org": "xai-org",
       "likes": 2436,
-      "downloads": 384,
+      "downloads": 382,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
       "tags": [
@@ -822,8 +822,8 @@
       "id": "meta-llama/Llama-3.2-3B-Instruct",
       "name": "Llama-3.2-3B-Instruct",
       "org": "meta-llama",
-      "likes": 2392,
-      "downloads": 1378953,
+      "likes": 2393,
+      "downloads": 1349565,
       "license": "Llama3.2",
       "pipeline_tag": "text-generation",
       "tags": [
@@ -840,7 +840,7 @@
       "name": "Kimi-K2-Instruct",
       "org": "moonshotai",
       "likes": 2373,
-      "downloads": 180533,
+      "downloads": 179339,
       "license": "Other",
       "pipeline_tag": "text-generation",
       "tags": [
@@ -875,8 +875,8 @@
       "id": "Qwen/Qwen3-0.6B",
       "name": "Qwen3-0.6B",
       "org": "Qwen",
-      "likes": 1490,
-      "downloads": 28862849,
+      "likes": 1491,
+      "downloads": 28385565,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
       "tags": [
@@ -908,7 +908,7 @@
       "name": "Qwen3-8B",
       "org": "Qwen",
       "likes": 1278,
-      "downloads": 15485922,
+      "downloads": 15176720,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
       "tags": [
@@ -924,7 +924,7 @@
       "name": "tiny-Qwen2ForCausalLM-2.5",
       "org": "trl-internal-testing",
       "likes": 19,
-      "downloads": 15206588,
+      "downloads": 15010558,
       "license": "Unknown",
       "pipeline_tag": "text-generation",
       "tags": [
@@ -941,7 +941,7 @@
       "name": "Qwen2.5-1.5B-Instruct",
       "org": "Qwen",
       "likes": 790,
-      "downloads": 13521479,
+      "downloads": 13341646,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
       "tags": [
@@ -975,7 +975,7 @@
       "name": "Qwen2.5-7B-Instruct",
       "org": "Qwen",
       "likes": 1531,
-      "downloads": 11703110,
+      "downloads": 11516790,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
       "tags": [
@@ -991,8 +991,8 @@
       "id": "nvidia/Qwen3.6-35B-A3B-NVFP4",
       "name": "Qwen3.6-35B-A3B-NVFP4",
       "org": "nvidia",
-      "likes": 538,
-      "downloads": 10870383,
+      "likes": 539,
+      "downloads": 10696241,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
       "tags": [
@@ -1009,7 +1009,7 @@
       "name": "Llama-3.2-1B-Instruct",
       "org": "meta-llama",
       "likes": 1555,
-      "downloads": 10016506,
+      "downloads": 9769303,
       "license": "Llama3.2",
       "pipeline_tag": "text-generation",
       "tags": [
@@ -1026,7 +1026,7 @@
       "name": "DeepSeek-R1",
       "org": "deepseek-ai",
       "likes": 13548,
-      "downloads": 9682639,
+      "downloads": 9405763,
       "license": "Mit",
       "pipeline_tag": "text-generation",
       "tags": [
@@ -1043,7 +1043,7 @@
       "name": "gpt-oss-20b",
       "org": "openai",
       "likes": 4884,
-      "downloads": 8390269,
+      "downloads": 8229095,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
       "tags": [
@@ -1060,7 +1060,7 @@
       "name": "Llama-3.1-8B-Instruct",
       "org": "meta-llama",
       "likes": 6544,
-      "downloads": 7788831,
+      "downloads": 7666987,
       "license": "Llama3.1",
       "pipeline_tag": "text-generation",
       "tags": [
@@ -1077,7 +1077,7 @@
       "name": "Qwen3-32B",
       "org": "Qwen",
       "likes": 728,
-      "downloads": 7747968,
+      "downloads": 7645702,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
       "tags": [
@@ -1093,7 +1093,7 @@
       "name": "Qwen3-1.7B",
       "org": "Qwen",
       "likes": 512,
-      "downloads": 7672964,
+      "downloads": 7601444,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
       "tags": [
@@ -1109,7 +1109,7 @@
       "name": "Qwen2.5-0.5B-Instruct",
       "org": "Qwen",
       "likes": 582,
-      "downloads": 6478624,
+      "downloads": 6349247,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
       "tags": [
@@ -1126,7 +1126,7 @@
       "name": "Qwen2.5-3B-Instruct",
       "org": "Qwen",
       "likes": 547,
-      "downloads": 5812073,
+      "downloads": 5717365,
       "license": "Other",
       "pipeline_tag": "text-generation",
       "tags": [
@@ -1139,27 +1139,11 @@
       "created_at": "2024-09-17T14:08:52.000Z"
     },
     {
-      "id": "hmellor/tiny-random-LlamaForCausalLM",
-      "name": "tiny-random-LlamaForCausalLM",
-      "org": "hmellor",
-      "likes": 0,
-      "downloads": 5155527,
-      "license": "Unknown",
-      "pipeline_tag": "text-generation",
-      "tags": [
-        "llama",
-        "text-generation",
-        "conversational",
-        "text-generation-inference"
-      ],
-      "created_at": "2025-04-29T21:47:13.000Z"
-    },
-    {
       "id": "unsloth/Qwen3-Coder-30B-A3B-Instruct-GGUF",
       "name": "Qwen3-Coder-30B-A3B-Instruct-GGUF",
       "org": "unsloth",
       "likes": 876,
-      "downloads": 5114998,
+      "downloads": 5357567,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
       "tags": [
@@ -1176,7 +1160,7 @@
       "name": "gemma-3-1b-it",
       "org": "google",
       "likes": 1084,
-      "downloads": 4965745,
+      "downloads": 5025834,
       "license": "Gemma",
       "pipeline_tag": "text-generation",
       "tags": [
@@ -1188,26 +1172,27 @@
       "created_at": "2025-03-10T12:09:00.000Z"
     },
     {
-      "id": "ornith-ai/Ornith-1.0-9B-GGUF",
-      "name": "Ornith-1.0-9B-GGUF",
-      "org": "ornith-ai",
-      "likes": 613,
-      "downloads": 4632751,
-      "license": "Mit",
+      "id": "hmellor/tiny-random-LlamaForCausalLM",
+      "name": "tiny-random-LlamaForCausalLM",
+      "org": "hmellor",
+      "likes": 0,
+      "downloads": 4978556,
+      "license": "Unknown",
       "pipeline_tag": "text-generation",
       "tags": [
-        "gguf",
+        "llama",
         "text-generation",
-        "conversational"
+        "conversational",
+        "text-generation-inference"
       ],
-      "created_at": "2026-06-25T04:56:13.000Z"
+      "created_at": "2025-04-29T21:47:13.000Z"
     },
     {
       "id": "Qwen/Qwen3-4B",
       "name": "Qwen3-4B",
       "org": "Qwen",
       "likes": 671,
-      "downloads": 4565593,
+      "downloads": 4601797,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
       "tags": [
@@ -1219,11 +1204,26 @@
       "created_at": "2025-04-27T03:41:29.000Z"
     },
     {
+      "id": "ornith-ai/Ornith-1.0-9B-GGUF",
+      "name": "Ornith-1.0-9B-GGUF",
+      "org": "ornith-ai",
+      "likes": 613,
+      "downloads": 4567553,
+      "license": "Mit",
+      "pipeline_tag": "text-generation",
+      "tags": [
+        "gguf",
+        "text-generation",
+        "conversational"
+      ],
+      "created_at": "2026-06-25T04:56:13.000Z"
+    },
+    {
       "id": "Qwen/Qwen2.5-7B-Instruct-AWQ",
       "name": "Qwen2.5-7B-Instruct-AWQ",
       "org": "Qwen",
       "likes": 49,
-      "downloads": 4535819,
+      "downloads": 4494251,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
       "tags": [
@@ -1240,7 +1240,7 @@
       "name": "dolphin-2.9.1-yi-1.5-34b",
       "org": "dphn",
       "likes": 65,
-      "downloads": 4475393,
+      "downloads": 4402947,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
       "tags": [
@@ -1257,7 +1257,7 @@
       "name": "granite-4.1-8b",
       "org": "ibm-granite",
       "likes": 246,
-      "downloads": 4258816,
+      "downloads": 4213980,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
       "tags": [
@@ -1270,28 +1270,11 @@
       "created_at": "2026-04-06T13:18:47.000Z"
     },
     {
-      "id": "farbodtavakkoli/OTel-LLM-E4B-IT",
-      "name": "OTel-LLM-E4B-IT",
-      "org": "farbodtavakkoli",
-      "likes": 0,
-      "downloads": 4214675,
-      "license": "Apache 2.0",
-      "pipeline_tag": "text-generation",
-      "tags": [
-        "gemma4",
-        "telecom",
-        "telecommunications",
-        "gsma",
-        "rag"
-      ],
-      "created_at": "2026-06-17T18:27:16.000Z"
-    },
-    {
       "id": "openai/gpt-oss-120b",
       "name": "gpt-oss-120b",
       "org": "openai",
       "likes": 5083,
-      "downloads": 4149709,
+      "downloads": 4138863,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
       "tags": [
@@ -1304,11 +1287,28 @@
       "created_at": "2025-08-04T22:33:06.000Z"
     },
     {
+      "id": "farbodtavakkoli/OTel-LLM-E4B-IT",
+      "name": "OTel-LLM-E4B-IT",
+      "org": "farbodtavakkoli",
+      "likes": 0,
+      "downloads": 3992619,
+      "license": "Apache 2.0",
+      "pipeline_tag": "text-generation",
+      "tags": [
+        "gemma4",
+        "telecom",
+        "telecommunications",
+        "gsma",
+        "rag"
+      ],
+      "created_at": "2026-06-17T18:27:16.000Z"
+    },
+    {
       "id": "farbodtavakkoli/OTel-2.0-LLM-31B-IT",
       "name": "OTel-2.0-LLM-31B-IT",
       "org": "farbodtavakkoli",
-      "likes": 7,
-      "downloads": 3542256,
+      "likes": 8,
+      "downloads": 3688285,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
       "tags": [
@@ -1325,7 +1325,7 @@
       "name": "Ornith-1.0-35B-GGUF",
       "org": "ornith-ai",
       "likes": 1016,
-      "downloads": 3499083,
+      "downloads": 3384148,
       "license": "Mit",
       "pipeline_tag": "text-generation",
       "tags": [
@@ -1340,7 +1340,7 @@
       "name": "Qwen2.5-14B-Instruct",
       "org": "Qwen",
       "likes": 357,
-      "downloads": 3218415,
+      "downloads": 3174434,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
       "tags": [
@@ -1357,7 +1357,7 @@
       "name": "Qwen3-4B-Instruct-2507",
       "org": "Qwen",
       "likes": 911,
-      "downloads": 3109972,
+      "downloads": 3081081,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
       "tags": [
@@ -1372,133 +1372,127 @@
   "trending": [
     {
       "id": "MiniMaxAI/MiniMax-H3",
-      "likes": 2812,
-      "downloads": 12102,
+      "likes": 2836,
+      "downloads": 18112,
       "pipeline_tag": "image-text-to-video"
     },
     {
       "id": "deepseek-ai/DeepSeek-V4-Flash-0731",
-      "likes": 2679,
-      "downloads": 617900,
+      "likes": 2694,
+      "downloads": 702709,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "moonshotai/Kimi-K3",
-      "likes": 10225,
-      "downloads": 1258043,
+      "likes": 10237,
+      "downloads": 1308186,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "Comfy-Org/MiniMax-H3",
-      "likes": 870,
-      "downloads": 2295377,
+      "likes": 877,
+      "downloads": 3139920,
       "pipeline_tag": ""
     },
     {
       "id": "unsloth/DeepSeek-V4-Flash-0731-GGUF",
-      "likes": 563,
-      "downloads": 145105,
+      "likes": 565,
+      "downloads": 161253,
       "pipeline_tag": ""
     },
     {
       "id": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
-      "likes": 1662,
-      "downloads": 2087189,
+      "likes": 1668,
+      "downloads": 2217339,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "ethanfel/Qwen3-VL-32B-Ultra-Heretic-H3-ComfyUI-INT8-ConvRot",
-      "likes": 351,
+      "likes": 353,
       "downloads": 0,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "LiquidAI/LFM2.5-2.6B",
-      "likes": 343,
-      "downloads": 73573,
+      "likes": 345,
+      "downloads": 77973,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "larryvrh/MiniMax-H3-Turbo-Lora",
-      "likes": 341,
+      "likes": 346,
       "downloads": 0,
       "pipeline_tag": "text-to-video"
     },
     {
       "id": "baidu/Unlimited-OCR",
-      "likes": 3937,
-      "downloads": 2791862,
+      "likes": 3940,
+      "downloads": 2836694,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "cinderholm/wan2-2-i2v-v3",
-      "likes": 613,
+      "likes": 615,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "HuggingFaceFW/fineweb",
-      "likes": 3104,
-      "downloads": 404930,
-      "pipeline_tag": ""
-    },
-    {
-      "id": "XYZAILab/XYZ-Aquila-SFT",
-      "likes": 366,
-      "downloads": 1198,
+      "likes": 3106,
+      "downloads": 378572,
       "pipeline_tag": ""
     },
     {
       "id": "HuggingFaceH4/ultrachat_200k",
-      "likes": 848,
-      "downloads": 69959,
+      "likes": 849,
+      "downloads": 69952,
       "pipeline_tag": ""
     },
     {
       "id": "rajpurkar/squad",
-      "likes": 454,
-      "downloads": 209339,
+      "likes": 455,
+      "downloads": 207038,
       "pipeline_tag": ""
     },
     {
       "id": "openai/gsm8k",
       "likes": 1551,
-      "downloads": 946511,
+      "downloads": 941092,
       "pipeline_tag": ""
     },
     {
       "id": "stanfordnlp/imdb",
       "likes": 466,
-      "downloads": 190011,
+      "downloads": 188781,
       "pipeline_tag": ""
     },
     {
       "id": "Anthropic/hh-rlhf",
-      "likes": 1913,
-      "downloads": 35776,
+      "likes": 1914,
+      "downloads": 35309,
       "pipeline_tag": ""
     },
     {
       "id": "tatsu-lab/alpaca",
       "likes": 1084,
-      "downloads": 81566,
+      "downloads": 80941,
       "pipeline_tag": ""
     },
     {
       "id": "prithivMLmods/Qwen-Image-Edit-2511-LoRAs-Fast",
-      "likes": 2308,
+      "likes": 2310,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "HuggingFaceCode/stack-v3-train",
       "likes": 314,
-      "downloads": 160247,
+      "downloads": 167174,
       "pipeline_tag": ""
     },
     {
       "id": "multimodalart/minimax-h3",
-      "likes": 144,
+      "likes": 148,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1511,12 +1505,24 @@
     {
       "id": "databricks/databricks-dolly-15k",
       "likes": 1069,
-      "downloads": 42865,
+      "downloads": 42907,
+      "pipeline_tag": ""
+    },
+    {
+      "id": "Manusagents/GPT-5.5-Gemini-3.1-Pro-Grok-4-Claude-Fable-5-Mythos-5-Qwen-3.7-Max-and-more-Distillation-Dataset",
+      "likes": 179,
+      "downloads": 13007,
       "pipeline_tag": ""
     },
     {
       "id": "cruisewagner2220/Qwen-Image-Edit-Rapid-AIO-Loras-Experimental-neo",
-      "likes": 207,
+      "likes": 208,
+      "downloads": 0,
+      "pipeline_tag": ""
+    },
+    {
+      "id": "victor/DeepSeek-V4-Flash-0731-free-endpoint",
+      "likes": 87,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1527,14 +1533,8 @@
       "pipeline_tag": ""
     },
     {
-      "id": "victor/DeepSeek-V4-Flash-0731-free-endpoint",
-      "likes": 86,
-      "downloads": 0,
-      "pipeline_tag": ""
-    },
-    {
       "id": "Alissonerdx/charactersheet-lora-demo",
-      "likes": 77,
+      "likes": 78,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1551,5 +1551,5 @@
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-08-07T15:18:23.853133+08:00"
+  "lastUpdatedISO": "2026-08-07T17:00:57.722430+08:00"
 }
