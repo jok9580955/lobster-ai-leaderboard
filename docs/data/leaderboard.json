@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-08 03:55",
+  "lastUpdated": "2026-08-08 04:42",
   "arena": [
     {
       "rank": 1,
@@ -739,7 +739,7 @@
       "id": "deepseek-ai/DeepSeek-V4-Flash-0731",
       "name": "DeepSeek-V4-Flash-0731",
       "org": "deepseek-ai",
-      "likes": 2728,
+      "likes": 2732,
       "downloads": 702709,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -1092,7 +1092,7 @@
       "id": "Qwen/Qwen3-1.7B",
       "name": "Qwen3-1.7B",
       "org": "Qwen",
-      "likes": 513,
+      "likes": 514,
       "downloads": 7601444,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1372,19 +1372,19 @@
   "trending": [
     {
       "id": "MiniMaxAI/MiniMax-H3",
-      "likes": 2926,
+      "likes": 2932,
       "downloads": 18112,
       "pipeline_tag": "image-text-to-video"
     },
     {
       "id": "deepseek-ai/DeepSeek-V4-Flash-0731",
-      "likes": 2728,
+      "likes": 2732,
       "downloads": 702709,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "Comfy-Org/MiniMax-H3",
-      "likes": 926,
+      "likes": 928,
       "downloads": 3139920,
       "pipeline_tag": ""
     },
@@ -1396,7 +1396,7 @@
     },
     {
       "id": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
-      "likes": 1699,
+      "likes": 1701,
       "downloads": 2217339,
       "pipeline_tag": "image-text-to-text"
     },
@@ -1408,21 +1408,21 @@
     },
     {
       "id": "larryvrh/MiniMax-H3-Turbo-Lora",
-      "likes": 403,
+      "likes": 405,
       "downloads": 0,
       "pipeline_tag": "text-to-video"
     },
     {
-      "id": "ethanfel/Qwen3-VL-32B-Ultra-Heretic-H3-ComfyUI-INT8-ConvRot",
-      "likes": 374,
-      "downloads": 0,
-      "pipeline_tag": "image-text-to-text"
-    },
-    {
       "id": "LiquidAI/LFM2.5-2.6B",
-      "likes": 370,
+      "likes": 373,
       "downloads": 77973,
       "pipeline_tag": "text-generation"
+    },
+    {
+      "id": "ethanfel/Qwen3-VL-32B-Ultra-Heretic-H3-ComfyUI-INT8-ConvRot",
+      "likes": 375,
+      "downloads": 0,
+      "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "deepgrove/maple-preview",
@@ -1432,7 +1432,7 @@
     },
     {
       "id": "cinderholm/wan2-2-i2v-v3",
-      "likes": 636,
+      "likes": 637,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1462,7 +1462,7 @@
     },
     {
       "id": "openai/gsm8k",
-      "likes": 1551,
+      "likes": 1552,
       "downloads": 941092,
       "pipeline_tag": ""
     },
@@ -1486,7 +1486,7 @@
     },
     {
       "id": "multimodalart/minimax-h3",
-      "likes": 161,
+      "likes": 162,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1522,7 +1522,7 @@
     },
     {
       "id": "cruisewagner2220/Qwen-Image-Edit-Rapid-AIO-Loras-Experimental-neo",
-      "likes": 216,
+      "likes": 217,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1551,5 +1551,5 @@
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-08-08T03:55:14.303237+08:00"
+  "lastUpdatedISO": "2026-08-08T04:42:22.167488+08:00"
 }
