@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-08 02:59",
+  "lastUpdated": "2026-08-08 03:55",
   "arena": [
     {
       "rank": 1,
@@ -739,7 +739,7 @@
       "id": "deepseek-ai/DeepSeek-V4-Flash-0731",
       "name": "DeepSeek-V4-Flash-0731",
       "org": "deepseek-ai",
-      "likes": 2725,
+      "likes": 2728,
       "downloads": 702709,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -1008,7 +1008,7 @@
       "id": "meta-llama/Llama-3.2-1B-Instruct",
       "name": "Llama-3.2-1B-Instruct",
       "org": "meta-llama",
-      "likes": 1555,
+      "likes": 1556,
       "downloads": 9769303,
       "license": "Llama3.2",
       "pipeline_tag": "text-generation",
@@ -1372,43 +1372,43 @@
   "trending": [
     {
       "id": "MiniMaxAI/MiniMax-H3",
-      "likes": 2923,
+      "likes": 2926,
       "downloads": 18112,
       "pipeline_tag": "image-text-to-video"
     },
     {
       "id": "deepseek-ai/DeepSeek-V4-Flash-0731",
-      "likes": 2725,
+      "likes": 2728,
       "downloads": 702709,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "Comfy-Org/MiniMax-H3",
-      "likes": 922,
+      "likes": 926,
       "downloads": 3139920,
       "pipeline_tag": ""
     },
     {
       "id": "moonshotai/Kimi-K3",
-      "likes": 10267,
+      "likes": 10268,
       "downloads": 1308186,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
-      "likes": 1695,
+      "likes": 1699,
       "downloads": 2217339,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "unsloth/DeepSeek-V4-Flash-0731-GGUF",
-      "likes": 581,
+      "likes": 582,
       "downloads": 161253,
       "pipeline_tag": ""
     },
     {
       "id": "larryvrh/MiniMax-H3-Turbo-Lora",
-      "likes": 399,
+      "likes": 403,
       "downloads": 0,
       "pipeline_tag": "text-to-video"
     },
@@ -1432,7 +1432,7 @@
     },
     {
       "id": "cinderholm/wan2-2-i2v-v3",
-      "likes": 633,
+      "likes": 636,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1551,5 +1551,5 @@
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-08-08T02:59:28.524726+08:00"
+  "lastUpdatedISO": "2026-08-08T03:55:14.303237+08:00"
 }
