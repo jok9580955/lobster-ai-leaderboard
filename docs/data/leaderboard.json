@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-08 12:58",
+  "lastUpdated": "2026-08-08 13:49",
   "arena": [
     {
       "rank": 1,
@@ -400,7 +400,7 @@
       "id": "meta-llama/Llama-3.1-8B-Instruct",
       "name": "Llama-3.1-8B-Instruct",
       "org": "meta-llama",
-      "likes": 6547,
+      "likes": 6548,
       "downloads": 7666987,
       "license": "Llama3.1",
       "pipeline_tag": "text-generation",
@@ -417,7 +417,7 @@
       "id": "deepseek-ai/DeepSeek-V4-Pro",
       "name": "DeepSeek-V4-Pro",
       "org": "deepseek-ai",
-      "likes": 5394,
+      "likes": 5395,
       "downloads": 1561291,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -468,7 +468,7 @@
       "id": "zai-org/GLM-5.2",
       "name": "GLM-5.2",
       "org": "zai-org",
-      "likes": 4893,
+      "likes": 4894,
       "downloads": 2430330,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -705,7 +705,7 @@
       "id": "meta-llama/Llama-3.3-70B-Instruct",
       "name": "Llama-3.3-70B-Instruct",
       "org": "meta-llama",
-      "likes": 2944,
+      "likes": 2945,
       "downloads": 394334,
       "license": "Llama3.3",
       "pipeline_tag": "text-generation",
@@ -739,7 +739,7 @@
       "id": "deepseek-ai/DeepSeek-V4-Flash-0731",
       "name": "DeepSeek-V4-Flash-0731",
       "org": "deepseek-ai",
-      "likes": 2762,
+      "likes": 2766,
       "downloads": 702709,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -1059,7 +1059,7 @@
       "id": "meta-llama/Llama-3.1-8B-Instruct",
       "name": "Llama-3.1-8B-Instruct",
       "org": "meta-llama",
-      "likes": 6547,
+      "likes": 6548,
       "downloads": 7666987,
       "license": "Llama3.1",
       "pipeline_tag": "text-generation",
@@ -1372,37 +1372,37 @@
   "trending": [
     {
       "id": "MiniMaxAI/MiniMax-H3",
-      "likes": 2980,
+      "likes": 2985,
       "downloads": 18112,
       "pipeline_tag": "image-text-to-video"
     },
     {
       "id": "deepseek-ai/DeepSeek-V4-Flash-0731",
-      "likes": 2762,
+      "likes": 2766,
       "downloads": 702709,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "Comfy-Org/MiniMax-H3",
-      "likes": 952,
+      "likes": 953,
       "downloads": 3139920,
       "pipeline_tag": ""
     },
     {
       "id": "moonshotai/Kimi-K3",
-      "likes": 10292,
+      "likes": 10294,
       "downloads": 1308186,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
-      "likes": 1719,
+      "likes": 1720,
       "downloads": 2217339,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "larryvrh/MiniMax-H3-Turbo-Lora",
-      "likes": 432,
+      "likes": 434,
       "downloads": 0,
       "pipeline_tag": "text-to-video"
     },
@@ -1432,13 +1432,13 @@
     },
     {
       "id": "cinderholm/wan2-2-i2v-v3",
-      "likes": 655,
+      "likes": 657,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "HuggingFaceFW/fineweb",
-      "likes": 3114,
+      "likes": 3115,
       "downloads": 378572,
       "pipeline_tag": ""
     },
@@ -1474,7 +1474,7 @@
     },
     {
       "id": "multimodalart/minimax-h3",
-      "likes": 174,
+      "likes": 173,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1492,7 +1492,7 @@
     },
     {
       "id": "obsxrver/wan22-i2v-omni-lora",
-      "likes": 190,
+      "likes": 191,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1516,7 +1516,7 @@
     },
     {
       "id": "kulkas2pintu/wan555",
-      "likes": 1089,
+      "likes": 1090,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1551,5 +1551,5 @@
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-08-08T12:58:31.186449+08:00"
+  "lastUpdatedISO": "2026-08-08T13:49:28.645124+08:00"
 }
