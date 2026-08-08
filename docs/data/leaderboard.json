@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-08 22:32",
+  "lastUpdated": "2026-08-08 23:31",
   "arena": [
     {
       "rank": 1,
@@ -366,7 +366,7 @@
       "id": "deepseek-ai/DeepSeek-R1",
       "name": "DeepSeek-R1",
       "org": "deepseek-ai",
-      "likes": 13552,
+      "likes": 13553,
       "downloads": 9186854,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -400,7 +400,7 @@
       "id": "meta-llama/Llama-3.1-8B-Instruct",
       "name": "Llama-3.1-8B-Instruct",
       "org": "meta-llama",
-      "likes": 6549,
+      "likes": 6550,
       "downloads": 7512450,
       "license": "Llama3.1",
       "pipeline_tag": "text-generation",
@@ -468,7 +468,7 @@
       "id": "zai-org/GLM-5.2",
       "name": "GLM-5.2",
       "org": "zai-org",
-      "likes": 4898,
+      "likes": 4900,
       "downloads": 2480368,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -739,7 +739,7 @@
       "id": "deepseek-ai/DeepSeek-V4-Flash-0731",
       "name": "DeepSeek-V4-Flash-0731",
       "org": "deepseek-ai",
-      "likes": 2814,
+      "likes": 2815,
       "downloads": 785771,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -1025,7 +1025,7 @@
       "id": "deepseek-ai/DeepSeek-R1",
       "name": "DeepSeek-R1",
       "org": "deepseek-ai",
-      "likes": 13552,
+      "likes": 13553,
       "downloads": 9186854,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -1075,7 +1075,7 @@
       "id": "meta-llama/Llama-3.1-8B-Instruct",
       "name": "Llama-3.1-8B-Instruct",
       "org": "meta-llama",
-      "likes": 6549,
+      "likes": 6550,
       "downloads": 7512450,
       "license": "Llama3.1",
       "pipeline_tag": "text-generation",
@@ -1372,37 +1372,37 @@
   "trending": [
     {
       "id": "MiniMaxAI/MiniMax-H3",
-      "likes": 3049,
+      "likes": 3055,
       "downloads": 26693,
       "pipeline_tag": "image-text-to-video"
     },
     {
       "id": "deepseek-ai/DeepSeek-V4-Flash-0731",
-      "likes": 2814,
+      "likes": 2815,
       "downloads": 785771,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "Comfy-Org/MiniMax-H3",
-      "likes": 985,
+      "likes": 987,
       "downloads": 3943176,
       "pipeline_tag": ""
     },
     {
       "id": "moonshotai/Kimi-K3",
-      "likes": 10318,
+      "likes": 10323,
       "downloads": 1388105,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "larryvrh/MiniMax-H3-Turbo-Lora",
-      "likes": 459,
+      "likes": 460,
       "downloads": 0,
       "pipeline_tag": "text-to-video"
     },
     {
       "id": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
-      "likes": 1740,
+      "likes": 1741,
       "downloads": 2345190,
       "pipeline_tag": "image-text-to-text"
     },
@@ -1420,7 +1420,7 @@
     },
     {
       "id": "unsloth/DeepSeek-V4-Flash-0731-GGUF",
-      "likes": 601,
+      "likes": 602,
       "downloads": 175093,
       "pipeline_tag": ""
     },
@@ -1432,7 +1432,7 @@
     },
     {
       "id": "cinderholm/wan2-2-i2v-v3",
-      "likes": 680,
+      "likes": 685,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1480,19 +1480,19 @@
     },
     {
       "id": "tatsu-lab/alpaca",
-      "likes": 1086,
+      "likes": 1087,
       "downloads": 80933,
       "pipeline_tag": ""
     },
     {
       "id": "prithivMLmods/Qwen-Image-Edit-2511-LoRAs-Fast",
-      "likes": 2346,
+      "likes": 2349,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "obsxrver/wan22-i2v-omni-lora",
-      "likes": 197,
+      "likes": 198,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1528,13 +1528,13 @@
     },
     {
       "id": "Alissonerdx/charactersheet-lora-demo",
-      "likes": 87,
+      "likes": 88,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "selfit-camera/Omni-Image-Editor",
-      "likes": 2337,
+      "likes": 2338,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1545,11 +1545,11 @@
       "pipeline_tag": ""
     },
     {
-      "id": "victor/DeepSeek-V4-Flash-0731-free-endpoint",
-      "likes": 87,
+      "id": "Fighterdan/LTX-2.3-10Eros_I2V",
+      "likes": 214,
       "downloads": 0,
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-08-08T22:32:56.363505+08:00"
+  "lastUpdatedISO": "2026-08-08T23:31:08.994781+08:00"
 }
