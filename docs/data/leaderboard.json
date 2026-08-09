@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-10 02:42",
+  "lastUpdated": "2026-08-10 03:34",
   "arena": [
     {
       "rank": 1,
@@ -722,7 +722,7 @@
       "id": "deepseek-ai/DeepSeek-V4-Flash-0731",
       "name": "DeepSeek-V4-Flash-0731",
       "org": "deepseek-ai",
-      "likes": 2926,
+      "likes": 2929,
       "downloads": 868576,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -739,7 +739,7 @@
       "id": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
       "name": "gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
       "org": "yuxinlu1",
-      "likes": 2817,
+      "likes": 2818,
       "downloads": 282805,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -822,7 +822,7 @@
       "id": "meta-llama/Llama-3.2-3B-Instruct",
       "name": "Llama-3.2-3B-Instruct",
       "org": "meta-llama",
-      "likes": 2400,
+      "likes": 2401,
       "downloads": 1281865,
       "license": "Llama3.2",
       "pipeline_tag": "text-generation",
@@ -907,7 +907,7 @@
       "id": "Qwen/Qwen3-8B",
       "name": "Qwen3-8B",
       "org": "Qwen",
-      "likes": 1281,
+      "likes": 1282,
       "downloads": 15044963,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1372,31 +1372,31 @@
   "trending": [
     {
       "id": "MiniMaxAI/MiniMax-H3",
-      "likes": 3213,
+      "likes": 3217,
       "downloads": 35295,
       "pipeline_tag": "image-text-to-video"
     },
     {
       "id": "deepseek-ai/DeepSeek-V4-Flash-0731",
-      "likes": 2926,
+      "likes": 2929,
       "downloads": 868576,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "Comfy-Org/MiniMax-H3",
-      "likes": 1055,
+      "likes": 1059,
       "downloads": 4947943,
       "pipeline_tag": ""
     },
     {
       "id": "moonshotai/Kimi-K3",
-      "likes": 10388,
+      "likes": 10391,
       "downloads": 1456459,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "larryvrh/MiniMax-H3-Turbo-Lora",
-      "likes": 539,
+      "likes": 541,
       "downloads": 0,
       "pipeline_tag": "text-to-video"
     },
@@ -1408,7 +1408,7 @@
     },
     {
       "id": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
-      "likes": 1797,
+      "likes": 1800,
       "downloads": 2390692,
       "pipeline_tag": "image-text-to-text"
     },
@@ -1420,7 +1420,7 @@
     },
     {
       "id": "deepgrove/maple-preview",
-      "likes": 284,
+      "likes": 285,
       "downloads": 1089,
       "pipeline_tag": "text-generation"
     },
@@ -1438,7 +1438,7 @@
     },
     {
       "id": "cinderholm/wan2-2-i2v-v3",
-      "likes": 747,
+      "likes": 748,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1486,7 +1486,7 @@
     },
     {
       "id": "prithivMLmods/Qwen-Image-Edit-2511-LoRAs-Fast",
-      "likes": 2383,
+      "likes": 2384,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1528,7 +1528,7 @@
     },
     {
       "id": "kulkas2pintu/wan555",
-      "likes": 1095,
+      "likes": 1096,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1551,5 +1551,5 @@
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-08-10T02:42:39.598852+08:00"
+  "lastUpdatedISO": "2026-08-10T03:34:06.003582+08:00"
 }
