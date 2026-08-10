@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-11 05:42",
+  "lastUpdated": "2026-08-11 06:38",
   "arena": [
     {
       "rank": 1,
@@ -671,7 +671,7 @@
       "id": "deepseek-ai/DeepSeek-V4-Flash-0731",
       "name": "DeepSeek-V4-Flash-0731",
       "org": "deepseek-ai",
-      "likes": 3044,
+      "likes": 3047,
       "downloads": 954441,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -1372,27 +1372,27 @@
   "trending": [
     {
       "id": "MiniMaxAI/MiniMax-H3",
-      "likes": 3416,
+      "likes": 3419,
       "downloads": 47468,
       "pipeline_tag": "image-text-to-video"
     },
     {
       "id": "deepseek-ai/DeepSeek-V4-Flash-0731",
-      "likes": 3044,
+      "likes": 3047,
       "downloads": 954441,
       "pipeline_tag": "text-generation"
     },
     {
-      "id": "Comfy-Org/MiniMax-H3",
-      "likes": 1140,
-      "downloads": 6009639,
-      "pipeline_tag": ""
-    },
-    {
       "id": "meta-models/Muse-Glimmer-30B",
-      "likes": 648,
+      "likes": 669,
       "downloads": 0,
       "pipeline_tag": "image-text-to-text"
+    },
+    {
+      "id": "Comfy-Org/MiniMax-H3",
+      "likes": 1142,
+      "downloads": 6009639,
+      "pipeline_tag": ""
     },
     {
       "id": "larryvrh/MiniMax-H3-Turbo-Lora",
@@ -1402,13 +1402,13 @@
     },
     {
       "id": "moonshotai/Kimi-K3",
-      "likes": 10465,
+      "likes": 10468,
       "downloads": 1510032,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "LiquidAI/LFM2.5-2.6B",
-      "likes": 487,
+      "likes": 488,
       "downloads": 89680,
       "pipeline_tag": "text-generation"
     },
@@ -1438,7 +1438,7 @@
     },
     {
       "id": "cinderholm/wan2-2-i2v-v3",
-      "likes": 805,
+      "likes": 809,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1486,7 +1486,7 @@
     },
     {
       "id": "prithivMLmods/Qwen-Image-Edit-2511-LoRAs-Fast",
-      "likes": 2418,
+      "likes": 2421,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1510,13 +1510,13 @@
     },
     {
       "id": "cruisewagner2220/Qwen-Image-Edit-Rapid-AIO-Loras-Experimental-neo",
-      "likes": 253,
+      "likes": 255,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "Alissonerdx/charactersheet-lora-demo",
-      "likes": 114,
+      "likes": 115,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1534,13 +1534,13 @@
     },
     {
       "id": "Lynote/free-ai-humanizer",
-      "likes": 109,
+      "likes": 110,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "mrfakename/minimax-h3-ultra-fast",
-      "likes": 60,
+      "likes": 61,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1551,5 +1551,5 @@
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-08-11T05:42:26.358390+08:00"
+  "lastUpdatedISO": "2026-08-11T06:38:47.597770+08:00"
 }
