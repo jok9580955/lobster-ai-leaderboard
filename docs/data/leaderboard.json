@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-13 06:42",
+  "lastUpdated": "2026-08-13 07:42",
   "arena": [
     {
       "rank": 1,
@@ -417,7 +417,7 @@
       "id": "deepseek-ai/DeepSeek-V4-Pro",
       "name": "DeepSeek-V4-Pro",
       "org": "deepseek-ai",
-      "likes": 5408,
+      "likes": 5413,
       "downloads": 1411583,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -637,7 +637,7 @@
       "id": "deepseek-ai/DeepSeek-V4-Flash-0731",
       "name": "DeepSeek-V4-Flash-0731",
       "org": "deepseek-ai",
-      "likes": 3229,
+      "likes": 3233,
       "downloads": 1048685,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -875,7 +875,7 @@
       "id": "Qwen/Qwen3-0.6B",
       "name": "Qwen3-0.6B",
       "org": "Qwen",
-      "likes": 1508,
+      "likes": 1509,
       "downloads": 27629624,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1108,7 +1108,7 @@
       "id": "unsloth/Qwen3-Coder-30B-A3B-Instruct-GGUF",
       "name": "Qwen3-Coder-30B-A3B-Instruct-GGUF",
       "org": "unsloth",
-      "likes": 892,
+      "likes": 893,
       "downloads": 6575381,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1372,61 +1372,61 @@
   "trending": [
     {
       "id": "meta-models/Muse-Glimmer-30B",
-      "likes": 1279,
+      "likes": 1281,
       "downloads": 0,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "MiniMaxAI/MiniMax-H3",
-      "likes": 3705,
+      "likes": 3708,
       "downloads": 83484,
       "pipeline_tag": "image-text-to-video"
     },
     {
       "id": "larryvrh/MiniMax-H3-Turbo-Lora",
-      "likes": 694,
+      "likes": 695,
       "downloads": 0,
       "pipeline_tag": "text-to-video"
     },
     {
       "id": "deepseek-ai/DeepSeek-V4-Flash-0731",
-      "likes": 3229,
+      "likes": 3233,
       "downloads": 1048685,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "Lightricks/LTX-2.5",
-      "likes": 553,
+      "likes": 558,
       "downloads": 39,
       "pipeline_tag": "image-to-video"
     },
     {
       "id": "Qwen/Qwen3.8-2.4T-A95B",
-      "likes": 456,
+      "likes": 471,
       "downloads": 978,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "Comfy-Org/MiniMax-H3",
-      "likes": 1253,
+      "likes": 1254,
       "downloads": 6798796,
       "pipeline_tag": ""
     },
     {
       "id": "lightx2v/Minimax-h3-Turbo",
-      "likes": 406,
+      "likes": 407,
       "downloads": 20376,
       "pipeline_tag": "image-to-video"
     },
     {
       "id": "unsloth/Muse-Glimmer-30B-GGUF",
-      "likes": 351,
+      "likes": 352,
       "downloads": 0,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "moonshotai/Kimi-K3",
-      "likes": 10577,
+      "likes": 10579,
       "downloads": 1565484,
       "pipeline_tag": "image-text-to-text"
     },
@@ -1438,7 +1438,7 @@
     },
     {
       "id": "HuggingFaceFW/fineweb",
-      "likes": 3167,
+      "likes": 3168,
       "downloads": 398446,
       "pipeline_tag": ""
     },
@@ -1456,20 +1456,20 @@
     },
     {
       "id": "Lynote/free-ai-detector",
-      "likes": 210,
+      "likes": 211,
       "downloads": 0,
-      "pipeline_tag": ""
-    },
-    {
-      "id": "r0b0tlab/qwen3.8-max-glm5.2-kimi-k3-distillation",
-      "likes": 74,
-      "downloads": 1486,
       "pipeline_tag": ""
     },
     {
       "id": "Anthropic/hh-rlhf",
       "likes": 1953,
       "downloads": 33956,
+      "pipeline_tag": ""
+    },
+    {
+      "id": "r0b0tlab/qwen3.8-max-glm5.2-kimi-k3-distillation",
+      "likes": 74,
+      "downloads": 1486,
       "pipeline_tag": ""
     },
     {
@@ -1498,7 +1498,7 @@
     },
     {
       "id": "mrfakename/minimax-h3-ultra-fast",
-      "likes": 84,
+      "likes": 85,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1515,14 +1515,14 @@
       "pipeline_tag": ""
     },
     {
-      "id": "obsxrver/wan22-i2v-omni-lora",
-      "likes": 220,
+      "id": "Alissonerdx/charactersheet-lora-demo",
+      "likes": 127,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
-      "id": "Alissonerdx/charactersheet-lora-demo",
-      "likes": 127,
+      "id": "obsxrver/wan22-i2v-omni-lora",
+      "likes": 220,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1551,5 +1551,5 @@
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-08-13T06:42:11.444161+08:00"
+  "lastUpdatedISO": "2026-08-13T07:42:18.601248+08:00"
 }
