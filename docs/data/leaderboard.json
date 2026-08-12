@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-13 05:47",
+  "lastUpdated": "2026-08-13 06:42",
   "arena": [
     {
       "rank": 1,
@@ -468,7 +468,7 @@
       "id": "zai-org/GLM-5.2",
       "name": "GLM-5.2",
       "org": "zai-org",
-      "likes": 4941,
+      "likes": 4942,
       "downloads": 2517575,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -637,7 +637,7 @@
       "id": "deepseek-ai/DeepSeek-V4-Flash-0731",
       "name": "DeepSeek-V4-Flash-0731",
       "org": "deepseek-ai",
-      "likes": 3226,
+      "likes": 3229,
       "downloads": 1048685,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -1191,7 +1191,7 @@
       "id": "ornith-ai/Ornith-1.0-9B-GGUF",
       "name": "Ornith-1.0-9B-GGUF",
       "org": "ornith-ai",
-      "likes": 630,
+      "likes": 631,
       "downloads": 4536176,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -1372,14 +1372,14 @@
   "trending": [
     {
       "id": "meta-models/Muse-Glimmer-30B",
-      "likes": 1271,
+      "likes": 1279,
       "downloads": 0,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "MiniMaxAI/MiniMax-H3",
-      "likes": 3702,
-      "downloads": 59368,
+      "likes": 3705,
+      "downloads": 83484,
       "pipeline_tag": "image-text-to-video"
     },
     {
@@ -1390,27 +1390,27 @@
     },
     {
       "id": "deepseek-ai/DeepSeek-V4-Flash-0731",
-      "likes": 3226,
+      "likes": 3229,
       "downloads": 1048685,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "Lightricks/LTX-2.5",
-      "likes": 551,
+      "likes": 553,
       "downloads": 39,
       "pipeline_tag": "image-to-video"
     },
     {
-      "id": "Comfy-Org/MiniMax-H3",
-      "likes": 1251,
-      "downloads": 6798796,
-      "pipeline_tag": ""
-    },
-    {
       "id": "Qwen/Qwen3.8-2.4T-A95B",
-      "likes": 439,
+      "likes": 456,
       "downloads": 978,
       "pipeline_tag": "text-generation"
+    },
+    {
+      "id": "Comfy-Org/MiniMax-H3",
+      "likes": 1253,
+      "downloads": 6798796,
+      "pipeline_tag": ""
     },
     {
       "id": "lightx2v/Minimax-h3-Turbo",
@@ -1420,19 +1420,19 @@
     },
     {
       "id": "unsloth/Muse-Glimmer-30B-GGUF",
-      "likes": 349,
+      "likes": 351,
       "downloads": 0,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "moonshotai/Kimi-K3",
-      "likes": 10576,
+      "likes": 10577,
       "downloads": 1565484,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "cinderholm/wan2-2-i2v-v3",
-      "likes": 904,
+      "likes": 907,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1455,15 +1455,15 @@
       "pipeline_tag": ""
     },
     {
-      "id": "r0b0tlab/qwen3.8-max-glm5.2-kimi-k3-distillation",
-      "likes": 74,
-      "downloads": 1486,
-      "pipeline_tag": ""
-    },
-    {
       "id": "Lynote/free-ai-detector",
       "likes": 210,
       "downloads": 0,
+      "pipeline_tag": ""
+    },
+    {
+      "id": "r0b0tlab/qwen3.8-max-glm5.2-kimi-k3-distillation",
+      "likes": 74,
+      "downloads": 1486,
       "pipeline_tag": ""
     },
     {
@@ -1473,14 +1473,14 @@
       "pipeline_tag": ""
     },
     {
-      "id": "cruisewagner2220/Qwen-Image-Edit-Rapid-AIO-Loras-Experimental-neo",
-      "likes": 275,
+      "id": "wank3r/Wan_2.2_I2V_14B_Custom_Lora_Wow",
+      "likes": 90,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
-      "id": "wank3r/Wan_2.2_I2V_14B_Custom_Lora_Wow",
-      "likes": 89,
+      "id": "cruisewagner2220/Qwen-Image-Edit-Rapid-AIO-Loras-Experimental-neo",
+      "likes": 275,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1528,7 +1528,7 @@
     },
     {
       "id": "HuggingFaceCode/stack-v3-train",
-      "likes": 334,
+      "likes": 335,
       "downloads": 197489,
       "pipeline_tag": ""
     },
@@ -1545,11 +1545,11 @@
       "pipeline_tag": ""
     },
     {
-      "id": "Zhongzhi1228/Recursive-Task-Synthesis",
-      "likes": 13,
-      "downloads": 612,
+      "id": "r0b0tlab/qwen3.8-max-distillation-50k",
+      "likes": 87,
+      "downloads": 2035,
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-08-13T05:47:35.794197+08:00"
+  "lastUpdatedISO": "2026-08-13T06:42:11.444161+08:00"
 }
