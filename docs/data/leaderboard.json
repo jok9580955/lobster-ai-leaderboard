@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-14 00:04",
+  "lastUpdated": "2026-08-14 01:57",
   "arena": [
     {
       "rank": 1,
@@ -417,7 +417,7 @@
       "id": "deepseek-ai/DeepSeek-V4-Pro",
       "name": "DeepSeek-V4-Pro",
       "org": "deepseek-ai",
-      "likes": 5436,
+      "likes": 5437,
       "downloads": 1385596,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -468,7 +468,7 @@
       "id": "zai-org/GLM-5.2",
       "name": "GLM-5.2",
       "org": "zai-org",
-      "likes": 4945,
+      "likes": 4944,
       "downloads": 2662328,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -502,7 +502,7 @@
       "id": "meta-llama/Llama-2-7b-chat-hf",
       "name": "Llama-2-7b-chat-hf",
       "org": "meta-llama",
-      "likes": 4821,
+      "likes": 4822,
       "downloads": 771955,
       "license": "Llama2",
       "pipeline_tag": "text-generation",
@@ -637,7 +637,7 @@
       "id": "deepseek-ai/DeepSeek-V4-Flash-0731",
       "name": "DeepSeek-V4-Flash-0731",
       "org": "deepseek-ai",
-      "likes": 3300,
+      "likes": 3304,
       "downloads": 1431587,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -1208,7 +1208,7 @@
       "id": "ornith-ai/Ornith-1.0-9B-GGUF",
       "name": "Ornith-1.0-9B-GGUF",
       "org": "ornith-ai",
-      "likes": 637,
+      "likes": 638,
       "downloads": 4594817,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -1307,7 +1307,7 @@
       "id": "ornith-ai/Ornith-1.0-35B-GGUF",
       "name": "Ornith-1.0-35B-GGUF",
       "org": "ornith-ai",
-      "likes": 1033,
+      "likes": 1034,
       "downloads": 3436482,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -1322,7 +1322,7 @@
       "id": "Qwen/Qwen3-4B-Instruct-2507",
       "name": "Qwen3-4B-Instruct-2507",
       "org": "Qwen",
-      "likes": 916,
+      "likes": 917,
       "downloads": 3176666,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1372,67 +1372,67 @@
   "trending": [
     {
       "id": "meta-models/Muse-Glimmer-30B",
-      "likes": 1388,
+      "likes": 1394,
       "downloads": 121042,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "MiniMaxAI/MiniMax-H3",
-      "likes": 3799,
+      "likes": 3804,
       "downloads": 1605940,
       "pipeline_tag": "image-text-to-video"
     },
     {
       "id": "Qwen/Qwen3.8-2.4T-A95B",
-      "likes": 725,
+      "likes": 746,
       "downloads": 1012,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "Lightricks/LTX-2.5",
-      "likes": 665,
+      "likes": 679,
       "downloads": 57287,
       "pipeline_tag": "image-to-video"
     },
     {
       "id": "deepseek-ai/DeepSeek-V4-Flash-0731",
-      "likes": 3300,
+      "likes": 3304,
       "downloads": 1431587,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "larryvrh/MiniMax-H3-Turbo-Lora",
-      "likes": 715,
+      "likes": 716,
       "downloads": 0,
       "pipeline_tag": "text-to-video"
     },
     {
       "id": "lightx2v/Minimax-h3-Turbo",
-      "likes": 443,
+      "likes": 449,
       "downloads": 91455,
       "pipeline_tag": "image-to-video"
     },
     {
       "id": "Comfy-Org/MiniMax-H3",
-      "likes": 1278,
+      "likes": 1282,
       "downloads": 10365210,
       "pipeline_tag": ""
     },
     {
       "id": "unsloth/Muse-Glimmer-30B-GGUF",
-      "likes": 381,
+      "likes": 383,
       "downloads": 352023,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "moonshotai/Kimi-K3",
-      "likes": 10611,
+      "likes": 10612,
       "downloads": 1871575,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "cinderholm/wan2-2-i2v-v3",
-      "likes": 944,
+      "likes": 947,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1444,25 +1444,25 @@
     },
     {
       "id": "prithivMLmods/Qwen-Image-Edit-2511-LoRAs-Fast",
-      "likes": 2492,
+      "likes": 2495,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "Anthropic/hh-rlhf",
-      "likes": 1962,
+      "likes": 1963,
       "downloads": 32927,
       "pipeline_tag": ""
     },
     {
       "id": "Lynote/free-ai-detector",
-      "likes": 214,
+      "likes": 215,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "multimodalart/minimax-h3",
-      "likes": 244,
+      "likes": 246,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1474,7 +1474,7 @@
     },
     {
       "id": "wank3r/Wan_2.2_I2V_14B_Custom_Lora_Wow",
-      "likes": 93,
+      "likes": 94,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1504,7 +1504,7 @@
     },
     {
       "id": "MiniMaxAI/MiniMax-H3-Turbo-Lora",
-      "likes": 84,
+      "likes": 86,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1512,6 +1512,12 @@
       "id": "ostris/minimax_h3_1k",
       "likes": 26,
       "downloads": 2327,
+      "pipeline_tag": ""
+    },
+    {
+      "id": "HuggingFaceCode/stack-v3-train",
+      "likes": 338,
+      "downloads": 214928,
       "pipeline_tag": ""
     },
     {
@@ -1527,9 +1533,9 @@
       "pipeline_tag": ""
     },
     {
-      "id": "HuggingFaceCode/stack-v3-train",
-      "likes": 337,
-      "downloads": 214928,
+      "id": "FlyRank/internship-warehouse",
+      "likes": 479,
+      "downloads": 17131,
       "pipeline_tag": ""
     },
     {
@@ -1539,17 +1545,11 @@
       "pipeline_tag": ""
     },
     {
-      "id": "FlyRank/internship-warehouse",
-      "likes": 479,
-      "downloads": 17131,
-      "pipeline_tag": ""
-    },
-    {
       "id": "Zhongzhi1228/Recursive-Task-Synthesis",
       "likes": 14,
       "downloads": 824,
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-08-14T00:04:23.314036+08:00"
+  "lastUpdatedISO": "2026-08-14T01:57:31.262859+08:00"
 }
