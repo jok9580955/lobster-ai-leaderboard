@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-15 13:26",
+  "lastUpdated": "2026-08-15 14:40",
   "arena": [
     {
       "rank": 1,
@@ -366,7 +366,7 @@
       "id": "deepseek-ai/DeepSeek-R1",
       "name": "DeepSeek-R1",
       "org": "deepseek-ai",
-      "likes": 13573,
+      "likes": 13574,
       "downloads": 8044961,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -383,7 +383,7 @@
       "id": "meta-llama/Meta-Llama-3-8B",
       "name": "Meta-Llama-3-8B",
       "org": "meta-llama",
-      "likes": 6627,
+      "likes": 6628,
       "downloads": 1852499,
       "license": "Llama3",
       "pipeline_tag": "text-generation",
@@ -400,7 +400,7 @@
       "id": "meta-llama/Llama-3.1-8B-Instruct",
       "name": "Llama-3.1-8B-Instruct",
       "org": "meta-llama",
-      "likes": 6602,
+      "likes": 6603,
       "downloads": 7598016,
       "license": "Llama3.1",
       "pipeline_tag": "text-generation",
@@ -417,7 +417,7 @@
       "id": "deepseek-ai/DeepSeek-V4-Pro",
       "name": "DeepSeek-V4-Pro",
       "org": "deepseek-ai",
-      "likes": 5442,
+      "likes": 5443,
       "downloads": 1345154,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -468,7 +468,7 @@
       "id": "zai-org/GLM-5.2",
       "name": "GLM-5.2",
       "org": "zai-org",
-      "likes": 4962,
+      "likes": 4964,
       "downloads": 2685296,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -604,7 +604,7 @@
       "id": "openai-community/gpt2",
       "name": "gpt2",
       "org": "openai-community",
-      "likes": 3402,
+      "likes": 3403,
       "downloads": 13564339,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -637,7 +637,7 @@
       "id": "deepseek-ai/DeepSeek-V4-Flash-0731",
       "name": "DeepSeek-V4-Flash-0731",
       "org": "deepseek-ai",
-      "likes": 3390,
+      "likes": 3393,
       "downloads": 1606491,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -940,7 +940,7 @@
       "id": "openai-community/gpt2",
       "name": "gpt2",
       "org": "openai-community",
-      "likes": 3402,
+      "likes": 3403,
       "downloads": 13564339,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -1059,7 +1059,7 @@
       "id": "deepseek-ai/DeepSeek-R1",
       "name": "DeepSeek-R1",
       "org": "deepseek-ai",
-      "likes": 13573,
+      "likes": 13574,
       "downloads": 8044961,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -1092,7 +1092,7 @@
       "id": "meta-llama/Llama-3.1-8B-Instruct",
       "name": "Llama-3.1-8B-Instruct",
       "org": "meta-llama",
-      "likes": 6602,
+      "likes": 6603,
       "downloads": 7598016,
       "license": "Llama3.1",
       "pipeline_tag": "text-generation",
@@ -1355,7 +1355,7 @@
       "id": "ornith-ai/Ornith-1.0-35B",
       "name": "Ornith-1.0-35B",
       "org": "ornith-ai",
-      "likes": 493,
+      "likes": 494,
       "downloads": 3023086,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -1371,73 +1371,73 @@
   "trending": [
     {
       "id": "Qwen/Qwen3.8-27B",
-      "likes": 9221,
+      "likes": 9277,
       "downloads": 2,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "meta-models/Muse-Glimmer-30B",
-      "likes": 1523,
+      "likes": 1525,
       "downloads": 165300,
       "pipeline_tag": "image-text-to-text"
     },
     {
-      "id": "Qwen/Qwen3.8-2.4T-A95B",
-      "likes": 928,
-      "downloads": 3832,
-      "pipeline_tag": "text-generation"
-    },
-    {
       "id": "unsloth/Qwen3.8-27B-GGUF",
-      "likes": 901,
+      "likes": 922,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
+      "id": "Qwen/Qwen3.8-2.4T-A95B",
+      "likes": 930,
+      "downloads": 3832,
+      "pipeline_tag": "text-generation"
+    },
+    {
       "id": "MiniMaxAI/MiniMax-H3",
-      "likes": 3929,
+      "likes": 3932,
       "downloads": 1997541,
       "pipeline_tag": "image-text-to-video"
     },
     {
       "id": "Lightricks/LTX-2.5",
-      "likes": 867,
+      "likes": 874,
       "downloads": 207830,
       "pipeline_tag": "image-to-video"
     },
     {
       "id": "MiniMaxAI/MiniMax-Music3",
-      "likes": 677,
+      "likes": 687,
       "downloads": 63,
       "pipeline_tag": "text-to-audio"
     },
     {
       "id": "deepseek-ai/DeepSeek-V4-Flash-0731",
-      "likes": 3390,
+      "likes": 3393,
       "downloads": 1606491,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "deepseek-ai/DeepSeek-V4-Pro-0813",
-      "likes": 442,
+      "likes": 447,
       "downloads": 245,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "unsloth/Muse-Glimmer-30B-GGUF",
-      "likes": 416,
+      "likes": 419,
       "downloads": 596774,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "HuggingFaceFW/fineweb",
-      "likes": 3199,
+      "likes": 3201,
       "downloads": 424171,
       "pipeline_tag": ""
     },
     {
       "id": "prithivMLmods/Qwen-Image-Edit-2511-LoRAs-Fast",
-      "likes": 2534,
+      "likes": 2535,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1460,14 +1460,14 @@
       "pipeline_tag": ""
     },
     {
-      "id": "Lynote/free-ai-detector",
-      "likes": 219,
+      "id": "MiniMaxAI/MiniMax-Music3",
+      "likes": 95,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
-      "id": "MiniMaxAI/MiniMax-Music3",
-      "likes": 90,
+      "id": "Lynote/free-ai-detector",
+      "likes": 219,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1485,13 +1485,13 @@
     },
     {
       "id": "multimodalart/minimax-h3",
-      "likes": 253,
+      "likes": 254,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "mrfakename/minimax-h3-ultra-fast",
-      "likes": 104,
+      "likes": 103,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1515,13 +1515,13 @@
     },
     {
       "id": "kulkas2pintu/wan555",
-      "likes": 1151,
+      "likes": 1153,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "zai-org/OpenVuln",
-      "likes": 51,
+      "likes": 52,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1550,5 +1550,5 @@
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-08-15T13:26:12.995332+08:00"
+  "lastUpdatedISO": "2026-08-15T14:40:17.692181+08:00"
 }
