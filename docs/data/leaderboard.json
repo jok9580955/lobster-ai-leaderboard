@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-16 03:22",
+  "lastUpdated": "2026-08-16 04:23",
   "arena": [
     {
       "rank": 1,
@@ -366,7 +366,7 @@
       "id": "deepseek-ai/DeepSeek-R1",
       "name": "DeepSeek-R1",
       "org": "deepseek-ai",
-      "likes": 13573,
+      "likes": 13574,
       "downloads": 7735520,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -1008,7 +1008,7 @@
       "id": "unsloth/Qwen3-Coder-30B-A3B-Instruct-GGUF",
       "name": "Qwen3-Coder-30B-A3B-Instruct-GGUF",
       "org": "unsloth",
-      "likes": 898,
+      "likes": 899,
       "downloads": 9295713,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1075,7 +1075,7 @@
       "id": "deepseek-ai/DeepSeek-R1",
       "name": "DeepSeek-R1",
       "org": "deepseek-ai",
-      "likes": 13573,
+      "likes": 13574,
       "downloads": 7735520,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -1371,19 +1371,19 @@
   "trending": [
     {
       "id": "Qwen/Qwen3.8-27B",
-      "likes": 9686,
+      "likes": 9711,
       "downloads": 91917,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "meta-models/Muse-Glimmer-30B",
-      "likes": 1566,
+      "likes": 1569,
       "downloads": 246454,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "unsloth/Qwen3.8-27B-GGUF",
-      "likes": 1162,
+      "likes": 1179,
       "downloads": 867963,
       "pipeline_tag": ""
     },
@@ -1395,25 +1395,25 @@
     },
     {
       "id": "Lightricks/LTX-2.5",
-      "likes": 927,
+      "likes": 931,
       "downloads": 378439,
       "pipeline_tag": "image-to-video"
     },
     {
       "id": "MiniMaxAI/MiniMax-H3",
-      "likes": 3967,
+      "likes": 3968,
       "downloads": 2212155,
       "pipeline_tag": "image-text-to-video"
     },
     {
       "id": "MiniMaxAI/MiniMax-Music3",
-      "likes": 760,
+      "likes": 762,
       "downloads": 5079,
       "pipeline_tag": "text-to-audio"
     },
     {
       "id": "deepseek-ai/DeepSeek-V4-Pro-0813",
-      "likes": 484,
+      "likes": 485,
       "downloads": 19945,
       "pipeline_tag": "text-generation"
     },
@@ -1425,7 +1425,7 @@
     },
     {
       "id": "unsloth/Muse-Glimmer-30B-GGUF",
-      "likes": 431,
+      "likes": 432,
       "downloads": 682188,
       "pipeline_tag": "image-text-to-text"
     },
@@ -1455,7 +1455,7 @@
     },
     {
       "id": "MiniMaxAI/MiniMax-H3-Turbo-Lora",
-      "likes": 140,
+      "likes": 142,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1472,26 +1472,26 @@
       "pipeline_tag": ""
     },
     {
-      "id": "cruisewagner2220/Qwen-Image-Edit-Rapid-AIO-Loras-Experimental-neo",
-      "likes": 307,
-      "downloads": 0,
-      "pipeline_tag": ""
-    },
-    {
       "id": "ostris/minimax_h3_1k",
       "likes": 30,
       "downloads": 5172,
       "pipeline_tag": ""
     },
     {
+      "id": "cruisewagner2220/Qwen-Image-Edit-Rapid-AIO-Loras-Experimental-neo",
+      "likes": 307,
+      "downloads": 0,
+      "pipeline_tag": ""
+    },
+    {
       "id": "kulkas2pintu/wan555",
-      "likes": 1173,
+      "likes": 1174,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "zai-org/OpenVuln",
-      "likes": 67,
+      "likes": 69,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1550,5 +1550,5 @@
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-08-16T03:22:08.037191+08:00"
+  "lastUpdatedISO": "2026-08-16T04:23:56.364476+08:00"
 }
