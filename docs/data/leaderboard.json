@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-17 01:20",
+  "lastUpdated": "2026-08-17 02:30",
   "arena": [
     {
       "rank": 1,
@@ -417,7 +417,7 @@
       "id": "deepseek-ai/DeepSeek-V4-Pro",
       "name": "DeepSeek-V4-Pro",
       "org": "deepseek-ai",
-      "likes": 5447,
+      "likes": 5449,
       "downloads": 1278742,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -468,7 +468,7 @@
       "id": "zai-org/GLM-5.2",
       "name": "GLM-5.2",
       "org": "zai-org",
-      "likes": 4978,
+      "likes": 4980,
       "downloads": 2705686,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -604,7 +604,7 @@
       "id": "deepseek-ai/DeepSeek-V4-Flash-0731",
       "name": "DeepSeek-V4-Flash-0731",
       "org": "deepseek-ai",
-      "likes": 3445,
+      "likes": 3447,
       "downloads": 1872232,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -1008,7 +1008,7 @@
       "id": "unsloth/Qwen3-Coder-30B-A3B-Instruct-GGUF",
       "name": "Qwen3-Coder-30B-A3B-Instruct-GGUF",
       "org": "unsloth",
-      "likes": 902,
+      "likes": 901,
       "downloads": 9739060,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1274,7 +1274,7 @@
       "id": "ornith-ai/Ornith-1.0-35B-GGUF",
       "name": "Ornith-1.0-35B-GGUF",
       "org": "ornith-ai",
-      "likes": 1040,
+      "likes": 1039,
       "downloads": 3885220,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -1371,19 +1371,19 @@
   "trending": [
     {
       "id": "Qwen/Qwen3.8-27B",
-      "likes": 10154,
+      "likes": 10177,
       "downloads": 267725,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "meta-models/Muse-Glimmer-30B",
-      "likes": 1612,
+      "likes": 1617,
       "downloads": 292973,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "unsloth/Qwen3.8-27B-GGUF",
-      "likes": 1400,
+      "likes": 1410,
       "downloads": 1945635,
       "pipeline_tag": ""
     },
@@ -1395,49 +1395,49 @@
     },
     {
       "id": "Lightricks/LTX-2.5",
-      "likes": 993,
+      "likes": 1000,
       "downloads": 424099,
       "pipeline_tag": "image-to-video"
     },
     {
       "id": "MiniMaxAI/MiniMax-Music3",
-      "likes": 809,
+      "likes": 813,
       "downloads": 8639,
       "pipeline_tag": "text-to-audio"
     },
     {
       "id": "MiniMaxAI/MiniMax-H3",
-      "likes": 4015,
+      "likes": 4017,
       "downloads": 2307541,
       "pipeline_tag": "image-text-to-video"
     },
     {
       "id": "deepseek-ai/DeepSeek-V4-Pro-0813",
-      "likes": 523,
+      "likes": 525,
       "downloads": 21873,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "Qwen/Qwen3.8-27B-FP8",
-      "likes": 465,
+      "likes": 469,
       "downloads": 352971,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "unsloth/Muse-Glimmer-30B-GGUF",
-      "likes": 449,
+      "likes": 452,
       "downloads": 718178,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "HuggingFaceFW/fineweb",
-      "likes": 3218,
+      "likes": 3219,
       "downloads": 401921,
       "pipeline_tag": ""
     },
     {
       "id": "prithivMLmods/Qwen-Image-Edit-2511-LoRAs-Fast",
-      "likes": 2575,
+      "likes": 2578,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1478,20 +1478,20 @@
       "pipeline_tag": ""
     },
     {
+      "id": "kulkas2pintu/wan555",
+      "likes": 1191,
+      "downloads": 0,
+      "pipeline_tag": ""
+    },
+    {
       "id": "zai-org/OpenVuln",
       "likes": 78,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
-      "id": "kulkas2pintu/wan555",
-      "likes": 1189,
-      "downloads": 0,
-      "pipeline_tag": ""
-    },
-    {
       "id": "cruisewagner2220/Qwen-Image-Edit-Rapid-AIO-Loras-Experimental-neo",
-      "likes": 319,
+      "likes": 321,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1544,11 +1544,11 @@
       "pipeline_tag": ""
     },
     {
-      "id": "HuggingFaceH4/ultrachat_200k",
-      "likes": 874,
-      "downloads": 82426,
+      "id": "r0b0tlab/qwen3.8-max-distillation-50k",
+      "likes": 93,
+      "downloads": 2469,
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-08-17T01:20:29.157250+08:00"
+  "lastUpdatedISO": "2026-08-17T02:30:57.520877+08:00"
 }
