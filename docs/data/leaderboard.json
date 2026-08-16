@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-16 12:37",
+  "lastUpdated": "2026-08-16 13:29",
   "arena": [
     {
       "rank": 1,
@@ -417,7 +417,7 @@
       "id": "deepseek-ai/DeepSeek-V4-Pro",
       "name": "DeepSeek-V4-Pro",
       "org": "deepseek-ai",
-      "likes": 5444,
+      "likes": 5445,
       "downloads": 1313358,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -1008,7 +1008,7 @@
       "id": "unsloth/Qwen3-Coder-30B-A3B-Instruct-GGUF",
       "name": "Qwen3-Coder-30B-A3B-Instruct-GGUF",
       "org": "unsloth",
-      "likes": 899,
+      "likes": 900,
       "downloads": 9295713,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1371,7 +1371,7 @@
   "trending": [
     {
       "id": "Qwen/Qwen3.8-27B",
-      "likes": 9865,
+      "likes": 9882,
       "downloads": 91917,
       "pipeline_tag": "image-text-to-text"
     },
@@ -1383,37 +1383,37 @@
     },
     {
       "id": "unsloth/Qwen3.8-27B-GGUF",
-      "likes": 1262,
+      "likes": 1269,
       "downloads": 867963,
       "pipeline_tag": ""
     },
     {
       "id": "Qwen/Qwen3.8-2.4T-A95B",
-      "likes": 976,
+      "likes": 978,
       "downloads": 6381,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "Lightricks/LTX-2.5",
-      "likes": 952,
+      "likes": 955,
       "downloads": 378439,
       "pipeline_tag": "image-to-video"
     },
     {
       "id": "MiniMaxAI/MiniMax-Music3",
-      "likes": 777,
+      "likes": 778,
       "downloads": 5079,
       "pipeline_tag": "text-to-audio"
     },
     {
       "id": "MiniMaxAI/MiniMax-H3",
-      "likes": 3986,
+      "likes": 3990,
       "downloads": 2212155,
       "pipeline_tag": "image-text-to-video"
     },
     {
       "id": "deepseek-ai/DeepSeek-V4-Pro-0813",
-      "likes": 499,
+      "likes": 501,
       "downloads": 19945,
       "pipeline_tag": "text-generation"
     },
@@ -1425,7 +1425,7 @@
     },
     {
       "id": "unsloth/Muse-Glimmer-30B-GGUF",
-      "likes": 439,
+      "likes": 440,
       "downloads": 682188,
       "pipeline_tag": "image-text-to-text"
     },
@@ -1443,7 +1443,7 @@
     },
     {
       "id": "r0b0tlab/qwen3.8-max-glm5.2-kimi-k3-distillation",
-      "likes": 102,
+      "likes": 103,
       "downloads": 3233,
       "pipeline_tag": ""
     },
@@ -1455,13 +1455,13 @@
     },
     {
       "id": "Anthropic/hh-rlhf",
-      "likes": 1976,
+      "likes": 1977,
       "downloads": 33738,
       "pipeline_tag": ""
     },
     {
       "id": "MiniMaxAI/MiniMax-Music3",
-      "likes": 116,
+      "likes": 117,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1479,13 +1479,13 @@
     },
     {
       "id": "cruisewagner2220/Qwen-Image-Edit-Rapid-AIO-Loras-Experimental-neo",
-      "likes": 314,
+      "likes": 315,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "kulkas2pintu/wan555",
-      "likes": 1180,
+      "likes": 1181,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1496,15 +1496,15 @@
       "pipeline_tag": ""
     },
     {
-      "id": "mrfakename/minimax-h3-ultra-fast",
-      "likes": 108,
-      "downloads": 0,
-      "pipeline_tag": ""
-    },
-    {
       "id": "HuggingFaceCode/stack-v3-train",
       "likes": 344,
       "downloads": 237737,
+      "pipeline_tag": ""
+    },
+    {
+      "id": "mrfakename/minimax-h3-ultra-fast",
+      "likes": 108,
+      "downloads": 0,
       "pipeline_tag": ""
     },
     {
@@ -1526,15 +1526,15 @@
       "pipeline_tag": ""
     },
     {
-      "id": "HuggingFaceH4/ultrachat_200k",
-      "likes": 874,
-      "downloads": 79784,
-      "pipeline_tag": ""
-    },
-    {
       "id": "ulamai/UnsolvedMath",
       "likes": 41,
       "downloads": 1030,
+      "pipeline_tag": ""
+    },
+    {
+      "id": "HuggingFaceH4/ultrachat_200k",
+      "likes": 874,
+      "downloads": 79784,
       "pipeline_tag": ""
     },
     {
@@ -1550,5 +1550,5 @@
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-08-16T12:37:13.154872+08:00"
+  "lastUpdatedISO": "2026-08-16T13:29:24.056553+08:00"
 }
