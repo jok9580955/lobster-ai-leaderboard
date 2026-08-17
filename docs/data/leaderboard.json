@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-18 03:29",
+  "lastUpdated": "2026-08-18 04:28",
   "arena": [
     {
       "rank": 1,
@@ -400,7 +400,7 @@
       "id": "meta-llama/Llama-3.1-8B-Instruct",
       "name": "Llama-3.1-8B-Instruct",
       "org": "meta-llama",
-      "likes": 6616,
+      "likes": 6617,
       "downloads": 7316110,
       "license": "Llama3.1",
       "pipeline_tag": "text-generation",
@@ -468,7 +468,7 @@
       "id": "zai-org/GLM-5.2",
       "name": "GLM-5.2",
       "org": "zai-org",
-      "likes": 4991,
+      "likes": 4993,
       "downloads": 2714976,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -822,7 +822,7 @@
       "id": "meta-llama/Llama-3.2-3B-Instruct",
       "name": "Llama-3.2-3B-Instruct",
       "org": "meta-llama",
-      "likes": 2429,
+      "likes": 2430,
       "downloads": 1121450,
       "license": "Llama3.2",
       "pipeline_tag": "text-generation",
@@ -1059,7 +1059,7 @@
       "id": "meta-llama/Llama-3.1-8B-Instruct",
       "name": "Llama-3.1-8B-Instruct",
       "org": "meta-llama",
-      "likes": 6616,
+      "likes": 6617,
       "downloads": 7316110,
       "license": "Llama3.1",
       "pipeline_tag": "text-generation",
@@ -1274,7 +1274,7 @@
       "id": "ornith-ai/Ornith-1.0-35B-GGUF",
       "name": "Ornith-1.0-35B-GGUF",
       "org": "ornith-ai",
-      "likes": 1043,
+      "likes": 1044,
       "downloads": 3916446,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -1371,19 +1371,19 @@
   "trending": [
     {
       "id": "Qwen/Qwen3.8-27B",
-      "likes": 10647,
+      "likes": 10662,
       "downloads": 415039,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "unsloth/Qwen3.8-27B-GGUF",
-      "likes": 1610,
+      "likes": 1615,
       "downloads": 2727609,
       "pipeline_tag": ""
     },
     {
       "id": "Qwen/Qwen3.8-2.4T-A95B",
-      "likes": 1036,
+      "likes": 1039,
       "downloads": 9465,
       "pipeline_tag": "text-generation"
     },
@@ -1395,19 +1395,19 @@
     },
     {
       "id": "Lightricks/LTX-2.5",
-      "likes": 1091,
+      "likes": 1095,
       "downloads": 465529,
       "pipeline_tag": "image-to-video"
     },
     {
       "id": "MiniMaxAI/MiniMax-Music3",
-      "likes": 894,
+      "likes": 896,
       "downloads": 10375,
       "pipeline_tag": "text-to-audio"
     },
     {
       "id": "MiniMaxAI/MiniMax-H3",
-      "likes": 4080,
+      "likes": 4081,
       "downloads": 2403238,
       "pipeline_tag": "image-text-to-video"
     },
@@ -1443,13 +1443,7 @@
     },
     {
       "id": "MiniMaxAI/MiniMax-H3-Turbo-Lora",
-      "likes": 194,
-      "downloads": 0,
-      "pipeline_tag": ""
-    },
-    {
-      "id": "prithivMLmods/Qwen-Image-Edit-2511-LoRAs-Fast",
-      "likes": 2596,
+      "likes": 197,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1460,14 +1454,20 @@
       "pipeline_tag": ""
     },
     {
+      "id": "prithivMLmods/Qwen-Image-Edit-2511-LoRAs-Fast",
+      "likes": 2596,
+      "downloads": 0,
+      "pipeline_tag": ""
+    },
+    {
       "id": "Anthropic/hh-rlhf",
-      "likes": 1990,
+      "likes": 1991,
       "downloads": 34314,
       "pipeline_tag": ""
     },
     {
       "id": "ostris/minimax_h3_1k",
-      "likes": 57,
+      "likes": 58,
       "downloads": 6523,
       "pipeline_tag": ""
     },
@@ -1479,7 +1479,7 @@
     },
     {
       "id": "zai-org/OpenVuln",
-      "likes": 86,
+      "likes": 87,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1550,5 +1550,5 @@
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-08-18T03:29:27.023116+08:00"
+  "lastUpdatedISO": "2026-08-18T04:28:13.358094+08:00"
 }
