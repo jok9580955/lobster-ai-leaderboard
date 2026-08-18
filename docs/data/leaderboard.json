@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-18 11:49",
+  "lastUpdated": "2026-08-18 12:36",
   "arena": [
     {
       "rank": 1,
@@ -468,7 +468,7 @@
       "id": "zai-org/GLM-5.2",
       "name": "GLM-5.2",
       "org": "zai-org",
-      "likes": 4996,
+      "likes": 4997,
       "downloads": 2714976,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -1191,7 +1191,7 @@
       "id": "google/gemma-3-1b-it",
       "name": "gemma-3-1b-it",
       "org": "google",
-      "likes": 1097,
+      "likes": 1098,
       "downloads": 5000697,
       "license": "Gemma",
       "pipeline_tag": "text-generation",
@@ -1371,13 +1371,13 @@
   "trending": [
     {
       "id": "Qwen/Qwen3.8-27B",
-      "likes": 10769,
+      "likes": 10785,
       "downloads": 415039,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "unsloth/Qwen3.8-27B-GGUF",
-      "likes": 1658,
+      "likes": 1662,
       "downloads": 2727609,
       "pipeline_tag": ""
     },
@@ -1389,25 +1389,25 @@
     },
     {
       "id": "Lightricks/LTX-2.5",
-      "likes": 1121,
+      "likes": 1127,
       "downloads": 465529,
       "pipeline_tag": "image-to-video"
     },
     {
       "id": "MiniMaxAI/MiniMax-Music3",
-      "likes": 912,
+      "likes": 913,
       "downloads": 10375,
       "pipeline_tag": "text-to-audio"
     },
     {
       "id": "meta-models/Muse-Glimmer-30B",
-      "likes": 1663,
+      "likes": 1666,
       "downloads": 334099,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "MiniMaxAI/MiniMax-H3",
-      "likes": 4094,
+      "likes": 4096,
       "downloads": 2403238,
       "pipeline_tag": "image-text-to-video"
     },
@@ -1419,13 +1419,13 @@
     },
     {
       "id": "Qwen/Qwen3.8-27B-FP8",
-      "likes": 533,
+      "likes": 534,
       "downloads": 495646,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "orcarouter/Qwen3.8-27B-Uncensored-FP8",
-      "likes": 450,
+      "likes": 451,
       "downloads": 15812,
       "pipeline_tag": "image-text-to-text"
     },
@@ -1443,7 +1443,7 @@
     },
     {
       "id": "MiniMaxAI/MiniMax-H3-Turbo-Lora",
-      "likes": 201,
+      "likes": 202,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1467,19 +1467,25 @@
     },
     {
       "id": "ostris/minimax_h3_1k",
-      "likes": 60,
+      "likes": 61,
       "downloads": 6523,
       "pipeline_tag": ""
     },
     {
       "id": "kulkas2pintu/wan555",
-      "likes": 1224,
+      "likes": 1225,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "zai-org/OpenVuln",
       "likes": 86,
+      "downloads": 0,
+      "pipeline_tag": ""
+    },
+    {
+      "id": "thornmaze/reel-lab",
+      "likes": 105,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1497,13 +1503,7 @@
     },
     {
       "id": "cruisewagner2220/Qwen-Image-Edit-Rapid-AIO-Loras-Experimental-neo",
-      "likes": 341,
-      "downloads": 0,
-      "pipeline_tag": ""
-    },
-    {
-      "id": "thornmaze/reel-lab",
-      "likes": 102,
+      "likes": 342,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1550,5 +1550,5 @@
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-08-18T11:49:22.673800+08:00"
+  "lastUpdatedISO": "2026-08-18T12:36:33.651981+08:00"
 }
