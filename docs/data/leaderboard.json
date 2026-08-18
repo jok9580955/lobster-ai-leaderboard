@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-18 10:56",
+  "lastUpdated": "2026-08-18 11:49",
   "arena": [
     {
       "rank": 1,
@@ -417,7 +417,7 @@
       "id": "deepseek-ai/DeepSeek-V4-Pro",
       "name": "DeepSeek-V4-Pro",
       "org": "deepseek-ai",
-      "likes": 5454,
+      "likes": 5455,
       "downloads": 1250569,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -587,7 +587,7 @@
       "id": "deepseek-ai/DeepSeek-V4-Flash-0731",
       "name": "DeepSeek-V4-Flash-0731",
       "org": "deepseek-ai",
-      "likes": 3502,
+      "likes": 3504,
       "downloads": 1978298,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -1025,7 +1025,7 @@
       "id": "meta-llama/Llama-3.2-1B-Instruct",
       "name": "Llama-3.2-1B-Instruct",
       "org": "meta-llama",
-      "likes": 1576,
+      "likes": 1577,
       "downloads": 8764927,
       "license": "Llama3.2",
       "pipeline_tag": "text-generation",
@@ -1191,7 +1191,7 @@
       "id": "google/gemma-3-1b-it",
       "name": "gemma-3-1b-it",
       "org": "google",
-      "likes": 1096,
+      "likes": 1097,
       "downloads": 5000697,
       "license": "Gemma",
       "pipeline_tag": "text-generation",
@@ -1371,13 +1371,13 @@
   "trending": [
     {
       "id": "Qwen/Qwen3.8-27B",
-      "likes": 10748,
+      "likes": 10769,
       "downloads": 415039,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "unsloth/Qwen3.8-27B-GGUF",
-      "likes": 1647,
+      "likes": 1658,
       "downloads": 2727609,
       "pipeline_tag": ""
     },
@@ -1389,25 +1389,25 @@
     },
     {
       "id": "Lightricks/LTX-2.5",
-      "likes": 1117,
+      "likes": 1121,
       "downloads": 465529,
       "pipeline_tag": "image-to-video"
     },
     {
       "id": "MiniMaxAI/MiniMax-Music3",
-      "likes": 909,
+      "likes": 912,
       "downloads": 10375,
       "pipeline_tag": "text-to-audio"
     },
     {
       "id": "meta-models/Muse-Glimmer-30B",
-      "likes": 1662,
+      "likes": 1663,
       "downloads": 334099,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "MiniMaxAI/MiniMax-H3",
-      "likes": 4091,
+      "likes": 4094,
       "downloads": 2403238,
       "pipeline_tag": "image-text-to-video"
     },
@@ -1425,7 +1425,7 @@
     },
     {
       "id": "orcarouter/Qwen3.8-27B-Uncensored-FP8",
-      "likes": 446,
+      "likes": 450,
       "downloads": 15812,
       "pipeline_tag": "image-text-to-text"
     },
@@ -1455,7 +1455,7 @@
     },
     {
       "id": "prithivMLmods/Qwen-Image-Edit-2511-LoRAs-Fast",
-      "likes": 2602,
+      "likes": 2603,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1484,26 +1484,26 @@
       "pipeline_tag": ""
     },
     {
+      "id": "2i/pornmaster-krea2",
+      "likes": 105,
+      "downloads": 0,
+      "pipeline_tag": ""
+    },
+    {
       "id": "ChartGalaxy/ChartGalaxy",
       "likes": 60,
       "downloads": 109487,
       "pipeline_tag": ""
     },
     {
-      "id": "2i/pornmaster-krea2",
-      "likes": 104,
-      "downloads": 0,
-      "pipeline_tag": ""
-    },
-    {
       "id": "cruisewagner2220/Qwen-Image-Edit-Rapid-AIO-Loras-Experimental-neo",
-      "likes": 340,
+      "likes": 341,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "thornmaze/reel-lab",
-      "likes": 99,
+      "likes": 102,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1526,6 +1526,12 @@
       "pipeline_tag": ""
     },
     {
+      "id": "ulamai/UnsolvedMath",
+      "likes": 50,
+      "downloads": 2039,
+      "pipeline_tag": ""
+    },
+    {
       "id": "nvidia/Nemotron-RL-Agentic-Terminal-Pivot-v1",
       "likes": 18,
       "downloads": 609,
@@ -1538,17 +1544,11 @@
       "pipeline_tag": ""
     },
     {
-      "id": "ulamai/UnsolvedMath",
-      "likes": 49,
-      "downloads": 2039,
-      "pipeline_tag": ""
-    },
-    {
       "id": "saidutta69/fable-5-premium",
       "likes": 18,
       "downloads": 1243,
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-08-18T10:56:32.985131+08:00"
+  "lastUpdatedISO": "2026-08-18T11:49:22.673800+08:00"
 }
