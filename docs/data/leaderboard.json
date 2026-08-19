@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-19 20:50",
+  "lastUpdated": "2026-08-19 21:45",
   "arena": [
     {
       "rank": 1,
@@ -587,7 +587,7 @@
       "id": "deepseek-ai/DeepSeek-V4-Flash-0731",
       "name": "DeepSeek-V4-Flash-0731",
       "org": "deepseek-ai",
-      "likes": 3538,
+      "likes": 3539,
       "downloads": 2330940,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -1371,55 +1371,55 @@
   "trending": [
     {
       "id": "Qwen/Qwen3.8-27B",
-      "likes": 11333,
+      "likes": 11351,
       "downloads": 1006235,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "unsloth/Qwen3.8-27B-GGUF",
-      "likes": 1890,
+      "likes": 1893,
       "downloads": 4318134,
       "pipeline_tag": ""
     },
     {
       "id": "Qwen/Qwen3.8-2.4T-A95B",
-      "likes": 1078,
+      "likes": 1080,
       "downloads": 12699,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "MiniMaxAI/MiniMax-Music3",
-      "likes": 1004,
+      "likes": 1009,
       "downloads": 13138,
       "pipeline_tag": "text-to-audio"
     },
     {
       "id": "Lightricks/LTX-2.5",
-      "likes": 1273,
+      "likes": 1277,
       "downloads": 555993,
       "pipeline_tag": "image-to-video"
     },
     {
       "id": "deepseek-ai/DeepSeek-V4-Pro-0813",
-      "likes": 618,
+      "likes": 619,
       "downloads": 37583,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "Qwen/Qwen3.8-27B-FP8",
-      "likes": 582,
+      "likes": 585,
       "downloads": 1063646,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "orcarouter/Qwen3.8-27B-Uncensored-FP8",
-      "likes": 580,
+      "likes": 583,
       "downloads": 60078,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "meta-models/Muse-Glimmer-30B",
-      "likes": 1693,
+      "likes": 1696,
       "downloads": 430313,
       "pipeline_tag": "image-text-to-text"
     },
@@ -1467,7 +1467,7 @@
     },
     {
       "id": "kulkas2pintu/wan555",
-      "likes": 1266,
+      "likes": 1269,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1485,7 +1485,7 @@
     },
     {
       "id": "zai-org/OpenVuln",
-      "likes": 101,
+      "likes": 102,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1496,15 +1496,21 @@
       "pipeline_tag": ""
     },
     {
+      "id": "Anthropic/claude-protein-binder-design",
+      "likes": 30,
+      "downloads": 1636,
+      "pipeline_tag": ""
+    },
+    {
       "id": "Saravutw/Omni-videos-custom",
-      "likes": 77,
+      "likes": 78,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
-      "id": "Anthropic/claude-protein-binder-design",
-      "likes": 24,
-      "downloads": 1636,
+      "id": "victor/Qwen3.8-27B-free-endpoint",
+      "likes": 61,
+      "downloads": 0,
       "pipeline_tag": ""
     },
     {
@@ -1520,12 +1526,6 @@
       "pipeline_tag": ""
     },
     {
-      "id": "victor/Qwen3.8-27B-free-endpoint",
-      "likes": 58,
-      "downloads": 0,
-      "pipeline_tag": ""
-    },
-    {
       "id": "HuggingFaceCode/stack-v3-train",
       "likes": 355,
       "downloads": 263908,
@@ -1533,8 +1533,14 @@
     },
     {
       "id": "ulamai/UnsolvedMath",
-      "likes": 52,
+      "likes": 53,
       "downloads": 4117,
+      "pipeline_tag": ""
+    },
+    {
+      "id": "FlyRank/internship-warehouse",
+      "likes": 506,
+      "downloads": 19170,
       "pipeline_tag": ""
     },
     {
@@ -1542,13 +1548,7 @@
       "likes": 122,
       "downloads": 0,
       "pipeline_tag": ""
-    },
-    {
-      "id": "FlyRank/internship-warehouse",
-      "likes": 505,
-      "downloads": 19170,
-      "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-08-19T20:50:07.183837+08:00"
+  "lastUpdatedISO": "2026-08-19T21:45:20.903711+08:00"
 }
