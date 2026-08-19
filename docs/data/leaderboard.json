@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-19 16:38",
+  "lastUpdated": "2026-08-19 17:35",
   "arena": [
     {
       "rank": 1,
@@ -400,7 +400,7 @@
       "id": "meta-llama/Llama-3.1-8B-Instruct",
       "name": "Llama-3.1-8B-Instruct",
       "org": "meta-llama",
-      "likes": 6624,
+      "likes": 6625,
       "downloads": 7199331,
       "license": "Llama3.1",
       "pipeline_tag": "text-generation",
@@ -417,8 +417,8 @@
       "id": "deepseek-ai/DeepSeek-V4-Pro",
       "name": "DeepSeek-V4-Pro",
       "org": "deepseek-ai",
-      "likes": 5459,
-      "downloads": 1233608,
+      "likes": 5460,
+      "downloads": 1219458,
       "license": "Mit",
       "pipeline_tag": "text-generation",
       "tags": [
@@ -468,8 +468,8 @@
       "id": "zai-org/GLM-5.2",
       "name": "GLM-5.2",
       "org": "zai-org",
-      "likes": 5008,
-      "downloads": 2727630,
+      "likes": 5010,
+      "downloads": 2748563,
       "license": "Mit",
       "pipeline_tag": "text-generation",
       "tags": [
@@ -587,8 +587,8 @@
       "id": "deepseek-ai/DeepSeek-V4-Flash-0731",
       "name": "DeepSeek-V4-Flash-0731",
       "org": "deepseek-ai",
-      "likes": 3534,
-      "downloads": 2123462,
+      "likes": 3536,
+      "downloads": 2330940,
       "license": "Mit",
       "pipeline_tag": "text-generation",
       "tags": [
@@ -740,7 +740,7 @@
       "name": "gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
       "org": "yuxinlu1",
       "likes": 2840,
-      "downloads": 412710,
+      "downloads": 421650,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
       "tags": [
@@ -958,7 +958,7 @@
       "name": "Qwen3.6-35B-A3B-NVFP4",
       "org": "nvidia",
       "likes": 557,
-      "downloads": 12314487,
+      "downloads": 12307094,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
       "tags": [
@@ -974,7 +974,7 @@
       "id": "Qwen/Qwen2.5-7B-Instruct",
       "name": "Qwen2.5-7B-Instruct",
       "org": "Qwen",
-      "likes": 1547,
+      "likes": 1548,
       "downloads": 12229058,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1059,7 +1059,7 @@
       "id": "meta-llama/Llama-3.1-8B-Instruct",
       "name": "Llama-3.1-8B-Instruct",
       "org": "meta-llama",
-      "likes": 6624,
+      "likes": 6625,
       "downloads": 7199331,
       "license": "Llama3.1",
       "pipeline_tag": "text-generation",
@@ -1144,7 +1144,7 @@
       "name": "OTel-2.0-LLM-31B-IT",
       "org": "farbodtavakkoli",
       "likes": 13,
-      "downloads": 5597616,
+      "downloads": 5919810,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
       "tags": [
@@ -1161,7 +1161,7 @@
       "name": "Ornith-1.0-9B-GGUF",
       "org": "ornith-ai",
       "likes": 656,
-      "downloads": 5039422,
+      "downloads": 5025073,
       "license": "Mit",
       "pipeline_tag": "text-generation",
       "tags": [
@@ -1259,7 +1259,7 @@
       "name": "Ornith-1.0-35B-GGUF",
       "org": "ornith-ai",
       "likes": 1049,
-      "downloads": 3891810,
+      "downloads": 3880268,
       "license": "Mit",
       "pipeline_tag": "text-generation",
       "tags": [
@@ -1338,8 +1338,8 @@
       "id": "ornith-ai/Ornith-1.0-35B",
       "name": "Ornith-1.0-35B",
       "org": "ornith-ai",
-      "likes": 500,
-      "downloads": 3310731,
+      "likes": 501,
+      "downloads": 3335266,
       "license": "Mit",
       "pipeline_tag": "text-generation",
       "tags": [
@@ -1355,7 +1355,7 @@
       "name": "granite-4.1-8b",
       "org": "ibm-granite",
       "likes": 250,
-      "downloads": 3125092,
+      "downloads": 3002399,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
       "tags": [
@@ -1371,62 +1371,62 @@
   "trending": [
     {
       "id": "Qwen/Qwen3.8-27B",
-      "likes": 11259,
-      "downloads": 665513,
+      "likes": 11280,
+      "downloads": 1006235,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "unsloth/Qwen3.8-27B-GGUF",
-      "likes": 1869,
-      "downloads": 3561466,
+      "likes": 1872,
+      "downloads": 4318134,
       "pipeline_tag": ""
     },
     {
       "id": "Qwen/Qwen3.8-2.4T-A95B",
-      "likes": 1075,
-      "downloads": 11212,
+      "likes": 1076,
+      "downloads": 12699,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "MiniMaxAI/MiniMax-Music3",
-      "likes": 987,
-      "downloads": 11745,
+      "likes": 990,
+      "downloads": 13138,
       "pipeline_tag": "text-to-audio"
     },
     {
       "id": "Lightricks/LTX-2.5",
-      "likes": 1256,
-      "downloads": 503632,
+      "likes": 1261,
+      "downloads": 555993,
       "pipeline_tag": "image-to-video"
     },
     {
       "id": "deepseek-ai/DeepSeek-V4-Pro-0813",
-      "likes": 609,
-      "downloads": 30985,
+      "likes": 613,
+      "downloads": 37583,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "Qwen/Qwen3.8-27B-FP8",
       "likes": 575,
-      "downloads": 741011,
+      "downloads": 1063646,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "orcarouter/Qwen3.8-27B-Uncensored-FP8",
-      "likes": 557,
-      "downloads": 45465,
+      "likes": 564,
+      "downloads": 60078,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "meta-models/Muse-Glimmer-30B",
-      "likes": 1688,
-      "downloads": 384097,
+      "likes": 1691,
+      "downloads": 430313,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "MiniMaxAI/MiniMax-H3",
-      "likes": 4157,
-      "downloads": 2855539,
+      "likes": 4158,
+      "downloads": 3055205,
       "pipeline_tag": "image-text-to-video"
     },
     {
@@ -1437,20 +1437,20 @@
     },
     {
       "id": "MiniMaxAI/MiniMax-Music3",
-      "likes": 184,
+      "likes": 185,
       "downloads": 0,
-      "pipeline_tag": ""
-    },
-    {
-      "id": "HuggingFaceFW/fineweb",
-      "likes": 3234,
-      "downloads": 404981,
       "pipeline_tag": ""
     },
     {
       "id": "agent-memory-leaderboard/leaderboard",
       "likes": 666,
       "downloads": 0,
+      "pipeline_tag": ""
+    },
+    {
+      "id": "HuggingFaceFW/fineweb",
+      "likes": 3234,
+      "downloads": 407892,
       "pipeline_tag": ""
     },
     {
@@ -1461,25 +1461,25 @@
     },
     {
       "id": "prithivMLmods/Qwen-Image-Edit-2511-LoRAs-Fast",
-      "likes": 2625,
+      "likes": 2624,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "ostris/minimax_h3_1k",
-      "likes": 68,
+      "likes": 69,
       "downloads": 7216,
       "pipeline_tag": ""
     },
     {
       "id": "ChartGalaxy/ChartGalaxy",
-      "likes": 69,
-      "downloads": 109764,
+      "likes": 70,
+      "downloads": 110729,
       "pipeline_tag": ""
     },
     {
       "id": "kulkas2pintu/wan555",
-      "likes": 1257,
+      "likes": 1259,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1491,20 +1491,20 @@
     },
     {
       "id": "2i/pornmaster-krea2",
-      "likes": 131,
+      "likes": 132,
+      "downloads": 0,
+      "pipeline_tag": ""
+    },
+    {
+      "id": "zai-org/OpenVuln",
+      "likes": 99,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "Anthropic/hh-rlhf",
       "likes": 1997,
-      "downloads": 34700,
-      "pipeline_tag": ""
-    },
-    {
-      "id": "zai-org/OpenVuln",
-      "likes": 98,
-      "downloads": 0,
+      "downloads": 34769,
       "pipeline_tag": ""
     },
     {
@@ -1520,12 +1520,6 @@
       "pipeline_tag": ""
     },
     {
-      "id": "HuggingFaceCode/stack-v3-train",
-      "likes": 353,
-      "downloads": 257555,
-      "pipeline_tag": ""
-    },
-    {
       "id": "FINAL-Bench/AX-RAY",
       "likes": 42,
       "downloads": 174,
@@ -1533,8 +1527,14 @@
     },
     {
       "id": "Anthropic/claude-protein-binder-design",
-      "likes": 19,
+      "likes": 21,
       "downloads": 1,
+      "pipeline_tag": ""
+    },
+    {
+      "id": "HuggingFaceCode/stack-v3-train",
+      "likes": 353,
+      "downloads": 257555,
       "pipeline_tag": ""
     },
     {
@@ -1544,11 +1544,11 @@
       "pipeline_tag": ""
     },
     {
-      "id": "saidutta69/fable-5-premium",
-      "likes": 20,
-      "downloads": 1722,
+      "id": "FlyRank/internship-warehouse",
+      "likes": 505,
+      "downloads": 18812,
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-08-19T16:38:47.210473+08:00"
+  "lastUpdatedISO": "2026-08-19T17:35:14.413688+08:00"
 }
