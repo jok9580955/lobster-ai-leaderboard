@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-19 11:52",
+  "lastUpdated": "2026-08-19 12:38",
   "arena": [
     {
       "rank": 1,
@@ -451,7 +451,7 @@
       "id": "bigscience/bloom",
       "name": "bloom",
       "org": "bigscience",
-      "likes": 5035,
+      "likes": 5036,
       "downloads": 16629,
       "license": "Bigscience Bloom Rail 1.0",
       "pipeline_tag": "text-generation",
@@ -502,7 +502,7 @@
       "id": "meta-llama/Meta-Llama-3-8B-Instruct",
       "name": "Meta-Llama-3-8B-Instruct",
       "org": "meta-llama",
-      "likes": 4825,
+      "likes": 4826,
       "downloads": 1923042,
       "license": "Llama3",
       "pipeline_tag": "text-generation",
@@ -587,7 +587,7 @@
       "id": "deepseek-ai/DeepSeek-V4-Flash-0731",
       "name": "DeepSeek-V4-Flash-0731",
       "org": "deepseek-ai",
-      "likes": 3530,
+      "likes": 3532,
       "downloads": 2123462,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -1175,7 +1175,7 @@
       "id": "google/gemma-3-1b-it",
       "name": "gemma-3-1b-it",
       "org": "google",
-      "likes": 1099,
+      "likes": 1100,
       "downloads": 5002265,
       "license": "Gemma",
       "pipeline_tag": "text-generation",
@@ -1240,7 +1240,7 @@
       "id": "Qwen/Qwen2.5-7B-Instruct-AWQ",
       "name": "Qwen2.5-7B-Instruct-AWQ",
       "org": "Qwen",
-      "likes": 49,
+      "likes": 50,
       "downloads": 4611647,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1321,7 +1321,7 @@
       "id": "ornith-ai/Ornith-1.0-35B",
       "name": "Ornith-1.0-35B",
       "org": "ornith-ai",
-      "likes": 499,
+      "likes": 500,
       "downloads": 3310731,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -1371,31 +1371,31 @@
   "trending": [
     {
       "id": "Qwen/Qwen3.8-27B",
-      "likes": 11182,
+      "likes": 11190,
       "downloads": 665513,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "unsloth/Qwen3.8-27B-GGUF",
-      "likes": 1840,
+      "likes": 1843,
       "downloads": 3561466,
       "pipeline_tag": ""
     },
     {
       "id": "Qwen/Qwen3.8-2.4T-A95B",
-      "likes": 1069,
+      "likes": 1071,
       "downloads": 11212,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "MiniMaxAI/MiniMax-Music3",
-      "likes": 970,
+      "likes": 975,
       "downloads": 11745,
       "pipeline_tag": "text-to-audio"
     },
     {
       "id": "Lightricks/LTX-2.5",
-      "likes": 1235,
+      "likes": 1238,
       "downloads": 503632,
       "pipeline_tag": "image-to-video"
     },
@@ -1413,13 +1413,13 @@
     },
     {
       "id": "meta-models/Muse-Glimmer-30B",
-      "likes": 1684,
+      "likes": 1685,
       "downloads": 384097,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "orcarouter/Qwen3.8-27B-Uncensored-FP8",
-      "likes": 544,
+      "likes": 546,
       "downloads": 45465,
       "pipeline_tag": "image-text-to-text"
     },
@@ -1461,7 +1461,7 @@
     },
     {
       "id": "prithivMLmods/Qwen-Image-Edit-2511-LoRAs-Fast",
-      "likes": 2617,
+      "likes": 2619,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1478,15 +1478,15 @@
       "pipeline_tag": ""
     },
     {
-      "id": "ostris/minimax_h3_1k",
-      "likes": 66,
-      "downloads": 7216,
+      "id": "thornmaze/reel-lab",
+      "likes": 126,
+      "downloads": 0,
       "pipeline_tag": ""
     },
     {
-      "id": "thornmaze/reel-lab",
-      "likes": 125,
-      "downloads": 0,
+      "id": "ostris/minimax_h3_1k",
+      "likes": 66,
+      "downloads": 7216,
       "pipeline_tag": ""
     },
     {
@@ -1509,20 +1509,20 @@
     },
     {
       "id": "cruisewagner2220/Qwen-Image-Edit-Rapid-AIO-Loras-Experimental-neo",
-      "likes": 351,
+      "likes": 352,
       "downloads": 0,
+      "pipeline_tag": ""
+    },
+    {
+      "id": "HuggingFaceCode/stack-v3-train",
+      "likes": 353,
+      "downloads": 257555,
       "pipeline_tag": ""
     },
     {
       "id": "Saravutw/Omni-videos-custom",
       "likes": 69,
       "downloads": 0,
-      "pipeline_tag": ""
-    },
-    {
-      "id": "HuggingFaceCode/stack-v3-train",
-      "likes": 352,
-      "downloads": 257555,
       "pipeline_tag": ""
     },
     {
@@ -1550,5 +1550,5 @@
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-08-19T11:52:45.662815+08:00"
+  "lastUpdatedISO": "2026-08-19T12:38:21.557265+08:00"
 }
