@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-19 22:35",
+  "lastUpdated": "2026-08-19 23:32",
   "arena": [
     {
       "rank": 1,
@@ -400,7 +400,7 @@
       "id": "meta-llama/Llama-3.1-8B-Instruct",
       "name": "Llama-3.1-8B-Instruct",
       "org": "meta-llama",
-      "likes": 6627,
+      "likes": 6628,
       "downloads": 7199331,
       "license": "Llama3.1",
       "pipeline_tag": "text-generation",
@@ -875,7 +875,7 @@
       "id": "Qwen/Qwen3-0.6B",
       "name": "Qwen3-0.6B",
       "org": "Qwen",
-      "likes": 1520,
+      "likes": 1521,
       "downloads": 28202544,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1059,7 +1059,7 @@
       "id": "meta-llama/Llama-3.1-8B-Instruct",
       "name": "Llama-3.1-8B-Instruct",
       "org": "meta-llama",
-      "likes": 6627,
+      "likes": 6628,
       "downloads": 7199331,
       "license": "Llama3.1",
       "pipeline_tag": "text-generation",
@@ -1371,27 +1371,27 @@
   "trending": [
     {
       "id": "Qwen/Qwen3.8-27B",
-      "likes": 11365,
+      "likes": 11383,
       "downloads": 1006235,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "unsloth/Qwen3.8-27B-GGUF",
-      "likes": 1905,
+      "likes": 1916,
       "downloads": 4318134,
       "pipeline_tag": ""
     },
     {
-      "id": "Qwen/Qwen3.8-2.4T-A95B",
-      "likes": 1082,
-      "downloads": 12699,
-      "pipeline_tag": "text-generation"
-    },
-    {
       "id": "MiniMaxAI/MiniMax-Music3",
-      "likes": 1010,
+      "likes": 1014,
       "downloads": 13138,
       "pipeline_tag": "text-to-audio"
+    },
+    {
+      "id": "Qwen/Qwen3.8-2.4T-A95B",
+      "likes": 1085,
+      "downloads": 12699,
+      "pipeline_tag": "text-generation"
     },
     {
       "id": "Lightricks/LTX-2.5",
@@ -1401,20 +1401,26 @@
     },
     {
       "id": "deepseek-ai/DeepSeek-V4-Pro-0813",
-      "likes": 619,
+      "likes": 620,
       "downloads": 37583,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "Qwen/Qwen3.8-27B-FP8",
-      "likes": 586,
+      "likes": 588,
       "downloads": 1063646,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "orcarouter/Qwen3.8-27B-Uncensored-FP8",
-      "likes": 585,
+      "likes": 590,
       "downloads": 60078,
+      "pipeline_tag": "image-text-to-text"
+    },
+    {
+      "id": "orcarouter/Qwen3.8-27B-Uncensored-MLX",
+      "likes": 498,
+      "downloads": 27,
       "pipeline_tag": "image-text-to-text"
     },
     {
@@ -1424,14 +1430,8 @@
       "pipeline_tag": "image-text-to-text"
     },
     {
-      "id": "orcarouter/Qwen3.8-27B-Uncensored-MLX",
-      "likes": 481,
-      "downloads": 27,
-      "pipeline_tag": "image-text-to-text"
-    },
-    {
       "id": "r0b0tlab/qwen3.8-max-glm5.2-kimi-k3-distillation",
-      "likes": 152,
+      "likes": 155,
       "downloads": 4875,
       "pipeline_tag": ""
     },
@@ -1449,7 +1449,7 @@
     },
     {
       "id": "HuggingFaceFW/fineweb",
-      "likes": 3235,
+      "likes": 3237,
       "downloads": 407892,
       "pipeline_tag": ""
     },
@@ -1473,7 +1473,7 @@
     },
     {
       "id": "ostris/minimax_h3_1k",
-      "likes": 70,
+      "likes": 71,
       "downloads": 7448,
       "pipeline_tag": ""
     },
@@ -1485,7 +1485,7 @@
     },
     {
       "id": "zai-org/OpenVuln",
-      "likes": 102,
+      "likes": 103,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1497,7 +1497,7 @@
     },
     {
       "id": "Anthropic/claude-protein-binder-design",
-      "likes": 36,
+      "likes": 37,
       "downloads": 1636,
       "pipeline_tag": ""
     },
@@ -1514,6 +1514,12 @@
       "pipeline_tag": ""
     },
     {
+      "id": "HuggingFaceCode/stack-v3-train",
+      "likes": 356,
+      "downloads": 263908,
+      "pipeline_tag": ""
+    },
+    {
       "id": "FINAL-Bench/AX-RAY",
       "likes": 43,
       "downloads": 210,
@@ -1521,14 +1527,14 @@
     },
     {
       "id": "Lynote/free-ai-humanizer",
-      "likes": 225,
+      "likes": 227,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
-      "id": "HuggingFaceCode/stack-v3-train",
-      "likes": 355,
-      "downloads": 263908,
+      "id": "FlyRank/internship-warehouse",
+      "likes": 508,
+      "downloads": 19170,
       "pipeline_tag": ""
     },
     {
@@ -1538,17 +1544,11 @@
       "pipeline_tag": ""
     },
     {
-      "id": "FlyRank/internship-warehouse",
-      "likes": 507,
-      "downloads": 19170,
-      "pipeline_tag": ""
-    },
-    {
       "id": "mrfakename/minimax-h3-ultra-fast",
-      "likes": 122,
+      "likes": 124,
       "downloads": 0,
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-08-19T22:35:23.615854+08:00"
+  "lastUpdatedISO": "2026-08-19T23:32:36.816088+08:00"
 }
