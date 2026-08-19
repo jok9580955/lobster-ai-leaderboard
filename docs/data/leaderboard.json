@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-20 04:29",
+  "lastUpdated": "2026-08-20 05:26",
   "arena": [
     {
       "rank": 1,
@@ -1175,7 +1175,7 @@
       "id": "google/gemma-3-1b-it",
       "name": "gemma-3-1b-it",
       "org": "google",
-      "likes": 1101,
+      "likes": 1102,
       "downloads": 4983962,
       "license": "Gemma",
       "pipeline_tag": "text-generation",
@@ -1354,7 +1354,7 @@
       "id": "ibm-granite/granite-4.1-8b",
       "name": "granite-4.1-8b",
       "org": "ibm-granite",
-      "likes": 251,
+      "likes": 252,
       "downloads": 3002399,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1371,31 +1371,31 @@
   "trending": [
     {
       "id": "Qwen/Qwen3.8-27B",
-      "likes": 11441,
+      "likes": 11451,
       "downloads": 1006235,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "unsloth/Qwen3.8-27B-GGUF",
-      "likes": 2020,
+      "likes": 2032,
       "downloads": 4318134,
       "pipeline_tag": ""
     },
     {
       "id": "MiniMaxAI/MiniMax-Music3",
-      "likes": 1029,
+      "likes": 1030,
       "downloads": 13138,
       "pipeline_tag": "text-to-audio"
     },
     {
       "id": "Qwen/Qwen3.8-2.4T-A95B",
-      "likes": 1094,
+      "likes": 1095,
       "downloads": 12699,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "deepseek-ai/DeepSeek-V4-Pro-0813",
-      "likes": 627,
+      "likes": 628,
       "downloads": 37583,
       "pipeline_tag": "text-generation"
     },
@@ -1407,25 +1407,25 @@
     },
     {
       "id": "Lightricks/LTX-2.5",
-      "likes": 1304,
+      "likes": 1309,
       "downloads": 555993,
       "pipeline_tag": "image-to-video"
     },
     {
       "id": "orcarouter/Qwen3.8-27B-Uncensored-FP8",
-      "likes": 607,
+      "likes": 608,
       "downloads": 60078,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "orcarouter/Qwen3.8-27B-Uncensored-MLX",
-      "likes": 568,
+      "likes": 572,
       "downloads": 27,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "JonathanColetti/Qwen3.8-27B-Uncensored-GGUF",
-      "likes": 463,
+      "likes": 464,
       "downloads": 766812,
       "pipeline_tag": "text-generation"
     },
@@ -1461,13 +1461,13 @@
     },
     {
       "id": "kulkas2pintu/wan555",
-      "likes": 1274,
+      "likes": 1275,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "prithivMLmods/Qwen-Image-Edit-2511-LoRAs-Fast",
-      "likes": 2625,
+      "likes": 2627,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1491,13 +1491,13 @@
     },
     {
       "id": "zai-org/OpenVuln",
-      "likes": 105,
+      "likes": 106,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "Anthropic/hh-rlhf",
-      "likes": 1998,
+      "likes": 1999,
       "downloads": 34769,
       "pipeline_tag": ""
     },
@@ -1514,6 +1514,12 @@
       "pipeline_tag": ""
     },
     {
+      "id": "HuggingFaceCode/stack-v3-train",
+      "likes": 359,
+      "downloads": 263908,
+      "pipeline_tag": ""
+    },
+    {
       "id": "FINAL-Bench/AX-RAY",
       "likes": 44,
       "downloads": 210,
@@ -1526,9 +1532,9 @@
       "pipeline_tag": ""
     },
     {
-      "id": "HuggingFaceCode/stack-v3-train",
-      "likes": 358,
-      "downloads": 263908,
+      "id": "biglam/british-library-book-images",
+      "likes": 43,
+      "downloads": 2428,
       "pipeline_tag": ""
     },
     {
@@ -1538,17 +1544,11 @@
       "pipeline_tag": ""
     },
     {
-      "id": "biglam/british-library-book-images",
-      "likes": 42,
-      "downloads": 2428,
-      "pipeline_tag": ""
-    },
-    {
-      "id": "mrfakename/minimax-h3-ultra-fast",
-      "likes": 125,
+      "id": "microsoft/TRELLIS.2",
+      "likes": 2007,
       "downloads": 0,
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-08-20T04:29:34.021300+08:00"
+  "lastUpdatedISO": "2026-08-20T05:26:08.825503+08:00"
 }
