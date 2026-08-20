@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-20 09:19",
+  "lastUpdated": "2026-08-20 10:57",
   "arena": [
     {
       "rank": 1,
@@ -380,6 +380,23 @@
       "created_at": "2025-01-20T03:46:07.000Z"
     },
     {
+      "id": "meta-llama/Llama-3.1-8B-Instruct",
+      "name": "Llama-3.1-8B-Instruct",
+      "org": "meta-llama",
+      "likes": 6631,
+      "downloads": 7199331,
+      "license": "Llama3.1",
+      "pipeline_tag": "text-generation",
+      "tags": [
+        "llama",
+        "text-generation",
+        "facebook",
+        "meta",
+        "llama-3"
+      ],
+      "created_at": "2024-07-18T08:56:00.000Z"
+    },
+    {
       "id": "meta-llama/Meta-Llama-3-8B",
       "name": "Meta-Llama-3-8B",
       "org": "meta-llama",
@@ -395,23 +412,6 @@
         "llama-3"
       ],
       "created_at": "2024-04-17T09:35:16.000Z"
-    },
-    {
-      "id": "meta-llama/Llama-3.1-8B-Instruct",
-      "name": "Llama-3.1-8B-Instruct",
-      "org": "meta-llama",
-      "likes": 6628,
-      "downloads": 7199331,
-      "license": "Llama3.1",
-      "pipeline_tag": "text-generation",
-      "tags": [
-        "llama",
-        "text-generation",
-        "facebook",
-        "meta",
-        "llama-3"
-      ],
-      "created_at": "2024-07-18T08:56:00.000Z"
     },
     {
       "id": "deepseek-ai/DeepSeek-V4-Pro",
@@ -587,7 +587,7 @@
       "id": "deepseek-ai/DeepSeek-V4-Flash-0731",
       "name": "DeepSeek-V4-Flash-0731",
       "org": "deepseek-ai",
-      "likes": 3548,
+      "likes": 3549,
       "downloads": 2330940,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -1059,7 +1059,7 @@
       "id": "meta-llama/Llama-3.1-8B-Instruct",
       "name": "Llama-3.1-8B-Instruct",
       "org": "meta-llama",
-      "likes": 6628,
+      "likes": 6631,
       "downloads": 7199331,
       "license": "Llama3.1",
       "pipeline_tag": "text-generation",
@@ -1160,7 +1160,7 @@
       "id": "ornith-ai/Ornith-1.0-9B-GGUF",
       "name": "Ornith-1.0-9B-GGUF",
       "org": "ornith-ai",
-      "likes": 656,
+      "likes": 657,
       "downloads": 5025073,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -1371,55 +1371,55 @@
   "trending": [
     {
       "id": "Qwen/Qwen3.8-27B",
-      "likes": 11485,
+      "likes": 11502,
       "downloads": 1006235,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "unsloth/Qwen3.8-27B-GGUF",
-      "likes": 2083,
+      "likes": 2107,
       "downloads": 4318134,
       "pipeline_tag": ""
     },
     {
       "id": "MiniMaxAI/MiniMax-Music3",
-      "likes": 1037,
+      "likes": 1046,
       "downloads": 13138,
       "pipeline_tag": "text-to-audio"
     },
     {
       "id": "deepseek-ai/DeepSeek-V4-Pro-0813",
-      "likes": 633,
+      "likes": 639,
       "downloads": 37583,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "Qwen/Qwen3.8-27B-FP8",
-      "likes": 600,
+      "likes": 601,
       "downloads": 1063646,
       "pipeline_tag": "image-text-to-text"
     },
     {
-      "id": "Qwen/Qwen3.8-2.4T-A95B",
-      "likes": 1100,
-      "downloads": 12699,
-      "pipeline_tag": "text-generation"
-    },
-    {
       "id": "orcarouter/Qwen3.8-27B-Uncensored-FP8",
-      "likes": 614,
+      "likes": 618,
       "downloads": 60078,
       "pipeline_tag": "image-text-to-text"
     },
     {
+      "id": "Qwen/Qwen3.8-2.4T-A95B",
+      "likes": 1102,
+      "downloads": 12699,
+      "pipeline_tag": "text-generation"
+    },
+    {
       "id": "Lightricks/LTX-2.5",
-      "likes": 1323,
+      "likes": 1328,
       "downloads": 555993,
       "pipeline_tag": "image-to-video"
     },
     {
       "id": "orcarouter/Qwen3.8-27B-Uncensored-MLX",
-      "likes": 599,
+      "likes": 609,
       "downloads": 27,
       "pipeline_tag": "image-text-to-text"
     },
@@ -1431,43 +1431,43 @@
     },
     {
       "id": "r0b0tlab/qwen3.8-max-glm5.2-kimi-k3-distillation",
-      "likes": 158,
+      "likes": 159,
       "downloads": 4875,
       "pipeline_tag": ""
     },
     {
       "id": "MiniMaxAI/MiniMax-Music3",
-      "likes": 198,
+      "likes": 201,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "agent-memory-leaderboard/leaderboard",
-      "likes": 696,
+      "likes": 699,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "HuggingFaceFW/fineweb",
-      "likes": 3239,
+      "likes": 3241,
       "downloads": 407892,
       "pipeline_tag": ""
     },
     {
-      "id": "MiniMaxAI/MiniMax-H3-Turbo-Lora",
-      "likes": 231,
-      "downloads": 0,
-      "pipeline_tag": ""
-    },
-    {
       "id": "Anthropic/claude-protein-binder-design",
-      "likes": 51,
+      "likes": 57,
       "downloads": 1636,
       "pipeline_tag": ""
     },
     {
+      "id": "MiniMaxAI/MiniMax-H3-Turbo-Lora",
+      "likes": 232,
+      "downloads": 0,
+      "pipeline_tag": ""
+    },
+    {
       "id": "kulkas2pintu/wan555",
-      "likes": 1277,
+      "likes": 1279,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1497,7 +1497,7 @@
     },
     {
       "id": "Anthropic/hh-rlhf",
-      "likes": 2000,
+      "likes": 2001,
       "downloads": 34769,
       "pipeline_tag": ""
     },
@@ -1520,6 +1520,12 @@
       "pipeline_tag": ""
     },
     {
+      "id": "HuggingFaceCode/stack-v3-train",
+      "likes": 360,
+      "downloads": 263908,
+      "pipeline_tag": ""
+    },
+    {
       "id": "FINAL-Bench/AX-RAY",
       "likes": 44,
       "downloads": 210,
@@ -1529,12 +1535,6 @@
       "id": "Lynote/free-ai-humanizer",
       "likes": 229,
       "downloads": 0,
-      "pipeline_tag": ""
-    },
-    {
-      "id": "HuggingFaceCode/stack-v3-train",
-      "likes": 359,
-      "downloads": 263908,
       "pipeline_tag": ""
     },
     {
@@ -1550,5 +1550,5 @@
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-08-20T09:19:19.593144+08:00"
+  "lastUpdatedISO": "2026-08-20T10:57:57.370206+08:00"
 }
