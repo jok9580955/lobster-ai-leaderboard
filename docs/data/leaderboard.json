@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-20 11:52",
+  "lastUpdated": "2026-08-20 12:38",
   "arena": [
     {
       "rank": 1,
@@ -519,7 +519,7 @@
       "id": "meta-llama/Llama-2-7b-chat-hf",
       "name": "Llama-2-7b-chat-hf",
       "org": "meta-llama",
-      "likes": 4821,
+      "likes": 4822,
       "downloads": 795095,
       "license": "Llama2",
       "pipeline_tag": "text-generation",
@@ -587,7 +587,7 @@
       "id": "deepseek-ai/DeepSeek-V4-Flash-0731",
       "name": "DeepSeek-V4-Flash-0731",
       "org": "deepseek-ai",
-      "likes": 3549,
+      "likes": 3554,
       "downloads": 2330940,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -1371,61 +1371,61 @@
   "trending": [
     {
       "id": "Qwen/Qwen3.8-27B",
-      "likes": 11513,
+      "likes": 11526,
       "downloads": 1006235,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "unsloth/Qwen3.8-27B-GGUF",
-      "likes": 2112,
+      "likes": 2127,
       "downloads": 4318134,
       "pipeline_tag": ""
     },
     {
       "id": "MiniMaxAI/MiniMax-Music3",
-      "likes": 1050,
+      "likes": 1055,
       "downloads": 13138,
       "pipeline_tag": "text-to-audio"
     },
     {
       "id": "deepseek-ai/DeepSeek-V4-Pro-0813",
-      "likes": 642,
+      "likes": 648,
       "downloads": 37583,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "Qwen/Qwen3.8-27B-FP8",
-      "likes": 602,
+      "likes": 607,
       "downloads": 1063646,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "orcarouter/Qwen3.8-27B-Uncensored-FP8",
-      "likes": 619,
+      "likes": 626,
       "downloads": 60078,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "Lightricks/LTX-2.5",
-      "likes": 1334,
+      "likes": 1339,
       "downloads": 555993,
       "pipeline_tag": "image-to-video"
     },
     {
       "id": "orcarouter/Qwen3.8-27B-Uncensored-MLX",
-      "likes": 612,
+      "likes": 621,
       "downloads": 27,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "Qwen/Qwen3.8-2.4T-A95B",
-      "likes": 1103,
+      "likes": 1107,
       "downloads": 12699,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "JonathanColetti/Qwen3.8-27B-Uncensored-GGUF",
-      "likes": 467,
+      "likes": 474,
       "downloads": 766812,
       "pipeline_tag": "text-generation"
     },
@@ -1461,7 +1461,7 @@
     },
     {
       "id": "MiniMaxAI/MiniMax-H3-Turbo-Lora",
-      "likes": 233,
+      "likes": 234,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1472,15 +1472,15 @@
       "pipeline_tag": ""
     },
     {
-      "id": "ostris/minimax_h3_1k",
-      "likes": 74,
-      "downloads": 7448,
+      "id": "ChartGalaxy/ChartGalaxy",
+      "likes": 76,
+      "downloads": 110729,
       "pipeline_tag": ""
     },
     {
-      "id": "ChartGalaxy/ChartGalaxy",
-      "likes": 75,
-      "downloads": 110729,
+      "id": "ostris/minimax_h3_1k",
+      "likes": 74,
+      "downloads": 7448,
       "pipeline_tag": ""
     },
     {
@@ -1502,6 +1502,12 @@
       "pipeline_tag": ""
     },
     {
+      "id": "openbmb/Ultra-FineWeb-L1",
+      "likes": 33,
+      "downloads": 0,
+      "pipeline_tag": ""
+    },
+    {
       "id": "Saravutw/Omni-videos-custom",
       "likes": 88,
       "downloads": 0,
@@ -1509,14 +1515,8 @@
     },
     {
       "id": "victor/Qwen3.8-27B-free-endpoint",
-      "likes": 69,
+      "likes": 70,
       "downloads": 0,
-      "pipeline_tag": ""
-    },
-    {
-      "id": "biglam/british-library-book-images",
-      "likes": 46,
-      "downloads": 2428,
       "pipeline_tag": ""
     },
     {
@@ -1527,7 +1527,7 @@
     },
     {
       "id": "Lynote/free-ai-humanizer",
-      "likes": 232,
+      "likes": 233,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1538,17 +1538,17 @@
       "pipeline_tag": ""
     },
     {
-      "id": "FlyRank/internship-warehouse",
-      "likes": 512,
-      "downloads": 19170,
+      "id": "biglam/british-library-book-images",
+      "likes": 46,
+      "downloads": 2428,
       "pipeline_tag": ""
     },
     {
       "id": "mrfakename/minimax-h3-ultra-fast",
-      "likes": 128,
+      "likes": 129,
       "downloads": 0,
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-08-20T11:52:05.416803+08:00"
+  "lastUpdatedISO": "2026-08-20T12:38:07.604671+08:00"
 }
