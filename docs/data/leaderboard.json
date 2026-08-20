@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-20 12:38",
+  "lastUpdated": "2026-08-20 13:32",
   "arena": [
     {
       "rank": 1,
@@ -587,7 +587,7 @@
       "id": "deepseek-ai/DeepSeek-V4-Flash-0731",
       "name": "DeepSeek-V4-Flash-0731",
       "org": "deepseek-ai",
-      "likes": 3554,
+      "likes": 3556,
       "downloads": 2330940,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -875,7 +875,7 @@
       "id": "Qwen/Qwen3-0.6B",
       "name": "Qwen3-0.6B",
       "org": "Qwen",
-      "likes": 1521,
+      "likes": 1522,
       "downloads": 28202544,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1371,13 +1371,13 @@
   "trending": [
     {
       "id": "Qwen/Qwen3.8-27B",
-      "likes": 11526,
+      "likes": 11539,
       "downloads": 1006235,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "unsloth/Qwen3.8-27B-GGUF",
-      "likes": 2127,
+      "likes": 2135,
       "downloads": 4318134,
       "pipeline_tag": ""
     },
@@ -1389,31 +1389,31 @@
     },
     {
       "id": "deepseek-ai/DeepSeek-V4-Pro-0813",
-      "likes": 648,
+      "likes": 651,
       "downloads": 37583,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "Qwen/Qwen3.8-27B-FP8",
-      "likes": 607,
+      "likes": 608,
       "downloads": 1063646,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "orcarouter/Qwen3.8-27B-Uncensored-FP8",
-      "likes": 626,
+      "likes": 630,
       "downloads": 60078,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "Lightricks/LTX-2.5",
-      "likes": 1339,
+      "likes": 1343,
       "downloads": 555993,
       "pipeline_tag": "image-to-video"
     },
     {
       "id": "orcarouter/Qwen3.8-27B-Uncensored-MLX",
-      "likes": 621,
+      "likes": 626,
       "downloads": 27,
       "pipeline_tag": "image-text-to-text"
     },
@@ -1425,25 +1425,25 @@
     },
     {
       "id": "JonathanColetti/Qwen3.8-27B-Uncensored-GGUF",
-      "likes": 474,
+      "likes": 475,
       "downloads": 766812,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "r0b0tlab/qwen3.8-max-glm5.2-kimi-k3-distillation",
-      "likes": 160,
+      "likes": 161,
       "downloads": 4875,
       "pipeline_tag": ""
     },
     {
       "id": "MiniMaxAI/MiniMax-Music3",
-      "likes": 203,
+      "likes": 206,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "agent-memory-leaderboard/leaderboard",
-      "likes": 699,
+      "likes": 700,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1461,7 +1461,7 @@
     },
     {
       "id": "MiniMaxAI/MiniMax-H3-Turbo-Lora",
-      "likes": 234,
+      "likes": 235,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1472,15 +1472,15 @@
       "pipeline_tag": ""
     },
     {
-      "id": "ChartGalaxy/ChartGalaxy",
-      "likes": 76,
-      "downloads": 110729,
+      "id": "ostris/minimax_h3_1k",
+      "likes": 75,
+      "downloads": 7448,
       "pipeline_tag": ""
     },
     {
-      "id": "ostris/minimax_h3_1k",
-      "likes": 74,
-      "downloads": 7448,
+      "id": "ChartGalaxy/ChartGalaxy",
+      "likes": 76,
+      "downloads": 110729,
       "pipeline_tag": ""
     },
     {
@@ -1503,7 +1503,7 @@
     },
     {
       "id": "openbmb/Ultra-FineWeb-L1",
-      "likes": 33,
+      "likes": 36,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1521,13 +1521,13 @@
     },
     {
       "id": "FINAL-Bench/AX-RAY",
-      "likes": 45,
+      "likes": 46,
       "downloads": 210,
       "pipeline_tag": ""
     },
     {
       "id": "Lynote/free-ai-humanizer",
-      "likes": 233,
+      "likes": 234,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1545,10 +1545,10 @@
     },
     {
       "id": "mrfakename/minimax-h3-ultra-fast",
-      "likes": 129,
+      "likes": 130,
       "downloads": 0,
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-08-20T12:38:07.604671+08:00"
+  "lastUpdatedISO": "2026-08-20T13:32:22.109232+08:00"
 }
