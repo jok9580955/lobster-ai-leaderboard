@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-20 07:23",
+  "lastUpdated": "2026-08-20 09:19",
   "arena": [
     {
       "rank": 1,
@@ -417,7 +417,7 @@
       "id": "deepseek-ai/DeepSeek-V4-Pro",
       "name": "DeepSeek-V4-Pro",
       "org": "deepseek-ai",
-      "likes": 5462,
+      "likes": 5463,
       "downloads": 1219458,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -587,7 +587,7 @@
       "id": "deepseek-ai/DeepSeek-V4-Flash-0731",
       "name": "DeepSeek-V4-Flash-0731",
       "org": "deepseek-ai",
-      "likes": 3547,
+      "likes": 3548,
       "downloads": 2330940,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -1371,31 +1371,25 @@
   "trending": [
     {
       "id": "Qwen/Qwen3.8-27B",
-      "likes": 11469,
+      "likes": 11485,
       "downloads": 1006235,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "unsloth/Qwen3.8-27B-GGUF",
-      "likes": 2061,
+      "likes": 2083,
       "downloads": 4318134,
       "pipeline_tag": ""
     },
     {
       "id": "MiniMaxAI/MiniMax-Music3",
-      "likes": 1032,
+      "likes": 1037,
       "downloads": 13138,
       "pipeline_tag": "text-to-audio"
     },
     {
-      "id": "Qwen/Qwen3.8-2.4T-A95B",
-      "likes": 1099,
-      "downloads": 12699,
-      "pipeline_tag": "text-generation"
-    },
-    {
       "id": "deepseek-ai/DeepSeek-V4-Pro-0813",
-      "likes": 631,
+      "likes": 633,
       "downloads": 37583,
       "pipeline_tag": "text-generation"
     },
@@ -1406,20 +1400,26 @@
       "pipeline_tag": "image-text-to-text"
     },
     {
-      "id": "Lightricks/LTX-2.5",
-      "likes": 1318,
-      "downloads": 555993,
-      "pipeline_tag": "image-to-video"
+      "id": "Qwen/Qwen3.8-2.4T-A95B",
+      "likes": 1100,
+      "downloads": 12699,
+      "pipeline_tag": "text-generation"
     },
     {
       "id": "orcarouter/Qwen3.8-27B-Uncensored-FP8",
-      "likes": 612,
+      "likes": 614,
       "downloads": 60078,
       "pipeline_tag": "image-text-to-text"
     },
     {
+      "id": "Lightricks/LTX-2.5",
+      "likes": 1323,
+      "downloads": 555993,
+      "pipeline_tag": "image-to-video"
+    },
+    {
       "id": "orcarouter/Qwen3.8-27B-Uncensored-MLX",
-      "likes": 592,
+      "likes": 599,
       "downloads": 27,
       "pipeline_tag": "image-text-to-text"
     },
@@ -1431,43 +1431,43 @@
     },
     {
       "id": "r0b0tlab/qwen3.8-max-glm5.2-kimi-k3-distillation",
-      "likes": 157,
+      "likes": 158,
       "downloads": 4875,
       "pipeline_tag": ""
     },
     {
       "id": "MiniMaxAI/MiniMax-Music3",
-      "likes": 197,
+      "likes": 198,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "agent-memory-leaderboard/leaderboard",
-      "likes": 695,
+      "likes": 696,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "HuggingFaceFW/fineweb",
-      "likes": 3238,
+      "likes": 3239,
       "downloads": 407892,
       "pipeline_tag": ""
     },
     {
       "id": "MiniMaxAI/MiniMax-H3-Turbo-Lora",
-      "likes": 230,
+      "likes": 231,
       "downloads": 0,
+      "pipeline_tag": ""
+    },
+    {
+      "id": "Anthropic/claude-protein-binder-design",
+      "likes": 51,
+      "downloads": 1636,
       "pipeline_tag": ""
     },
     {
       "id": "kulkas2pintu/wan555",
-      "likes": 1275,
-      "downloads": 0,
-      "pipeline_tag": ""
-    },
-    {
-      "id": "prithivMLmods/Qwen-Image-Edit-2511-LoRAs-Fast",
-      "likes": 2627,
+      "likes": 1277,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1478,14 +1478,14 @@
       "pipeline_tag": ""
     },
     {
-      "id": "Anthropic/claude-protein-binder-design",
-      "likes": 49,
-      "downloads": 1636,
+      "id": "prithivMLmods/Qwen-Image-Edit-2511-LoRAs-Fast",
+      "likes": 2627,
+      "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "ChartGalaxy/ChartGalaxy",
-      "likes": 73,
+      "likes": 74,
       "downloads": 110729,
       "pipeline_tag": ""
     },
@@ -1550,5 +1550,5 @@
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-08-20T07:23:53.381393+08:00"
+  "lastUpdatedISO": "2026-08-20T09:19:19.593144+08:00"
 }
