@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-21 04:29",
+  "lastUpdated": "2026-08-21 05:28",
   "arena": [
     {
       "rank": 1,
@@ -383,7 +383,7 @@
       "id": "meta-llama/Llama-3.1-8B-Instruct",
       "name": "Llama-3.1-8B-Instruct",
       "org": "meta-llama",
-      "likes": 6636,
+      "likes": 6637,
       "downloads": 7069520,
       "license": "Llama3.1",
       "pipeline_tag": "text-generation",
@@ -756,7 +756,7 @@
       "id": "meta-llama/Llama-3.2-1B",
       "name": "Llama-3.2-1B",
       "org": "meta-llama",
-      "likes": 2536,
+      "likes": 2537,
       "downloads": 1698782,
       "license": "Llama3.2",
       "pipeline_tag": "text-generation",
@@ -1059,7 +1059,7 @@
       "id": "meta-llama/Llama-3.1-8B-Instruct",
       "name": "Llama-3.1-8B-Instruct",
       "org": "meta-llama",
-      "likes": 6636,
+      "likes": 6637,
       "downloads": 7069520,
       "license": "Llama3.1",
       "pipeline_tag": "text-generation",
@@ -1371,67 +1371,67 @@
   "trending": [
     {
       "id": "Qwen/Qwen3.8-27B",
-      "likes": 11712,
+      "likes": 11717,
       "downloads": 1373584,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "unsloth/Qwen3.8-27B-GGUF",
-      "likes": 2337,
+      "likes": 2346,
       "downloads": 5126652,
       "pipeline_tag": ""
     },
     {
       "id": "MiniMaxAI/MiniMax-Music3",
-      "likes": 1095,
+      "likes": 1099,
       "downloads": 14471,
       "pipeline_tag": "text-to-audio"
     },
     {
       "id": "Qwen/Qwen3.8-27B-FP8",
-      "likes": 631,
+      "likes": 632,
       "downloads": 1517643,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "orcarouter/Qwen3.8-27B-Uncensored-MLX",
-      "likes": 698,
+      "likes": 700,
       "downloads": 2628,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "orcarouter/Qwen3.8-27B-Uncensored-FP8",
-      "likes": 672,
+      "likes": 673,
       "downloads": 76109,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "Lightricks/LTX-2.5",
-      "likes": 1400,
+      "likes": 1407,
       "downloads": 611825,
       "pipeline_tag": "image-to-video"
     },
     {
       "id": "JonathanColetti/Qwen3.8-27B-Uncensored-GGUF",
-      "likes": 509,
+      "likes": 510,
       "downloads": 979768,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "deepseek-ai/DeepSeek-V4-Pro-0813",
-      "likes": 675,
+      "likes": 676,
       "downloads": 43287,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "MiniMaxAI/MiniMax-H3",
-      "likes": 4232,
+      "likes": 4236,
       "downloads": 3308673,
       "pipeline_tag": "image-text-to-video"
     },
     {
       "id": "r0b0tlab/qwen3.8-max-glm5.2-kimi-k3-distillation",
-      "likes": 170,
+      "likes": 171,
       "downloads": 5274,
       "pipeline_tag": ""
     },
@@ -1443,7 +1443,7 @@
     },
     {
       "id": "MiniMaxAI/MiniMax-Music3",
-      "likes": 221,
+      "likes": 223,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1460,27 +1460,27 @@
       "pipeline_tag": ""
     },
     {
+      "id": "ostris/minimax_h3_1k",
+      "likes": 81,
+      "downloads": 7616,
+      "pipeline_tag": ""
+    },
+    {
       "id": "kulkas2pintu/wan555",
       "likes": 1294,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
-      "id": "ostris/minimax_h3_1k",
+      "id": "ChartGalaxy/ChartGalaxy",
       "likes": 80,
-      "downloads": 7616,
+      "downloads": 110812,
       "pipeline_tag": ""
     },
     {
       "id": "MiniMaxAI/MiniMax-H3-Turbo-Lora",
       "likes": 247,
       "downloads": 0,
-      "pipeline_tag": ""
-    },
-    {
-      "id": "ChartGalaxy/ChartGalaxy",
-      "likes": 79,
-      "downloads": 110812,
       "pipeline_tag": ""
     },
     {
@@ -1509,13 +1509,13 @@
     },
     {
       "id": "Saravutw/Omni-videos-custom",
-      "likes": 101,
+      "likes": 102,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "victor/Qwen3.8-27B-free-endpoint",
-      "likes": 74,
+      "likes": 75,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1544,11 +1544,11 @@
       "pipeline_tag": ""
     },
     {
-      "id": "ulamai/UnsolvedMath",
-      "likes": 57,
-      "downloads": 4532,
+      "id": "saidutta69/fable-5-premium",
+      "likes": 30,
+      "downloads": 2652,
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-08-21T04:29:58.218961+08:00"
+  "lastUpdatedISO": "2026-08-21T05:28:39.496869+08:00"
 }
