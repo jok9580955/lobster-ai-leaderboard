@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-21 09:23",
+  "lastUpdated": "2026-08-21 11:04",
   "arena": [
     {
       "rank": 1,
@@ -417,7 +417,7 @@
       "id": "deepseek-ai/DeepSeek-V4-Pro",
       "name": "DeepSeek-V4-Pro",
       "org": "deepseek-ai",
-      "likes": 5466,
+      "likes": 5465,
       "downloads": 1182759,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -451,7 +451,7 @@
       "id": "bigscience/bloom",
       "name": "bloom",
       "org": "bigscience",
-      "likes": 5037,
+      "likes": 5038,
       "downloads": 16955,
       "license": "Bigscience Bloom Rail 1.0",
       "pipeline_tag": "text-generation",
@@ -587,7 +587,7 @@
       "id": "deepseek-ai/DeepSeek-V4-Flash-0731",
       "name": "DeepSeek-V4-Flash-0731",
       "org": "deepseek-ai",
-      "likes": 3576,
+      "likes": 3578,
       "downloads": 2547549,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -638,7 +638,7 @@
       "id": "google/gemma-7b",
       "name": "gemma-7b",
       "org": "google",
-      "likes": 3399,
+      "likes": 3400,
       "downloads": 49449,
       "license": "Gemma",
       "pipeline_tag": "text-generation",
@@ -654,7 +654,7 @@
       "id": "mistralai/Mistral-7B-Instruct-v0.2",
       "name": "Mistral-7B-Instruct-v0.2",
       "org": "mistralai",
-      "likes": 3200,
+      "likes": 3201,
       "downloads": 1199240,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -802,6 +802,23 @@
       "created_at": "2024-03-17T05:47:21.000Z"
     },
     {
+      "id": "meta-llama/Llama-3.2-3B-Instruct",
+      "name": "Llama-3.2-3B-Instruct",
+      "org": "meta-llama",
+      "likes": 2440,
+      "downloads": 1088676,
+      "license": "Llama3.2",
+      "pipeline_tag": "text-generation",
+      "tags": [
+        "llama",
+        "text-generation",
+        "facebook",
+        "meta",
+        "llama-3"
+      ],
+      "created_at": "2024-09-18T15:19:20.000Z"
+    },
+    {
       "id": "tiiuae/falcon-40b",
       "name": "falcon-40b",
       "org": "tiiuae",
@@ -817,23 +834,6 @@
         "de"
       ],
       "created_at": "2023-05-24T12:08:30.000Z"
-    },
-    {
-      "id": "meta-llama/Llama-3.2-3B-Instruct",
-      "name": "Llama-3.2-3B-Instruct",
-      "org": "meta-llama",
-      "likes": 2439,
-      "downloads": 1088676,
-      "license": "Llama3.2",
-      "pipeline_tag": "text-generation",
-      "tags": [
-        "llama",
-        "text-generation",
-        "facebook",
-        "meta",
-        "llama-3"
-      ],
-      "created_at": "2024-09-18T15:19:20.000Z"
     },
     {
       "id": "meta-llama/Llama-3.1-8B",
@@ -1371,61 +1371,61 @@
   "trending": [
     {
       "id": "Qwen/Qwen3.8-27B",
-      "likes": 11748,
+      "likes": 11764,
       "downloads": 1373584,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "unsloth/Qwen3.8-27B-GGUF",
-      "likes": 2360,
+      "likes": 2372,
       "downloads": 5126652,
       "pipeline_tag": ""
     },
     {
       "id": "MiniMaxAI/MiniMax-Music3",
-      "likes": 1106,
+      "likes": 1113,
       "downloads": 14471,
       "pipeline_tag": "text-to-audio"
     },
     {
       "id": "Qwen/Qwen3.8-27B-FP8",
-      "likes": 633,
+      "likes": 634,
       "downloads": 1517643,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "orcarouter/Qwen3.8-27B-Uncensored-MLX",
-      "likes": 714,
+      "likes": 718,
       "downloads": 2628,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "orcarouter/Qwen3.8-27B-Uncensored-FP8",
-      "likes": 677,
+      "likes": 681,
       "downloads": 76109,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "Lightricks/LTX-2.5",
-      "likes": 1417,
+      "likes": 1420,
       "downloads": 611825,
       "pipeline_tag": "image-to-video"
     },
     {
       "id": "JonathanColetti/Qwen3.8-27B-Uncensored-GGUF",
-      "likes": 513,
+      "likes": 518,
       "downloads": 979768,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "MiniMaxAI/MiniMax-H3",
-      "likes": 4242,
+      "likes": 4245,
       "downloads": 3308673,
       "pipeline_tag": "image-text-to-video"
     },
     {
       "id": "HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
-      "likes": 368,
+      "likes": 370,
       "downloads": 268258,
       "pipeline_tag": "image-text-to-text"
     },
@@ -1437,13 +1437,13 @@
     },
     {
       "id": "Anthropic/claude-protein-binder-design",
-      "likes": 81,
+      "likes": 82,
       "downloads": 9839,
       "pipeline_tag": ""
     },
     {
       "id": "MiniMaxAI/MiniMax-Music3",
-      "likes": 224,
+      "likes": 225,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1467,7 +1467,7 @@
     },
     {
       "id": "kulkas2pintu/wan555",
-      "likes": 1296,
+      "likes": 1298,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1478,20 +1478,14 @@
       "pipeline_tag": ""
     },
     {
-      "id": "MiniMaxAI/MiniMax-H3-Turbo-Lora",
-      "likes": 252,
-      "downloads": 0,
-      "pipeline_tag": ""
-    },
-    {
       "id": "openbmb/Ultra-FineWeb-L1",
       "likes": 59,
       "downloads": 148,
       "pipeline_tag": ""
     },
     {
-      "id": "prithivMLmods/Qwen-Image-Edit-2511-LoRAs-Fast",
-      "likes": 2631,
+      "id": "MiniMaxAI/MiniMax-H3-Turbo-Lora",
+      "likes": 254,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1502,8 +1496,8 @@
       "pipeline_tag": ""
     },
     {
-      "id": "Saravutw/Omni-videos-custom",
-      "likes": 104,
+      "id": "prithivMLmods/Qwen-Image-Edit-2511-LoRAs-Fast",
+      "likes": 2631,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1520,15 +1514,15 @@
       "pipeline_tag": ""
     },
     {
-      "id": "biglam/british-library-book-images",
-      "likes": 50,
-      "downloads": 2511,
+      "id": "Saravutw/Omni-videos-custom",
+      "likes": 104,
+      "downloads": 0,
       "pipeline_tag": ""
     },
     {
-      "id": "FINAL-Bench/AX-RAY",
-      "likes": 47,
-      "downloads": 685,
+      "id": "biglam/british-library-book-images",
+      "likes": 50,
+      "downloads": 2511,
       "pipeline_tag": ""
     },
     {
@@ -1548,7 +1542,13 @@
       "likes": 121,
       "downloads": 0,
       "pipeline_tag": ""
+    },
+    {
+      "id": "ulamai/UnsolvedMath",
+      "likes": 57,
+      "downloads": 4532,
+      "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-08-21T09:23:21.568933+08:00"
+  "lastUpdatedISO": "2026-08-21T11:04:16.880836+08:00"
 }
