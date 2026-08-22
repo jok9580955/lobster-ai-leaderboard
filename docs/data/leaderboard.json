@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-22 12:34",
+  "lastUpdated": "2026-08-22 13:29",
   "arena": [
     {
       "rank": 1,
@@ -502,7 +502,7 @@
       "id": "meta-llama/Meta-Llama-3-8B-Instruct",
       "name": "Meta-Llama-3-8B-Instruct",
       "org": "meta-llama",
-      "likes": 4832,
+      "likes": 4833,
       "downloads": 1849725,
       "license": "Llama3",
       "pipeline_tag": "text-generation",
@@ -1371,31 +1371,31 @@
   "trending": [
     {
       "id": "Qwen/Qwen3.8-27B",
-      "likes": 11986,
+      "likes": 11992,
       "downloads": 1726651,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "unsloth/Qwen3.8-27B-GGUF",
-      "likes": 2524,
+      "likes": 2528,
       "downloads": 5804917,
       "pipeline_tag": ""
     },
     {
       "id": "orcarouter/Qwen3.8-27B-Uncensored-FP8",
-      "likes": 846,
+      "likes": 855,
       "downloads": 107520,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "orcarouter/Qwen3.8-27B-Uncensored-MLX",
-      "likes": 829,
+      "likes": 833,
       "downloads": 18193,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "JonathanColetti/Qwen3.8-27B-Uncensored-GGUF",
-      "likes": 575,
+      "likes": 579,
       "downloads": 1126222,
       "pipeline_tag": "text-generation"
     },
@@ -1407,25 +1407,25 @@
     },
     {
       "id": "Lightricks/LTX-2.5",
-      "likes": 1504,
+      "likes": 1505,
       "downloads": 654175,
       "pipeline_tag": "image-to-video"
     },
     {
       "id": "OBLITERATUS/Qwen3.8-27B-OBLITERATED",
-      "likes": 456,
+      "likes": 458,
       "downloads": 123956,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
-      "likes": 430,
+      "likes": 434,
       "downloads": 357225,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "MiniMaxAI/MiniMax-H3",
-      "likes": 4302,
+      "likes": 4303,
       "downloads": 3614443,
       "pipeline_tag": "image-text-to-video"
     },
@@ -1449,7 +1449,7 @@
     },
     {
       "id": "malcolmrey/various",
-      "likes": 90,
+      "likes": 91,
       "downloads": 8941,
       "pipeline_tag": ""
     },
@@ -1485,7 +1485,7 @@
     },
     {
       "id": "MiniMaxAI/MiniMax-H3-Turbo-Lora",
-      "likes": 265,
+      "likes": 267,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1497,7 +1497,7 @@
     },
     {
       "id": "prithivMLmods/Qwen-Image-Edit-2511-LoRAs-Fast",
-      "likes": 2642,
+      "likes": 2641,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1514,14 +1514,8 @@
       "pipeline_tag": ""
     },
     {
-      "id": "Saravutw/Omni-videos-custom",
-      "likes": 116,
-      "downloads": 0,
-      "pipeline_tag": ""
-    },
-    {
       "id": "saidutta69/fable-5-premium",
-      "likes": 36,
+      "likes": 37,
       "downloads": 3079,
       "pipeline_tag": ""
     },
@@ -1529,6 +1523,12 @@
       "id": "biglam/british-library-book-images",
       "likes": 54,
       "downloads": 2888,
+      "pipeline_tag": ""
+    },
+    {
+      "id": "Saravutw/Omni-videos-custom",
+      "likes": 116,
+      "downloads": 0,
       "pipeline_tag": ""
     },
     {
@@ -1550,5 +1550,5 @@
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-08-22T12:34:06.404995+08:00"
+  "lastUpdatedISO": "2026-08-22T13:29:06.482044+08:00"
 }
