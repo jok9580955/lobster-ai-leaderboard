@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-22 22:23",
+  "lastUpdated": "2026-08-22 23:22",
   "arena": [
     {
       "rank": 1,
@@ -638,7 +638,7 @@
       "id": "google/gemma-7b",
       "name": "gemma-7b",
       "org": "google",
-      "likes": 3400,
+      "likes": 3401,
       "downloads": 46965,
       "license": "Gemma",
       "pipeline_tag": "text-generation",
@@ -790,7 +790,7 @@
       "id": "meta-llama/Llama-3.2-3B-Instruct",
       "name": "Llama-3.2-3B-Instruct",
       "org": "meta-llama",
-      "likes": 2446,
+      "likes": 2447,
       "downloads": 1086697,
       "license": "Llama3.2",
       "pipeline_tag": "text-generation",
@@ -1371,61 +1371,61 @@
   "trending": [
     {
       "id": "Qwen/Qwen3.8-27B",
-      "likes": 12074,
+      "likes": 12075,
       "downloads": 2090699,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "unsloth/Qwen3.8-27B-GGUF",
-      "likes": 2581,
+      "likes": 2583,
       "downloads": 6320542,
       "pipeline_tag": ""
     },
     {
       "id": "orcarouter/Qwen3.8-27B-Uncensored-FP8",
-      "likes": 938,
+      "likes": 944,
       "downloads": 142846,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "orcarouter/Qwen3.8-27B-Uncensored-MLX",
-      "likes": 856,
+      "likes": 859,
       "downloads": 34909,
       "pipeline_tag": "image-text-to-text"
     },
     {
-      "id": "JonathanColetti/Qwen3.8-27B-Uncensored-GGUF",
-      "likes": 600,
-      "downloads": 1223422,
-      "pipeline_tag": "text-generation"
-    },
-    {
       "id": "OBLITERATUS/Qwen3.8-27B-OBLITERATED",
-      "likes": 495,
+      "likes": 499,
       "downloads": 164950,
       "pipeline_tag": "text-generation"
     },
     {
+      "id": "JonathanColetti/Qwen3.8-27B-Uncensored-GGUF",
+      "likes": 603,
+      "downloads": 1223422,
+      "pipeline_tag": "text-generation"
+    },
+    {
       "id": "HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
-      "likes": 463,
+      "likes": 468,
       "downloads": 486221,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "Lightricks/LTX-2.5",
-      "likes": 1538,
+      "likes": 1541,
       "downloads": 694670,
       "pipeline_tag": "image-to-video"
     },
     {
       "id": "MiniMaxAI/MiniMax-Music3",
-      "likes": 1171,
+      "likes": 1174,
       "downloads": 16644,
       "pipeline_tag": "text-to-audio"
     },
     {
       "id": "ornith-ai/Ornith-1.5-35B-A3B",
-      "likes": 309,
+      "likes": 310,
       "downloads": 12611,
       "pipeline_tag": "text-generation"
     },
@@ -1449,7 +1449,7 @@
     },
     {
       "id": "malcolmrey/various",
-      "likes": 94,
+      "likes": 95,
       "downloads": 18287,
       "pipeline_tag": ""
     },
@@ -1461,7 +1461,7 @@
     },
     {
       "id": "kulkas2pintu/wan555",
-      "likes": 1339,
+      "likes": 1343,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1485,8 +1485,14 @@
     },
     {
       "id": "MiniMaxAI/MiniMax-H3-Turbo-Lora",
-      "likes": 271,
+      "likes": 272,
       "downloads": 0,
+      "pipeline_tag": ""
+    },
+    {
+      "id": "markov-ai/cad-1000-hours",
+      "likes": 43,
+      "downloads": 2916,
       "pipeline_tag": ""
     },
     {
@@ -1496,14 +1502,14 @@
       "pipeline_tag": ""
     },
     {
-      "id": "markov-ai/cad-1000-hours",
-      "likes": 38,
-      "downloads": 2916,
+      "id": "prithivMLmods/Qwen-Image-Edit-2511-LoRAs-Fast",
+      "likes": 2645,
+      "downloads": 0,
       "pipeline_tag": ""
     },
     {
-      "id": "prithivMLmods/Qwen-Image-Edit-2511-LoRAs-Fast",
-      "likes": 2644,
+      "id": "victor/Qwen3.8-27B-free-endpoint",
+      "likes": 82,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1514,12 +1520,6 @@
       "pipeline_tag": ""
     },
     {
-      "id": "victor/Qwen3.8-27B-free-endpoint",
-      "likes": 82,
-      "downloads": 0,
-      "pipeline_tag": ""
-    },
-    {
       "id": "saidutta69/fable-5-premium",
       "likes": 38,
       "downloads": 3502,
@@ -1527,7 +1527,7 @@
     },
     {
       "id": "Saravutw/Omni-videos-custom",
-      "likes": 121,
+      "likes": 123,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1550,5 +1550,5 @@
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-08-22T22:23:01.362134+08:00"
+  "lastUpdatedISO": "2026-08-22T23:22:23.291731+08:00"
 }
