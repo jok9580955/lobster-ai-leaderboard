@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-22 18:24",
+  "lastUpdated": "2026-08-22 19:21",
   "arena": [
     {
       "rank": 1,
@@ -468,7 +468,7 @@
       "id": "zai-org/GLM-5.2",
       "name": "GLM-5.2",
       "org": "zai-org",
-      "likes": 5018,
+      "likes": 5019,
       "downloads": 2715564,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -485,7 +485,7 @@
       "id": "openai/gpt-oss-20b",
       "name": "gpt-oss-20b",
       "org": "openai",
-      "likes": 4936,
+      "likes": 4937,
       "downloads": 7376531,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -756,7 +756,7 @@
       "id": "meta-llama/Llama-3.2-1B",
       "name": "Llama-3.2-1B",
       "org": "meta-llama",
-      "likes": 2539,
+      "likes": 2540,
       "downloads": 1612467,
       "license": "Llama3.2",
       "pipeline_tag": "text-generation",
@@ -957,7 +957,7 @@
       "id": "nvidia/Qwen3.6-35B-A3B-NVFP4",
       "name": "Qwen3.6-35B-A3B-NVFP4",
       "org": "nvidia",
-      "likes": 562,
+      "likes": 563,
       "downloads": 12554259,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1042,7 +1042,7 @@
       "id": "openai/gpt-oss-20b",
       "name": "gpt-oss-20b",
       "org": "openai",
-      "likes": 4936,
+      "likes": 4937,
       "downloads": 7376531,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1176,7 +1176,7 @@
       "id": "google/gemma-3-1b-it",
       "name": "gemma-3-1b-it",
       "org": "google",
-      "likes": 1103,
+      "likes": 1104,
       "downloads": 4961690,
       "license": "Gemma",
       "pipeline_tag": "text-generation",
@@ -1371,19 +1371,19 @@
   "trending": [
     {
       "id": "Qwen/Qwen3.8-27B",
-      "likes": 12031,
+      "likes": 12042,
       "downloads": 2090699,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "unsloth/Qwen3.8-27B-GGUF",
-      "likes": 2554,
+      "likes": 2563,
       "downloads": 6320542,
       "pipeline_tag": ""
     },
     {
       "id": "orcarouter/Qwen3.8-27B-Uncensored-FP8",
-      "likes": 908,
+      "likes": 915,
       "downloads": 142846,
       "pipeline_tag": "image-text-to-text"
     },
@@ -1395,25 +1395,25 @@
     },
     {
       "id": "JonathanColetti/Qwen3.8-27B-Uncensored-GGUF",
-      "likes": 589,
+      "likes": 592,
       "downloads": 1223422,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "OBLITERATUS/Qwen3.8-27B-OBLITERATED",
-      "likes": 480,
+      "likes": 483,
       "downloads": 164950,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "Lightricks/LTX-2.5",
-      "likes": 1522,
+      "likes": 1526,
       "downloads": 694670,
       "pipeline_tag": "image-to-video"
     },
     {
       "id": "HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
-      "likes": 449,
+      "likes": 452,
       "downloads": 486221,
       "pipeline_tag": "image-text-to-text"
     },
@@ -1425,7 +1425,7 @@
     },
     {
       "id": "MiniMaxAI/MiniMax-H3",
-      "likes": 4312,
+      "likes": 4313,
       "downloads": 3899160,
       "pipeline_tag": "image-text-to-video"
     },
@@ -1437,7 +1437,7 @@
     },
     {
       "id": "Anthropic/claude-protein-binder-design",
-      "likes": 101,
+      "likes": 102,
       "downloads": 20191,
       "pipeline_tag": ""
     },
@@ -1485,7 +1485,7 @@
     },
     {
       "id": "MiniMaxAI/MiniMax-H3-Turbo-Lora",
-      "likes": 270,
+      "likes": 271,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1497,7 +1497,7 @@
     },
     {
       "id": "prithivMLmods/Qwen-Image-Edit-2511-LoRAs-Fast",
-      "likes": 2642,
+      "likes": 2643,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1514,27 +1514,27 @@
       "pipeline_tag": ""
     },
     {
+      "id": "saidutta69/fable-5-premium",
+      "likes": 38,
+      "downloads": 3502,
+      "pipeline_tag": ""
+    },
+    {
       "id": "Saravutw/Omni-videos-custom",
       "likes": 118,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
-      "id": "saidutta69/fable-5-premium",
-      "likes": 37,
-      "downloads": 3502,
+      "id": "markov-ai/cad-1000-hours",
+      "likes": 29,
+      "downloads": 2916,
       "pipeline_tag": ""
     },
     {
       "id": "biglam/british-library-book-images",
       "likes": 54,
       "downloads": 3076,
-      "pipeline_tag": ""
-    },
-    {
-      "id": "markov-ai/cad-1000-hours",
-      "likes": 28,
-      "downloads": 2916,
       "pipeline_tag": ""
     },
     {
@@ -1550,5 +1550,5 @@
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-08-22T18:24:50.537234+08:00"
+  "lastUpdatedISO": "2026-08-22T19:21:35.126245+08:00"
 }
