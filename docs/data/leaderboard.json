@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-23 22:25",
+  "lastUpdated": "2026-08-23 23:23",
   "arena": [
     {
       "rank": 1,
@@ -468,7 +468,7 @@
       "id": "zai-org/GLM-5.2",
       "name": "GLM-5.2",
       "org": "zai-org",
-      "likes": 5031,
+      "likes": 5032,
       "downloads": 2685029,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -756,7 +756,7 @@
       "id": "meta-llama/Llama-3.2-1B",
       "name": "Llama-3.2-1B",
       "org": "meta-llama",
-      "likes": 2541,
+      "likes": 2542,
       "downloads": 1572365,
       "license": "Llama3.2",
       "pipeline_tag": "text-generation",
@@ -875,7 +875,7 @@
       "id": "Qwen/Qwen3-0.6B",
       "name": "Qwen3-0.6B",
       "org": "Qwen",
-      "likes": 1531,
+      "likes": 1532,
       "downloads": 24379087,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1372,19 +1372,19 @@
   "trending": [
     {
       "id": "Qwen/Qwen3.8-27B",
-      "likes": 12241,
+      "likes": 12248,
       "downloads": 2358347,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "unsloth/Qwen3.8-27B-GGUF",
-      "likes": 2683,
+      "likes": 2689,
       "downloads": 6674515,
       "pipeline_tag": ""
     },
     {
       "id": "orcarouter/Qwen3.8-27B-Uncensored-MLX",
-      "likes": 914,
+      "likes": 920,
       "downloads": 47098,
       "pipeline_tag": "image-text-to-text"
     },
@@ -1396,27 +1396,27 @@
     },
     {
       "id": "OBLITERATUS/Qwen3.8-27B-OBLITERATED",
-      "likes": 594,
+      "likes": 599,
       "downloads": 244834,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
-      "likes": 513,
+      "likes": 519,
       "downloads": 676697,
       "pipeline_tag": "image-text-to-text"
     },
     {
-      "id": "JonathanColetti/Qwen3.8-27B-Uncensored-GGUF",
-      "likes": 637,
-      "downloads": 1334820,
-      "pipeline_tag": "text-generation"
-    },
-    {
       "id": "Lightricks/LTX-2.5",
-      "likes": 1608,
+      "likes": 1614,
       "downloads": 738345,
       "pipeline_tag": "image-to-video"
+    },
+    {
+      "id": "JonathanColetti/Qwen3.8-27B-Uncensored-GGUF",
+      "likes": 639,
+      "downloads": 1334820,
+      "pipeline_tag": "text-generation"
     },
     {
       "id": "MiniMaxAI/MiniMax-Music3",
@@ -1426,7 +1426,7 @@
     },
     {
       "id": "ornith-ai/Ornith-1.5-35B-A3B",
-      "likes": 343,
+      "likes": 346,
       "downloads": 23516,
       "pipeline_tag": "text-generation"
     },
@@ -1455,15 +1455,15 @@
       "pipeline_tag": ""
     },
     {
-      "id": "kulkas2pintu/wan555",
-      "likes": 1379,
-      "downloads": 0,
+      "id": "markov-ai/cad-1000-hours",
+      "likes": 72,
+      "downloads": 9305,
       "pipeline_tag": ""
     },
     {
-      "id": "markov-ai/cad-1000-hours",
-      "likes": 71,
-      "downloads": 9305,
+      "id": "kulkas2pintu/wan555",
+      "likes": 1380,
+      "downloads": 0,
       "pipeline_tag": ""
     },
     {
@@ -1474,7 +1474,7 @@
     },
     {
       "id": "agent-memory-leaderboard/leaderboard",
-      "likes": 722,
+      "likes": 723,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1498,7 +1498,7 @@
     },
     {
       "id": "MiniMaxAI/MiniMax-H3-Turbo-Lora",
-      "likes": 274,
+      "likes": 275,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1510,13 +1510,13 @@
     },
     {
       "id": "Saravutw/Omni-videos-custom",
-      "likes": 139,
+      "likes": 141,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "saidutta69/fable-5-premium",
-      "likes": 40,
+      "likes": 41,
       "downloads": 3914,
       "pipeline_tag": ""
     },
@@ -1551,5 +1551,5 @@
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-08-23T22:25:07.537006+08:00"
+  "lastUpdatedISO": "2026-08-23T23:23:42.843607+08:00"
 }
