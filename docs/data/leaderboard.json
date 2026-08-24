@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-25 02:41",
+  "lastUpdated": "2026-08-25 03:30",
   "arena": [
     {
       "rank": 1,
@@ -383,7 +383,7 @@
       "id": "meta-llama/Llama-3.1-8B-Instruct",
       "name": "Llama-3.1-8B-Instruct",
       "org": "meta-llama",
-      "likes": 6658,
+      "likes": 6660,
       "downloads": 6444560,
       "license": "Llama3.1",
       "pipeline_tag": "text-generation",
@@ -417,7 +417,7 @@
       "id": "deepseek-ai/DeepSeek-V4-Pro",
       "name": "DeepSeek-V4-Pro",
       "org": "deepseek-ai",
-      "likes": 5476,
+      "likes": 5477,
       "downloads": 1023204,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -451,7 +451,7 @@
       "id": "zai-org/GLM-5.2",
       "name": "GLM-5.2",
       "org": "zai-org",
-      "likes": 5039,
+      "likes": 5041,
       "downloads": 2576335,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -1110,7 +1110,7 @@
       "id": "meta-llama/Llama-3.1-8B-Instruct",
       "name": "Llama-3.1-8B-Instruct",
       "org": "meta-llama",
-      "likes": 6658,
+      "likes": 6660,
       "downloads": 6444560,
       "license": "Llama3.1",
       "pipeline_tag": "text-generation",
@@ -1372,19 +1372,19 @@
   "trending": [
     {
       "id": "Qwen/Qwen3.8-27B",
-      "likes": 12478,
+      "likes": 12481,
       "downloads": 2645226,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "unsloth/Qwen3.8-27B-GGUF",
-      "likes": 2808,
+      "likes": 2814,
       "downloads": 7009063,
       "pipeline_tag": ""
     },
     {
       "id": "orcarouter/Qwen3.8-27B-Uncensored-MLX",
-      "likes": 1015,
+      "likes": 1018,
       "downloads": 57947,
       "pipeline_tag": "image-text-to-text"
     },
@@ -1396,31 +1396,31 @@
     },
     {
       "id": "orcarouter/Qwen3.8-27B-Uncensored-FP8",
-      "likes": 1079,
+      "likes": 1083,
       "downloads": 224114,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
-      "likes": 572,
+      "likes": 573,
       "downloads": 761975,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "Lightricks/LTX-2.5",
-      "likes": 1708,
+      "likes": 1709,
       "downloads": 790378,
       "pipeline_tag": "image-to-video"
     },
     {
       "id": "ornith-ai/Ornith-1.5-35B-A3B",
-      "likes": 387,
+      "likes": 388,
       "downloads": 60294,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "JonathanColetti/Qwen3.8-27B-Uncensored-GGUF",
-      "likes": 677,
+      "likes": 681,
       "downloads": 1456700,
       "pipeline_tag": "text-generation"
     },
@@ -1449,15 +1449,15 @@
       "pipeline_tag": ""
     },
     {
-      "id": "r0b0tlab/qwen3.8-max-glm5.2-kimi-k3-distillation",
-      "likes": 205,
-      "downloads": 6790,
-      "pipeline_tag": ""
-    },
-    {
       "id": "markov-ai/cad-1000-hours",
       "likes": 85,
       "downloads": 25906,
+      "pipeline_tag": ""
+    },
+    {
+      "id": "r0b0tlab/qwen3.8-max-glm5.2-kimi-k3-distillation",
+      "likes": 205,
+      "downloads": 6790,
       "pipeline_tag": ""
     },
     {
@@ -1468,7 +1468,7 @@
     },
     {
       "id": "kulkas2pintu/wan555",
-      "likes": 1411,
+      "likes": 1415,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1480,13 +1480,13 @@
     },
     {
       "id": "hamzabagirsakci/turkish-court-decisions",
-      "likes": 49,
+      "likes": 50,
       "downloads": 370,
       "pipeline_tag": ""
     },
     {
       "id": "Saravutw/Omni-videos-custom",
-      "likes": 151,
+      "likes": 153,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1551,5 +1551,5 @@
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-08-25T02:41:48.653299+08:00"
+  "lastUpdatedISO": "2026-08-25T03:30:44.292026+08:00"
 }
