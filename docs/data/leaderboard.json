@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-24 07:22",
+  "lastUpdated": "2026-08-24 09:23",
   "arena": [
     {
       "rank": 1,
@@ -383,7 +383,7 @@
       "id": "meta-llama/Llama-3.1-8B-Instruct",
       "name": "Llama-3.1-8B-Instruct",
       "org": "meta-llama",
-      "likes": 6652,
+      "likes": 6653,
       "downloads": 6531192,
       "license": "Llama3.1",
       "pipeline_tag": "text-generation",
@@ -671,7 +671,7 @@
       "id": "deepseek-ai/DeepSeek-V3-0324",
       "name": "DeepSeek-V3-0324",
       "org": "deepseek-ai",
-      "likes": 3160,
+      "likes": 3161,
       "downloads": 1049317,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -1110,7 +1110,7 @@
       "id": "meta-llama/Llama-3.1-8B-Instruct",
       "name": "Llama-3.1-8B-Instruct",
       "org": "meta-llama",
-      "likes": 6652,
+      "likes": 6653,
       "downloads": 6531192,
       "license": "Llama3.1",
       "pipeline_tag": "text-generation",
@@ -1372,55 +1372,55 @@
   "trending": [
     {
       "id": "Qwen/Qwen3.8-27B",
-      "likes": 12308,
+      "likes": 12316,
       "downloads": 2358347,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "unsloth/Qwen3.8-27B-GGUF",
-      "likes": 2737,
+      "likes": 2738,
       "downloads": 6674515,
       "pipeline_tag": ""
     },
     {
       "id": "orcarouter/Qwen3.8-27B-Uncensored-MLX",
-      "likes": 952,
+      "likes": 959,
       "downloads": 47098,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "OBLITERATUS/Qwen3.8-27B-OBLITERATED",
-      "likes": 627,
+      "likes": 634,
       "downloads": 244834,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "orcarouter/Qwen3.8-27B-Uncensored-FP8",
-      "likes": 1044,
+      "likes": 1050,
       "downloads": 190062,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
-      "likes": 535,
+      "likes": 538,
       "downloads": 676697,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "Lightricks/LTX-2.5",
-      "likes": 1637,
+      "likes": 1643,
       "downloads": 738345,
       "pipeline_tag": "image-to-video"
     },
     {
       "id": "JonathanColetti/Qwen3.8-27B-Uncensored-GGUF",
-      "likes": 648,
+      "likes": 650,
       "downloads": 1334820,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "ornith-ai/Ornith-1.5-35B-A3B",
-      "likes": 362,
+      "likes": 365,
       "downloads": 23516,
       "pipeline_tag": "text-generation"
     },
@@ -1432,7 +1432,7 @@
     },
     {
       "id": "openbmb/Ultra-FineWeb-L1",
-      "likes": 131,
+      "likes": 134,
       "downloads": 8981,
       "pipeline_tag": ""
     },
@@ -1444,19 +1444,19 @@
     },
     {
       "id": "malcolmrey/various",
-      "likes": 111,
+      "likes": 112,
       "downloads": 22164,
       "pipeline_tag": ""
     },
     {
       "id": "r0b0tlab/qwen3.8-max-glm5.2-kimi-k3-distillation",
-      "likes": 197,
+      "likes": 198,
       "downloads": 6540,
       "pipeline_tag": ""
     },
     {
       "id": "markov-ai/cad-1000-hours",
-      "likes": 73,
+      "likes": 75,
       "downloads": 9305,
       "pipeline_tag": ""
     },
@@ -1468,7 +1468,7 @@
     },
     {
       "id": "ReverseFaceSearch/Reverse-Face-Search",
-      "likes": 224,
+      "likes": 225,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1486,7 +1486,7 @@
     },
     {
       "id": "MiniMaxAI/MiniMax-Music3",
-      "likes": 262,
+      "likes": 263,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1533,15 +1533,15 @@
       "pipeline_tag": ""
     },
     {
-      "id": "Lynote/free-ai-humanizer",
-      "likes": 241,
-      "downloads": 0,
+      "id": "HuggingFaceFW/fineweb",
+      "likes": 3251,
+      "downloads": 429716,
       "pipeline_tag": ""
     },
     {
-      "id": "HuggingFaceFW/fineweb",
-      "likes": 3250,
-      "downloads": 429716,
+      "id": "Lynote/free-ai-humanizer",
+      "likes": 241,
+      "downloads": 0,
       "pipeline_tag": ""
     },
     {
@@ -1551,5 +1551,5 @@
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-08-24T07:22:15.553041+08:00"
+  "lastUpdatedISO": "2026-08-24T09:23:29.375344+08:00"
 }
