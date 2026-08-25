@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-25 17:36",
+  "lastUpdated": "2026-08-25 18:34",
   "arena": [
     {
       "rank": 1,
@@ -400,7 +400,7 @@
       "id": "meta-llama/Meta-Llama-3-8B",
       "name": "Meta-Llama-3-8B",
       "org": "meta-llama",
-      "likes": 6632,
+      "likes": 6631,
       "downloads": 1300543,
       "license": "Llama3",
       "pipeline_tag": "text-generation",
@@ -587,7 +587,7 @@
       "id": "deepseek-ai/DeepSeek-V4-Flash-0731",
       "name": "DeepSeek-V4-Flash-0731",
       "org": "deepseek-ai",
-      "likes": 3694,
+      "likes": 3696,
       "downloads": 3528373,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -875,7 +875,7 @@
       "id": "Qwen/Qwen3-0.6B",
       "name": "Qwen3-0.6B",
       "org": "Qwen",
-      "likes": 1537,
+      "likes": 1538,
       "downloads": 24453713,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1289,7 +1289,7 @@
       "id": "deepseek-ai/DeepSeek-V4-Flash-0731",
       "name": "DeepSeek-V4-Flash-0731",
       "org": "deepseek-ai",
-      "likes": 3694,
+      "likes": 3696,
       "downloads": 3528373,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -1372,49 +1372,49 @@
   "trending": [
     {
       "id": "Qwen/Qwen3.8-27B",
-      "likes": 12582,
+      "likes": 12594,
       "downloads": 2945415,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "unsloth/Qwen3.8-27B-GGUF",
-      "likes": 2867,
+      "likes": 2872,
       "downloads": 7334695,
       "pipeline_tag": ""
     },
     {
       "id": "orcarouter/Qwen3.8-27B-Uncensored-MLX",
-      "likes": 1055,
+      "likes": 1060,
       "downloads": 68855,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "OBLITERATUS/Qwen3.8-27B-OBLITERATED",
-      "likes": 711,
+      "likes": 713,
       "downloads": 389747,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "orcarouter/Qwen3.8-27B-Uncensored-FP8",
-      "likes": 1112,
+      "likes": 1113,
       "downloads": 249744,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
-      "likes": 600,
+      "likes": 601,
       "downloads": 832185,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "ornith-ai/Ornith-1.5-35B-A3B",
-      "likes": 407,
+      "likes": 409,
       "downloads": 70158,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "Lightricks/LTX-2.5",
-      "likes": 1746,
+      "likes": 1749,
       "downloads": 833845,
       "pipeline_tag": "image-to-video"
     },
@@ -1426,7 +1426,7 @@
     },
     {
       "id": "JonathanColetti/Qwen3.8-27B-Uncensored-GGUF",
-      "likes": 703,
+      "likes": 705,
       "downloads": 1525645,
       "pipeline_tag": "text-generation"
     },
@@ -1450,7 +1450,7 @@
     },
     {
       "id": "markov-ai/cad-1000-hours",
-      "likes": 95,
+      "likes": 96,
       "downloads": 25906,
       "pipeline_tag": ""
     },
@@ -1462,20 +1462,20 @@
     },
     {
       "id": "kulkas2pintu/wan555",
-      "likes": 1432,
+      "likes": 1433,
       "downloads": 0,
+      "pipeline_tag": ""
+    },
+    {
+      "id": "hamzabagirsakci/turkish-court-decisions",
+      "likes": 58,
+      "downloads": 370,
       "pipeline_tag": ""
     },
     {
       "id": "agent-memory-leaderboard/leaderboard",
       "likes": 760,
       "downloads": 0,
-      "pipeline_tag": ""
-    },
-    {
-      "id": "hamzabagirsakci/turkish-court-decisions",
-      "likes": 56,
-      "downloads": 370,
       "pipeline_tag": ""
     },
     {
@@ -1492,7 +1492,7 @@
     },
     {
       "id": "LightwheelAI/EgoStandard",
-      "likes": 32,
+      "likes": 33,
       "downloads": 4883,
       "pipeline_tag": ""
     },
@@ -1516,13 +1516,13 @@
     },
     {
       "id": "prithivMLmods/Qwen-Image-Edit-2511-LoRAs-Fast",
-      "likes": 2662,
+      "likes": 2663,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "Lynote/free-ai-humanizer",
-      "likes": 243,
+      "likes": 244,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1551,5 +1551,5 @@
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-08-25T17:36:41.251679+08:00"
+  "lastUpdatedISO": "2026-08-25T18:34:28.532886+08:00"
 }
