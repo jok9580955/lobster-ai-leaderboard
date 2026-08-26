@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-26 18:36",
+  "lastUpdated": "2026-08-26 19:31",
   "arena": [
     {
       "rank": 1,
@@ -366,7 +366,7 @@
       "id": "deepseek-ai/DeepSeek-R1",
       "name": "DeepSeek-R1",
       "org": "deepseek-ai",
-      "likes": 13588,
+      "likes": 13589,
       "downloads": 4431386,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -1208,7 +1208,7 @@
       "id": "deepseek-ai/DeepSeek-R1",
       "name": "DeepSeek-R1",
       "org": "deepseek-ai",
-      "likes": 13588,
+      "likes": 13589,
       "downloads": 4431386,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -1372,25 +1372,25 @@
   "trending": [
     {
       "id": "Qwen/Qwen3.8-27B",
-      "likes": 12800,
+      "likes": 12810,
       "downloads": 3298569,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "unsloth/Qwen3.8-27B-GGUF",
-      "likes": 2941,
+      "likes": 2945,
       "downloads": 7638591,
       "pipeline_tag": ""
     },
     {
       "id": "OBLITERATUS/Qwen3.8-27B-OBLITERATED",
-      "likes": 775,
+      "likes": 776,
       "downloads": 468746,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "orcarouter/Qwen3.8-27B-Uncensored-MLX",
-      "likes": 1122,
+      "likes": 1123,
       "downloads": 79395,
       "pipeline_tag": "image-text-to-text"
     },
@@ -1402,25 +1402,25 @@
     },
     {
       "id": "ornith-ai/Ornith-1.5-35B-A3B",
-      "likes": 432,
+      "likes": 434,
       "downloads": 83342,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
-      "likes": 631,
+      "likes": 633,
       "downloads": 911795,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "Lightricks/LTX-2.5",
-      "likes": 1814,
+      "likes": 1818,
       "downloads": 894094,
       "pipeline_tag": "image-to-video"
     },
     {
       "id": "ornith-ai/Ornith-1.5-35B-A3B-GGUF",
-      "likes": 301,
+      "likes": 302,
       "downloads": 1391218,
       "pipeline_tag": "text-generation"
     },
@@ -1432,7 +1432,7 @@
     },
     {
       "id": "openbmb/Ultra-FineWeb-L1",
-      "likes": 164,
+      "likes": 165,
       "downloads": 18113,
       "pipeline_tag": ""
     },
@@ -1461,26 +1461,20 @@
       "pipeline_tag": ""
     },
     {
-      "id": "r0b0tlab/qwen3.8-max-glm5.2-kimi-k3-distillation",
-      "likes": 209,
-      "downloads": 7186,
-      "pipeline_tag": ""
-    },
-    {
       "id": "hamzabagirsakci/turkish-court-decisions",
       "likes": 66,
       "downloads": 1112,
       "pipeline_tag": ""
     },
     {
-      "id": "pnemrow/Qwen-Image-Edit-Rapid-AIO-Loras-Experimental-neo",
-      "likes": 111,
-      "downloads": 0,
+      "id": "r0b0tlab/qwen3.8-max-glm5.2-kimi-k3-distillation",
+      "likes": 209,
+      "downloads": 7186,
       "pipeline_tag": ""
     },
     {
-      "id": "agent-memory-leaderboard/leaderboard",
-      "likes": 765,
+      "id": "pnemrow/Qwen-Image-Edit-Rapid-AIO-Loras-Experimental-neo",
+      "likes": 112,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1491,8 +1485,14 @@
       "pipeline_tag": ""
     },
     {
+      "id": "agent-memory-leaderboard/leaderboard",
+      "likes": 765,
+      "downloads": 0,
+      "pipeline_tag": ""
+    },
+    {
       "id": "Saravutw/Omni-videos-custom",
-      "likes": 186,
+      "likes": 187,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1510,7 +1510,7 @@
     },
     {
       "id": "mpasila/Krea-2-Turbo_I2I",
-      "likes": 87,
+      "likes": 88,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1534,7 +1534,13 @@
     },
     {
       "id": "prithivMLmods/Qwen-Image-Edit-2511-LoRAs-Fast",
-      "likes": 2670,
+      "likes": 2671,
+      "downloads": 0,
+      "pipeline_tag": ""
+    },
+    {
+      "id": "MiniMaxAI/MiniMax-H3-Turbo-Lora",
+      "likes": 288,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1543,13 +1549,7 @@
       "likes": 2452,
       "downloads": 0,
       "pipeline_tag": ""
-    },
-    {
-      "id": "MiniMaxAI/MiniMax-H3-Turbo-Lora",
-      "likes": 287,
-      "downloads": 0,
-      "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-08-26T18:36:37.904379+08:00"
+  "lastUpdatedISO": "2026-08-26T19:31:28.240905+08:00"
 }
