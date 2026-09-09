@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-10 04:37",
+  "lastUpdated": "2026-09-10 07:01",
   "arena": [
     {
       "rank": 1,
@@ -383,7 +383,7 @@
       "id": "meta-llama/Llama-3.1-8B-Instruct",
       "name": "Llama-3.1-8B-Instruct",
       "org": "meta-llama",
-      "likes": 6857,
+      "likes": 6859,
       "downloads": 5644039,
       "license": "Llama3.1",
       "pipeline_tag": "text-generation",
@@ -502,7 +502,7 @@
       "id": "meta-llama/Meta-Llama-3-8B-Instruct",
       "name": "Meta-Llama-3-8B-Instruct",
       "org": "meta-llama",
-      "likes": 4940,
+      "likes": 4941,
       "downloads": 1313574,
       "license": "Llama3",
       "pipeline_tag": "text-generation",
@@ -587,7 +587,7 @@
       "id": "deepseek-ai/DeepSeek-V4-Flash-0731",
       "name": "DeepSeek-V4-Flash-0731",
       "org": "deepseek-ai",
-      "likes": 3919,
+      "likes": 3920,
       "downloads": 4425802,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -604,7 +604,7 @@
       "id": "openai-community/gpt2",
       "name": "gpt2",
       "org": "openai-community",
-      "likes": 3844,
+      "likes": 3852,
       "downloads": 14770863,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -739,7 +739,7 @@
       "id": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
       "name": "gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
       "org": "yuxinlu1",
-      "likes": 2879,
+      "likes": 2880,
       "downloads": 521043,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -908,7 +908,7 @@
       "id": "openai-community/gpt2",
       "name": "gpt2",
       "org": "openai-community",
-      "likes": 3844,
+      "likes": 3852,
       "downloads": 14770863,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -941,7 +941,7 @@
       "id": "unsloth/Qwen3-Coder-30B-A3B-Instruct-GGUF",
       "name": "Qwen3-Coder-30B-A3B-Instruct-GGUF",
       "org": "unsloth",
-      "likes": 978,
+      "likes": 979,
       "downloads": 12623435,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -958,7 +958,7 @@
       "id": "Qwen/Qwen2.5-7B-Instruct",
       "name": "Qwen2.5-7B-Instruct",
       "org": "Qwen",
-      "likes": 1587,
+      "likes": 1589,
       "downloads": 10440548,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -975,7 +975,7 @@
       "id": "nvidia/Qwen3.6-35B-A3B-NVFP4",
       "name": "Qwen3.6-35B-A3B-NVFP4",
       "org": "nvidia",
-      "likes": 592,
+      "likes": 593,
       "downloads": 10100049,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1008,7 +1008,7 @@
       "id": "Qwen/Qwen2.5-1.5B-Instruct",
       "name": "Qwen2.5-1.5B-Instruct",
       "org": "Qwen",
-      "likes": 822,
+      "likes": 824,
       "downloads": 7326700,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1126,7 +1126,7 @@
       "id": "meta-llama/Llama-3.1-8B-Instruct",
       "name": "Llama-3.1-8B-Instruct",
       "org": "meta-llama",
-      "likes": 6857,
+      "likes": 6859,
       "downloads": 5644039,
       "license": "Llama3.1",
       "pipeline_tag": "text-generation",
@@ -1193,7 +1193,7 @@
       "id": "deepseek-ai/DeepSeek-V4-Flash-0731",
       "name": "DeepSeek-V4-Flash-0731",
       "org": "deepseek-ai",
-      "likes": 3919,
+      "likes": 3920,
       "downloads": 4425802,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -1225,7 +1225,7 @@
       "id": "ornith-ai/Ornith-1.5-9B-GGUF",
       "name": "Ornith-1.5-9B-GGUF",
       "org": "ornith-ai",
-      "likes": 328,
+      "likes": 329,
       "downloads": 3859341,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -1369,45 +1369,51 @@
   "trending": [
     {
       "id": "XHToken/Spark-X2.5-4B",
-      "likes": 994,
+      "likes": 999,
       "downloads": 10661,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "openbmb/MiniCPM5-2B",
-      "likes": 877,
+      "likes": 900,
       "downloads": 2879,
       "pipeline_tag": "text-generation"
     },
     {
-      "id": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
-      "likes": 727,
-      "downloads": 479597,
-      "pipeline_tag": "image-text-to-text"
-    },
-    {
       "id": "Qwen/Qwen3.8-27B",
-      "likes": 14507,
+      "likes": 14521,
       "downloads": 6712160,
       "pipeline_tag": "image-text-to-text"
     },
     {
+      "id": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
+      "likes": 731,
+      "downloads": 479597,
+      "pipeline_tag": "image-text-to-text"
+    },
+    {
+      "id": "stanfordnlp/imdb",
+      "likes": 825,
+      "downloads": 197326,
+      "pipeline_tag": ""
+    },
+    {
       "id": "kuben-developer/tiktok-videos-4b",
-      "likes": 294,
+      "likes": 295,
       "downloads": 8167,
       "pipeline_tag": ""
     },
     {
       "id": "rajpurkar/squad",
-      "likes": 821,
+      "likes": 827,
       "downloads": 260686,
       "pipeline_tag": ""
     },
     {
-      "id": "stanfordnlp/imdb",
-      "likes": 815,
-      "downloads": 197326,
-      "pipeline_tag": ""
+      "id": "Lightricks/LTX-2.5",
+      "likes": 3266,
+      "downloads": 1644796,
+      "pipeline_tag": "image-to-video"
     },
     {
       "id": "google/timesfm-3.0-pytorch",
@@ -1416,32 +1422,26 @@
       "pipeline_tag": "time-series-forecasting"
     },
     {
-      "id": "Lightricks/LTX-2.5",
-      "likes": 3256,
-      "downloads": 1644796,
-      "pipeline_tag": "image-to-video"
-    },
-    {
       "id": "nyu-mll/glue",
-      "likes": 836,
+      "likes": 850,
       "downloads": 789359,
       "pipeline_tag": ""
     },
     {
       "id": "unsloth/Qwen3.8-27B-GGUF",
-      "likes": 3770,
+      "likes": 3777,
       "downloads": 10675683,
       "pipeline_tag": ""
     },
     {
       "id": "sentence-transformers/all-MiniLM-L6-v2",
-      "likes": 5711,
+      "likes": 5719,
       "downloads": 253331994,
       "pipeline_tag": "sentence-similarity"
     },
     {
       "id": "openai-community/gpt2",
-      "likes": 3844,
+      "likes": 3852,
       "downloads": 14770863,
       "pipeline_tag": "text-generation"
     },
@@ -1453,31 +1453,31 @@
     },
     {
       "id": "markov-ai/cad-1000-hours",
-      "likes": 409,
+      "likes": 410,
       "downloads": 117089,
       "pipeline_tag": ""
     },
     {
       "id": "kulkas2pintu/wan555",
-      "likes": 1918,
+      "likes": 1922,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "openbmb/UltraData-RL-2609",
-      "likes": 64,
+      "likes": 66,
       "downloads": 667,
       "pipeline_tag": ""
     },
     {
       "id": "openbmb/UltraData-SFT-Agent-2609",
-      "likes": 64,
+      "likes": 65,
       "downloads": 642,
       "pipeline_tag": ""
     },
     {
       "id": "pollen-robotics/microduck-simulator",
-      "likes": 476,
+      "likes": 478,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1489,31 +1489,31 @@
     },
     {
       "id": "zouhar/last-translation-benchmark",
-      "likes": 43,
+      "likes": 44,
       "downloads": 419,
       "pipeline_tag": ""
     },
     {
       "id": "IFM/TxT360-v2",
-      "likes": 38,
+      "likes": 39,
       "downloads": 1740,
       "pipeline_tag": ""
     },
     {
       "id": "kulkas2pintu/QWEN_EDIT_IMAGE",
-      "likes": 223,
+      "likes": 225,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "AimeeBingmouQu/ProtectBirds",
-      "likes": 1040,
+      "likes": 1041,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "MiniMaxAI/MiniMax-H3-Turbo-Lora",
-      "likes": 405,
+      "likes": 404,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1525,13 +1525,13 @@
     },
     {
       "id": "ravenrose996688/Krea-2-Turbo_I2I",
-      "likes": 64,
+      "likes": 67,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "aet256/Qwen-Image-Edit-Rapid-AIO-Loras-Experimental",
-      "likes": 129,
+      "likes": 131,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1543,10 +1543,10 @@
     },
     {
       "id": "Xenova/fruit-fly-simulation",
-      "likes": 41,
+      "likes": 43,
       "downloads": 0,
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-09-10T04:37:56.307055+08:00"
+  "lastUpdatedISO": "2026-09-10T07:01:09.474225+08:00"
 }
