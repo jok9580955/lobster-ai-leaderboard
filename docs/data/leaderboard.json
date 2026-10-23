@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-23 06:10",
+  "lastUpdated": "2026-10-23 09:18",
   "arena": [
     {
       "rank": 1,
@@ -383,7 +383,7 @@
       "id": "meta-llama/Llama-3.1-8B-Instruct",
       "name": "Llama-3.1-8B-Instruct",
       "org": "meta-llama",
-      "likes": 8559,
+      "likes": 8560,
       "downloads": 5046973,
       "license": "Llama3.1",
       "pipeline_tag": "text-generation",
@@ -400,7 +400,7 @@
       "id": "meta-llama/Meta-Llama-3-8B",
       "name": "Meta-Llama-3-8B",
       "org": "meta-llama",
-      "likes": 6763,
+      "likes": 6764,
       "downloads": 149386,
       "license": "Llama3",
       "pipeline_tag": "text-generation",
@@ -433,7 +433,7 @@
       "id": "meta-llama/Meta-Llama-3-8B-Instruct",
       "name": "Meta-Llama-3-8B-Instruct",
       "org": "meta-llama",
-      "likes": 5497,
+      "likes": 5499,
       "downloads": 396532,
       "license": "Llama3",
       "pipeline_tag": "text-generation",
@@ -535,7 +535,7 @@
       "id": "meta-llama/Llama-2-7b",
       "name": "Llama-2-7b",
       "org": "meta-llama",
-      "likes": 4574,
+      "likes": 4575,
       "downloads": 136,
       "license": "Llama2",
       "pipeline_tag": "text-generation",
@@ -771,7 +771,7 @@
       "id": "meta-llama/Llama-3.2-3B-Instruct",
       "name": "Llama-3.2-3B-Instruct",
       "org": "meta-llama",
-      "likes": 2851,
+      "likes": 2852,
       "downloads": 1089842,
       "license": "Llama3.2",
       "pipeline_tag": "text-generation",
@@ -788,7 +788,7 @@
       "id": "prism-ml/Ternary-Bonsai-2-27B-gguf",
       "name": "Ternary-Bonsai-2-27B-gguf",
       "org": "prism-ml",
-      "likes": 2794,
+      "likes": 2795,
       "downloads": 2484375,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -822,7 +822,7 @@
       "id": "meta-llama/Llama-3.1-8B",
       "name": "Llama-3.1-8B",
       "org": "meta-llama",
-      "likes": 2684,
+      "likes": 2685,
       "downloads": 630280,
       "license": "Llama3.1",
       "pipeline_tag": "text-generation",
@@ -1053,7 +1053,7 @@
       "id": "meta-llama/Llama-3.1-8B-Instruct",
       "name": "Llama-3.1-8B-Instruct",
       "org": "meta-llama",
-      "likes": 8559,
+      "likes": 8560,
       "downloads": 5046973,
       "license": "Llama3.1",
       "pipeline_tag": "text-generation",
@@ -1204,7 +1204,7 @@
       "id": "ornith-ai/Ornith-1.5-35B-A3B-GGUF",
       "name": "Ornith-1.5-35B-A3B-GGUF",
       "org": "ornith-ai",
-      "likes": 543,
+      "likes": 544,
       "downloads": 3853131,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -1353,7 +1353,7 @@
       "id": "prism-ml/Ternary-Bonsai-2-27B-gguf",
       "name": "Ternary-Bonsai-2-27B-gguf",
       "org": "prism-ml",
-      "likes": 2794,
+      "likes": 2795,
       "downloads": 2484375,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1370,68 +1370,74 @@
   "trending": [
     {
       "id": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
-      "likes": 2346,
+      "likes": 2362,
       "downloads": 51911,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "black-forest-labs/flux-3-image-klein-comfy",
-      "likes": 1290,
+      "likes": 1306,
       "downloads": 512524,
       "pipeline_tag": "image-to-image"
     },
     {
       "id": "OpenMOSS-Team/MOSS-Image-SFT",
-      "likes": 571,
+      "likes": 584,
       "downloads": 6890,
       "pipeline_tag": "text-to-image"
     },
     {
       "id": "RecursiveSI/flint",
-      "likes": 515,
+      "likes": 540,
       "downloads": 420,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "OpenMOSS-Team/MOSS-Image-Base",
-      "likes": 484,
+      "likes": 489,
       "downloads": 5013,
       "pipeline_tag": "text-to-image"
     },
     {
-      "id": "fishaudio/drama-3",
-      "likes": 913,
-      "downloads": 16305,
-      "pipeline_tag": "text-to-speech"
-    },
-    {
       "id": "Lightricks/LTX-2.5",
-      "likes": 8888,
+      "likes": 8901,
       "downloads": 2054990,
       "pipeline_tag": "image-to-video"
     },
     {
+      "id": "fishaudio/drama-3",
+      "likes": 916,
+      "downloads": 16305,
+      "pipeline_tag": "text-to-speech"
+    },
+    {
       "id": "meta-models/Muse-Spark-Open-816B-A42B",
-      "likes": 658,
+      "likes": 661,
       "downloads": 3163,
       "pipeline_tag": "image-text-to-text"
     },
     {
-      "id": "black-forest-labs/flux-3-image-klein",
-      "likes": 634,
-      "downloads": 102903,
-      "pipeline_tag": "image-to-image"
-    },
-    {
       "id": "google/embeddinggemma-2",
-      "likes": 2841,
+      "likes": 2845,
       "downloads": 185259,
       "pipeline_tag": "feature-extraction"
     },
     {
+      "id": "black-forest-labs/flux-3-image-klein",
+      "likes": 637,
+      "downloads": 102903,
+      "pipeline_tag": "image-to-image"
+    },
+    {
       "id": "nvidia/Nemotron-Personas-Vietnam",
-      "likes": 199,
+      "likes": 200,
       "downloads": 14999,
+      "pipeline_tag": ""
+    },
+    {
+      "id": "kulkas2pintu/wan777",
+      "likes": 844,
+      "downloads": 0,
       "pipeline_tag": ""
     },
     {
@@ -1441,9 +1447,9 @@
       "pipeline_tag": ""
     },
     {
-      "id": "kulkas2pintu/wan777",
-      "likes": 837,
-      "downloads": 0,
+      "id": "Vyber07/cyber-security",
+      "likes": 257,
+      "downloads": 3818,
       "pipeline_tag": ""
     },
     {
@@ -1453,32 +1459,26 @@
       "pipeline_tag": ""
     },
     {
-      "id": "Vyber07/cyber-security",
-      "likes": 254,
-      "downloads": 3818,
-      "pipeline_tag": ""
-    },
-    {
       "id": "hugging-apps/bfs-best-face-swap",
-      "likes": 454,
+      "likes": 456,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "black-forest-labs/flux-3-image-klein",
-      "likes": 186,
+      "likes": 190,
+      "downloads": 0,
+      "pipeline_tag": ""
+    },
+    {
+      "id": "glitchlab/MiniMax-H3-Turbo-Lora-UNCENSORED-Workflow",
+      "likes": 196,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "OpenMOSS-Team/MOSS-Image",
       "likes": 140,
-      "downloads": 0,
-      "pipeline_tag": ""
-    },
-    {
-      "id": "glitchlab/MiniMax-H3-Turbo-Lora-UNCENSORED-Workflow",
-      "likes": 190,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1490,7 +1490,7 @@
     },
     {
       "id": "AST-1320/Qwen-2511-Plus-Flux.2-klein",
-      "likes": 219,
+      "likes": 220,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1502,7 +1502,7 @@
     },
     {
       "id": "raubatz/qwen-image-2.1-uncensored-aio-loras",
-      "likes": 158,
+      "likes": 159,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1513,8 +1513,14 @@
       "pipeline_tag": ""
     },
     {
+      "id": "wank3r/minimax-h3",
+      "likes": 155,
+      "downloads": 0,
+      "pipeline_tag": ""
+    },
+    {
       "id": "nvidia/Nemotron-Personas-Germany",
-      "likes": 35,
+      "likes": 36,
       "downloads": 480,
       "pipeline_tag": ""
     },
@@ -1525,9 +1531,9 @@
       "pipeline_tag": ""
     },
     {
-      "id": "wank3r/minimax-h3",
-      "likes": 153,
-      "downloads": 0,
+      "id": "LocalLLaMA/typed-decisions",
+      "likes": 234,
+      "downloads": 47682,
       "pipeline_tag": ""
     },
     {
@@ -1537,17 +1543,11 @@
       "pipeline_tag": ""
     },
     {
-      "id": "LocalLLaMA/typed-decisions",
-      "likes": 233,
-      "downloads": 47682,
-      "pipeline_tag": ""
-    },
-    {
       "id": "hitman911/wan2-2-fp8da-aoti-preview-2c-finishing",
-      "likes": 124,
+      "likes": 125,
       "downloads": 0,
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-10-23T06:10:16.486248+08:00"
+  "lastUpdatedISO": "2026-10-23T09:18:25.785972+08:00"
 }
