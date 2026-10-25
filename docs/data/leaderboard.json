@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-25 06:57",
+  "lastUpdated": "2026-10-25 08:59",
   "arena": [
     {
       "rank": 1,
@@ -383,7 +383,7 @@
       "id": "meta-llama/Llama-3.1-8B-Instruct",
       "name": "Llama-3.1-8B-Instruct",
       "org": "meta-llama",
-      "likes": 8589,
+      "likes": 8590,
       "downloads": 4880965,
       "license": "Llama3.1",
       "pipeline_tag": "text-generation",
@@ -433,7 +433,7 @@
       "id": "meta-llama/Meta-Llama-3-8B-Instruct",
       "name": "Meta-Llama-3-8B-Instruct",
       "org": "meta-llama",
-      "likes": 5543,
+      "likes": 5544,
       "downloads": 355079,
       "license": "Llama3",
       "pipeline_tag": "text-generation",
@@ -602,7 +602,7 @@
       "id": "openai-community/gpt2",
       "name": "gpt2",
       "org": "openai-community",
-      "likes": 3892,
+      "likes": 3891,
       "downloads": 20107244,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -891,7 +891,7 @@
       "id": "openai-community/gpt2",
       "name": "gpt2",
       "org": "openai-community",
-      "likes": 3892,
+      "likes": 3891,
       "downloads": 20107244,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -956,7 +956,7 @@
       "id": "Qwen/Qwen2.5-7B-Instruct",
       "name": "Qwen2.5-7B-Instruct",
       "org": "Qwen",
-      "likes": 2457,
+      "likes": 2458,
       "downloads": 6077597,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1038,7 +1038,7 @@
       "id": "ornith-ai/Ornith-1.5-9B-GGUF",
       "name": "Ornith-1.5-9B-GGUF",
       "org": "ornith-ai",
-      "likes": 590,
+      "likes": 592,
       "downloads": 5096314,
       "license": "Mit",
       "pipeline_tag": "text-generation",
@@ -1053,7 +1053,7 @@
       "id": "meta-llama/Llama-3.1-8B-Instruct",
       "name": "Llama-3.1-8B-Instruct",
       "org": "meta-llama",
-      "likes": 8589,
+      "likes": 8590,
       "downloads": 4880965,
       "license": "Llama3.1",
       "pipeline_tag": "text-generation",
@@ -1319,7 +1319,7 @@
       "id": "JonathanColetti/Qwen3.8-27B-Uncensored-GGUF",
       "name": "Qwen3.8-27B-Uncensored-GGUF",
       "org": "JonathanColetti",
-      "likes": 1722,
+      "likes": 1723,
       "downloads": 2435897,
       "license": "Apache 2.0",
       "pipeline_tag": "text-generation",
@@ -1368,67 +1368,67 @@
   "trending": [
     {
       "id": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
-      "likes": 2764,
+      "likes": 2788,
       "downloads": 73215,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "RecursiveSI/flint",
-      "likes": 770,
+      "likes": 779,
       "downloads": 4795,
       "pipeline_tag": "text-generation"
     },
     {
       "id": "black-forest-labs/flux-3-image-klein-comfy",
-      "likes": 1494,
+      "likes": 1504,
       "downloads": 590742,
       "pipeline_tag": "image-to-image"
     },
     {
       "id": "Lightricks/LTX-2.5",
-      "likes": 9167,
+      "likes": 9188,
       "downloads": 2087721,
       "pipeline_tag": "image-to-video"
     },
     {
-      "id": "OpenMOSS-Team/MOSS-Image-SFT",
-      "likes": 686,
-      "downloads": 9717,
-      "pipeline_tag": "text-to-image"
-    },
-    {
       "id": "XHToken/Spark-X2.6-4B",
-      "likes": 443,
+      "likes": 454,
       "downloads": 2537,
       "pipeline_tag": "text-generation"
     },
     {
+      "id": "OpenMOSS-Team/MOSS-Image-SFT",
+      "likes": 697,
+      "downloads": 9717,
+      "pipeline_tag": "text-to-image"
+    },
+    {
       "id": "fishaudio/drama-3",
-      "likes": 979,
+      "likes": 989,
       "downloads": 19831,
       "pipeline_tag": "text-to-speech"
     },
     {
       "id": "Qwen/Qwen3.8-27B",
-      "likes": 18338,
+      "likes": 18349,
       "downloads": 7851161,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
-      "likes": 4963,
+      "likes": 4974,
       "downloads": 2303585,
       "pipeline_tag": "text-to-image"
     },
     {
       "id": "MiniMaxAI/MiniMax-M3.1-Flash",
-      "likes": 307,
+      "likes": 316,
       "downloads": 5789,
       "pipeline_tag": "image-text-to-text"
     },
     {
       "id": "scenario-labs/3d-collection",
-      "likes": 164,
+      "likes": 172,
       "downloads": 6797,
       "pipeline_tag": ""
     },
@@ -1446,20 +1446,26 @@
     },
     {
       "id": "glitchlab/MiniMax-H3-Turbo-Lora-UNCENSORED-Workflow",
-      "likes": 301,
+      "likes": 304,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "venvoo/china-a-share-l2-level2-limit-order-book-tick-data",
-      "likes": 443,
+      "likes": 444,
       "downloads": 171306,
       "pipeline_tag": ""
     },
     {
       "id": "kulkas2pintu/wan777",
-      "likes": 914,
+      "likes": 919,
       "downloads": 0,
+      "pipeline_tag": ""
+    },
+    {
+      "id": "nvidia/simready-assets",
+      "likes": 94,
+      "downloads": 235040,
       "pipeline_tag": ""
     },
     {
@@ -1469,26 +1475,14 @@
       "pipeline_tag": ""
     },
     {
-      "id": "nvidia/simready-assets",
-      "likes": 84,
-      "downloads": 235040,
-      "pipeline_tag": ""
-    },
-    {
       "id": "hugging-apps/bfs-best-face-swap",
-      "likes": 497,
+      "likes": 500,
       "downloads": 0,
       "pipeline_tag": ""
     },
     {
       "id": "fishpasters/uncensored-imageTOimage2Ref",
-      "likes": 162,
-      "downloads": 0,
-      "pipeline_tag": ""
-    },
-    {
-      "id": "black-forest-labs/flux-3-image-klein",
-      "likes": 210,
+      "likes": 170,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1499,8 +1493,14 @@
       "pipeline_tag": ""
     },
     {
+      "id": "black-forest-labs/flux-3-image-klein",
+      "likes": 210,
+      "downloads": 0,
+      "pipeline_tag": ""
+    },
+    {
       "id": "AST-1320/Qwen-2511-Plus-Flux.2-klein",
-      "likes": 237,
+      "likes": 238,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1530,7 +1530,7 @@
     },
     {
       "id": "multimodalart/jev-decision-index",
-      "likes": 801,
+      "likes": 802,
       "downloads": 0,
       "pipeline_tag": ""
     },
@@ -1541,11 +1541,11 @@
       "pipeline_tag": ""
     },
     {
-      "id": "MoreThought/Fable-5.1-Max-Reasoning-Filtered-10000x",
-      "likes": 392,
-      "downloads": 5137,
+      "id": "Sharpa-Robotics/SharpaDex-v1.0",
+      "likes": 47,
+      "downloads": 103076,
       "pipeline_tag": ""
     }
   ],
-  "lastUpdatedISO": "2026-10-25T06:57:30.198569+08:00"
+  "lastUpdatedISO": "2026-10-25T08:59:15.847113+08:00"
 }
